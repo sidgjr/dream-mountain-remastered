@@ -1,0 +1,40 @@
+/// Personagem
+
+* Nome:
+
+* Apelido: 
+
+
+/// Atributos:
+
+* Pontos de Vida (HP): 0 / 0.
+
+* Pontos de Mana (MP): 0 / 0.
+
+* Dano Base: 2.
+
+* Inteligência (INT): 
+
+* Agilidade (AGI): 
+
+* Força (STR):
+
+
+/// Experiência
+
+* Nível: 1
+
+* Pontos de experiência (XP): 0 / 10.
+
+* Terra: Grau 0
+
+* Ventus: Grau 0
+
+* Ignis: Grau 0
+
+* Aqua: Grau 0
+
+
+/// Habilidades e Talentos:
+
+* 

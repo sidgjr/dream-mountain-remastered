@@ -11,7 +11,7 @@
 * Desafios, decisões inteligentes ou vitórias além de conceder experiência podem conceder também pontos de atributos.
 
 
-* Além de ações interpretativas existem algumas tarefas chaves que podem mudar o curso da campanha como:
+* Além de ações interpretativas existem algumas alções especiais que podem mudar o curso da campanha como:
 
 	* Inteligência
 
@@ -46,14 +46,6 @@
 
 
 ///
-///	Como jogar em: Ficha
-///
-
-* 
-
-
-
-///
 ///	Como jogar em: Combate
 ///
 
@@ -77,6 +69,9 @@
 * A Ação e Movimento podem ter a ordem invertida pelo jogador ou unidade, mas ainda ficam entre começo e fim de turno.
 
 
+* Começo e Fim de turno não permitem habilidades (com excessões).
+
+
 * Algumas habilidades e efeitos podem alterar as regras ou a ordem do turno, assim como interpretação, vontade da mesa ou do mestre, como também acertos críticos.
 
 
@@ -87,3 +82,63 @@
 
 
 * Marcadores são removidos um por vez a cada final de turno.
+
+
+
+///
+///	Como jogar em: Ficha
+///
+
+* A ficha é separada em 4 partes:
+
+	* Personagem: Informações pessoais como nome, apelido e futuramente história, tendências e intenções.
+
+
+	* Atributos: Dados brutos frequentemente usados para combate ou ações especiais.
+
+
+	* Experiência: O nível, além do grau de conhecimento de cada um dos tipos de habilidades disponíveis (4 elementos), consultado para adquirir habilidades novas.
+
+
+	* Habilidades e talentos: todos os poderes e capacidades do personagem.
+
+
+* Existem regras para construção de personagem:
+
+	* Um personagem novo começa com 15 pontos de atributo para distribuir entre força, agilidade e inteligência:
+
+		* Inteligência: cada ponto adquirido oferecer 3 pontos de mana, além de que a cada 5 pontos de inteligência oferece 1 ponto de regeneração de mana e 1 ponto de habilidade adicional.
+
+
+		* Agilidade: cada ponto adquirido representa o número de metros que a unidade ou jogador pode percorrer em um turno, alémde que a cada 4 pontos de agilidade oferece uma ação de movimento adicional.
+
+
+		* Força: cada ponto adquirido oferece 2 pontos de vida, além de que a cada 3 pontos de força oferece mais 1 ponto de dano base e regeneração de vida.
+
+
+	* Cada atributo tem um mínimo de 3 pontos na construção da ficha.
+
+
+* Uma ficha recem criada possui 1 ponto de habilidade e 1 ponto de conhecimento
+
+	* Pontos de conhecimento podem ser usados para aumentar o grau de um dos conhecimentos disponíveis (4 elementos)
+
+
+	* Pontos de habilidades podem ser gastos para aprender uma habilidade de um grau já dominado, o custo de pontos necessário para cada habilidade é igual ao nível do grau (habiliadades de grau 3 custam 3 pontos de habilidade)
+
+
+	* Talentos funcionam com a mesma lógica das habilidades, mas custam o dobro de pontos de habilidade
+
+
+	* Habilidades de grau 0 só são liberados para quem possui ao menos o primeiro grau naquele conhecimento e são todos adquiridos gratuitamente
+
+
+* Existem alguns eventos ao subir de nível:
+
+	* A próxima habilidade não tem custo de mana, acumulável.
+
+
+	* O jogador ou unidade recebe 1 ponto de conhecimento e pontos de habilidade igual ao seu nível.
+
+
+	* Vida e Mana são restaurados inteiramente.
