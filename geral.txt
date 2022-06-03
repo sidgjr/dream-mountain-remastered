@@ -1,0 +1,15 @@
+// O que é um rpg precisa?
+
+* Regras
+
+* Ficha
+
+* Habilidades
+
+* Itens (indisponível)
+
+* Criaturas
+
+* Campanha e Cenário
+
+* Lore
