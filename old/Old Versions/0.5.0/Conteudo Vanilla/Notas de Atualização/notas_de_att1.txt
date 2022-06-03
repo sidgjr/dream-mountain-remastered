@@ -1,0 +1,30 @@
+// 0.3.1
+
+* Balanceamento de Skills.
+
+
+* Correção de erros.
+
+
+* Classificação de skills (natureza de skill, tipo, atributo, etc.).
+
+
+* Correções na mecânica de memória.
+
+
+
+// 0.4.0
+
+* Correções (Check)
+
+* Criação da primeira ficha (Check)
+
+* Testar combate (Check)
+
+* Feedback e balanceamento (Check, menos o balanceamento)
+
+* Brainstorm para refinars skills
+
+* Sistema de Graus nas habilidades
+
+* Criação das habilidades gerais

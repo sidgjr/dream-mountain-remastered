@@ -1,0 +1,41 @@
+// Com Nome
+
+* Rosa dos quatro elementos - escolhe um dos quatro elementos quando usada,
+proteção contra aquele elemento
+
+
+* Bomba de fumaça - obscurece visão e aumenta esquiva (errar ataques), com
+certo de nivel de velocidade seu uso é atemporal
+
+
+* Adaga do grande aprendiz - 
+
+escolha uma habilidade de sua barra de habilidades,
+essa habilidade fica gravada nesta arma, pode ser usada enquanto equipada mesmo
+sem estar com a barra da habilidade gravada.
+
+só pode gravar habilidades de força ou agiliade.
+
+a habilidade deve respeitar seu custo, esquecimento é aplicado a sua barra ou a
+propria arma segundo o texto da habilidade.
+
+acima de certo nivel de velocidade pode atacar em turno de oponentes, sendo
+ataque basico ou a habiliade gravada
+
+
+* A Lamentadora - espada que ganha dano conforme vida perdida
+
+
+* Sacola de pó mágico - revela unidades invisiveis - consumivel
+
+
+
+// Sem nome
+
+* escudo que toma mais desgastes por ataques, mas pode bloquear magias
+
+
+
+// Só o nome
+
+* A Mata-Bruxas

@@ -1,0 +1,69 @@
+// O que um ladrão pode fazer.
+* Bater carteira.
+* Furtividade.
+* Invisibilidade.
+* faca nas costas.
+* Lançar adaga.
+
+* Apostar.
+* Crítico.
+* Ataque duplo.
+* Trapaça e golpe baixo.
+* Misturar-se com as sombras.
+
+* Carisma.
+* Acrobacia.
+* Arrancada.
+* Salto.
+* Revitalizar.
+
+* Passos leves.
+* Queda pena.
+* Abrir fechaduras.
+* Desativar armadilhas.
+* Armadilhas.
+
+* Vertente com o arco.
+* Sentidos aguçados.
+* Sumir.
+* Cegar.
+* Veneno.
+
+* Chute.
+* Pó cegante (areia).
+* Quebrar traqueia.
+* Finta.
+* Sangramento.
+
+* Esfaquear.
+* Hemorragia.
+* Golpe sombrio.
+* Evasão.
+* Evicerar.
+
+* Expor armadura.
+* Gemio sombrio.
+* detetectar armadilhas.
+* Shunpo.
+* Bomba de fumaça.
+
+* No meio da testa.
+* Soco.
+* Liquidar.
+* Mecanica de combos.
+* Ataque secundário.
+
+* Adrenalina.
+* (Arco) Disparo da naja.
+* Boladeira.
+* Aspecto animais.
+* Arte marcial.
+
+* Tiro tranquilizante.
+* Acerto multiplos.
+* Marca do caçador
+* Disparo arcano
+* Domar
+
+* Disengage
+* Resistência a natureza

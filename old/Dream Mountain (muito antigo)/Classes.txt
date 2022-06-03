@@ -1,0 +1,11 @@
+// Agilidade.
+* Bardo.
+* Ladino.
+
+// Força.
+* Guerreiro.
+* Cavaleiro.
+
+// Inteligência.
+* Mago.
+* Sacerdote.

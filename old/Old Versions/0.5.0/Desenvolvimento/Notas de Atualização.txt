@@ -1,0 +1,79 @@
+//
+//	//	0.5.0
+//
+
+//	Correções
+
+↪ Pastas na organização antiga dentro de "Conteudo Vanilla".
+
+  ↪ Pasta "Desenvolvimento" criada.
+
+    ↪ "Feedback" foi movido para essa pasta.
+
+
+    ↪ "Notas de Atualização" deletado, apenas um bloco de notas
+      no lugar.
+
+
+    ↪ "Ideias" criada, para colocar os arquivos de ideias de
+      "Notas de Criação"
+
+
+  ↪ Pasta "Recursos" criada.
+
+    ↪ "Art" foi movido  para esta passa e renomeado para "Arte".
+
+
+    ↪ "Habilidades" foi movido para essa pasta.
+
+
+  ↪ Regras e Afins continua em seu lugar de origem
+
+
+
+//	Implementações
+
+↪ notas4 e feedback da versão anterior dentro do conteudo vanilla.
+
+
+↪ 
+
+
+
+//	Grandes Mudanças
+
+...
+
+
+
+//
+//	//	0.4.0
+//
+
+* Correções (Check)
+
+* Criação da primeira ficha (Check)
+
+* Testar combate (Check)
+
+* Feedback e balanceamento (Check, menos o balanceamento)
+
+* Brainstorm para refinars skills
+
+* Sistema de Graus nas habilidades
+
+* Criação das habilidades gerais
+
+
+
+//
+//	//	0.3.1
+//
+
+* Balanceamento de Skills.
+
+* Correção de erros.
+
+* Classificação de skills (natureza de skill, tipo, atributo, etc.).
+
+* Correções na mecânica de memória.

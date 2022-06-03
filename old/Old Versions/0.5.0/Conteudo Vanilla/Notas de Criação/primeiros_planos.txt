@@ -1,0 +1,23 @@
+1. definir total de vida e de mana
+
+
+2. definir minimo e limite de barras, 3 a 5
+
+
+3. definir tamanho da arena e obstaculos
+
+
+4. Balancear as habilidades até o combate ficar divertido
+
+
+//
+
+Vida de 30
+
+Mana de 20
+
+Mover-se 5 metros por turno
+
+3 de dano base
+
+ganho passivo de 1 ponto de mana/vida

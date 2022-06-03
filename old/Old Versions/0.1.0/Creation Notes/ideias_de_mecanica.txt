@@ -1,0 +1,11 @@
+// Com Nome
+
+Atemporal - pode ser usado fora do turno
+
+
+Antecedencia - pode ser usado antes de outra ação, fazendo
+uma segunda ação
+
+
+
+// Sem nome

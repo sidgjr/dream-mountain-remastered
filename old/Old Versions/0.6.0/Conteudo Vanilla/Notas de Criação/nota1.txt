@@ -1,0 +1,64 @@
+3 atributos, força, agilidade, inteligência
+
+
+ideia do coliseu: pra testar combate do game, monstros, habilidades, itens e etc
+
+
+Habilidades custarem uma baixa mana (relativa a um baixo total de mana)
+
+
+Habilidades terem danos fixos em maioria dos casos
+
+
+Habiliades terem minimos de atributos para serem aprendidas
+
+
+Arvore de Habilidades
+
+
+Incentivo para pensar em upar mais de 1 atributo igual a ser mono atributo
+
+
+Força: Vigor, Resitência, Dano
+
+
+Agilidade: Velocidade, Carisma, Sorte
+
+
+Equipamentos tão interessantes quanto habilidades
+
+
+Um bom combate por turno, dinamica de skills
+
+
+Memoria longa, memoria curta
+
+
+Memoria longa: Todas as habilidades que seu personagem conhece
+
+
+Memoria Curta: Quantidade limitada de habilidades para uso em uma barra (criar dinamica para troca de barras)
+
+
+Algumas habilidades ocuparem mais de 1 slot, ou fazerem o slot demorar pra carregar, assim como passivas que diminuam ou aumentam o numero de slot
+
+
+Slots terem ordem de quando podem ser trocados (ver se é valido)
+
+
+numero ilimitado de barras, já que há menos consistência em repetir habilidades
+
+
+Algumas habilidades podem preencher 2 slots de barras diferentes para serem repetidas
+
+
+Habilidade de manipular barras, indo a especifica, poder inves de passar escolher entre duas proximas ou duas anteriores
+
+
+Habilidades passivas consumirem slots, que fazem serem consumidas e ficarem slots vazios que da um equilibro pro game
+
+
+Inteligência ter link point, poder marcar duas barras especificas e poder trocar entre elas
+
+
+especiais: defesa, refil, corrida

@@ -1,0 +1,48 @@
+// O que um carreiro pode fazer.
+* Aumentar força.
+* Espancar.
+* Investida.
+* Provocar.
+* Coragem.
+
+* Executar.
+* Arrombar porta.
+* Atropelar.
+* Sede de sangue.
+* Giro.
+
+* Transposição.
+* Punhos titânicos.
+* Golpe Furioso.
+* Intimidar.
+* Sistema de fúria.
+
+* Arremesso.
+* Chute.
+* Murro.
+* Demolir.
+* Bloqueio.
+
+* Salto Heróico.
+* Hemorragia.
+* Quebrar pescoço.
+* Mata leão.
+* Quebrar armadura.
+
+* Arte marcial.
+* Refletir ataque.
+* Contra - ataque.
+* Medalha.
+* Autoridade.
+
+* Chuva de láminas.
+* Barbaridade.
+* Impacto vitorioso.
+* Enfurecer.
+* Adrenalina.
+
+* Estomago de ferro.
+* Ignorar dor.
+* Frenesi.
+* Massacre.
+* Bandeira.

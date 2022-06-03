@@ -1,0 +1,78 @@
+// Criaturas
+
+nivel 0
+
+* Limo do Lago
+
+* Borbulhos (pensar)
+
+* 
+
+* 
+
+* 
+
+
+nivel 1
+
+* Boneco de Neve
+
+* 
+
+* 
+
+* 
+
+* 
+
+
+nivel 2
+
+* Águia Invernal
+
+* Corrente Viva
+
+* Mochila Glacial
+
+* 
+
+* 
+
+
+nivel 3
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 
+
+
+nivel 4
+
+* Espectro Fluído
+
+* 
+
+* 
+
+* 
+
+* 
+
+
+nivel 5 (Lendário)
+
+* 
+
+* 
+
+* 
+
+* 
+
+* 

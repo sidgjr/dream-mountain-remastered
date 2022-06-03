@@ -1,0 +1,23 @@
+// Com Nome
+
+* Amnesia - falar um nome de uma habilidade e o oponente esquecer
+
+
+* Restringir - falar um nome de uma habilidade e ninguém pode usar
+
+
+
+// Sem nome
+
+* esquecer essa habilidade e fazer o oponente esquecer a habilidade usada
+
+
+* esquecer outras 2 habilidades e fazer o oponente esquecer a habilidade usada,
+mantendo assim essa habilidade
+
+
+* esquecer todas as habilidades que NÃO são suas e uma que seja sua, roubar uma
+habilidade e colocar em um dos slots esquecidas
+
+
+* Restringir um uso de tipo de habilidade

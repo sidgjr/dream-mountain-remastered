@@ -1,0 +1,165 @@
+// Estrategia pro game dar certo
+
+1. Começar pelo atributo de inteligencia, mais especifiamente magos, pela negligencia
+que tiveram em outros RPG (check)
+
+
+2. Fazer um bom sistema de habilidades e tentar bolar bons combates entre membros dessa classe
+
+
+3. Testar
+
+
+4. Fazer uma boa criação de personagens (no caso apenas magos)
+
+
+5. Testar
+
+
+6. Terminar quase todas as magias do leque
+
+
+7. Testar
+
+
+8. Teste aberto, fazer torneiosinho de x1 de magos com uma galera random que topar
+participar e anotar os feedback, fazendo loop nos outros passos até ficar bom
+
+
+9. Continuar com esses torneios, enquanto fazemos aos poucos outras classes, assim como equips
+e monstros, um plano 2 que não escrevo aqui que esses primeiros passos são um grande desafio
+
+
+Obs: Não ter atributos no começo e vida fixa, os outros atributos tem mais sentido conforme
+outras habilidades desses mesmo apareçam no game
+
+
+Obs: Primeira mão não ter equips, ser o proximo passo depois dos 10 primeiros passos, mas
+sempre anotando as ideias
+
+
+Obs: no começo ou até mesmo no futuro ver se vai ter um numero limite de habilidades para
+ficar dinamico e diverso o meta de skills
+
+
+Obs: tomar cuidado com o balanceamento
+
+
+
+// Atributos
+
+3 atributos, força, agilidade, inteligência
+
+
+Incentivo para pensar em upar mais de 1 atributo igual a ser mono atributo
+
+
+Força: Vigor, Resitência, Dano
+
+
+Agilidade: Velocidade, Carisma, Sorte
+
+
+Inteligência ter link point, poder marcar duas barras especificas e poder trocar entre elas
+
+
+Especiais: Defesa, Recuperar Mana, Arrancada
+
+
+Defesa (Força): poder defender pontos de dano baseado em algo da força, vezes limtiadas por jogo
+
+
+Arrancada (Agilidade): Correr metros baseado em algo da agiliade, vezes limitadas por jogo
+
+
+Recuperar Mana (Inteligência): recuperar ponto de mana baseada em algo da mana, vezes limtiadas por jogo
+
+
+
+// Mapa
+
+ideia do coliseu: pra testar combate do game, monstros, habilidades, itens e etc
+
+
+
+// Habilidades
+
+Habilidades custarem uma baixa mana (relativa a um baixo total de mana)
+
+
+Habilidades terem danos fixos em maioria dos casos
+
+
+Habiliades terem minimos de atributos para serem aprendidas
+
+
+Arvore de Habilidades
+
+
+Habilidades atemporais, que não respeitam turno
+
+
+
+// Equipamentos
+
+Equipamentos tão interessantes quanto habilidades
+
+
+Equipamentos Iconicos com efeitos iconicos
+
+
+Para balancear alguns dele podem requerer nivel de atributos
+
+
+Se algum atributo desbalancear ele pode ser nerfado em seus itens (medo de maguinho)
+
+
+
+// Mecanicas
+
+Um bom combate por turno, dinamica de skills
+
+
+Memoria longa, memoria curta
+
+
+Memoria longa: Todas as habilidades que seu personagem conhece
+
+
+Memoria Curta: Quantidade limitada de habilidades para uso em uma barra (criar dinamica para troca de barras)
+
+
+Algumas habilidades ocuparem mais de 1 slot, ou fazerem o slot demorar pra carregar, assim como passivas que diminuam ou aumentam o numero de slot
+
+
+Slots terem ordem de quando podem ser trocados (ver se é valido)
+
+
+numero ilimitado de barras, já que há menos consistência em repetir habilidades
+
+
+Algumas habilidades podem preencher 2 slots de barras diferentes para serem repetidas
+
+
+Habilidade de manipular barras, indo a especifica, poder inves de passar escolher entre duas proximas ou duas anteriores
+
+
+Habilidades passivas consumirem slots, que fazem serem consumidas e ficarem slots vazios que da um equilibro pro game
+
+
+Habilidades terem palavras chaves em negrito, como locomoção, fisica, magica, para ajudar outras intereações com o mesmo
+
+
+
+// Mobs
+
+Separar tempo para criar mobs
+
+
+Escolher uma raça de mobs e fazer sua variações (exemplo: esqueleto, ter arqueiro, mago e etc)
+
+
+Assim como evento de duelo para treinar o combate do jogo, evento de coliseu de enfrentar mobs para treinar os inimigos do jogo
+
+
+Ver como é a arvore de habilidades dos inimigos, se possuem habilidades unicas, nivel interfere com as habilidades

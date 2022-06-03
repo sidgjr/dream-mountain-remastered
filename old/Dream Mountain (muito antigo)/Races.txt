@@ -1,0 +1,14 @@
+Primordial:
+	- Humanos.
+	- Elfos.
+	- Nobre do céu (Royal Sky).
+
+Secundário:
+	- Fera (híbrido / selvagem).
+	- Impuro (Noturno).
+	- Glaciais
+
+	- Kron.
+	- Terrano.
+
+	- Golem.

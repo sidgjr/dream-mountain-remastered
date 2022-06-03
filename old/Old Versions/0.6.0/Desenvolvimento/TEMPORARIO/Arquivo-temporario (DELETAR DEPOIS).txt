@@ -1,0 +1,119 @@
+//
+//	//	Planos para a versão
+//
+
+↪ 1. Sistema de Mecanicas de habilidades. (Fazendo)
+
+
+
+↪ 1.5 Design, lógica e personalidade dos elementos.
+
+  ↪ Interações entre eles.
+
+
+
+↪ 2. Sistema de Buffs / Debuffs. (Fazendo)
+
+
+
+↪ 3. Mapa.
+
+  ↪ Tentar no excel.
+
+
+  ↪ Tentar em apps de RPG.
+
+
+  ↪ Equilibrio entre praticidade e expressividade (surpreender graficamente)
+
+
+
+↪ 4. Guia de como jogar.
+
+  ↪ Sobre o que é o jogo.
+
+
+  ↪ O personagem e o turno.
+
+    ↪ Poder se locomover alguns blocos.
+
+
+  ↪ Mecanicas e alguns exemplos.
+
+
+  ↪ Sistema de distancia, habilidades de exemplo.
+
+    ↪ Bloco = 10 metros.
+
+
+
+↪ 5. A primeira grande reforma das habilidades.
+
+
+    ↪ Uma atenção especial ao elemento Vento.
+
+
+  ↪ Sistema de Graus, Design e aplicação.
+
+
+  ↪ Padronizar escrita das habilidades, tipos, origem e etc.
+
+
+  ↪ Criação e Design dos Talentos (habilidades passivas).
+
+
+
+↪ 6. Implementação de habilidades novas.
+
+  ↪ Suspender momentaneamente as habilidades antigas.
+
+
+  ↪ Estrategias interessantes para desenfrear Convocações, barreiras
+    e curas.
+
+
+  ↪ Incentivar jogadas proativas.
+
+
+  ↪ Cuidado com a distância de habilidades.
+
+
+  ↪ Cuidado custo de mana.
+
+
+  ↪ Kit básico de habilidades em cada elemento para ser estratégicamente póssivel
+    jogar apenas com aquele elemento.
+
+
+  ↪ Habilidades com interação positiva e negativa a outros elementos.
+
+
+  ↪ Mecanicas de combo em cada elemento intuitiva.
+
+
+  ↪ Talentos de uso geral e para agregar a combos/estrategias.
+
+
+
+↪ 7. Balanceamento das Habilidades Vanilla
+
+  ↪ Balancear a distância de habilidades.
+
+
+  ↪ Balancear custo de mana.
+
+
+  ↪ Mudanças para condizer com todo o kit novo.
+
+
+
+↪ 8. Habilidade primária de inteligência
+
+  ↪ Design da habiliade primária de cada atributo: Força, Agilidade, Inteligência.
+
+
+  ↪ Implementação apenas da habilidades primária de Inteligência.
+
+
+  ↪ Implementar Habilidades Gerais, suporte a varios tipos de estrategias e
+    habilidades basicas para o atributo.
