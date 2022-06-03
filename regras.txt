@@ -1,0 +1,89 @@
+///
+///	Como jogar em: Geral
+///
+
+* Não existe ordem de turnos.
+
+
+* Conflitos são resolvidos por atributos associados a atividade.
+
+
+* Desafios, decisões inteligentes ou vitórias além de conceder experiência podem conceder também pontos de atributos.
+
+
+* Além de ações interpretativas existem algumas tarefas chaves que podem mudar o curso da campanha como:
+
+	* Inteligência
+
+		* Percepção (INT): Identificar e ponderar detalhes.
+
+		* Solução (INT): Resolver problemas e enigmas.
+
+		* Composição (INT): Criar e editar.
+
+	* Agilidade
+
+		* Persuasão (AGI): Convencer e manipular terceiros.
+
+		* Iniciativa (AGI): Agir antes de qualquer um.
+
+		* Trapaça (AGI): Enganar e esconder.
+
+	* Força
+
+		* Provocação (STR): Insultar e iniciar conflitos.
+
+		* Intimidação (STR): Assutar e ameaçar.
+
+		* Exercicio (STR): Exercer alguma atividade física.
+
+
+* A ações chaves são influenciadas positivamente ou negativemente pelo seus atributos respectivos (mais agregatório do que punitivo).
+
+
+* Regra de ouro, as coisas podem mudar conforme a vontade da mesa e do mestre.
+
+
+
+///
+///	Como jogar em: Ficha
+///
+
+* 
+
+
+
+///
+///	Como jogar em: Combate
+///
+
+* O Combate é realizado em turnos.
+
+
+* A ordem de turnos é baseada no atributo de agilidade dos partcipantes (mais ágil mais prioridade).
+
+
+* O turno de cada jogador é separado em etapas:
+
+	* Começo de turno
+
+	* Ação
+
+	* Movimento
+
+	* Fim de turno
+
+
+* A Ação e Movimento podem ter a ordem invertida pelo jogador ou unidade, mas ainda ficam entre começo e fim de turno.
+
+
+* Algumas habilidades e efeitos podem alterar as regras ou a ordem do turno, assim como interpretação, vontade da mesa ou do mestre, como também acertos críticos.
+
+
+* Maioria das habilidades possuem uma taxa de acerto para a rolagem de dados, assim também como podem ser anuladas, bloqueadas, purificadas etc.
+
+
+* Efeitos benéficos ou debilitantes são colocados nos jogadores ou unidades na forma de marcadores para serem representados com dados.
+
+
+* Marcadores são removidos um por vez a cada final de turno.
