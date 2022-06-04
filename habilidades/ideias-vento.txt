@@ -1,0 +1,108 @@
+// Habilidades
+
+nivel 0
+
+* Disparo de Ar
+
+* Salto Intermediário
+
+* Esfera de Folego
+
+* Sopro Auxiliar
+
+* Rasteira Eólica
+
+
+nivel 1
+
+* Flutuar
+
+* Ventos Vandalos
+
+* Tornado Menor
+
+* Condensar Pressão
+
+* Vendaval
+
+
+nivel 2
+
+* Punhos Zéfiros
+
+* Dissipar
+
+* Ir Pelos Ares
+
+* Despoluir
+
+* De Ponta Cabeça
+
+
+nivel 3
+
+* Tomar Altitude
+
+* Segundo Chão
+
+* Cria de Sonho
+
+* Frescor Revigorante
+
+* Tornado Intermediário
+
+
+nivel 4
+
+* Convocar Sonho
+
+* Convocar Familiar Intermediário
+
+* Ventos Caóticos
+
+* Assoprar Dados
+
+* Redireção Aérea
+
+
+nivel 5
+
+* Voo
+
+* Tornado
+
+* Rosa dos Ventos
+
+* Suspiro Anulador
+
+* Manto de Neblina
+
+
+// Talentos
+
+nivel 1
+
+* Aumentar o Folego
+
+* Pés Leves
+
+* Anti Queda
+
+
+nivel 2
+
+* Impeto Insistente
+
+* Conjuração Aleatória
+
+* Familiar Extendido
+
+
+nivel 3
+
+* Velocidade Intermediária
+
+* Aura Dissipadora
+
+* Forma de Ar
+

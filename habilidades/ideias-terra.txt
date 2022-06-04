@@ -1,0 +1,108 @@
+// Habilidades
+
+nivel 0
+
+* Convocar Familiar Menor
+
+* Manipular Terreno (Enigma)
+
+* Soco de Pedra
+
+* Disparo Rochoso
+
+* Barro Regenerativo
+
+
+nivel 1
+
+* Deslizar Terreno
+
+* Mineral de Cura
+
+* Reparar Equipamento
+
+* Punho da Montanha
+
+* Poeira Reveladora
+
+
+nivel 2
+
+* Forja Simples
+
+* Manto de Barro
+
+* Edificação Simples
+
+* Pilastra Perfurante
+
+* Fragmento de Mana
+
+
+nivel 3
+
+* Muralha de Mármore
+
+* Convocar Familiar Intermediário
+
+* Aspecto Montanhoso
+
+* Duplicata de Barro
+
+* Tunel Subterraneo
+
+
+nivel 4
+
+* Cristal de Mana
+
+* Chão Falso
+
+* Saraivadas de Pedras
+
+* Convocar Mineral
+
+* Perfuração Geológica
+
+
+nivel 5
+
+* Edificação Avançada
+
+* Forja Intermediária
+
+* Mergulhar em Terra
+
+* Criar Terremoto
+
+* Avalanche
+
+
+//Talentos
+
+nivel 1
+
+* Resistência da Montanha
+
+* Base Firme
+
+* Criação Empática
+
+
+nivel 2
+
+* Resquicios de Mana
+
+* Equipamento Reforçado
+
+* Deslize Amigável
+
+
+nivel 3
+
+* Convocações Gemeas
+
+* Implemento Metalúrgico
+
+* Passos Ecoantes
+

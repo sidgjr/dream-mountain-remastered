@@ -11,7 +11,7 @@
 * Desafios, decisões inteligentes ou vitórias além de conceder experiência podem conceder também pontos de atributos.
 
 
-* Além de ações interpretativas existem algumas alções especiais que podem mudar o curso da campanha como:
+* Além de ações interpretativas existem algumas ações especiais que podem mudar o curso da campanha como:
 
 	* Inteligência
 
@@ -38,7 +38,7 @@
 		* Exercicio (STR): Exercer alguma atividade física.
 
 
-* A ações chaves são influenciadas positivamente ou negativemente pelo seus atributos respectivos (mais agregatório do que punitivo).
+* A ações especiais são influenciadas positivamente ou negativemente pelo seus atributos respectivos (mais agregatório do que punitivo).
 
 
 * Regra de ouro, as coisas podem mudar conforme a vontade da mesa e do mestre.
@@ -110,7 +110,7 @@
 		* Inteligência: cada ponto adquirido oferecer 3 pontos de mana, além de que a cada 5 pontos de inteligência oferece 1 ponto de regeneração de mana e 1 ponto de habilidade adicional.
 
 
-		* Agilidade: cada ponto adquirido representa o número de metros que a unidade ou jogador pode percorrer em um turno, alémde que a cada 4 pontos de agilidade oferece uma ação de movimento adicional.
+		* Agilidade: cada ponto adquirido representa o número de metros que a unidade ou jogador pode percorrer em um turno, além de que a cada 10 pontos de agilidade oferece uma ação de movimento adicional.
 
 
 		* Força: cada ponto adquirido oferece 2 pontos de vida, além de que a cada 3 pontos de força oferece mais 1 ponto de dano base e regeneração de vida.

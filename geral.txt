@@ -1,8 +1,8 @@
 // O que é um rpg precisa?
 
-* Regras
+* Regras (feito)
 
-* Ficha
+* Ficha (feito)
 
 * Habilidades
 
