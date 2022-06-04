@@ -4,78 +4,137 @@ nivel 0
 
 * Disparo de Ar
 
+	* Dispara o ar como projetil
+
 * Salto Intermediário
+
+	* Salta a uma altura anormal e aumenta a agilidade e velocidade
 
 * Esfera de Folego
 
+	* Cria uma esfera de ar que recupera o folego e dissipa silencio
+
 * Sopro Auxiliar
 
+	* Abençoa a unidade aumentando a audição e aumentando a chance de erro de inimigos que tentarem atacar
+
 * Rasteira Eólica
+
+	* interrompe habilidades de inimigos proximos
 
 
 nivel 1
 
 * Flutuar
 
+	* abençoa a unidade fazendo não tomar dano de queda e não cair
+
 * Ventos Vandalos
+
+	* Destroi um estrutura de grau 2 ou inferior
 
 * Tornado Menor
 
+	* Arremessa unidades, estruturas e objetos pro alto em uma linha reta, os retirando de combate
+
 * Condensar Pressão
+
+	* Cria um escudo invisivel que dissipa habilidades
 
 * Vendaval
 
+	* Empurra uma unidade ou estrutura causando dano a mesma e a o primeiro alvo atingido
 
 nivel 2
 
 * Punhos Zéfiros
 
+	* Golpeia a corpo a corpo uma unidade ou estrutura fazendo que sua próxima habilidade sejá uma aletória daquele mesmo nível
+
 * Dissipar
+
+	* Anula uma habildiade distante
 
 * Ir Pelos Ares
 
+	* Remove uma estrutura ou objeto até o combate acabar
+
 * Despoluir
 
+	* Remove efeitos mágicos que sejam locais mas não estruturas de grau 3 ou inferior
+
 * De Ponta Cabeça
+
+	* Remove uma unidade de combate até que o conjurador seja atordoado
 
 
 nivel 3
 
 * Tomar Altitude
 
+	* Pode lançar uma unidade para o alto causando dano de queda e silenciamento
+
 * Segundo Chão
+
+	* Pode criar uma atmosfera densa no ar dando suporte para unidades se locomoverem
 
 * Cria de Sonho
 
+	* Cria uma pequena unidade de nuvem para transporte
+
 * Frescor Revigorante
 
+	* Purifica efeitos negativos e move a unidade afetada
+
 * Tornado Intermediário
+
+	* Causa dano em area, lentidão e muda unidades de lugar
 
 
 nivel 4
 
 * Convocar Sonho
 
+	* Cria uma grau 5 chamada Sonho
+
 * Convocar Familiar Intermediário
+
+	* Cria uma unidade de grau 4 ou inferior
 
 * Ventos Caóticos
 
+	* Causa dano e muda habilidades por aleatorias do mesmo nivel e também os alvos
+
 * Assoprar Dados
 
+	* Pode manipular para qualquer valor a próxima rolagem de dados
+
 * Redireção Aérea
+
+	* Muda o alvo de uma habilidade
 
 
 nivel 5
 
 * Voo
 
+	* Abençoa uma unidade o concendendo a habilidade de voo
+
 * Tornado
+
+	* Causa dano e arremessa ao uma area em linha reta
 
 * Rosa dos Ventos
 
+	* Teletransporta você e unidades e estruturas proximas para qualquer direção em linha reta entre norte, sul, leste, oeste
+
 * Suspiro Anulador
 
+	* Anula uma habilidade, pode ser usado mesmo quando atordoado e silenciado
+
 * Manto de Neblina
+
+	* Cria uma area que aplica invisibilidade a unidades aliadas a qualquer unidade fora da area, redirecionando habilidades.
 
 
 // Talentos
@@ -84,25 +143,43 @@ nivel 1
 
 * Aumentar o Folego
 
+	* Diminui efeitos negativos quando submerso e aumenta a inteligência e agilidade enquanto não estiver tocando o chão
+
 * Pés Leves
 
+	* Aumenta a velocidade e agilidade
+
 * Anti Queda
+
+	* Não recebe dano de queda
 
 
 nivel 2
 
 * Impeto Insistente
 
+	* Aumenta a velocidade e agilidade a cada acerto a unidades, perdendo todos os acumulos quando sofrer dano
+
 * Conjuração Aleatória
 
+	* Tem a chance de conjurar habilidades adicionais aleatorias
+
 * Familiar Extendido
+
+	* Pode aumentar o tempo de duração de unidades
 
 
 nivel 3
 
 * Velocidade Intermediária
 
+	* Aumenta a agilidade e velocidade
+
 * Aura Dissipadora
 
+	* Tem a chance de anular habilidades
+
 * Forma de Ar
+
+	* Se dissipa na forma de um tornado, redirecionando habilidades e aumentando a velocidade
 

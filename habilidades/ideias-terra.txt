@@ -4,78 +4,138 @@ nivel 0
 
 * Convocar Familiar Menor
 
-* Manipular Terreno (Enigma)
+	* Cria uma unidade de grau 0
+
+* Manipular Terreno
+
+	* Enraiza inimigos ou aumenta a performance de habilidades de terro
 
 * Soco de Pedra
 
+	* Um golpe corpo a corpo que nocauteia o alvo
+
 * Disparo Rochoso
 
+	* Levita uma rocha ou pedra para disparar
+
 * Barro Regenerativo
+
+	* Usa a terra para curar ferimentos
 
 
 nivel 1
 
 * Deslizar Terreno
 
+	* Modifica o Terreno para atordoar um inimigo ou desviar de uma habilidade
+
 * Mineral de Cura
+
+	* Cria uma estrtura de rubi que cura unidades aliadas proximas
 
 * Reparar Equipamento
 
+	* Concerta equipamentos de grau 3 ou inferior
+
 * Punho da Montanha
 
+	* Golpeia uma unidade com um auxilio de uma pequena rocha o jogando pro alto
+
 * Poeira Reveladora
+
+	* Assopra um poeria revelando unidades invisiveis e desfazendo ilusões de grau 3 ou inferior
 
 
 nivel 2
 
 * Forja Simples
 
+	* Cria um equipamento de nível 2 ou inferior
+
 * Manto de Barro
+
+	* Protege uma unidade aliada
 
 * Edificação Simples
 
+	* Cria uma estrutura e nivel 2 ou inferior
+
 * Pilastra Perfurante
 
+	* Invicoa uma pilastra com um pequeno atraso que causa dano e sangramento
+
 * Fragmento de Mana
+
+	* cria um pequeno fragmento que pode ser consumido para restaura vida e mana
 
 
 nivel 3
 
 * Muralha de Mármore
 
+	* Cria uma enorma parede que absorve dano e efeitos negativos
+
 * Convocar Familiar Intermediário
+
+	* Convoca um familiar de grau 3 ou inferior
 
 * Aspecto Montanhoso
 
+	* Abençoa uma unidade concedendo regeneração de vida e reduzindo dano sofrido mas também velocidade e agilidade
+
 * Duplicata de Barro
 
+	* A próxima conjuração de equipamento, unidade ou estrutura é duplicada
+
 * Tunel Subterraneo
+
+	* Cria um tunel submerso de baixo da terra, se não for observado por inimigos aplica furtividade e aumenta a agilidade
 
 
 nivel 4
 
 * Cristal de Mana
 
+	* Cria uma estrutura que regenera pontos de mana por turno
+
 * Chão Falso
+
+	* Cria uma armadilha de fundo falso que causa dano de queda e sangramento
 
 * Saraivadas de Pedras
 
+	* Arremessa diversas pedras causando dano 9 vezes
+
 * Convocar Mineral
 
+	* Cria uma estrutura que aumenta o dano base e atributos de equipamentos
+
 * Perfuração Geológica
+
+	* Cria várias rochas que causam dano, atgordamento e sangramento
 
 
 nivel 5
 
 * Edificação Avançada
 
+	* Cria uma estrutura de grau 5 ou inferior
+
 * Forja Intermediária
+
+	* cria um equipamento de grau 4 ou inferior
 
 * Mergulhar em Terra
 
+	* submerge na terra ganhando força, agilidade e furtividade
+
 * Criar Terremoto
 
+	* Atordoa e causa dano a inimigos além de poder mudar a posição de todas as unidades
+
 * Avalanche
+
+	* Destroi a estrutura alvo causando dano a unidades proximas
 
 
 //Talentos
@@ -84,25 +144,43 @@ nivel 1
 
 * Resistência da Montanha
 
+	* Aumenta a força, além de sofrer dano reduzido
+
 * Base Firme
 
+	* Diminui efeitos debilitantes e a chance de sofrer os mesmos
+
 * Criação Empática
+
+	* criar unidades, objetos ou estruturas recupera um pouco de vida e mana
 
 
 nivel 2
 
 * Resquicios de Mana
 
+	* habilidades tem chance de derrubar fragmentos de mana em lugares aleatórios, pegar esses fragmentos restaura a mana e um pouco de vida.
+
 * Equipamento Reforçado
 
+	* Fortalece qualquer objeto que tocar, aumentando suas propriedades
+
 * Deslize Amigável
+
+	* Aumenta a agilidade e velocidae perto de paredes ou estruturas
 
 
 nivel 3
 
 * Convocações Gemeas
 
+	* A cada duas convocações uma é duplicada
+
 * Implemento Metalúrgico
 
+	* Pode fortalecer uma habilidade de terra por metal aumentando seus efeitos
+
 * Passos Ecoantes
+
+	* Aumenta a chance de erro de oponentes
 

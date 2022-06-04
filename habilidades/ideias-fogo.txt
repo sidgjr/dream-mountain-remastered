@@ -4,78 +4,138 @@ nivel 0
 
 * Isqueiro
 
+	* Pode iluminar o lugar com um pequeno fogo em seus dedos
+
 * Criar Fogueira
+
+	* Conjura uma fogueira aconchegante permitindo o sono em lugares exóticos
 
 * Criar Calor
 
+	* Abençoa uma unidade removendo efeitos negativos de gelo ou agua
+
 * Toque Incendiario
 
+	* Incendeia uma estrutura causando dano por segundo
+
 * Seta de Fogo
+
+	* Dispara um projetil de fogo causando dano e aumentando seu fervor
 
 
 nivel 1
 
 * Faísca
 
+	* As próximas habilidades de fogo causam dano adicional
+
 * Conflagrar
+
+	* Consome todos os marcadores de Fervor para causar dano
 
 * Lançamento Explosivo
 
+	* Lança algum objeto, unidade ou estrutura com propriedades de fogo e fisico
+
 * Chama Guia
 
+	* Cria uma pequena chama que ilumina e guia um caminho já percorrido
+
 * Assopro Geiser
+
+	* Afasta e queima unidades com um assopro fervente
 
 
 nivel 2
 
 * Impacto Abrasado
 
+	* Golpeia corpo a corpo deixando uma marca que causa dano por segundo
+
 * Rastro Queimado
+
+	* Aumenta a velocidade e agilidade, deixando um rastro de fogo que causa dano por segundo
 
 * Cozinhar
 
+	* Pode em instantes cozinhar comida ou unidades repetinamente
+
 * Passos Quentes
 
+	* Dissipa enraizamentos os derretendo
+
 * Tunel de Fogo
+
+	* Derrete até fazer uma entrada em uma estrutura, causando dano a estrutura e inimigos próximos
 
 
 nivel 3
 
 * Torrente Flamejante
 
+	* Causa dano em area variavel com o custo de mana
+
 * Cauda de Diabrete
+
+	* Arma uma bomba magica que pode ser observada sua duração por uma cauda de fogo
 
 * Forjar a Fogo
 
+	* Cria um equipamento de grau 3 ou inferior que causa dano por segundo ao usuario além de ter dano aumentado
+
 * Queimar Neurônios
 
+	* Pode esquecer temporariamente habilidades para repor em mana
+
 * Familiar de fogo
+
+	* Convoca um familiar de grau 3 ou superior
 
 
 nivel 4
 
 * Bombardeamento
 
+	* Lança um ataque devastador que causa dano nas tres etapas de turno do oponente
+
 * Abraço Caloroso
+
+	* Abraça uma unidade dissipando enraizamento e qualquer efeito negativo de água e gelo, pode ser usado para explodir unidades
 
 * Cremação
 
+	* Pode reduzir a cinza cadavares ou unidades
+
 * Ignição Espontânea
 
+	* Um fogo repentido que pode ser conjurado mesmo quando silenciado ou atordoado
+
 * Consumir Fogo
+
+	* Pode devorar habilidades próprias ou externas para recuperar um pouco de vida e mana
 
 
 nivel 5
 
 * Forja Infernal
 
+	* Pode criar um equipamento de grau 4 ou inferior, com dano aumentado mas causa dano ao usuario
+
 * Duelo Ardente
+
+	* Cria um circulo de fogo com uma unidade afastando qualquer outra unidade ou estrutua, o duelo não pode ter interferencia externa
 
 * Queda Solar
 
+	* Conjura uma enorme bola de fogo do céu para causar dano a uma enorme quantidade de estruturas e unidades
+
 * Onda Carbonizante
 
+	* Envolve o usuario com um tornado de fogo crescente que carboniza unidades e estruturas em volta
+
 * Cataclisma
+
+	* Destroi o solo conjurando lava para causar dano
 
 
 // Talentos
@@ -84,25 +144,43 @@ nivel 1
 
 * Sem Frio
 
+	* Dano reduzido de agua e gelo
+
 * Pávio Curto
 
+	* efeitos debilitantes são reduzidos
+
 * Presença Infernal
+
+	* Causa dano por segundo a unidades proximas, pode ser ligado ou desligado
 
 
 nivel 2
 
 * Escama de Dragão
 
-* Aparicação Ardua
+	* Aumenta a força, HP, regeneração e dano base, além de dar afinidade com dragões 
+
+* Aparição Ardua
+
+	* Pode duplicar a velocidade do proximo movimento além de ser um teleporte, custa mana e vida
 
 * Tocha Humana
+
+	* Ganha um aspecto de fogo no cabelo, que pode ser ligado ou desligado, que aumenta a intensidade a cada ponto de dano recebido, aumentando a volta do dano na proxima habilidade
 
 
 nivel 3
 
 * Renascer das Cinzas
 
+	* Quando estiver a beira da morte ou opcionalmente com menos de um quarto do hp pode recuperar todos os pontos de hp e mp e perder todos os efeitos negativos, só pode ser usado uma vez por semana
+
 * Brasa Dupla
 
+	* Duplica cada segunda habilidade
+
 * Olho de Dragão
+
+	* Pode ver os pontos de atributos de oponentes
 
