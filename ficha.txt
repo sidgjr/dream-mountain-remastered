@@ -1,23 +1,23 @@
 /// Personagem
 
-* Nome:
+* Nome: 
 
 * Apelido: 
 
 
-/// Atributos:
+/// Atributos: 15
 
-* Pontos de Vida (HP): 0 / 0.
+* Pontos de Vida (HP): 2x str 6 / 6.
 
-* Pontos de Mana (MP): 0 / 0.
+* Pontos de Mana (MP): 3x int 9 / 9.
 
-* Dano Base: 2.
+* Dano Base: 1.
 
-* Inteligência (INT): 
+* Inteligência (INT): 5
 
-* Agilidade (AGI): 
+* Agilidade (AGI): 3
 
-* Força (STR):
+* Força (STR): 3
 
 
 /// Experiência
