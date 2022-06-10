@@ -108,3 +108,29 @@
 
 	* um clone de um jogador que recupera mana ao original ao sofrer
 	dano
+
+
+// Nível 4	(Ameaça variável)
+
+* Estrutura Animada
+
+	* Cria ou anima uma estrutura
+
+* Segundo Artesão
+
+	* Uma cópia de marmore do conjurador que pode duplicar e criar
+	pequenas conjurações de criação
+
+* Arremessa-Pilastras
+
+	* Um golem gigante que pode conjurar e arremessar pilastras
+
+* Troll da Montanha
+
+	* Um monstro gigante com habilidade de devorar imediatamente algumas
+	unidades, estruturas ou objetos.
+
+* Georaptor
+
+	* Uma enorme criatura primitiva com a habilidade poder controlar
+	a mente de pequenas e médias criaturas
