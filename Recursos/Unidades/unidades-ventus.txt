@@ -1,6 +1,6 @@
 // Nível 0	(Inofensivos)
 
-* 
+* Aves dos Sussuros
 
 	* 
 
@@ -46,7 +46,7 @@
 
 // Nível 2	(Pequeno a Médio porte)
 
-* 
+* Ventania Primal
 
 	* 
 

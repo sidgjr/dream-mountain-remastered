@@ -1,9 +1,0 @@
-// O que é um rpg precisa?
-
-* Regras (feito)
-
-* Ficha (feito)
-
-* Habilidades
-
-* Campanha e Cenário
