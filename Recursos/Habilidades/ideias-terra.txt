@@ -4,7 +4,7 @@ nivel 0
 
 * Convocar Familiar Menor
 
-	* Cria uma unidade de grau 0
+	* Cria uma unidade de grau 1 ou inferior
 
 * Manipular Terreno
 

@@ -1,0 +1,102 @@
+// Nível 0	(Inofensivos)
+
+* Imp
+
+	* Uma pequena criatura infernal e caótica que pode esconder e trazer
+	objetos, causar dano e se explodir.
+
+* Faíscave
+
+	* Um passaro de fogo que pode incendiar e destruir pequenos objetos
+	e estruturas
+
+* Labareda Guia
+
+	* Uma esfera de fogo que pode guiar por caminhos ja percorridos
+
+* Fogueira Animada
+
+	* Uma Fogueira flutuante que pode conzinhar alimentos e remover
+	venenos dos mesmos
+
+* Pyrolebre
+
+	* Uma lebre de fogo com alta agilidade, que pode realizar tarefas
+	manuais e mover itens
+
+
+// Nível 1	(Pequeno porte)
+
+* Diabrete
+
+	* Um pequeno diabinho que pode irritar e atrapalhar ataques e
+	habilidades inimigas
+
+* Serpente de Labaredas
+
+	* Uma serpente de fogo que pode incendiar inimigos causando
+	sangramento
+
+* Manifestação Conflagrada
+
+	* Uma forma de animal qualquer animal em fogo, sendo flexivel nos
+	atributos
+
+* Armamento Ateado
+
+	* Cria ou incendeia uma arma, fazendo atacar e levitar com
+	propriedades de fogo
+
+* Instrumento Ardente
+
+	* Cria ou incendia um instrumento musical, podendo escolhar canções
+	podem entreter ou beneficiar o grupo
+
+
+// Nível 2	(Pequeno a Médio porte)
+
+* Cordeiro Incendiário
+
+	* Um carneiro que destroi estruturas e objetos
+
+* Ignotera
+
+	* Um felino com propriedades de fogo, além de força e agilidade
+	nótavel
+
+* Arboreo Chamuscado
+
+	* uma arvore acizentada que despara setas de fogo
+
+* Dama Fervente
+
+	* 
+
+* Corcel de Magma
+
+	* Um cavalo de rochas derretidas e pura magma, podendo ser uma
+	montaria veloz mas causando dano por segundo ao usuario
+
+
+// Nível 3	(Grande porte)
+
+* Ifrit
+
+	* Um genio de fogo que pode atacar e conjurar habilidades
+
+* Vulcati
+
+	* Uma gigante tartaruga de fogo que pode lançar disparos de lava
+
+* Cria de Draco
+
+	* Um filhote de draco que pode planar, atacar e cuspir fogo
+
+* Vorme Magmático
+
+	* Um verme de magma e rochas derretidas que pode causar terremotos
+	e vulcões
+
+* Pequeno Sol
+
+	* Uma grande esfera de fogo que pode conjurar habilidades de fogo
