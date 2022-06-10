@@ -2,61 +2,61 @@
 
 * Aves dos Sussuros
 
-	* 
+	* Aves Silenciosas e sorrateiras, furtam comidas e filhotes de animais terrestres (Silenciar)
 
-* 
+* Sombra de Esquilo
 
-	* 
+	* Animal veloz no qual ao olho nu é apenas perceptível sua sombra (Salto intermediário)
 
-* 
+* Zumbido de Abelha
 
-	* 
+	* Abelha no qual confunde pelo barulho sua real localização
 
-* 
+* Fada bola de palha
 
-	* 
+	* Fada disfarçada de bola de palha pra aplicar Rasteira Eólica
 
-* 
+* Duende das flores
 
-	* 
+	* Asopra uma flor Alucinojeno
 
 
 // Nível 1	(Pequeno porte)
 
-* 
+* Pequen Ventania primal
 
-	* 
+	* aparencia de um pequeno humanoid de nuvens
 
-* 
+* Espírito atraente
 
-	* 
+	* Denso vento de vapor causando ilusões 
 
-* 
+* Macaco Armado
 
-	* 
+	* Ágil macaco com um bastão e habilidades de um mago grau 2
 
-* 
+* Vento desastroso
 
-	* 
+	* uma forma sem corpo no qual manipula objetos arredor
 
-* 
+* Orbita de vento
 
-	* 
+	* Orbita flutuante que pode o aproximar ou afasta-lo
 
 
 // Nível 2	(Pequeno a Médio porte)
 
 * Ventania Primal
 
-	* 
+	* Aparência de um humanoid de tornados
 
-* 
+* Mímico zombador
 
-	* 
+	* Ser que imita um ser e copía suas habilidades (habilidades causadas pelo alvo copiado não pode causar dano nele)
 
-* 
+* Zumbido de Abelha Rainha
 
-	* 
+	* porte maior e convoca Zumbido de abelha
 
 * 
 
@@ -69,17 +69,16 @@
 
 // Nível 3	(Grande porte)
 
-* 
+* Draco Risonho - Personalidade de uma Orca
+	*(de ponta cabeça, ir pelos ares) muita vida e dano físico como único ataque. Eles não voam e sua aparência é de um dragão serpente
 
-	* 
+* Éolo Farsante
 
-* 
+	* Ser semelhante ao Deus vento
 
-	* 
+* Dicípulo de Fujin
 
-* 
-
-	* 
+	* Mago grau 5 seguidor de Fujin
 
 * 
 
