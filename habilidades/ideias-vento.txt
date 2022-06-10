@@ -99,7 +99,7 @@ nivel 4
 
 * Convocar Familiar Intermediário
 
-	* Cria uma unidade de grau 4 ou inferior
+	* Cria uma unidade de grau 3 ou inferior
 
 * Ventos Caóticos
 

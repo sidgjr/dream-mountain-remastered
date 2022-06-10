@@ -77,7 +77,7 @@ nivel 3
 
 * Convocar Familiar Intermediário
 
-	* Convoca um familiar de grau 3 ou inferior
+	* Convoca um familiar de grau 4 ou inferior
 
 * Aspecto Montanhoso
 
