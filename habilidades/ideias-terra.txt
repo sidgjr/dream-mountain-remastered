@@ -73,7 +73,7 @@ nivel 3
 
 * Muralha de Mármore
 
-	* Cria uma enorma parede que absorve dano e efeitos negativos
+	* Cria uma enorme parede que absorve dano e efeitos negativos
 
 * Convocar Familiar Intermediário
 
