@@ -73,7 +73,7 @@ nivel 3
 
 * Criar Lago
 
-	* Alaga um terreno, afogando unidades e aumetando a capacidade de habilidades de água
+	* Alaga um terreno, afogando unidades e aumentando a capacidade de habilidades de água
 
 * Andar sobre Água
 
