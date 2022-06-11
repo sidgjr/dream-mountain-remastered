@@ -3,21 +3,10 @@ Problema principal: Imersão
 
 //// Prioritário (literalmente estraga a experiência da mesa por não ter)
 
-1. Lista de criaturas		 * Tlum
-
-2. Lista de objetos		 * Nathan
-
 3. Interação fora de combate	 * Tlum
-
-4. Desenvolvimento de personagem * Tlum
-
 
 
 //// Necessário (essenciais para uma boa experiência)
-
-1. Lore (um pouco)			  * Tlum
-
-2. Novos graus				  * Nathan
 
 3. Campanha e sessão			  * Tlum
 
@@ -26,10 +15,14 @@ Problema principal: Imersão
 5. Balanceamento da mesa (Azariel > Jace) * Tlum
 
 
-
+//// Futuro
 //// Recomendável (se vira no improviso)
 
 1. Rework das habilidades
 
 2. Sistema de RPG (um software, com tabuleiro e atributos)
+
+3. Talentos
+
+4. Docs de regras
 
