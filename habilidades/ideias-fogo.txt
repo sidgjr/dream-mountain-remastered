@@ -71,7 +71,7 @@ nivel 2
 
 nivel 3
 
-* Torrente Flamejante
+* Vortice Ardente
 
 	* Causa dano em area variavel com o custo de mana
 
@@ -108,7 +108,7 @@ nivel 4
 
 * Ignição Espontânea
 
-	* Um fogo repentido que pode ser conjurado mesmo quando silenciado ou atordoado
+	* Um fogo repentino que pode ser conjurado mesmo quando silenciado ou atordoado
 
 * Consumir Fogo
 
