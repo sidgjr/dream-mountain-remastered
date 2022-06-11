@@ -108,7 +108,7 @@ nivel 4
 
 * Criar Elemental de Água Intermediario
 
-	* Conjura um familiar de grau 4 ou inferior
+	* Conjura um familiar de grau 3 ou inferior
 
 * Conjuração Multi-aquatica
 
