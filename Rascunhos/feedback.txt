@@ -1,28 +1,39 @@
-Problema principal: Imersão
-
+Problema principal: Software
 
 //// Prioritário (literalmente estraga a experiência da mesa por não ter)
 
-3. Interação fora de combate	 * Tlum
-
 
 //// Necessário (essenciais para uma boa experiência)
-
-3. Campanha e sessão			  * Tlum
-
-4. Mais importância de NPC		  * Tlum
-
-5. Balanceamento da mesa (Azariel > Jace) * Tlum
 
 
 //// Futuro
 //// Recomendável (se vira no improviso)
 
-1. Rework das habilidades
 
-2. Sistema de RPG (um software, com tabuleiro e atributos)
 
-3. Talentos
 
-4. Docs de regras
+////
 
+Interação fora de combate
+
+Campanha e sessão
+
+Mais importância de NPC
+
+Balanceamento da mesa (Jace)
+
+Rebalanceamento e teste prático das habilidades
+
+Implementar Keywords
+
+Padronização de recursos para o moderno
+
+Sistema de RPG (um software, com tabuleiro e atributos)
+
+Talentos
+
+Transferência para docs ou pdf
+
+Limpar e adicionar recursos antigos
+
+Lore
