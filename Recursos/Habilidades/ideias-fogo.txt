@@ -108,7 +108,7 @@ nivel 4
 
 * Ignição Espontânea
 
-	* Um fogo repentido que pode ser conjurado mesmo quando silenciado ou atordoado
+	* Um fogo repentino que pode ser conjurado mesmo quando silenciado ou atordoado
 
 * Consumir Fogo
 
