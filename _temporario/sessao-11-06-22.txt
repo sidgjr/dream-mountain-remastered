@@ -1,99 +1,12 @@
-///
+// Professores e funcionários
 
-HP 12 / 18
+* Aqua - 
 
-MP 30 / 30
+* Gaia - 
 
-7 metros
+* Ignis - 
 
-17 agi
-
-9 str
-
-5 int
-
-1 - mov
+* Ventus -
 
 
-
-///
-
-
-* Aqua:
-
-	* Silena (professora)
-
-		Qualidades: Paciente, Empático, Leal, Carismático
-
-		Defeitos: Ganancioso, Irritado
-
-	* Amelia (prodigio)
-
-		Qualidades: Sensível, Corajoso, Empático
-
-		Defeitos: Sensível, Preguiçoso
-
-
-* Gaia:
-
-	* Yelena (professora)
-
-		Qualidades: Excêntrico, Inocente, Cordial
-
-		Defeitos: Excêntrico, Inocente, Babaca	
-
-	* Totsu (prodigio)
-
-		Qualidades: Criativo, Proativo, Focado
-
-		Defeitos: Babaca, Covarde, Egoísta, Ganancioso
-
-* Ignis:
-
-	* Frank (professor)
-
-		Qualidades: Excêntrico, Ousado, Otimista, Altruísta, Paciente
-
-		Defeitos: Excêntrico, Ousado, Otimista, 
-
-	* Deviculus (prodigio)
-
-		Qualidades: Proativo, Corajoso
-
-		Defeitos: Arrogante, Cruel, Babaca, Irresponsável, Egoísta, Irritado
-
-* Ventus:
-
-	* Roamin (professor)
-
-		Qualidades: Ambicioso, Honesto, Frio, Altruísta
-
-		Defeitos: Ambicioso, Honesto, Frio, Ganancioso
-
-	* Herald (prodigio)
-
-		Qualidades: Cordial, Leal, Criativo, Carismático
-
-		Defeitos: Preguiçoso, Irritado
-
-
-* Funcionários:
-
-	* Karlyen (Diretora)
-
-		Qualidades: Cordial, Altruísta, Paciente, Carismático
-
-		Defeitos: Cruel, Arrogante
-
-	* Ok'Natar (Zelador)
-
-		Qualidades: Corajoso, Altruísta, Proativo
-
-		Defeitos: Indeciso
-
-	* Ob'Batar (Vice Zelador)
-
-		Qualidades: Leal
-
-		Defeitos: Indeciso, Irritado, Irresponsável
 
