@@ -1,0 +1,163 @@
+//
+//	//	Desenvolvimento na Instituição
+//
+
+* Contato com os alunos
+
+* Aulas com um especialista de cada um dos elementos
+
+* Horários de intervalos com eventos
+
+* Rumores dos sumiços e deduções de quem será o próximo
+
+* Alguns professores falando coisas suspeitas
+
+* Abertura para o começo das investigações: Masmorras do lado de fora das muralhas
+
+
+
+//
+//	//	Personagens
+//
+
+* Aqua:
+
+	* Silena (professora)
+
+		* Qualidades: Paciente, Empático, Leal, Carismático
+
+		* Defeitos: Ganancioso, Irritado
+
+		* Descrição: Meiga, fofa e que pode ser facilmente irritada, é amada por todos alunos, professores e funcionários, sendo o desejo de até alguns apenas pelo o seu jeito.
+
+
+	* Amelia (prodigio)
+
+		* Qualidades: Sensível, Corajoso, Empático
+
+		* Defeitos: Sensível, Preguiçoso
+
+		* Descrição: Dorminhoca e gentil, é a prodigia do elemento de aqua sempre ajudando os outros no limite do que seu sono permite
+
+
+* Gaia:
+
+	* Yelena (professora)
+
+		* Qualidades: Excêntrico, Inocente, Cordial
+
+		* Defeitos: Excêntrico, Inocente, Babaca
+
+		* Descrição: Uma ditadora militar em forma de mulher que muitos até esquecem que é feminina, embora ainda tenha sentimentos e não consiga entender má indole ou coisas maliciosas
+
+
+	* Totsu (prodigio)
+
+		* Qualidades: Criativo, Proativo, Focado
+
+		* Defeitos: Babaca, Covarde, Egoísta, Ganancioso
+
+		* Descrição: Um narcisista que agredita no seu intelecto acima de tudo, além de ser insensivel e extremamente egocentrico
+
+* Ignis:
+
+	* Frank (professor)
+
+		* Qualidades: Excêntrico, Ousado, Otimista, Altruísta, Paciente
+
+		* Defeitos: Excêntrico, Ousado, Otimista
+
+		* Descrição: Um ar de perigoso além de ser extremamente bondoso para fazer contraste com sua aparência
+
+
+	* Deviculus (prodigio)
+
+		* Qualidades: Proativo, Corajoso
+
+		* Defeitos: Arrogante, Cruel, Babaca, Irresponsável, Egoísta, Irritado
+
+		* Descrição: Um mal incarnado que prejudica outros alunos, agride e dominar, além de se vangloriar de ser filho de presidiarios
+
+* Ventus:
+
+	* Roamin (professor)
+
+		* Qualidades: Ambicioso, Honesto, Frio, Altruísta
+
+		* Defeitos: Ambicioso, Honesto, Frio, Ganancioso
+
+		* Descrição: Engraçado mas não mede limites ao explicitamente criticar alunos a sua insignificancia, de uma forma natural e calmo como se fosse obvio, além de ter uma dupla personalidade entre acumular as coisas como criança ou dividir com generosidade.
+
+
+	* Herald (prodigio)
+
+		* Qualidades: Cordial, Leal, Criativo, Carismático
+
+		* Defeitos: Preguiçoso, Irritado
+
+		* Descrição: Um esnobe que encanta muitos a sua volta por sua nobreza e feitos, ao mesmo tempo foge de responsabilidades e tarefas dificeis usando sua superioridade como desculpa
+
+
+* Funcionários:
+
+	* Karlyen (Diretora)
+
+		* Qualidades: Cordial, Altruísta, Paciente, Carismático
+
+		* Defeitos: Cruel, Arrogante
+
+		* Descrição: Dupla personalidade entre alguém que defende seus alunos como uma mãe, mas ao mesmo tempo gosta de velos sofrerem para se tornar verdadeiros magos
+
+
+	* Ok'Natar (Zelador chefe)
+
+		* Qualidades: Corajoso, Altruísta, Proativo
+
+		* Defeitos: Indeciso
+
+		* Descrição: Um Ogro de 5 metros que por mais que tenha uma aparência amedrontadora se esforça para aparentar ser sociavel e intelectual
+
+
+	* Ob'Batar (Vice Zelador)
+
+		* Qualidades: Leal
+
+		* Descrição: Um Ogro de 15 metros com uma aparencia mortal e extramente silenciosos, emite apenas alguns sons com jatos de vapor da sua boca, é algemado dos pés as mãos, além da fucenheira
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
