@@ -1,38 +1,18 @@
 //
-//	//	Game
+//	//	Desenvolvimento na Instituição
 //
 
-* TH Rob Ignis
+* Contato com os alunos
 
-* Geral em Gaia
+* Aulas com um especialista de cada um dos elementos
 
-* 
+* Horários de intervalos com eventos
 
+* Rumores dos sumiços e deduções de quem será o próximo
 
+* Alguns professores falando coisas suspeitas
 
-//
-//	//	
-//
-
-* Roamin como professor
-
-* Aula fora da muralha
-
-* Aulas de sobrevivência
-
-* Caçar um Bagre-Enigma
-
-	* Atraído por conjurações e mana, principalmente de água
-
-	* Teleporta e mergulha entre materiais, se adapta entre materiais
-
-	* Deixa rastros de bolhas purpuras, e mordidas e liquidos brilhantes da cor roxa
-
-	* Anda sozinho
-
-	* Se alimenta de criaturas mágicos e magos
-
-	* Pode mimetizar habilidades e vozes
+* Abertura para o começo das investigações: Masmorras do lado de fora das muralhas
 
 
 
