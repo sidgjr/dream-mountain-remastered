@@ -4,7 +4,7 @@ Nível 0 (consumíveis básicos/ enferrujados)
         1 de dano
 
     Bandagens
-        +2 hp (ferimentos superfiiciais)
+        +2 hp (ferimentos superficiais)
 
     Espada enferrujada (toque)
         +3 de dano, 2 usos
