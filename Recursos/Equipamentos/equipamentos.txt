@@ -80,7 +80,7 @@ Nível 2 (equipamentos de alta qualidade)
     Poção de cura mediana
         +6 hp, +1 regen por 3 turnos
     
-    Set de duralumin
+    Set de duraluminio
         Capacete
             -2 de dano recebido, previne morte por dano crítico na cabeça 3 vezes, após isso quebra
         Peitoral
@@ -98,6 +98,9 @@ Nível 2 (equipamentos de alta qualidade)
     Explosivos
         30 de dano
 
+    Escudo (uma mão)
+        -5 de dano recebido, -2 agi
+
     Berserk sword (toque)
         +6 de dano, -4 agi (str > 10 requerido)
 
@@ -106,9 +109,6 @@ Nível 2 (equipamentos de alta qualidade)
 
     Bomba de fumaça (instantânea)
         Reduz drasticamente a taxa de acerto a distância
-
-    Escudo (uma mão)
-        -5 de dano recebido, -2 agi
 
     Flechas explosivas (munição)
         5 de dano base
