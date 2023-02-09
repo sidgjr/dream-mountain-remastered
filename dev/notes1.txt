@@ -1,0 +1,13 @@
+niveis
+
+10. aleph
+9. dalet
+8. zayin
+7. het
+6. tet
+5. yod
+4. kaph
+3. samek
+2. ayin
+1. resh
+0. shin
