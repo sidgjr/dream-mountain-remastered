@@ -4,11 +4,12 @@ Primordial:
 	- Nobre do céu (Royal Sky).
 
 Secundário:
-	- Fera (híbrido / selvagem).
 	- Impuro (Noturno).
 	- Glaciais
+	- Fera (híbrido / selvagem).
+		- Kron.
+		- Terrano.
 
-	- Kron.
-	- Terrano.
-
-	- Golem.
+	- 
+	- 
+	- 

@@ -1,17 +1,17 @@
-1. Definição de Design
+1. Raças
 
-2. Raças
+2. Materiais e Construção de itens
 
-3. Desenvolvimento de Personagem
+3. Criaturas e Estruturas
 
-4. Guia de Ficha e Interpretação
+4. Itens e Runas
 
-5. Guia Geral e de Combate
+5. Habilidades e Talentos
 
-6. Habilidades e Talentos
+6. Desenvolvimento de Personagem
 
-7. Itens e Runas
+7. Guia de Ficha e Interpretação
 
-8. Criaturas e Estruturas
+8. Guia Geral e de Combate
 
 9. Lore e Campanha

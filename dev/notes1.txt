@@ -11,3 +11,21 @@ niveis
 2. ayin
 1. resh
 0. shin
+
+
+Sistema de crafting
+
+	materiais, tempo, ferramentas, local, mesa
+
+	lista de monstros que dropam certo item
+
+	Sistema de coleta de itens (mineração, esfolamento, herborismo)
+
+	Qualidade do material por RNG
+
+
+Sistema de casa
+
+Sistema de criação de criaturas (domésticas)
+
+Sistema de plantação
