@@ -4,7 +4,7 @@
 
 		* Estanho (aumento de velocidade)
 
-		* Cobre (anti Ignis)
+		* Cobre (reduz dano inimigo, anti Ignis)
 
 		* Ferro (versatilidade, aguentar mais runas)
 
