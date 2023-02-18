@@ -1,0 +1,2221 @@
+* Shin (nível 0)
+
+	* Gaia
+
+		* Disparo Sismico
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* Disparo Vendaval
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* Disparo Ardente
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* Disparo Congelante
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* Disparo Selvagem
+
+		    * Causa dano a longa distância e reduzir os marcadores positivos. Acertos críticos oferecem a escolha de um marcador a adicionar em si mesmo.
+
+		* -começar com o pet
+
+		    * 
+
+		* Toque Venenoso
+
+		    * Causar dano aplica sangramento.
+
+		* Aspecto de Tartaruga
+
+		    * 
+
+		* -suporte e utilidade
+
+		    * 
+
+	* Nekro
+
+		* Disparo Vil
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* Disparo Quimico
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* Disparo Iluminado
+
+		    * Causa dano a longa distância e reduz o dano. Acertos críticos dão cegueira.
+
+		* Oração
+
+		    * Restaura pontos de vida.
+
+		* Prece de Proteção
+
+		    * Fornece marcadores de resistência.
+
+		* Candelabro
+
+		    * Ilumina locais.
+
+		* Leitura de Testamento
+
+		    * Permite a leitura de linguas antigas a um certo nivel.
+
+	* Arcana
+
+		* Disparo Arcano
+
+		    * Causa dano a longa distância e pode ser usado fora do turno. Acertos críticos enraizam.
+
+		* Ampliar
+
+		    * Aumentar dano ou resistência de equipamentos.
+
+		* Distorção Relativa
+
+		    * Rouba a velocidade de um alvo.
+
+		* Redirecionar
+
+		    * Muda o alvo de habilidades a longa distância.
+
+		* Aprendizado Runico
+
+		    * Permite a leitura de runas ou escrituras mágicas de niveis inferiores.
+
+	* Tekno
+
+		* Disparo Elétrico
+
+			* Causa dano a longa distância e empurra alvos. Acertos críticos causam sangramento.
+
+		* 
+
+			* 
+
+		* 
+
+			* 
+
+		* 
+
+			* 
+
+		* 
+
+			* 
+
+* Resh (nível 1)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Ayin (nível 2)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Samek (nível 3)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Kaph (nível 4)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Yod (nível 5)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Tet (nível 6)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Het (nível 7)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Zayin (nível 8)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Dalet (nível 9)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+* Aleph (nível 10)
