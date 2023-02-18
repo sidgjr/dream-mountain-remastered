@@ -15,3 +15,15 @@
 8. Guia Geral e de Combate
 
 9. Lore e Campanha
+
+//
+
+Refinamento de Raças
+
+Rework de habilidades antigas
+
+Refinamento de habilidades
+
+Lista de efeitos positivos e negativos
+
+Lista de Palavras Chaves e Gatilhos

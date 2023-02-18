@@ -94,65 +94,65 @@
 
 		    * Causa dano a longa distância e reduzir os marcadores positivos. Acertos críticos oferecem a escolha de um marcador a adicionar em si mesmo.
 
-		* -começar com o pet
+		* Compania Animal
 
-		    * 
+		    * Começa com um mascote de certo nível.
 
 		* Toque Venenoso
 
-		    * Causar dano aplica sangramento.
+		    * Causar dano que não seja sangramento aplica esse efeito.
 
 		* Aspecto de Tartaruga
 
-		    * 
+		    * Aumenta os pontos de vida e reduz o dano sofrido.
 
-		* -suporte e utilidade
+		* Abrir Trilhas
 
-		    * 
+		    * Consegue encontrar os melhores caminhos em ambientes naturais.
 
 	* Nekro
 
 		* Disparo Vil
 
-		    * 
+		    * Causa dano a longa distância e recupera pontos de vida igual ao dano causado. Acertos críticos abatem alvos que sejam monstros.
 
-		* 
+		* Redução Curativa
 
-		    * 
+		    * Anula o efeito curativo.
 
-		* 
+		* Amedrontar
 
-		    * 
+		    * Faz uma unidade de nível inferiror correr de medo.
 
-		* 
+		* Aura Psicótica
 
-		    * 
+		    * Aura que oferece o talento de poder gastar alguns pontos de vida para aumentar o dano.
 
-		* 
+		* Misericórdia
 
-		    * 
+		    * Causa mais dano em unidades que possuem menos da metade da vida.
 
 	* Alchi
 
 		* Disparo Quimico
 
-		    * 
+		    * Causa dano a longa distância e reduz atributos. Acertos críticos inutilizam equipamentos.
 
-		* 
+		* Ganância
 
-		    * 
+		    * Ganha moedas de ouro ao causar dano, tendo um limite por dia.
 
-		* 
+		* Arremoso de Substâncias
 
-		    * 
+		    * pode arremessar substâncias causando seus efeitos em área.
 
-		* 
+		* Produção Farmacêutica
 
-		    * 
+		    * Pode criar algumas substâncias com efeitos positivos a um certo nível.
 
-		* 
+		* Solo Corrosivo
 
-		    * 
+		    * Lança um produto quimico em um solo causando dano por turno e lentidão.
 
 	* Sagrum
 
@@ -204,21 +204,21 @@
 
 			* Causa dano a longa distância e empurra alvos. Acertos críticos causam sangramento.
 
-		* 
+		* Bateria Mágica
 
-			* 
+			* Estoura em energia recebendo mana por alvos acertados.
 
-		* 
+		* Efeito Estático
 
-			* 
+			* Sofrer dano aumenta a velocidade, enquanto diminui a inimiga.
 
-		* 
+		* Aura Inventiva
 
-			* 
+			* Aura que oferece custo de mana reduzido a aliados.
 
-		* 
+		* Transformação Mecânica
 
-			* 
+			* Permite um item se transformar em uma criatura do bestiário, ele recebe consciência própria.
 
 * Resh (nível 1)
 
@@ -2219,3 +2219,223 @@
 		    * 
 
 * Aleph (nível 10)
+
+	* Gaia
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ventus
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Ignis
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Aqua
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Primal
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Nekro
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Alchi
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Sagrum
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Arcana
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+	* Tekno
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
+
+		* 
+
+		    * 
