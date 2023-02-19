@@ -312,45 +312,45 @@
 
 	* Primal
 
-		* 
+		* Veneno de Caça
 
-		    * 
+		    * Causar dano diminui a esquiva do alvo é aumenta a perícia que unidades precisam para o acertar.
 
-		* 
+		* Envolver em Raízes
 
-		    * 
+		    * Envolve uma unidade protegendo uma quantia de dano a não ser que seja de Fogo. Pode ser usado fora do turno.
 
-		* 
+		* Paralisia
 
-		    * 
+		    * Inutiliza um alvo orgânico até ele sofrer dano ou algum efeito.
 
-		* 
+		* Alcateia
 
-		    * 
+		    * Ganha força igual ao número de unidades e jogadores aliados.
 
-		* 
+		* Recuperação Familiar
 
-		    * 
+		    * Cura uma unidade aliada que tenha um jogador como dono.
 
 	* Nekro
 
-		* 
+		* Contratos Sombrios
+
+		    * Pode transferir pontos de vida entre jogadores aliados, necessitando do consenso de ambos.
+
+		* Seta Mortal
+
+		    * Uma habilidade de dano a distância que custa vida e sempre causa dano crítico.
+
+		* -unidade
 
 		    * 
 
-		* 
+		* -efeitos
 
 		    * 
 
-		* 
-
-		    * 
-
-		* 
-
-		    * 
-
-		* 
+		* -controle-versatilidade -Recuperação
 
 		    * 
 
@@ -372,7 +372,7 @@
 
 		    * 
 
-		* 
+		* -Recuperação
 
 		    * 
 
@@ -394,7 +394,7 @@
 
 		    * 
 
-		* 
+		* -Recuperação
 
 		    * 
 
@@ -416,7 +416,7 @@
 
 		    * 
 
-		* 
+		* -Recuperação
 
 		    * 
 
@@ -438,7 +438,7 @@
 
 		    * 
 
-		* 
+		* -Recuperação
 
 		    * 
 

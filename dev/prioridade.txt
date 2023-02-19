@@ -1,29 +1,64 @@
-1. Raças
-
-2. Materiais e Construção de itens
-
-3. Criaturas e Estruturas
-
-4. Itens e Runas
-
-5. Habilidades e Talentos
-
-6. Desenvolvimento de Personagem
-
-7. Guia de Ficha e Interpretação
-
-8. Guia Geral e de Combate
-
-9. Lore e Campanha
-
+//
+//	//	Atual
 //
 
-Refinamento de Raças
+1. Lista de Propriedades (rascunhos)
 
-Rework de habilidades antigas
+2. Lista de Propriedades (Refinamento)
 
-Refinamento de habilidades
+3. Lista de efeitos positivos e negativos (rascunhos)
 
-Lista de efeitos positivos e negativos
+4. Lista de efeitos positivos e negativos (Refinamento)
 
-Lista de Palavras Chaves e Gatilhos
+5. Raças (rascunhos)
+
+6. Raças (Refinamento)
+
+7. Criaturas (rascunhos)
+
+8. Criaturas (Refinamento)
+
+9. Materiais e Construção de itens (rascunhos)
+
+10. Materiais e Construção de itens (Refinamento)
+
+
+
+//
+//	//	Futuro
+//
+
+* Estruturas (rascunhos)
+
+* Estruturas (Refinamento)
+
+* Itens e Runas (rascunhos)
+
+* Itens e Runas (Refinamento)
+
+* Novas Habilidades e Talentos (rascunhos)
+
+* Novas Habilidades e Talentos (Refinamento)
+
+* Rework de habilidades antigas (rascunhos)
+
+* Rework de habilidades antigas (Refinamento)
+
+* Desenvolvimento de Personagem (rascunhos)
+
+* Desenvolvimento de Personagem (Refinamento)
+
+* Guia de Ficha e Interpretação (rascunhos)
+
+* Guia de Ficha e Interpretação (Refinamento)
+
+* Guia Geral e de Combate (rascunhos)
+
+* Guia Geral e de Combate (Refinamento)
+
+* Lore e Campanha (rascunhos)
+
+* Lore e Campanha (Refinamento)
+
+
+
