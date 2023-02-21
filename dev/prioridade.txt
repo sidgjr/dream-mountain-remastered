@@ -2,25 +2,25 @@
 //	//	Atual
 //
 
-1. Lista de Propriedades (rascunhos)
+1. Lista de efeitos positivos e negativos (rascunhos)
 
-2. Lista de Propriedades (Refinamento)
+2. Consciência (rascunhos)
 
-3. Lista de efeitos positivos e negativos (rascunhos)
+3. Mundo, Ambientes e Cidades (rascunhos)
 
-4. Lista de efeitos positivos e negativos (Refinamento)
+4. Raças (rascunhos)
 
-5. Raças (rascunhos)
+5. Criaturas (rascunhos)
 
-6. Raças (Refinamento)
+6. Materiais e Construção de itens (rascunhos)
 
-7. Criaturas (rascunhos)
+7. Estruturas (rascunhos)
 
-8. Criaturas (Refinamento)
+8. Itens e Runas (rascunhos)
 
-9. Materiais e Construção de itens (rascunhos)
+9. Novas Habilidades e Talentos (rascunhos)
 
-10. Materiais e Construção de itens (Refinamento)
+10. Rework de habilidades antigas (rascunhos)
 
 
 
@@ -28,19 +28,25 @@
 //	//	Futuro
 //
 
-* Estruturas (rascunhos)
+* Lista de Propriedades (Refinamento)
+
+* Lista de efeitos positivos e negativos (Refinamento)
+
+* Consciência (Refinamento)
+
+* Mundo, Ambientes e Cidades (Refinamento)
+
+* Raças (Refinamento)
+
+* Criaturas (Refinamento)
+
+* Materiais e Construção de itens (Refinamento)
 
 * Estruturas (Refinamento)
 
-* Itens e Runas (rascunhos)
-
 * Itens e Runas (Refinamento)
 
-* Novas Habilidades e Talentos (rascunhos)
-
 * Novas Habilidades e Talentos (Refinamento)
-
-* Rework de habilidades antigas (rascunhos)
 
 * Rework de habilidades antigas (Refinamento)
 
@@ -59,6 +65,3 @@
 * Lore e Campanha (rascunhos)
 
 * Lore e Campanha (Refinamento)
-
-
-

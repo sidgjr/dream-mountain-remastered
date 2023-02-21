@@ -21,7 +21,7 @@
 
 
 //
-//	///	Tipos e Gatilhos
+//	///	Traços
 //
 
 * Tipos de Habilidade
@@ -78,19 +78,25 @@
 
 	* Projétil (Média).
 
+	* Individual (Média).
+
 	* Área (Superior).
+
+	* Local (Superior).
 
 	* Aura (Verdadeira).
 
 * Gatilhos
 
+	* Morrer (Classe: Shin)
+
 	* Abater (Classe: Resh).
 
 	* Causar Dano (Classe: Ayin).
 
-	* Causar Dano com Habilidade (Classe: Samek).
-
 	* Aplicar Efeitos (Classe: Kaph).
+
+	* Causar Dano com Habilidade (Classe: Samek).
 
 	* Acertar (Classe: Yod).
 
@@ -108,15 +114,15 @@
 
 	* Crítico (20 no d20).
 
-	* Improvável (15 no d20).
+	* Improvável (maior ou igual a 15 no d20).
 
 		* Fraca.
 
-	* Dificil (12 no d20).
+	* Dificil (maior ou igual a 12 no d20).
 
 		* Média.
 
-	* Preciso (7 no d20).
+	* Preciso (maior ou igual a 7 no d20).
 
 		* Superior.
 
@@ -130,15 +136,15 @@
 ///	///	Palavras Chave
 ///
 
-* Váriavel (Fraca)
+* Condicional (Fraca)
 
-	* Fervor X.
+	* Infortunio.
 
-	* Ricochete X.
+	* Sequência.
 
-	* Desgaste X.
+	* Alternativo.
 
-	* Canalizar X.
+	* Enigma.
 
 * Maleável (Média)
 
@@ -150,15 +156,15 @@
 
 	* Dissipação.
 
-* Condicional (Superior)
+* Váriavel (Superior)
 
-	* Infortunio.
+	* Fervor X.
 
-	* Sequência.
+	* Ricochete X.
 
-	* Alternativo.
+	* Desgaste X.
 
-	* Enigma.
+	* Canalizar X.
 
 * Adicional (Verdadeira)
 
@@ -166,6 +172,6 @@
 
 	* Proceder.
 
-	* Atemporal.
+	* Súbito.
 
 	* Maestria.

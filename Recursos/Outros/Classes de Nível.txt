@@ -20,7 +20,7 @@ Zayin (Classe 2)
 
 Dalet (Classe 1)
 
-Aleph (Classe Especial)
+Aleph (Classe 0 ou Especial)
 
 //
 
