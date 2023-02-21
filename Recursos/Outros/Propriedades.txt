@@ -1,0 +1,171 @@
+//
+//	///	Dissipação (e simplificação de classe)
+//
+
+* Fraca
+
+	* Classe Samek ou inferior (efeitos não-imobilizantes ou de performance).
+
+* Média
+
+	* Classe Tet ou inferior (efeitos imobilizantes ou de probabilidade).
+
+* Superior
+
+	* Classe Dalet ou inferior (efeitos inutilizantes e de resistência).
+
+* Verdadeira
+
+	* Classe Aleph ou inferior (efeitos de classe especial).
+
+
+
+//
+//	///	Tipos e Gatilhos
+//
+
+* Tipos de Habilidade
+
+	* Ofensivo.
+
+	* Defensivo.
+
+	* Mobilidade.
+
+	* Controle.
+
+	* Suporte.
+
+	* Utilidade.
+
+	* Invocação.
+
+	* Interrupção.
+
+* Tipos de Dano
+
+	* Físico
+
+		* Corte.
+
+		* Perfuração.
+
+		* Contusão (Pancada).
+
+	* Mágico
+
+		* Fogo.
+
+		* Gélido.
+
+		* Natural.
+
+		* Sombrio.
+
+		* Químico.
+
+		* Sagrado.
+
+		* Elétrico.
+
+	* Puro
+
+		* Especial (Ignora Redução de Dano).
+
+* Área de efeito
+
+	* Toque (Fraca).
+
+	* Projétil (Média).
+
+	* Área (Superior).
+
+	* Aura (Verdadeira).
+
+* Gatilhos
+
+	* Abater (Classe: Resh).
+
+	* Causar Dano (Classe: Ayin).
+
+	* Causar Dano com Habilidade (Classe: Samek).
+
+	* Aplicar Efeitos (Classe: Kaph).
+
+	* Acertar (Classe: Yod).
+
+	* Consumir Item (Classe: Tet).
+
+	* Mover com Habilidade (Classe: Het).
+
+	* Ser Acertado (Classe: Zayin).
+
+	* Mover (Classe: Dalet).
+
+	* Começo de Turno (Classe: Aleph).
+
+* Precisão
+
+	* Crítico (20 no d20).
+
+	* Improvável (15 no d20).
+
+		* Fraca.
+
+	* Dificil (12 no d20).
+
+		* Média.
+
+	* Preciso (7 no d20).
+
+		* Superior.
+
+	* Garantido (sem arremesso de dados).
+
+		* Verdadeira.
+
+
+
+///
+///	///	Palavras Chave
+///
+
+* Váriavel (Fraca)
+
+	* Fervor X.
+
+	* Ricochete X.
+
+	* Desgaste X.
+
+	* Canalizar X.
+
+* Maleável (Média)
+
+	* Reforçado.
+
+	* Fortificado.
+
+	* Diário.
+
+	* Dissipação.
+
+* Condicional (Superior)
+
+	* Infortunio.
+
+	* Sequência.
+
+	* Alternativo.
+
+	* Enigma.
+
+* Adicional (Verdadeira)
+
+	* Antecipação.
+
+	* Proceder.
+
+	* Atemporal.
+
+	* Maestria.

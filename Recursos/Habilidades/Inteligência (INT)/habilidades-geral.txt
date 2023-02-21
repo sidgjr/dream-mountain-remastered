@@ -1,4 +1,4 @@
-* Shin (nível 0)
+* Shin (Classe básica)
 
 	* Gaia
 
@@ -220,7 +220,7 @@
 
 			* Permite um item se transformar em uma criatura do bestiário, ele recebe consciência própria.
 
-* Resh (nível 1)
+* Resh (Classe 9)
 
 	* Gaia
 
@@ -442,7 +442,7 @@
 
 		    * 
 
-* Ayin (nível 2)
+* Ayin (Classe 8)
 
 	* Gaia
 
@@ -664,7 +664,7 @@
 
 		    * 
 
-* Samek (nível 3)
+* Samek (Classe 7)
 
 	* Gaia
 
@@ -886,7 +886,7 @@
 
 		    * 
 
-* Kaph (nível 4)
+* Kaph (Classe 6)
 
 	* Gaia
 
@@ -1108,7 +1108,7 @@
 
 		    * 
 
-* Yod (nível 5)
+* Yod (Classe 5)
 
 	* Gaia
 
@@ -1330,7 +1330,7 @@
 
 		    * 
 
-* Tet (nível 6)
+* Tet (Classe 4)
 
 	* Gaia
 
@@ -1552,7 +1552,7 @@
 
 		    * 
 
-* Het (nível 7)
+* Het (Classe 3)
 
 	* Gaia
 
@@ -1774,7 +1774,7 @@
 
 		    * 
 
-* Zayin (nível 8)
+* Zayin (Classe 2)
 
 	* Gaia
 
@@ -1996,7 +1996,7 @@
 
 		    * 
 
-* Dalet (nível 9)
+* Dalet (Classe 1)
 
 	* Gaia
 
@@ -2218,7 +2218,7 @@
 
 		    * 
 
-* Aleph (nível 10)
+* Aleph (Classe Especial)
 
 	* Gaia
 
