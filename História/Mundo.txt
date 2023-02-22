@@ -18,23 +18,23 @@
 
     * Kasayur (Arquipelago).
 
-        * Montanha dos Sonhos.
+        * Montanha dos Sonhos (Onde os desejos são realizados).
 
-        * Ilhas Pesadelo.
+        * Ilhas Pesadelo (Ilhas ao redor da montanha dos sonhos).
 
     * Nor'Tand (Barbaros, Pequeno continente perto de Tandlard).
 
     * Fullet (Reino dos Homens).
 
-        * Cidade-Forte de Ibélia (Centro Militar, Norte).
+        * Ibélia (Cidade-Forte, Norte).
 
         * Kamya (Planices Luminescentes)
 
-        * Deserto Balebus (Centro Tecnológico, Centro).
+        * Balebus (Deserto, Centro).
 
-            * Torre Mecânica.
+            * Torre Mecânica (Centro Tecnológico).
 
-            * Cidades Errantes.
+            * Cidades Errantes (Cidades em cima de monstros).
 
         * Aldrynn (Cidade Anciã)
 
@@ -86,7 +86,69 @@
 //	//	Ambientes
 //
 
-* 
+* Tandlard
+
+    * Vegetação: 
+
+    * Clima: 
+
+    * Flora: 
+
+    * Solo: 
+
+    * Hidrografia: 
+
+* Kessen'Mital 
+
+* Mar Liberto.
+
+* Mar Indomado.
+
+* Montanha dos Sonhos (Kasayur)
+
+* Ilhas Pesadelo (Kasayur)
+
+* Nor'Tand (Fullet)
+
+* Ibélia (Fullet)
+
+* Kamya (Fullet)
+
+* Torre Mecânica (Balebus) (Fullet)
+
+* Cidades Errantes (Balebus) (Fullet)
+
+* Aldrynn (Fullet)
+
+* Império Ashkar (Fullet)
+
+* Norte de Nemya (Nemya)
+
+* Necrópole Central (Nemya)
+
+* Portão Nekronte (Monte Dantífero) (Nemya)
+
+* Bosques Nekron (Monte Dantífero) (Nemya)
+
+* Casa de Baixo (Monte Dantífero) (Nemya)
+
+* Yar Matua (Tellyerus)
+
+* Fortaleza Glacial (Fukuyn) (Tellyerus)
+
+* Gler Rathis (Tellyerus)
+
+* Anak (Tellyerus)
+
+* Lorgashe (Nedurt) (Tellyerus)
+
+* Zay'Zut  (Tellyerus)
+
+* Academia Violeta (Kessent) (Tellyerus)
+
+* Bosque Syar (Kessent) (Tellyerus)
+
+* Vales Ocultos (Kessent) (Tellyerus)
 
 
 
@@ -94,4 +156,184 @@
 //	//	Masmorras
 //
 
-* 
+* Tandlard
+
+    * (Classe )
+
+    * (Classe )
+
+* Kessen'Mital 
+
+    * (Classe )
+
+    * (Classe )
+
+* Mar Liberto
+
+    * (Classe )
+
+    * (Classe )
+
+* Mar Indomado
+
+    * (Classe )
+
+    * (Classe )
+
+* Montanha dos Sonhos (Kasayur)
+
+    * (Classe )
+
+    * (Classe )
+
+* Ilhas Pesadelo (Kasayur)
+
+    * (Classe )
+
+    * (Classe )
+
+* Nor'Tand (Fullet)
+
+    * (Classe )
+
+    * (Classe )
+
+* Ibélia (Fullet)
+
+    * (Classe )
+
+    * (Classe )
+
+* Kamya (Fullet)
+
+    * (Classe )
+
+    * (Classe )
+
+* Torre Mecânica (Balebus) (Fullet)
+
+    * (Classe )
+
+    * (Classe )
+
+* Cidades Errantes (Balebus) (Fullet)
+
+    * (Classe )
+
+    * (Classe )
+
+* Aldrynn (Fullet)
+
+    * (Classe )
+
+    * (Classe )
+
+* Império Ashkar (Fullet)
+
+    * (Classe )
+
+    * (Classe )
+
+* Norte de Nemya (Nemya)
+
+    * (Classe )
+
+    * (Classe )
+
+* Necrópole Central (Nemya)
+
+    * (Classe )
+
+    * (Classe )
+
+* Portão Nekronte (Monte Dantífero) (Nemya)
+
+    * (Classe )
+
+    * (Classe )
+
+* Bosques Nekron (Monte Dantífero) (Nemya)
+
+    * (Classe )
+
+    * (Classe )
+
+* Casa de Baixo (Monte Dantífero) (Nemya)
+
+    * (Classe )
+
+    * (Classe )
+
+* Yar Matua (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Fortaleza Glacial (Fukuyn) (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Gler Rathis (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Anak (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Lorgashe (Nedurt) (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Zay'Zut  (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Academia Violeta (Kessent) (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Bosque Syar (Kessent) (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+* Vales Ocultos (Kessent) (Tellyerus)
+
+    * (Classe )
+
+    * (Classe )
+
+
+
+///////////////
+/////////////// Feedback
+///////////////
+
+Faltando áreas vulcanicas
+
+Faltando áreas montanhosas
+
+Tundras
+
+Taigas
+
+Floresta tropical
+
+Floresta temperada
+
+Estepe
