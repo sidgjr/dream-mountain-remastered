@@ -1,15 +1,124 @@
 //
-//	///	Personalidade
+//	///	Qualidades e Defeitos
 //
 
-* 
+* Razão
+
+    * Simples (Executa tarefas simples e podem usar habilidades).
+
+    * Primitivo (Possui personalidade).
+
+    * Racional (Pode usar itens e uso de linguagens).
+
+    * Intelectual (Possui um conhecimento em classe especial).
+
+* Qualidades
+
+    * Corajoso 
+
+    * Empático 
+
+    * Paciente 
+
+    * Leal 
+
+    * Proativo 
+
+    * Altruísta 
+
+    * Cordial 
+
+    * Criativo 
+
+    * Focado 
+
+    * Carismático 
+
+* Defeitos
+
+    * Indeciso 
+
+    * Ganancioso 
+
+    * Irritado 
+
+    * Irresponsável 
+
+    * Covarde 
+
+    * Egoísta 
+
+    * Babaca 
+
+    * Cruel 
+
+    * Arrogante 
+
+    * Preguiçoso 
+
+* Ambíguos
+
+    * Ambicioso 
+
+    * Frio 
+
+    * Sensível 
+
+    * Otimista 
+
+    * Honesto 
+
+    * Controlador 
+
+    * Exigente 
+
+    * Inocente 
+
+    * Excêntrico 
+
+    * Ousado 
+
 
 
 //
 //	///	Interpretação
 //
 
-* 
+* Inteligência
+
+		* Percepção (INT): 
+
+		* Solução (INT): 
+
+		* Composição (INT): 
+
+		* 
+
+		* 
+
+	* Agilidade
+
+		* Persuasão (AGI): 
+
+		* Iniciativa (AGI): 
+
+		* Trapaça (AGI): 
+
+		* 
+
+		* 
+
+	* Força
+
+		* Provocação (STR): 
+
+		* Intimidação (STR): 
+
+		* Exercicio (STR): 
+
+		* 
+
+		* 
 
 
 
@@ -17,4 +126,32 @@
 ///	///	Hostilidade
 ///
 
-* 
+* Tendência
+
+    * Dócil (Tenta interagir com os jogadores).
+
+    * Passivo (Não ira revidar ao ser atacado).
+
+    * Neutro (Revida).
+
+    * Territorial (Ataca jogadores que entrarem uma área especifica ou chegarem muito próximos).
+
+    * Hostil (Ataca jogadores sempre que possível).
+
+* Comportamento
+
+    * Monstro
+
+        * Monstros de classe Tet ou superior recebem metade do dano mágico e metade dos efeitos negativos.
+
+        * São atraídos por itens consumíveis, variando sua força e aparição pela classe do item ou se ele foi consumido ou não.
+
+        * Possuem foco em abater o alvo.
+
+    * Racional
+
+        * Inimigos racionais de classe Tet ou superior possuem itens, habilidades e ações semelhante a jogadores.
+
+        * São atraídos por equipamentos, variando sua força e aparição pela classe do item e principalmente a quantia de moedas de ouro e outros pertences de alto valor.
+
+        * Possuem algum objetivo váriavel.
