@@ -84,41 +84,41 @@
 //	///	Interpretação
 //
 
-* Inteligência
+* Inteligência (Modificadores)
 
-		* Percepção (INT): 
+		* Percepção (INT): Identificar detalhes importantes.
 
-		* Solução (INT): 
+		* Solução (INT): Resolver problemas e Enigmas.
 
-		* Composição (INT): 
+		* Criação (INT): Produção de algo.
 
-		* 
+		* Leitura (INT): Ler um texto em alguma linguagem antiga ou desconhecida.
 
-		* 
+		* Escrita (INT): Habilidade de escrever em qualquer linguagem.
 
 	* Agilidade
 
-		* Persuasão (AGI): 
+		* Persuasão (AGI): Convencer e manipular seres.
 
-		* Iniciativa (AGI): 
+		* Fuga (AGI): Fugir de um confronto ou problema.
 
-		* Trapaça (AGI): 
+		* Trapaça (AGI): Enganar os sentidos de seres.
 
-		* 
+		* Furtividade (AGI): Não ser detectado.
 
-		* 
+		* Roubo (AGI): Adquirir a posse de um item sem o consentimento.
 
 	* Força
 
-		* Provocação (STR): 
+		* Provocação (STR): Iniciar conflitos.
 
-		* Intimidação (STR): 
+		* Intimidação (STR): Assutar um ser.
 
-		* Exercicio (STR): 
+		* Exercicio (STR): Exercer uma atividade física.
 
-		* 
+		* Coragem (STR): Ignorar o medo.
 
-		* 
+		* Superação (STR): Quebrar limitações.
 
 
 
