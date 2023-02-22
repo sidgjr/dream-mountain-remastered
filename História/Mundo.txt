@@ -1,0 +1,97 @@
+//
+//	//	Geografia
+//
+
+* Polos
+
+    * Tandlard (Força).
+
+    * Kessen'Mital (Inteligência).
+
+* Mares
+
+    * Mar Liberto.
+
+    * Mar Indomado.
+
+* Continente
+
+    * Kasayur (Arquipelago).
+
+        * Montanha dos Sonhos.
+
+        * Ilhas Pesadelo.
+
+    * Nor'Tand (Barbaros, Pequeno continente perto de Tandlard).
+
+    * Fullet (Reino dos Homens).
+
+        * Cidade-Forte de Ibélia (Centro Militar, Norte).
+
+        * Kamya (Planices Luminescentes)
+
+        * Deserto Balebus (Centro Tecnológico, Centro).
+
+            * Torre Mecânica.
+
+            * Cidades Errantes.
+
+        * Aldrynn (Cidade Anciã)
+
+        * Império Ashkar (Centro Tradicional, Sul).
+
+    * Nemya (Reino dos Mortos).
+
+        * Norte de Nemya (habitável por uma pequena civilização).
+
+        * Necrópole Central.
+
+        * Monte Dantífero.
+
+            * Portão Nekronte.
+
+            * Bosques Nekron.
+
+            * Casa de Baixo.
+
+    * Tellyerus (Reino dos Monstros).
+
+        * Yar Matua (Floresta Exótica)
+
+        * Fukuyn (Montanhas Gêmeas)
+
+            * Fortaleza Glacial (Capital)
+
+        * Gler Rathis (Pantano Nevoeiro)
+
+        * Anak (Floresta dos Behemoth)
+
+        * Nedurt (Reino Esquecido)
+
+            * Lorgashe (Capital)
+
+        * Zay'Zut (Savana Celeste)
+
+        * Kessent (Sul)
+
+            * Academia Violeta.
+
+            * Bosque Syar.
+
+            * Vales Ocultos.
+
+
+
+//
+//	//	Ambientes
+//
+
+* 
+
+
+
+//
+//	//	Masmorras
+//
+
+* 
