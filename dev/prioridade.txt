@@ -2,33 +2,31 @@
 //	//	Atual
 //
 
-1. Lista de efeitos positivos e negativos (rascunhos)
+1. Consciência (rascunhos)
 
-2. Consciência (rascunhos)
+2. Mundo, Ambientes e Cidades (rascunhos)
 
-3. Mundo, Ambientes e Cidades (rascunhos)
+3. Raças (rascunhos)
 
-4. Raças (rascunhos)
+4. Criaturas (rascunhos)
 
-5. Criaturas (rascunhos)
+5. Materiais e Construção de itens (rascunhos)
 
-6. Materiais e Construção de itens (rascunhos)
+6. Estruturas (rascunhos)
 
-7. Estruturas (rascunhos)
+7. Itens e Runas (rascunhos)
 
-8. Itens e Runas (rascunhos)
+8. Novas Habilidades e Talentos (rascunhos)
 
-9. Novas Habilidades e Talentos (rascunhos)
+9. Rework de habilidades antigas (rascunhos)
 
-10. Rework de habilidades antigas (rascunhos)
+10. Lista de Propriedades (Refinamento)
 
 
 
 //
 //	//	Futuro
 //
-
-* Lista de Propriedades (Refinamento)
 
 * Lista de efeitos positivos e negativos (Refinamento)
 

@@ -1,13 +1,89 @@
 //
-//	///	Efeitos Positivos
+//	///	Efeitos Positivos (marcadores)
 //
 
-* 
+* Dissipação Fraca (Performance).
+
+    * Segurança (são todos consumidos em um erro critico para evitá-lo).
+
+    * Prioridades (Aumenta a influência na ordem de turnos).
+
+    * Fervor (Melhora habilidades).
+
+    * Atributo (Melhora um atributo).
+
+* Dissipação Média (Probabilidade).
+
+    * Sorte (Aumento de chance de acerto crítico).
+
+    * Produção (Chance de duplicar ou consumir menos itens).
+
+    * Esquiva (Uma chance de desviar de habilidades).
+
+    * Foco (Melhora a precisão).
+
+* Dissipação Superior (Resistência).
+
+    * Barreira (Suporta certas quantias de damo mágico).
+
+    * Armadura (Suporta certas quantias de dano físico).
+
+    * Regeneração (Cura pontos de vida por turno).
+
+    * Resistência (Suporta certas quantias de dano).
+
+* Dissipação Verdadeira (Especial).
+
+    * Saque (Aumenta o ganho de ouro e itens).
+
+    * Audácia (Escolha do melhor rolamento de dados).
+
+    * Distorção (Altera positivamente ou negativamente um fator aleatório).
+
+    * Imunidade (Não sofre dano nem efeitos negativos, menos puro).
 
 
 
 //
-//	///	Efeitos Negativos
+//	///	Efeitos Negativos (marcadores)
 //
 
-* 
+* Dissipação Fraca (Não-Debilitante).
+
+    * Lentidão (Reduz a velocidade).
+
+    * Veneno (Causa dano por turno).
+
+    * Fraqueza (Reduz o dano).
+
+    * Sangramento (Causa dano por turno, só é removido com Dissipação).
+
+* Dissipação Média (Debilitante).
+
+    * Cegueira (Aumenta a taxa de erro).
+
+    * Desarme (Não pode atacar ou usar Toque).
+
+    * Enraizamento (Não pode se mover).
+
+    * Silêncio (Não pode usar habilidades).
+
+* Dissipação Superior (Inutilizantes).
+
+    * Sono (Inutiliza o alvo até sofrer dano ou algum efeito).
+
+    * Desgaste (Aumenta o custo de mana, só é removido naturalmente ao dormir).
+
+    * Atordoamento (Inutiliza o alvo).
+
+    * Banimento (Inutiliza o alvo e o remove de combate).
+
+* Dissipação Verdadeira (Especial).
+
+    * Remoção (Remove marcadores a escolha).
+
+    * Medo (Inutiliza o alvo fazendo correr ou poder usar mobilidade na direção oposta).
+
+    * Azar (Escolha do pior rolamento de dados).
+
+    * Polimorfia (Se torna um monstro perdendo todas as suas habilidades e atributos pela da transformação).

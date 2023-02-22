@@ -4,11 +4,11 @@
 
 * Fraca
 
-	* Classe Samek ou inferior (efeitos não-imobilizantes ou de performance).
+	* Classe Samek ou inferior (efeitos não-debilitante ou de performance).
 
 * Média
 
-	* Classe Tet ou inferior (efeitos imobilizantes ou de probabilidade).
+	* Classe Tet ou inferior (efeitos debilitante ou de probabilidade).
 
 * Superior
 
@@ -57,8 +57,6 @@
 		* Fogo.
 
 		* Gélido.
-
-		* Natural.
 
 		* Sombrio.
 
@@ -138,40 +136,40 @@
 
 * Condicional (Fraca)
 
-	* Infortunio.
+	* Infortunio (Aleatoriedade em seu funcionamento).
 
-	* Sequência.
+	* Sequência (Efeitos adicionais ao fazer uma sequência).
 
-	* Alternativo.
+	* Alternativo (Efeitos adicionais ao pagar um custo extra).
 
-	* Enigma.
+	* Enigma (Muda a habilidade completamente devido a uma condição).
 
 * Maleável (Média)
 
-	* Reforçado.
+	* Reforçado (Acerto garantido).
 
-	* Fortificado.
+	* Fortificado (Dano se torna Puro).
 
-	* Diário.
+	* Diário (Usos limitados a um por dia).
 
-	* Dissipação.
+	* Dissipação (Dissipa algum efeito positivo ou negativo).
 
-* Váriavel (Superior)
+* Váriavel (Superior)		
 
-	* Fervor X.
+	* Fervor X (Adiciona X marcadores de Fervor).
 
-	* Ricochete X.
+	* Ricochete X (Acerta X alvos adicionais).
 
-	* Desgaste X.
+	* Desgaste X (Adiciona X marcadores de Desgaste).
 
-	* Canalizar X.
+	* Canalizar X (Canalizar por X turnos, sem poder sofrer dano ou efeitos para realizar algo).
 
 * Adicional (Verdadeira)
 
-	* Antecipação.
+	* Antecipação (Pode ser usado antes de uma ação).
 
-	* Proceder.
+	* Proceder (pode ser usado depois de uma ação).
 
-	* Súbito.
+	* Repetino (Pode ser usado fora do turno).
 
-	* Maestria.
+	* Maestria (Pode ser usado várias vezes durante os turnos).
