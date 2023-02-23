@@ -248,21 +248,27 @@
 
 * Necrópole Central (Nemya)
 
-    * (Classe )
+    * Salão Sangrento (Classe Tet)
 
-    * (Classe )
+    * Castelo de Ossos (Classe Het)
 
 * Portão Nekronte (Monte Dantífero) (Nemya)
 
-    * (Classe )
+    * Enseada dos Corpos (Classe Zayin)
 
-    * (Classe )
+    * Pedágio para o Abismo (Classe Zayin)
 
 * Bosques Nekron (Monte Dantífero) (Nemya)
 
-    * (Classe )
+    * Trilha Solitária (Classe Dalet)
 
-    * (Classe )
+    * Mata Espinhosa (Classe Dalet)
+
+    * Monte Eterno (Classe Dalet)
+
+    * Lago dos Lamentos (Classe Dalet)
+
+    * Campo Espectral (Classe Zayin)
 
 * Casa de Baixo (Monte Dantífero) (Nemya)
 
@@ -331,13 +337,3 @@
     * Estepes Arcanas (Classe Het)
 
     * Obelisco (Classe Zayin)
-
-
-
-///////////////
-/////////////// Feedback
-///////////////
-
-Faltando áreas montanhosas
-
-Criaturas Aladas

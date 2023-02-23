@@ -4,31 +4,29 @@
 
 1. Consciência (rascunhos)
 
-2. Mundo, Ambientes e Cidades (rascunhos)
+2. Raças (rascunhos)
 
-3. Raças (rascunhos)
+3. Criaturas (rascunhos)
 
-4. Criaturas (rascunhos)
+4. Materiais e Construção de itens (rascunhos)
 
-5. Materiais e Construção de itens (rascunhos)
+5. Estruturas (rascunhos)
 
-6. Estruturas (rascunhos)
+6. Itens e Runas (rascunhos)
 
-7. Itens e Runas (rascunhos)
+7. Novas Habilidades e Talentos (rascunhos)
 
-8. Novas Habilidades e Talentos (rascunhos)
+8. Rework de habilidades antigas (rascunhos)
 
-9. Rework de habilidades antigas (rascunhos)
+9. Lista de Propriedades (Refinamento)
 
-10. Lista de Propriedades (Refinamento)
+10. Lista de efeitos positivos e negativos (Refinamento)
 
 
 
 //
 //	//	Futuro
 //
-
-* Lista de efeitos positivos e negativos (Refinamento)
 
 * Consciência (Refinamento)
 
