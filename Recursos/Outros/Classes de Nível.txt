@@ -22,6 +22,7 @@ Dalet (Classe 1)
 
 Aleph (Classe 0 ou Especial)
 
+
 //
 
 Shin
@@ -35,3 +36,8 @@ Het
 Zayin
 Dalet
 Aleph
+
+
+// Classes transcendentais (Lore)
+
+Ifest (Classe abstrata)

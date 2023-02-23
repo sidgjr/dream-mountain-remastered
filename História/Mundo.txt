@@ -16,7 +16,7 @@
 
 * Continente
 
-    * Kasayur (Arquipelago).
+    * Kassalon (Arquipelago).
 
         * Montanha dos Sonhos (Onde os desejos são realizados).
 
@@ -54,6 +54,10 @@
 
             * Casa de Baixo.
 
+    * Libers (Primeira República)
+
+        * Capital de Libers (Cidade mais rica do mundo).
+
     * Tellyerus (Reino dos Monstros).
 
         * Yar Matua (Floresta Exótica)
@@ -64,13 +68,13 @@
 
         * Gler Rathis (Pantano Nevoeiro)
 
-        * Anak (Floresta dos Behemoth)
+        * Zay'Zut (Savana Celeste)
 
         * Nedurt (Reino Esquecido)
 
             * Lorgashe (Capital)
 
-        * Zay'Zut (Savana Celeste)
+        * Anak (Floresta dos Behemoth)
 
         * Kessent (Sul)
 
@@ -92,7 +96,7 @@
 
     * Clima: 
 
-    * Flora: 
+    * Flora e Fauna: 
 
     * Solo: 
 
@@ -104,9 +108,9 @@
 
 * Mar Indomado.
 
-* Montanha dos Sonhos (Kasayur)
+* Montanha dos Sonhos (Kassalon)
 
-* Ilhas Pesadelo (Kasayur)
+* Ilhas Pesadelo (Kassalon)
 
 * Nor'Tand (Fullet)
 
@@ -132,17 +136,19 @@
 
 * Casa de Baixo (Monte Dantífero) (Nemya)
 
+* Libers 
+
 * Yar Matua (Tellyerus)
 
 * Fortaleza Glacial (Fukuyn) (Tellyerus)
 
 * Gler Rathis (Tellyerus)
 
-* Anak (Tellyerus)
+* Zay'Zut  (Tellyerus)
 
 * Lorgashe (Nedurt) (Tellyerus)
 
-* Zay'Zut  (Tellyerus)
+* Anak (Tellyerus)
 
 * Academia Violeta (Kessent) (Tellyerus)
 
@@ -158,87 +164,87 @@
 
 * Tandlard
 
-    * (Classe )
+    * Costa Sangrenta (Classe Dalet)
 
-    * (Classe )
+    * Tundra Boreal (Classe Aleph)
 
 * Kessen'Mital 
 
-    * (Classe )
+    * Praias Iridescentes (Classe Zayin)
 
-    * (Classe )
+    * Vulcão Oivuzev (Classe Dalet)
 
 * Mar Liberto
 
-    * (Classe )
+    * Tripulação Fantasma (Classe Samek)
 
-    * (Classe )
+    * Fenda Abissal (Classe Kaph)
 
 * Mar Indomado
 
-    * (Classe )
+    * O Primeiro Exílio (Classe Shin)
 
-    * (Classe )
+    * Tumúlo dos Leviatãs (Classe Zayin)
 
-* Montanha dos Sonhos (Kasayur)
+* Montanha dos Sonhos (Kassalon)
 
-    * (Classe )
+    * Ordem dos Magus (Classe Aleph)
 
-    * (Classe )
+    * Castelo Nulo (Classe Ifest)
 
-* Ilhas Pesadelo (Kasayur)
+* Ilhas Pesadelo (Kassalon)
 
-    * (Classe )
+    * Vale da Quietude (Classe Het)
 
-    * (Classe )
+    * Muros Sonambulos (Classe Dalet)
 
-* Nor'Tand (Fullet)
+* Nor'Tand
 
-    * (Classe )
+    * Caverna da Fúria (Classe Yod)
 
-    * (Classe )
+    * Frota Nevada (Classe Tet)
 
 * Ibélia (Fullet)
 
-    * (Classe )
+    * Muralhas de Basalto (Classe Kaph)
 
-    * (Classe )
+    * Presídio Central (Classe Yod)
 
 * Kamya (Fullet)
 
-    * (Classe )
+    * Santuário de Folhas (Classe Ayin)
 
-    * (Classe )
+    * Poço Lunar (Classe Samek)
 
 * Torre Mecânica (Balebus) (Fullet)
 
-    * (Classe )
+    * Feira dos Inventores (Classe Samek)
 
-    * (Classe )
+    * Oficina do Mundo (Classe Tet)
 
 * Cidades Errantes (Balebus) (Fullet)
 
-    * (Classe )
+    * Dirigível Mercenário (Classe Samek)
 
-    * (Classe )
+    * Desafio dos Exilados (Classe Kaph)
 
 * Aldrynn (Fullet)
 
-    * (Classe )
+    * Poço Solar (Classe Samek)
 
-    * (Classe )
+    * Labirinto do Primeiro Mago (Classe Het)
 
 * Império Ashkar (Fullet)
 
-    * (Classe )
+    * Sindicato Rebelde (Classe Resh)
 
-    * (Classe )
+    * Tribunal Supremo (Classe Ayin)
 
 * Norte de Nemya (Nemya)
 
-    * (Classe )
+    * Culto das Bruxas (Classe Samek)
 
-    * (Classe )
+    * Fronteira Morta (Classe Kaph)
 
 * Necrópole Central (Nemya)
 
@@ -260,63 +266,71 @@
 
 * Casa de Baixo (Monte Dantífero) (Nemya)
 
-    * (Classe )
+    * Portão Zero (Classe Aleph)
 
-    * (Classe )
+    * Sala da Invasão (Classe Ifest)
+
+* Libers 
+
+    * Liga dos Lutadores (Classe Yod)
+
+    * Jardim do Colecionador (Classe Tet)
+
+    * Propriedade dos Dourak (Classe Het)
 
 * Yar Matua (Tellyerus)
 
-    * (Classe )
+    * Vulcão Za'Ar (Classe Dalet)
 
-    * (Classe )
+    * Ruínas Anciãs (Classe Dalet)
 
-* Fortaleza Glacial (Fukuyn) (Tellyerus)
+* Fukuyn (Tellyerus)
 
-    * (Classe )
+    * Fortaleza Glacial (Classe Tet)
 
-    * (Classe )
+    * Galeria Criogênica (Classe Zayin)
 
 * Gler Rathis (Tellyerus)
 
-    * (Classe )
+    * Casa dos Venenos (Classe Yod)
 
-    * (Classe )
+    * O Fosso (Classe Tet)
+
+* Zay'Zut (Tellyerus)
+
+    * Colmeia Mãe (Classe Yod)
+
+    * Arquipelago Celeste (Classe Tet)
+
+* Nedurt (Tellyerus)
+
+    * Cofre Esquecido (Classe Kaph)
+
+    * Cemitério Real (Classe Tet)
 
 * Anak (Tellyerus)
 
-    * (Classe )
+    * Ninho de Serpes (Classe Tet)
 
-    * (Classe )
-
-* Lorgashe (Nedurt) (Tellyerus)
-
-    * (Classe )
-
-    * (Classe )
-
-* Zay'Zut  (Tellyerus)
-
-    * (Classe )
-
-    * (Classe )
+    * Rebanho de Behemoths (Classe Tet)
 
 * Academia Violeta (Kessent) (Tellyerus)
 
-    * (Classe )
+    * Muralha Azul (Classe Samek)
 
-    * (Classe )
+    * Torra da Direção (Classe Yod)
 
 * Bosque Syar (Kessent) (Tellyerus)
 
-    * (Classe )
+    * Lago das Fadas (Classe Tet)
 
-    * (Classe )
+    * Campo de Lótus (Classe Het)
 
 * Vales Ocultos (Kessent) (Tellyerus)
 
-    * (Classe )
+    * Estepes Arcanas (Classe Het)
 
-    * (Classe )
+    * Obelisco (Classe Zayin)
 
 
 
@@ -324,16 +338,6 @@
 /////////////// Feedback
 ///////////////
 
-Faltando áreas vulcanicas
-
 Faltando áreas montanhosas
 
-Tundras
-
-Taigas
-
-Floresta tropical
-
-Floresta temperada
-
-Estepe
+Criaturas Aladas

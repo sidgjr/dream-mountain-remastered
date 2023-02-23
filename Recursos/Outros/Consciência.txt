@@ -14,69 +14,69 @@
 
 * Qualidades
 
-    * Corajoso 
+    * Cordial: períto em pontualidade, etiqueta e elegância.
 
-    * Empático 
+    * Leal: uma boa e confiável companhia.
 
-    * Paciente 
+    * Empático: bom em entender sentimentos e o estado mental de outros.
 
-    * Leal 
+    * Simpático: alguém extremamente agrádavel.
 
-    * Proativo 
+    * Altruísta: não se incomoda em ajudar ou dividr os seus pertences.
 
-    * Altruísta 
+    * Calmo: um estado mental consistente e inabalável.
 
-    * Cordial 
+    * Paciente: facilmente aguarda as melhores oportunidades.
 
-    * Criativo 
+    * Proativo: disposto a tomar as primeiras ações.
 
-    * Focado 
+    * Humilde: reconhece suas limitações, além das qualidades de outros.
 
-    * Carismático 
+    * Focado: completamente dedicado em suas ações.
 
 * Defeitos
 
-    * Indeciso 
+    * Indeciso: 
 
-    * Ganancioso 
+    * Ganancioso: 
 
-    * Irritado 
+    * Irritado: 
 
-    * Irresponsável 
+    * Irresponsável: 
 
-    * Covarde 
+    * Distraído: 
 
-    * Egoísta 
+    * Egoísta: 
 
-    * Babaca 
+    * Desprezível: 
 
-    * Cruel 
+    * Cruel: 
 
-    * Arrogante 
+    * Arrogante: 
 
-    * Preguiçoso 
+    * Preguiçoso: 
 
 * Ambíguos
 
-    * Ambicioso 
+    * Ambicioso: 
 
-    * Frio 
+    * Frio: 
 
-    * Sensível 
+    * Sensível: 
 
-    * Otimista 
+    * Otimista: 
 
-    * Honesto 
+    * Honesto: 
 
-    * Controlador 
+    * Controlador: 
 
-    * Exigente 
+    * Exigente: 
 
-    * Inocente 
+    * Inocente: 
 
-    * Excêntrico 
+    * Excêntrico: 
 
-    * Ousado 
+    * Ousado: 
 
 
 
@@ -84,41 +84,43 @@
 //	///	Interpretação
 //
 
-* Inteligência (Modificadores)
+* Ações
 
-		* Percepção (INT): Identificar detalhes importantes.
+    * Inteligência (Modificadores)
 
-		* Solução (INT): Resolver problemas e Enigmas.
+		* Escrita (INT): habilidade de escrever em qualquer linguagem.
 
-		* Criação (INT): Produção de algo.
+		* Solução (INT): resolver problemas e Enigmas.
 
-		* Leitura (INT): Ler um texto em alguma linguagem antiga ou desconhecida.
+		* Leitura (INT): ler um texto em alguma linguagem antiga ou desconhecida.
 
-		* Escrita (INT): Habilidade de escrever em qualquer linguagem.
+		* Criação (INT): produção de algo.
+
+		* Percepção (INT): identificar detalhes importantes.
 
 	* Agilidade
 
-		* Persuasão (AGI): Convencer e manipular seres.
+		* Roubo (AGI): adquirir a posse de um item sem o consentimento.
 
-		* Fuga (AGI): Fugir de um confronto ou problema.
+		* Trapaça (AGI): enganar os sentidos de seres.
 
-		* Trapaça (AGI): Enganar os sentidos de seres.
+		* Furtividade (AGI): não ser detectado.
 
-		* Furtividade (AGI): Não ser detectado.
+		* Fuga (AGI): fugir de um confronto ou problema.
 
-		* Roubo (AGI): Adquirir a posse de um item sem o consentimento.
+		* Persuasão (AGI): convencer e manipular seres.
 
 	* Força
 
-		* Provocação (STR): Iniciar conflitos.
+		* Provocação (STR): iniciar conflitos.
 
-		* Intimidação (STR): Assutar um ser.
+		* Coragem (STR): ignorar o medo.
 
-		* Exercicio (STR): Exercer uma atividade física.
+		* Intimidação (STR): assutar um ser.
 
-		* Coragem (STR): Ignorar o medo.
+		* Exercicio (STR): exercer uma atividade física.
 
-		* Superação (STR): Quebrar limitações.
+		* Superação (STR): quebrar limitações.
 
 
 
