@@ -1,33 +1,31 @@
 * As 5 Raças Primordiais:
 
-	* Estilhaço (indisponível)
+	* Humano.
+
+	* Elfo.
 
 	* Helyr.
 
 	* Cael.
 
-	* Elfo.
-
-	* Humano.
+	* Estilhaço (indisponível)
 
 
 * Raças Mágicas:
 
-	* Selvagem.
-
-	* Nodonte.
-
-	* Kehar.
-
-	* -metamorfo
-
 	* -não possuir forma fisica
 
-	* -que se divide
+	* Nufia.
+
+	* Shinui.
+
+	* Ravari.
+
+	* Kehara.
+
+	* Nodonte.
 
 
 //
 
 algo não organico
-
-pequeno e fofo
