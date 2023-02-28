@@ -39,6 +39,8 @@
 
 		* Habilidade (Divisão): Se divide em 2 clones com metades dos atributos e marcadores arrendondados para cima.
 
+		* Habilidade (Fusão): Une 2 clones em um ser só.
+
 		* Talento (Impeto Gêmeo): Uma das copias de Divisão ganha um turno extra (O próximo).
 
 		* Talento (Travessura): Possuí uma pequena chance de anular magias.
@@ -73,4 +75,4 @@
 
 		* Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do dano físico sofrido. O mesmo se aplica a dano mágico e marcadores de Barreira.
 
-		* Habilidade (Forma Ancestral): Ganha Força igual aos marcadores de Armadura, Barreira e Resistência, porém não pode usar magias. Sofre metade dos efeitos negativos.
+		* Habilidade (Forma Ancestral): Ganha Força igual aos marcadores de Armadura, Barreira e Resistência, causando também marcadores de veneno igual a essa quantia nos oponentes que o acertar, porém não pode usar magias. Sofre metade dos efeitos negativos.

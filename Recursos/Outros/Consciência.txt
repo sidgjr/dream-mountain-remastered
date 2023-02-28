@@ -84,9 +84,9 @@
 //	///	Interpretação
 //
 
-* Ações
+* Ações (Modificadores)
 
-    * Inteligência (Modificadores)
+    * Inteligência
 
 		* Escrita (INT): habilidade de escrever em qualquer linguagem.
 
