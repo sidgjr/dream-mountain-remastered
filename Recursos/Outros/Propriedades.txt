@@ -34,7 +34,7 @@
 
 	* Controle.
 
-	* Suporte.
+	* Recuperação.
 
 	* Utilidade.
 

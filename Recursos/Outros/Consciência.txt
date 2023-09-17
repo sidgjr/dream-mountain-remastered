@@ -6,7 +6,7 @@
 
     * Simples (Executa tarefas simples e podem usar habilidades).
 
-    * Primitivo (Possui personalidade).
+    * Primitiva (Possui personalidade).
 
     * Racional (Pode usar itens e uso de linguagens).
 

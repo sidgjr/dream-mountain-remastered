@@ -15,5 +15,3 @@ Sistema de criação de criaturas (domésticas)
 Sistema de plantação
 
 Beneficiar quem interpretar bem seu personagem
-
-Faltando Ambiente do Mundo
