@@ -1,8 +1,18 @@
 * Shin (Classe básica)
 
-	* .
+	* Ar-Vivo
 
-		* .
+		* Nas margens das Praias Iridescentes, onde a realidade é invertida, uma váriação mágica de água-viva ilumina os céus em uma explosão de cores. Ao invés de ser aquático como seus parentes distantes, O Ar-Vivo através de uma fisionomia arcana possuí a habilidade de "nadar no ar".
+
+		* Seu corpo é composto de 90% de Mana, fazendo que emita brilhos fortes e coloridos, usados durante a noite para atrair parceiros, onde realizam danças e se multiplicam em individuos menores ao encontrar outro de sua espécie. Por essa natureza eles são facilmente atráidos por luminosidade, se multiplicam de forma exponensial tornando uma boa fonte de alimento e Mana.
+
+		* Eles costuman a descansar ao dia, boiano sobre águas absorvendo a luz solar, além de comer restos orgânicos e vegetações, só a noite emergindo dos mares e lagos em busca de parceiros.
+
+		* Além de serem atraídos por luz, também são atraídos por magia, sendo muito bons para detectar itens ou tesouros mágicos. Sua variação de cor é baseada nos pigmentos da sua dieta, possuíndo mais variações de cores no ambiente caótico das Praias Iridescentes, em outros ambientes ela tende a seguir uma coloração mais monocromática entre os seus indivíduos.
+
+		* Ao receber luz branca eles automátimacamente entram em estado de repouso e alimentação (O mesmo que ocorre durante o dia), Além de por sua composição de mana, ser extremamente caçado e criado para criação de poções e itens.
+
+		* Animal; Cnidário; Voador; Detritívoro; Origem: Praias Iridescentes (Kessen'Mital)
 
 	* .
 
@@ -69,9 +79,17 @@
 
 * Samek (Classe 7)
 
-	* .
+	* Lobo Celeste
 
-		* .
+		* Para acompanhar as criaturas voadoras do Arquipelago Celeste de Zay'Zut, o Lobo Celeste teve a adaptação de desenvolver uma membrana de pele entre suas patas dianteiras às traseiras permitindo voo planado. Além de planar possui alta velocidade terrestre, também podendo escalar e saltar entre arvóres ou ilhas voadoras.
+
+		* Por estar constamente próximo a nuvens sua pelagem é branca, com pequenas variações acizentadas, porém no peito, patas e fucinho possui coloração viva similar a de aves, para confundir presas e predadores.
+
+		* Vivem tanto em casal quanto em alcateias, tendo uma ótima comunicação e hierarquia entre seus membros, uivando em ultrasom em uma frequência que apenas eles escutem.
+
+		* São animais extremamente inteligentes e táticos, atacando sempre em vantagem númerica alvos grandes através da estratégia de exaustão e ataques em turnos.
+
+		* Animal; Canino; Voador Terrestre; Carnívoro; Origem: Arquipelago Celeste (Zay'Zut)
 
 	* .
 
@@ -121,7 +139,7 @@
 
 		* Esse tipo de furão pode ser encontrado apenas em ambiente extremamente hostis e severos como desertos e polos, fazendo que sua pelagem tenha cores amareladas e escuras para se esconder nas áreias, ou branca a acinzentado para a neve.
 
-		* O Furão-golias, além do tamanho colossal, possúi uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possuí a habilidade incomum de deslocar seus próprios ossos a fim de até duplicar o seu próprio comprimento.
+		* O Furão-golias, além do tamanho colossal, possui uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possuí a habilidade incomum de deslocar seus próprios ossos a fim de até duplicar o seu próprio comprimento.
 
 		* São especialistas na caça de vormes e ursos, sendo usados por muitos povos ao redor de Salon'gar para a caça e transporte.
 
@@ -156,7 +174,7 @@
 
 		* Embora extremamente agressivo e impulsivo o Tubarão-machado possui uma dieta Onívora, cortando as árvores a margem dos lagos e rios com seu bico similar a um machado, comendo suas folhas e os animais que a habitam. Quando muito faminto por carne em específico essa criatua é capaz de um salto veloz do rio para atacar sua presa fora d'agua, depois se rastejando de volta ao rio, ou em um salto capturando seu alimento e indo a um novo rio do outro lado junto a presa.
 
-		* Ao estar satisfeita com carne e folhas o animal é bem pacífico com outras formas de vida, tanto terrestre quanto aquáticas, a não ser que se aproximem do seu ninho feito de troncos das arvóres caídas ou das que eles mesmo cortam.
+		* Ao estar satisfeito com carne e folhas o animal é bem pacífico com outras formas de vida, tanto terrestre quanto aquáticas, a não ser que se aproximem do seu ninho feito de troncos das arvóres caídas ou das que eles mesmo cortam.
 
 		* Apesar de não ter uma Inteligência notável o Tubarão-machado possui uma atividade peculiar de autoconsciência: quando de bom humor e satisfeito costuma procurar por sementes a beira da água e replanta-las, uma atitude que a longo prazo o retornará mais alimento, tornando-o um pseudo-agricultor. Além do cultivo, por um motivo desconhecido essa criatura constrói algumas estruturas peculiares de madeira como uma forma rudimentar de arte.
 
@@ -185,11 +203,11 @@
 
 		* Um verme colossal, maior entre todos os gigantescos vormes de Salon'gar, Com a capacidade de devorar cidades inteiras, formando cráteras extensas por onde cavan ou criando seus ninhos. Mesmo tendo uma força massiva é uma criatura territorial, atacando apenas quem se aproxima do seu ninho e construções aos arredores.
 
-		* Os vormes de Balebus possuem uma característica incomum: não se alimetam de orgânicos. Tem uma preferência por devorar metais e pedras preciosas, dando preferência a qualidade, brilho e resistência do material, assumindo aparência próxima a sua dieta com variações de rocha e areia (principais da sua dieta).
+		* Os vormes de Balebus possuem uma característica incomum: não se alimetam de matéria orgânica. Tem uma preferência por devorar metais e pedras preciosas, dando preferência a qualidade, brilho e resistência do material, assumindo aparência próxima a sua dieta com variações de rocha e areia (principais da sua dieta).
 		
-		* Seu apetite por materiais raros pode faze-los atacar viajantes que não estejam o incomodando, mas sim possuindo jóias e ouro como comerciantes. Mesmo sendo devoradores de fortunas são muito bons em encontrar os mesmos materiais e tesouros.
+		* Seu apetite por materiais raros pode faze-los atacar viajantes que não estejam o incomodando, mas sim possuindo joias e ouro como comerciantes. Mesmo sendo devoradores de fortunas são muito bons em encontrar os mesmos materiais e tesouros.
 		
-		* Ao eclodir dos ovos, caso seja acolhido e alimentado com materiais preciosos durante sua infância o vorme gera uma lealdade incondicional por seu cuidador, sendo a única forma descoberta de como adestrar essa aberração dos desertos, sendo muito usado por piratas e exilados de Balebus.
+		* Ao eclodir dos ovos, caso seja acolhido e alimentado com materiais preciosos durante sua infância o vorme gera uma lealdade incondicional por seu cuidador, sendo a única forma descoberta de como adestrar essa aberração dos desertos, tática utilizada principalmente por piratas e exilados de Balebus.
 		
 		* Animal; Anelídeo; Terrestre; Detritívoro; Origem: Balebus, Deserto Central
 

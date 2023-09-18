@@ -4,9 +4,9 @@
 
 * Polos
 
-    * Tandlard (Força).
+    * Tandlard (Polo da Força).
 
-    * Kessen'Mital (Inteligência).
+    * Kessen'Mital (Polo da Mente).
 
 * Mares
 

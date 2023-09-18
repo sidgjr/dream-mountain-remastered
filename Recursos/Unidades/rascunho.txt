@@ -1,13 +1,3 @@
-* Ar-Vivo
-
-    * 
-
-
-* Lobo Celeste
-
-    * 
-
-
 * Draco sonolento
 
     * 
@@ -17,6 +7,13 @@
 
     * 
 
+
+* Planta Leviatã
+
+    * 
+
+
+// Depois
 
 * Baleia Voadora
 
@@ -28,7 +25,22 @@
     * 
 
 
-* Planta Leviatã
+* 
+
+    * 
+
+
+* 
+
+    * 
+
+
+* 
+
+    * 
+
+
+* 
 
     * 
 
@@ -37,14 +49,45 @@
 
 * Balebus 2
 
-* Anak 1
+* Tandlard 1
 
-* Costa Sangrenta1
+* Anak 1
 
 * Nor'Tand 1
 
-* Tandlard 1
+* Kessen'Mital 1
+
+* Zay'Zut 1
 
 * 
 
 * 
+
+* 
+
+* 
+
+
+// Outros
+
+* Pesca 
+
+* Agricultura, vegetal
+
+* Agricultura maior
+
+* Agricultura Frutas (arvóres)
+
+* Coleta de Frutos do mar
+
+* Esquentar alimentos
+
+* Construção
+
+* Caça Noturna
+
+* Ordenhar
+
+* Encantar
+
+* Acumular XP
