@@ -8,7 +8,7 @@
 
     * Vantagem: cada ponto de Força concede 2 pontos de vida máxima. Cada 5 pontos concedem 1 de dano base.
 
-    * Bônus: cada 5 pontos de Força concedem 1 ponto de regeneração de vida.
+    * Bônus: cada 10 pontos de Força concedem 1 ponto de regeneração de vida.
 
     * Principal: Ao ficar abaixo da metade vida recebe duplica a regeneração vida e cura recebida.
 
@@ -43,8 +43,6 @@
     * Terrestre.
 
     * Aquático.
-
-    * Anfíbio.
 
     * Voador.
 
@@ -92,40 +90,40 @@
 
 * Movimentação (Fraca)
 
-	* Submergir ()
+	* Submergir (Escavar e se locomever dentro de algumas superfícies)
 
-	* Salto ()
+	* Salto (Realizar grandes pulos)
 
-	* Voo ()
+	* Escalar (Poder se mover em algumas paredes ou tetos)
 
-	* Investida ()
+	* Impulso (Domínio na movimentação)
 
-*  (Média)
+* Sobrevivência (Média)
 
-	* _ ()
+	* Disparo (Possuí ataques básicos a distância)
 
-	* _ ()
+	* Regeneração (Regeneração de vida e mana base além dos atributos)
 
-	* _ ()
+	* Detecção (Capacidade poder identificar e prever coisas)
 
-	* _ ()
+	* Camuflagem (Se esconder no meio ambiente ou até se tornar invisível)
 
-*  (Superior)
+* Peculiaridade (Superior)
 
-	* _ ()
+	* Comunicação (Poder se comunicar com individuos da mesma espécie ou outros seres)
 
-	* _ ()
+	* Mimetismo (Imitiar um outro ser ou a habilidade do mesmo)
 
-	* _ ()
+	* Multiplicação (Criar cópias de si mesmo ou outros indivíduos da mesma espécie)
 
-	* _ ()
+	* Resistência (Redução de danos e efeitos além dos marcadores)
 
-*  (Verdadeira)
+* Única (Verdadeira)
 
-	* _ ()
+	* Imune (Imunidade a algum efeito, propriedade e etc)
 
-	* _ ()
+	* Especialização (Escolher e mudar o atributo principal)
 
-	* _ ()
+	* Conjuração (Conjurar magias e habilidades como um jogador ou NPC)
 
-	* _ ()
+	* Renascimento (Voltar a vida ou evitar a morte)
