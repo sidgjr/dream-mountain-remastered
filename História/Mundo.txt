@@ -30,7 +30,7 @@
 
         * Kamya (Planices Luminescentes)
 
-        * Balebus (Deserto, Centro).
+        * Balebus (Deserto Central, Centro).
 
             * Torre Mecânica (Centro Tecnológico).
 
@@ -89,72 +89,73 @@
 //
 //	//	Ambientes
 //
+*
 
-* Tandlard
+    * Tandlard
 
-    * Vegetação: 
+        * Vegetação: 
 
-    * Clima: 
+        * Clima: 
 
-    * Flora e Fauna: 
+        * Flora e Fauna: 
 
-    * Solo: 
+        * Solo: 
 
-    * Hidrografia: 
+        * Hidrografia: 
 
-* Kessen'Mital 
+    * Kessen'Mital 
 
-* Mar Liberto.
+    * Mar Liberto.
 
-* Mar Indomado.
+    * Mar Indomado.
 
-* Montanha dos Sonhos (Kassalon)
+    * Montanha dos Sonhos (Kassalon)
 
-* Ilhas Pesadelo (Kassalon)
+    * Ilhas Pesadelo (Kassalon)
 
-* Nor'Tand (Fullet)
+    * Nor'Tand (Fullet)
 
-* Ibélia (Fullet)
+    * Ibélia (Fullet)
 
-* Kamya (Fullet)
+    * Kamya (Fullet)
 
-* Torre Mecânica (Balebus) (Fullet)
+    * Torre Mecânica (Balebus) (Fullet)
 
-* Cidades Errantes (Balebus) (Fullet)
+    * Cidades Errantes (Balebus) (Fullet)
 
-* Aldrynn (Fullet)
+    * Aldrynn (Fullet)
 
-* Império Ashkar (Fullet)
+    * Império Ashkar (Fullet)
 
-* Norte de Nemya (Nemya)
+    * Norte de Nemya (Nemya)
 
-* Necrópole Central (Nemya)
+    * Necrópole Central (Nemya)
 
-* Portão Nekronte (Monte Dantífero) (Nemya)
+    * Portão Nekronte (Monte Dantífero) (Nemya)
 
-* Bosques Nekron (Monte Dantífero) (Nemya)
+    * Bosques Nekron (Monte Dantífero) (Nemya)
 
-* Casa de Baixo (Monte Dantífero) (Nemya)
+    * Casa de Baixo (Monte Dantífero) (Nemya)
 
-* Libers 
+    * Libers 
 
-* Yar Matua (Tellyerus)
+    * Yar Matua (Tellyerus)
 
-* Fortaleza Glacial (Fukuyn) (Tellyerus)
+    * Fortaleza Glacial (Fukuyn) (Tellyerus)
 
-* Gler Rathis (Tellyerus)
+    * Gler Rathis (Tellyerus)
 
-* Zay'Zut  (Tellyerus)
+    * Zay'Zut  (Tellyerus)
 
-* Lorgashe (Nedurt) (Tellyerus)
+    * Lorgashe (Nedurt) (Tellyerus)
 
-* Anak (Tellyerus)
+    * Anak (Tellyerus)
 
-* Academia Violeta (Kessent) (Tellyerus)
+    * Academia Violeta (Kessent) (Tellyerus)
 
-* Bosque Syar (Kessent) (Tellyerus)
+    * Bosque Syar (Kessent) (Tellyerus)
 
-* Vales Ocultos (Kessent) (Tellyerus)
+    * Vales Ocultos (Kessent) (Tellyerus)
 
 
 

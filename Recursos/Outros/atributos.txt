@@ -4,7 +4,7 @@
 
 * Força
 
-    * Sobre: 
+    * Sobre: O atributo responsável pela fisíca e propriedade de seres e objetos.
 
     * Vantagem: cada ponto de Força concede 2 pontos de vida máxima. Cada 5 pontos concedem 1 de dano base.
 
@@ -14,7 +14,7 @@
 
 * Agilidade
 
-    * Sobre: 
+    * Sobre: O atributo responsável pelo comportamento do ser ou objeto em relação ao mundo.
 
     * Vantagem: cada ponto de Agilidade concede 1 pontos de velocidade. Cada 10 pontos concedem 1 ponto de precisão.
 
@@ -24,7 +24,7 @@
 
 * Inteligência
 
-    * Sobre: 
+    * Sobre: O atributo responsável pela consciência do ser ou objeto.
 
     * Vantagem: cada ponto de Inteligência concede 3 pontos de mana máximo. Cada 15 pontos concedem 1 ponto de habilidade.
 
@@ -38,13 +38,17 @@
 //	///	Características
 //
 
-* Tipo (locomoção)
+* Tipo (categoria)
 
-    * Terrestre.
+    * Animal.
 
-    * Aquático.
+    * Monstro.
 
-    * Voador.
+    * Elemental.
+
+    * Morto-vio.
+
+    * Etc.
 
 * Tipo (espécie)
 
@@ -60,17 +64,13 @@
 
     * Etc.
 
-* Tipo (categoria)
+* Tipo (locomoção)
 
-    * Animal.
+    * Terrestre.
 
-    * Monstro.
+    * Aquático.
 
-    * Elemental.
-
-    * Morto-vio.
-
-    * Etc.
+    * Voador.
 
 * Tipo (alimentação)
 

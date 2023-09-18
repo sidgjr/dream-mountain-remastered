@@ -115,9 +115,19 @@
 
 * Yod (Classe 5)
 
-	* .
+	* Furão-golias
 
-		* .
+		* O nome Golias define bem sua altura e comprimento em relação a outras espécies de furão, podendo alcancar o tamanho de um cavalo junto com um comprimento desproporcional de oito vezes sua altura, tornando-o um ser tão adorável quanto monstruoso.
+
+		* Esse tipo de furão pode ser encontrado apenas em ambiente extremamente hostis e severos como desertos e polos, fazendo que sua pelagem tenha cores amareladas e escuras para se esconder nas áreias, ou branca a acinzentado para a neve.
+
+		* O Furão-golias, além do tamanho colossal, possúi uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possuí a habilidade incomum de deslocar seus próprios ossos a fim de até duplicar o seu próprio comprimento.
+
+		* São especialistas na caça de vormes e ursos, sendo usados por muitos povos ao redor de Salon'gar para a caça e transporte.
+
+		* Possuem um comportamento incomum de código moral, mesmo famintos e extremamente cansados nunca atacam filhotes ou seres humanoides, além de sempre tentar interações e comunicações com seres que possívelmente podem ser parceiros de caça.
+
+		* Animal; Mustelídeo; Terrestre; Carnívoro; Origem: Costa Sangrenta, Nor'Tand, Balebus
 
 	* .
 
@@ -138,9 +148,19 @@
 
 * Tet (Classe 4)
 
-	* .
+	* Tubarão-machado
 
-		* .
+		* Difente de seus parentes o Tubarão-machado consegue viver tanto em água doce quanto nos mares, e por seu habitat preferido ser grandes rios e lagos esse monstro desenvolveu coloração de um marrom carvalho com variações de verde para imitar a folhas e troncos caídos a água.
+
+		* Sua camuflagem não é feita para caça, sendo usada apenas para o sono e hibernação sem Incômodo, porque quando essa criatura avista uma presa ela ataca imediatamente seu alvo sem ele se quer diferenciar a vegetação de seu predador.
+
+		* Embora extremamente agressivo e impulsivo o Tubarão-machado possui uma dieta Onívora, cortando as árvores a margem dos lagos e rios com seu bico similar a um machado, comendo suas folhas e os animais que a habitam. Quando muito faminto por carne em específico essa criatua é capaz de um salto veloz do rio para atacar sua presa fora d'agua, depois se rastejando de volta ao rio, ou em um salto capturando seu alimento e indo a um novo rio do outro lado junto a presa.
+
+		* Ao estar satisfeita com carne e folhas o animal é bem pacífico com outras formas de vida, tanto terrestre quanto aquáticas, a não ser que se aproximem do seu ninho feito de troncos das arvóres caídas ou das que eles mesmo cortam.
+
+		* Apesar de não ter uma Inteligência notável o Tubarão-machado possui uma atividade peculiar de autoconsciência: quando de bom humor e satisfeito costuma procurar por sementes a beira da água e replanta-las, uma atitude que a longo prazo o retornará mais alimento, tornando-o um pseudo-agricultor. Além do cultivo, por um motivo desconhecido essa criatura constrói algumas estruturas peculiares de madeira como uma forma rudimentar de arte.
+
+		* Animal; Peixe; Aquático; Onívoro; Origem: Anak, Floresta dos Behemoth
 
 	* .
 
@@ -161,9 +181,17 @@
 
 * Het (Classe 3)
 
-	* .
+	* Vorme do Exílio
 
-		* .
+		* Um verme colossal, maior entre todos os gigantescos vormes de Salon'gar, Com a capacidade de devorar cidades inteiras, formando cráteras extensas por onde cavan ou criando seus ninhos. Mesmo tendo uma força massiva é uma criatura territorial, atacando apenas quem se aproxima do seu ninho e construções aos arredores.
+
+		* Os vormes de Balebus possuem uma característica incomum: não se alimetam de orgânicos. Tem uma preferência por devorar metais e pedras preciosas, dando preferência a qualidade, brilho e resistência do material, assumindo aparência próxima a sua dieta com variações de rocha e areia (principais da sua dieta).
+		
+		* Seu apetite por materiais raros pode faze-los atacar viajantes que não estejam o incomodando, mas sim possuindo jóias e ouro como comerciantes. Mesmo sendo devoradores de fortunas são muito bons em encontrar os mesmos materiais e tesouros.
+		
+		* Ao eclodir dos ovos, caso seja acolhido e alimentado com materiais preciosos durante sua infância o vorme gera uma lealdade incondicional por seu cuidador, sendo a única forma descoberta de como adestrar essa aberração dos desertos, sendo muito usado por piratas e exilados de Balebus.
+		
+		* Animal; Anelídeo; Terrestre; Detritívoro; Origem: Balebus, Deserto Central
 
 	* .
 
