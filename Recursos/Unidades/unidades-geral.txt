@@ -2,13 +2,13 @@
 
 	* Ar-Vivo
 
-		* Nas margens das Praias Iridescentes, onde a realidade é invertida, uma váriação mágica de água-viva ilumina os céus em uma explosão de cores. Ao invés de ser aquático como seus parentes distantes, O Ar-Vivo através de uma fisionomia arcana possuí a habilidade de "nadar no ar".
+		* Nas margens das Praias Iridescentes, onde a realidade é invertida, uma váriação mágica de água-viva ilumina os céus em uma explosão de cores. Ao invés de ser aquático como seus parentes distantes, O Ar-Vivo através de uma fisionomia arcana possui a habilidade de "nadar no ar".
 
 		* Seu corpo é composto de 90% de Mana, fazendo que emita brilhos fortes e coloridos, usados durante a noite para atrair parceiros, onde realizam danças e se multiplicam em individuos menores ao encontrar outro de sua espécie. Por essa natureza eles são facilmente atráidos por luminosidade, se multiplicam de forma exponensial tornando uma boa fonte de alimento e Mana.
 
 		* Eles costuman a descansar ao dia, boiano sobre águas absorvendo a luz solar, além de comer restos orgânicos e vegetações, só a noite emergindo dos mares e lagos em busca de parceiros.
 
-		* Além de serem atraídos por luz, também são atraídos por magia, sendo muito bons para detectar itens ou tesouros mágicos. Sua variação de cor é baseada nos pigmentos da sua dieta, possuíndo mais variações de cores no ambiente caótico das Praias Iridescentes, em outros ambientes ela tende a seguir uma coloração mais monocromática entre os seus indivíduos.
+		* Além de serem atraídos por luz, também são atraídos por magia, sendo muito bons para detectar itens ou tesouros mágicos. Sua variação de cor é baseada nos pigmentos da sua dieta, possuindo mais variações de cores no ambiente caótico das Praias Iridescentes, em outros ambientes ela tende a seguir uma coloração mais monocromática entre os seus indivíduos.
 
 		* Ao receber luz branca eles automátimacamente entram em estado de repouso e alimentação (O mesmo que ocorre durante o dia), Além de por sua composição de mana, ser extremamente caçado e criado para criação de poções e itens.
 
@@ -110,13 +110,27 @@
 
 * Kaph (Classe 6)
 
-	* .
+	* Enguia Incendiária
 
-		* .
+		* As criaturas do Pantano Nevoeiro em sua maioria são peçonhentas, diferente do seu habitat e de outros membros da sua espécie a Enguia Incendiária tem em seu arsenal uma habilidade diferente: o fogo.
 
-	* .
+		* Mesmo não tendo a capacidade de eletrocutar como seus parentes distantes essa criatua consegue produzir uma temperatura extremamente alta nas águas que habitam, aniquilando predadores e presas, além realizar queimaduras graves em quem toca. Também possui uma alta resistência a magias de água, gelo e fogo.
 
-		* .
+		* Embora extraordinária em suas habilidades de caça é fragil e bem menor que outras enguias. É um animal extremamente apreciado na culinária arcana, com uma carne que nunca esfria que pode ser apenas preparada por grandes magos de fogo.
+
+		* Não é um animal agressivo, usando suas habilidades apenas quando muito assustada, podendo ser facilmente atraída e domesticada usando fogo ou magias e itens relacionados com o aumento de temperatura.
+
+		* Animal; Gimnotídeo; Aquático; Carnívoro; Origem: Gler Rathis
+
+	* Manta-real
+
+		* Um animal raro e extremamente apreciado por comerciantes marítimos, a Manta-real é uma raia com a capacidade de conseguir voar e planar por longos períodos quando bem alimentada. Costuma voar a grandes alturas para caçar aves, mesclando com o seu cardápio natural de peixes.
+
+		* Por seu tamanho colossal e ser extremamente dócil com outros seres que não fazem parte da sua dieta, são domesticada e criadas por marinheiros ou comerciantes como meio de transporte, pesca e até mesmo fins militares.
+
+		* A Manta-real pode transportar toneladas acima do seu corpo, além de possuir um veneno mortal em sua cauda que pode causar sangramentos graves a qualquer individuo que demonstre hostilidade. É extremamente mais cara e mais útil do que um barco ou dirigível;
+
+		* Animal; Batóide; Aquático; Carnívoro; Origem: Mar Liberto
 
 	* .
 
@@ -139,7 +153,7 @@
 
 		* Esse tipo de furão pode ser encontrado apenas em ambiente extremamente hostis e severos como desertos e polos, fazendo que sua pelagem tenha cores amareladas e escuras para se esconder nas áreias, ou branca a acinzentado para a neve.
 
-		* O Furão-golias, além do tamanho colossal, possui uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possuí a habilidade incomum de deslocar seus próprios ossos a fim de até duplicar o seu próprio comprimento.
+		* O Furão-golias, além do tamanho colossal, possui uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possui a habilidade incomum de deslocar seus próprios ossos a fim de até duplicar o seu próprio comprimento.
 
 		* São especialistas na caça de vormes e ursos, sendo usados por muitos povos ao redor de Salon'gar para a caça e transporte.
 
@@ -178,7 +192,7 @@
 
 		* Apesar de não ter uma Inteligência notável o Tubarão-machado possui uma atividade peculiar de autoconsciência: quando de bom humor e satisfeito costuma procurar por sementes a beira da água e replanta-las, uma atitude que a longo prazo o retornará mais alimento, tornando-o um pseudo-agricultor. Além do cultivo, por um motivo desconhecido essa criatura constrói algumas estruturas peculiares de madeira como uma forma rudimentar de arte.
 
-		* Animal; Peixe; Aquático; Onívoro; Origem: Anak, Floresta dos Behemoth
+		* Animal; Lamnídeo; Aquático; Onívoro; Origem: Anak, Floresta dos Behemoth
 
 	* .
 
@@ -253,13 +267,29 @@
 
 * Dalet (Classe 1)
 
-	* .
+	* Zorrante
 
-		* .
+		* Uma aberração das terras dos sonhos e pesadelos, o Zorrante possui um corpo escuro de salamandra, tendo olhos e bocas emitindo uma forte luz branca. Possui um metabolismo sobrenatural, necessitando apenas de boas horas de sono para repor as forças ao invés de alimentos.
 
-	* .
+		* Além do metabolismo esse monstro pode disparar rajadas de luz obliteradoras, apagando da existência qualquer coisa em seu caminho. Também tem a capacidade de através de suas guelras produzir uma sombra viva que envolve seu corpo tornando-o apenas uma nuvem negra, tendo apenas o brilho de seus olhos e boca a mostra
 
-		* .
+		* Sua fome funciona como uma bateria de sono, para cada hora acordado necessita de duas de sono, não se alimenta de nada, aniquilando outras formas de vida apenas por território.
+
+		* É encontrado raramente em estado de repouso por todo Kassalon, principalmente no Vale da Quietude junto a outras criaturas lendárias, porém também pode ser encontrado nos Muros Sonambulos.  
+
+		* Monstro; Anfíbio; Terrestre Aquático; ?; Origem: Ilhas Pesadelo (Kassalon)
+
+	* Fulgurodonte
+
+		* Na tempestade caótica de elementos do Vulcão Oivuzev, o Fulgurodonte se aproveita das mudanças climáticas para emboscar suas vitímas. Um Tubarão com uma fisionomia arcana tendo a estranha habilidade de "nadar no ar" em alta velocidade. Além do "voo", possui a habilidade de criar e manipular tempestades ou tornados, sendo um verdadeiro terror climático.
+
+		* Além da voracidade, velocidade e força sem iguais, graças a sua reserva de mana e seu habitat natural consegue conjurar mágias de água, gelo, vento ou trovão, também tendo uma alta resistência a esses mesmos elementos.
+
+		* Mesmo com um tamanho igual a de uma baleia, essa criatura colossal ataca em bandos, principalmente em movimentos circulares graças a uma estratégia de emboscar presas me tornados, tática desenvolvida para caçar criaturas míticas e lendárias que habitam no Polo da Mente.
+
+		* É um ser extremamente agressivo, porém prioriza sempre os maiores alvos, inclusive até interrompendo o ataque a uma presa caso uma maior surja. Difente de seus parentes distantes os tubarões, o Fulgurodonte ao invés de ter um alfato aguçado para sangue ele consegue sentir o cheiro do gasto de mana, também sendo atraído por grandes conjurações. 
+
+		* Animal; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
 
 	* .
 
@@ -276,6 +306,16 @@
 
 * Aleph (Classe Especial)
 
+	* Helyatã
+
+		* A lenda diz que um sábio Helyr, por curiosidade, permitiu a entrada dos primeiros nulos sobre Salon'gar criando um acesso milenar na montanha dos sonhos. A Primeira Invasão, em um ato de traição, transformou o sábio no primeiro Leviatã que o mundo já teve. Mesmo sendo morto pelos Nove Heróis na Era da Noite, suas criaras se espalharam pelo mundo, principalmente pelo Mar Indomado, mas exemplares podem ser encontrados na Floresta Exótica de Yar Matua.
+
+		* Por se tratar de uma criatura que já foi um Helyr, também tem as mesmas características de um ser mesclado entre fauna e flora, tendo folhas e cascos de arvóres formando o seu corpo. Mesmo sendo uma criatura marítima o tom esverdeado de ser uma flora ambulante da ao Helyatã uma visão bem graciosa, porém o seu comportamento é o mesmo de um monstro, aniquilando qualquer coisa em seu caminho.
+
+		* É o maior ser vivo já observado em todo Salon'gar, suas medidas corretas ainda são desconhecidas, possuindo a capacidade de devorar cidades inteiras com apenas uma mordida. Além de ser a maior criatura que já existiu, por onde passa deixa esporos do seu corpo em forma de flores nas águas, também as esverdeado com uma substância extremamente tóxica. Essa mesma substância é uma das substâncias mais raras e caras do mundo.
+
+		* Animal Planta; ?; Aquático; Onívoro; Origem: Mar Indomado, Yar Matua
+	
 	* .
 
 		* .

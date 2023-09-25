@@ -1,17 +1,4 @@
-* Draco sonolento
-
-    * 
-
-
-* Tubarão voador
-
-    * 
-
-
-* Planta Leviatã
-
-    * 
-
+* 
 
 // Depois
 
@@ -25,12 +12,12 @@
     * 
 
 
-* 
+* Pantera Mente
 
     * 
 
 
-* 
+* Dino
 
     * 
 
@@ -49,28 +36,28 @@
 
 * Balebus 2
 
+* Kessen'Mital 2
+
+* Kassalon 1
+
 * Tandlard 1
+
+* Yar Matua 1
 
 * Anak 1
 
 * Nor'Tand 1
 
-* Kessen'Mital 1
-
 * Zay'Zut 1
 
-* 
+* Gler Rathis 1
 
-* 
-
-* 
+* Mar Liberto
 
 * 
 
 
 // Outros
-
-* Pesca 
 
 * Agricultura, vegetal
 
@@ -91,3 +78,125 @@
 * Encantar
 
 * Acumular XP
+
+* Produzir Tintura
+
+* Produzir Música
+
+* Breed
+
+* Criar um egg do mob
+
+* Mesa
+
+* Fornalha
+
+* Brew Station
+
+* Nadar na lava
+
+* Coletar itens aleatórios
+
+* Concede buff de potions
+
+* Pode transportar Mobs Terrestre
+
+* Pode transportar Mobs Aquático
+
+* Pode transportar Mobs Aquático (submerso)
+
+* Pode transportar Mobs Voador
+
+* Pode transportar Itens Terrestre
+
+* Pode transportar Itens Voador
+
+* Pode transportar Itens Aquático
+
+* Workbench de ferreiro
+
+* Defumador
+
+* Armazena mobs (Poke)
+
+* Pode usar armas
+
+* Pode usar itens
+
+* Pode usar consumível, bufando outros
+
+* Pode escavar terra
+
+* Pode escavar pedra
+
+* Arar terra
+
+* Armazenar liquidos
+
+* Crafting de itens automático
+
+* Saber o horário
+
+* Saber a localização
+
+* Detectar mobs hostis
+
+* Detectar mobs pacíficos
+
+* Coletar itens
+
+* Terrestre, incendiar
+
+* Voador, incendiar
+
+* Arrastar mobs, Terrestre
+
+* Arrastar mobs, aquático
+
+* Cortar pelo
+
+* Usar Ferramentas
+
+* Pseudo-montaria
+
+* Enxergar longas distâncias
+
+* Dar sua vida no seu lugar
+
+* Congelar coisas
+
+* Ser esponja de liquidos
+
+* Molhar materiais (inicialmente congreto, no caso lava obsidiana e pedra)
+
+* Moer materiais
+
+* Super abelhas, coleta flores
+
+* Produzir cristais
+
+* Detectar sons
+
+* Emitir ondas de energia
+
+* Pressionar botões, ligar alavancas
+
+* Produzir Minérios
+
+* Levar item de um baú a outro
+
+* Coleta Folhas e Frutos
+
+* Coleta Cogumelos
+
+* Coleta Crops mais resitentes
+
+* Coleta plantas de caverna, deserto e Pantano
+
+* Observa mudanças
+
+* Empurra coisas
+
+* Possui gosma e gruda blocos
+
+* Pode andar por trilhos
