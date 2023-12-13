@@ -33,9 +33,17 @@
 
 * Resh (Classe 9)
 
-	* .
+	* Ovelha do Mar
 
-		* .
+		* Sendo encontrado praticamente em todas as praias do Mar Liberto, a ovelha do mar é um ser dócil e adorável. Um molusco que por conta da absorção de seiva e seus cloroplastos desenvolveu uma coloração esverdeada identinca a algas, que podem auxiliar em sua dieta fazendo fotossíntese em seu próprio corpo.
+        
+        * Por conta de ter o mesmo tamanho de uma ovelha, além de ter uma aparência agradável, é frequentemente acolhida em zoologicos ou como pets.
+
+        * Além da aparência esse molusco possuí utilidades, como por exemplo reproduzir em suas costas as plantas absorvidos pelos mesmo, sendo praticamente um cultivo ambulante.
+
+        * São inofensivos, sendo atraídos por vegetação e tons esverdeados.
+
+        * Animal Planta; Molusco; Terrestre Aquático; Herbpívoro; Origem: Mar Liberto
 
 	* .
 
@@ -151,9 +159,9 @@
 
 		* O nome Golias define bem sua altura e comprimento em relação a outras espécies de furão, podendo alcancar o tamanho de um cavalo junto com um comprimento desproporcional de oito vezes sua altura, tornando-o um ser tão adorável quanto monstruoso.
 
-		* Esse tipo de furão pode ser encontrado apenas em ambiente extremamente hostis e severos como desertos e polos, fazendo que sua pelagem tenha cores amareladas e escuras para se esconder nas áreias, ou branca a acinzentado para a neve.
+		* Esse tipo de furão pode ser encontrado apenas em ambiente extremamente hostis e severos como desertos e polos, fazendo que sua pelagem tenha cores amareladas e escuras para se esconder nas áreias, ou branca a acinzentada para a neve.
 
-		* O Furão-golias, além do tamanho colossal, possui uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possui a habilidade incomum de deslocar seus próprios ossos a fim de até duplicar o seu próprio comprimento.
+		* O Furão-golias, além do tamanho colossal, possui uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possui a habilidade incomum de deslocar seus próprios ossos e juntas a fim de até duplicar o seu próprio comprimento.
 
 		* São especialistas na caça de vormes e ursos, sendo usados por muitos povos ao redor de Salon'gar para a caça e transporte.
 
@@ -161,9 +169,15 @@
 
 		* Animal; Mustelídeo; Terrestre; Carnívoro; Origem: Costa Sangrenta, Nor'Tand, Balebus
 
-	* .
+	* Urso da Praia
 
-		* .
+		* Assim como um urso são extremamente territoriais, porém por também serem aquáticos, seu domínio se estende desde as margens da praias até as profundezas do oceano. Possui cascos de crustaceo ao invés de pelagem como seus parentes, além de 4 braços e guelras entre os dedos para a natação.
+
+        * Vê tudo que não for maior dele como presa fazendo que com além da pesca persiga outras criaturas pelas areias das praias. Pode também escavar para se esconder e depois surpreender suas vítimas. Costumam colocar ovos entre cavernas subaquaticas, mas mesmo sem o parto ainda são mamíferos.
+
+        * Possuem uma alta resistência a ferimentos, mas principalmente a ambientes extremos. Quanto mais feridos ou exaustos não só aumentam sua defesa e regeneração como também sua velocidade e ferocidade.
+
+		* Animal; Urso; Terrestre Aquático; Carnívoro; Origem: Mar Liberto
 
 	* .
 
@@ -244,9 +258,15 @@
 
 * Zayin (Classe 2)
 
-	* .
+	* Peletzu
 
-		* .
+		* Uma das maiores criaturas voadoras do mundo, o Peletzu em questão de tamanho só perde para seres dos polos e para além do Mar Indomado. Sendo uma ave gigantesca, com o bigo tão grande quanto o próprio corpo, o Peletzu pode abocanhar criaturas colossais e sobrevoar pelos mares por horas segurando toneladas.
+
+		* É uma criatura ao mesmo tempo graciosa e temída, ela costuma prender em sua boca tudo que chama sua atenção, além de um costume sinistro de dar aos seus filhotes a presa ainda viva em seu ninho.
+
+		* O Peletzu tem uma prática comum e perigosa para o meio ambiente, alguns exemplares da sua espécie podem voar e sobreviver entre as ilhas para além do Mar Indomado, trazendo algumas espécies de classe Dalet ou Aleph para regiões que anteriormente eram tranquilas.
+
+		* Animal; Ave; Voador; Carnívoro; Origem: Mar Liberto
 
 	* .
 
@@ -285,21 +305,21 @@
 
 		* Além da voracidade, velocidade e força sem iguais, graças a sua reserva de mana e seu habitat natural consegue conjurar mágias de água, gelo, vento ou trovão, também tendo uma alta resistência a esses mesmos elementos.
 
-		* Mesmo com um tamanho igual a de uma baleia, essa criatura colossal ataca em bandos, principalmente em movimentos circulares graças a uma estratégia de emboscar presas me tornados, tática desenvolvida para caçar criaturas míticas e lendárias que habitam no Polo da Mente.
+		* Mesmo com um tamanho igual a de uma baleia, essa criatura colossal ataca em bandos, principalmente em movimentos circulares graças a uma estratégia de emboscar presas em tornados, tática desenvolvida para caçar criaturas míticas e lendárias que habitam no Polo da Mente.
 
-		* É um ser extremamente agressivo, porém prioriza sempre os maiores alvos, inclusive até interrompendo o ataque a uma presa caso uma maior surja. Difente de seus parentes distantes os tubarões, o Fulgurodonte ao invés de ter um alfato aguçado para sangue ele consegue sentir o cheiro do gasto de mana, também sendo atraído por grandes conjurações. 
+		* É um ser extremamente agressivo, porém prioriza sempre os maiores alvos, inclusive até interrompendo o ataque a uma presa caso uma maior surja. Difente de seus parentes distantes os tubarões, o Fulgurodonte ao invés de ter um alfato aguçado para sangue ele consegue sentir o cheiro do gastos de mana, também sendo atraído por grandes conjurações. 
 
 		* Monstro; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
 
 	* Cograssus
 
-		* Como um parente distante dos basilossauros e das baleias, Cograssus é o maior animal marítimo que habita o Mar Liberto, também batendo de frente em tamanho com várias aberrações do mar indomado.
+		* Como um parente distante dos basilossauros e das baleias, Cograssus é o maior animal marítimo que habita o Mar Liberto, também batendo de frente em tamanho com várias aberrações do Mar Indomado.
 		
 		* Habitando apenas na Fenda Abissal é uma criatura que raramente faz aparições na superficie, surgindo apenas para acumular oxigênio que pode durar por meses submerso em um quantidade incrível de pressão, onde pode se alimentar de outras criaturas abissais.
 
 		* É extremamente territorial, porém por viver em grande depressões raramente ataca embarcações. Mesmo sendo uma criatura colossal possui a capacidade similar a de insetos: o poder de levantar várias vezes o seu peso, conseguindo chegar a marca de até dez vezes.
 
-		* As lendas dizem que na Era dos Magus civilizações antigas tinham o dom de usar essas enormes feras como meio de transporte para comércio e até mesmo fins militares.
+		* As lendas dizem que na Era dos Magus, as civilizações antigas tinham o dom de usar essas enormes feras como meio de transporte para comércio e até mesmo fins militares.
 
 		* Animal; Basilosauridae; Aquático; Carnívoro; Origem: Fenda Abissal (Mar Liberto)
 
@@ -316,7 +336,7 @@
 
 	* Helyatã
 
-		* A lenda diz que um sábio Helyr, por curiosidade, permitiu a entrada dos primeiros nulos sobre Salon'gar criando um acesso milenar na montanha dos sonhos. A Primeira Invasão, em um ato de traição, transformou o sábio no primeiro Leviatã que o mundo já teve. Mesmo sendo morto pelos Nove Heróis na Era da Noite, suas criaras se espalharam pelo mundo, principalmente pelo Mar Indomado, mas exemplares podem ser encontrados na Floresta Exótica de Yar Matua.
+		* A lenda diz que um sábio Helyr, por curiosidade, permitiu a entrada dos primeiros nulos sobre Salon'gar criando um acesso milenar na montanha dos sonhos. A Primeira Invasão, em um ato de traição com ele, transformou o sábio no primeiro Leviatã que o mundo já teve. Mesmo sendo morto pelos Nove Heróis na Era da Noite, suas crias se espalharam pelo mundo, principalmente pelo Mar Indomado, mas exemplares podem ser encontrados nos mares ao redor da Floresta Exótica de Yar Matua.
 
 		* Por se tratar de uma criatura que já foi um Helyr, também tem as mesmas características de um ser mesclado entre fauna e flora, tendo folhas e cascos de arvóres formando o seu corpo. Mesmo sendo uma criatura marítima o tom esverdeado de ser uma flora ambulante da ao Helyatã uma visão bem graciosa, porém o seu comportamento é o mesmo de um monstro, aniquilando qualquer coisa em seu caminho.
 

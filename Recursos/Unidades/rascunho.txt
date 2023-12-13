@@ -1,6 +1,12 @@
+* Magnoboa
+
+    * Sendo uma das maiores espécies de serpente do mundo 
 
 
-// Depois
+* Hippocampus
+
+    * 
+
 
 * Baleia Voadora
 
@@ -22,54 +28,39 @@
     * 
 
 
-* 
+* Dragão
 
     * 
 
 
-* 
+* Grifo
 
     * 
 
 
-// Lugares
+* Hidra
 
-* 
+    * 
 
-    * Balebus 2
 
-    * Kessen'Mital 2
-
-    * Kassalon 1
-
-    * Tandlard 1
-
-    * Yar Matua 1
-
-    * Anak 1
-
-    * Nor'Tand 1
-
-    * Zay'Zut 1
-
-    * Gler Rathis 1
-
-    * Mar Liberto
+* Formiga
 
     * 
 
 
 // Outros
 
+* Armazenar liquidos
+
+* Ser esponja de liquidos
+
 * Pode transportar Mobs Aquático
 
-* Agricultura, vegetal
+* Coleta de Frutos do mar
 
 * Agricultura maior
 
 * Agricultura Frutas (arvóres)
-
-* Coleta de Frutos do mar
 
 * Esquentar alimentos
 
@@ -107,8 +98,6 @@
 
 * Pode transportar Mobs Aquático (submerso)
 
-* Pode transportar Mobs Voador
-
 * Pode transportar Itens Terrestre
 
 * Pode transportar Itens Voador
@@ -130,8 +119,6 @@
 * Pode escavar pedra
 
 * Arar terra
-
-* Armazenar liquidos
 
 * Crafting de itens automático
 
@@ -164,8 +151,6 @@
 * Dar sua vida no seu lugar
 
 * Congelar coisas
-
-* Ser esponja de liquidos
 
 * Molhar materiais (inicialmente congreto, no caso lava obsidiana e pedra)
 
