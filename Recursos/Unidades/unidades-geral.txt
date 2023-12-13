@@ -289,11 +289,19 @@
 
 		* É um ser extremamente agressivo, porém prioriza sempre os maiores alvos, inclusive até interrompendo o ataque a uma presa caso uma maior surja. Difente de seus parentes distantes os tubarões, o Fulgurodonte ao invés de ter um alfato aguçado para sangue ele consegue sentir o cheiro do gasto de mana, também sendo atraído por grandes conjurações. 
 
-		* Animal; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
+		* Monstro; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
 
-	* .
+	* Cograssus
 
-		* .
+		* Como um parente distante dos basilossauros e das baleias, Cograssus é o maior animal marítimo que habita o Mar Liberto, também batendo de frente em tamanho com várias aberrações do mar indomado.
+		
+		* Habitando apenas na Fenda Abissal é uma criatura que raramente faz aparições na superficie, surgindo apenas para acumular oxigênio que pode durar por meses submerso em um quantidade incrível de pressão, onde pode se alimentar de outras criaturas abissais.
+
+		* É extremamente territorial, porém por viver em grande depressões raramente ataca embarcações. Mesmo sendo uma criatura colossal possui a capacidade similar a de insetos: o poder de levantar várias vezes o seu peso, conseguindo chegar a marca de até dez vezes.
+
+		* As lendas dizem que na Era dos Magus civilizações antigas tinham o dom de usar essas enormes feras como meio de transporte para comércio e até mesmo fins militares.
+
+		* Animal; Basilosauridae; Aquático; Carnívoro; Origem: Fenda Abissal (Mar Liberto)
 
 	* .
 

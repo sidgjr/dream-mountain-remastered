@@ -1,4 +1,4 @@
-* 
+
 
 // Depois
 
@@ -34,30 +34,34 @@
 
 // Lugares
 
-* Balebus 2
-
-* Kessen'Mital 2
-
-* Kassalon 1
-
-* Tandlard 1
-
-* Yar Matua 1
-
-* Anak 1
-
-* Nor'Tand 1
-
-* Zay'Zut 1
-
-* Gler Rathis 1
-
-* Mar Liberto
-
 * 
+
+    * Balebus 2
+
+    * Kessen'Mital 2
+
+    * Kassalon 1
+
+    * Tandlard 1
+
+    * Yar Matua 1
+
+    * Anak 1
+
+    * Nor'Tand 1
+
+    * Zay'Zut 1
+
+    * Gler Rathis 1
+
+    * Mar Liberto
+
+    * 
 
 
 // Outros
+
+* Pode transportar Mobs Aquático
 
 * Agricultura, vegetal
 
@@ -101,8 +105,6 @@
 
 * Pode transportar Mobs Terrestre
 
-* Pode transportar Mobs Aquático
-
 * Pode transportar Mobs Aquático (submerso)
 
 * Pode transportar Mobs Voador
@@ -110,8 +112,6 @@
 * Pode transportar Itens Terrestre
 
 * Pode transportar Itens Voador
-
-* Pode transportar Itens Aquático
 
 * Workbench de ferreiro
 
@@ -200,3 +200,33 @@
 * Possui gosma e gruda blocos
 
 * Pode andar por trilhos
+
+* Armazenar Itens
+
+* Armazenar Itens (Pessoal)
+
+* Forjar itens
+
+* Bigorna
+
+* Produzir liquidos
+
+* Decompor matéria
+
+* Permitir o sono
+
+* Colmeia ambulante
+
+* Produzir flores
+
+* Pegar com toque suave
+
+* Produzir ossos
+
+* Poder encontrar materiais
+
+* Poder esmagar itens
+
+* Poder misturar Itens
+
+* Poder construir
