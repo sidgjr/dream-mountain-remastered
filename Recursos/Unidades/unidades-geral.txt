@@ -41,7 +41,7 @@
 
 	* Parva
 
-		* Também conhecido como "Coelho do mar", é um molusco com uma aparencia identinca a um coelho. Possui sensores quimicos que se parecem com orelhas, mas que usam para poder se orientarem.
+		* Também conhecido como "Coelho do mar", é um molusco com uma aparencia idêntica a um coelho. Possui sensores quimicos que se parecem com orelhas, mas que usam para poder se orientarem.
 
 		* Por ser extremamente sensível pode se desorientar facilmente ao receber algum efeito negativo.
 
@@ -230,7 +230,7 @@
 
 	* Deminata
 
-		* Sendo uma dos seres mais raros do Mar Liberto, essa gigantesca criatura tem o costume de carregar seus filhotes em seu casco. Por ter um tamanho colossal, quando adestrada, pode até mesmo carregar vários individuos de outras espécies, se tornando um bom meio de transporte.
+		* Sendo uma dos seres mais raros do Mar Liberto, essa gigantesca tartaruga tem o costume de carregar seus filhotes em seu casco. Por ter um tamanho colossal, quando adestrada, pode até mesmo carregar vários individuos de outras espécies, se tornando um bom meio de transporte.
 
 		* Apesar de uma dieta onívora o Deminata não apresenta perigo, ao se deparar com uma ameaça pode nadar em grandes velocidades, além de possuir uma enorme resistência e regeneração.
 
