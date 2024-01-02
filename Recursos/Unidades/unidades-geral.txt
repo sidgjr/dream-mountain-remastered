@@ -199,9 +199,13 @@
 
 		* Animal; Urso; Terrestre Aquático; Carnívoro; Origem: Mar Liberto
 
-	* .
+	* Hippocampus
 
-		* .
+		* Sendo metade cavalo e metade peixe o Hippocampus é um ser extremamente veloz nos mares e nos rios. Tendo um temperamento dócil é um ser muito usado e respeitado pelos povos que tem contato, muito utilizado pela marinha do Império de Ashkar.
+
+		* Pode criar laços duradouros com seu dono, podendo ser facilmente domesticado sendo alimenado por criaturas aquáticas de nível inferior.
+
+		* Animal; Singnatídeo; Aquático; Carnívoro; Origem: Ashkar
 
 	* .
 
@@ -300,9 +304,15 @@
 
 		* Animal; Ave; Voador; Carnívoro; Origem: Mar Liberto
 
-	* .
+	* Pantera-enigma
 
-		* .
+		* Como predador dos Vales Ocultos em Kessent a Pantera-enigma é uma criatura tão misteriosa quanto o seu habitat natural. Por ser mágico possui um leque de mágias em várias áreas conhecidas pelos magos, mas a sua principal é o poder mental e o arcano.
+
+		* Essa criatura tem um terceiro olho em sua testa, onde pode usar para além de se comunicar telepaticamente também controlar o corpo de suas vitímas. Por ser um felino é extremamente cruel com suas vítimas, fazendo elas o servirem até morrerem, o que não demora muito, já que usa 100% da capacidade física de seus corpos.
+
+		* Mesmo que na maioria das vezes ela brinque com sua comida, existem muitos relatos e histórias desses seres que fazem charadas, são bem intencionados, ou até mesmo ajudam quem acharem interessantes
+
+		* Animal; Felino; Terrestre; Carnívoro; Origem: Vales Ocultos (Kessent, Sul)
 
 	* .
 
@@ -355,9 +365,15 @@
 
 		* Animal; Basilosauridae; Aquático; Carnívoro; Origem: Fenda Abissal (Mar Liberto)
 
-	* .
+	* Dragão Fantasma
 
-		* .
+		* São encontrados a uma frequência assustadora nas terras mortas de Nekron. Antingamente eram Dragões Verdadeiros, mas após a Guerra dos Lagos foram quase todos completamente extintos, hoje vagando como tormentos gigantescos em busca de vingança.
+
+		* Os Dragões Verdadeiros por si só já eram criaturas que representavam o ódio e a fúria do mundo, mas após traídos pela ganância e egoismo dos mortais desenvolveram uma indole completamente cruel e maligna, frutos do rancor armazenado por milenios.
+
+		* Além de conhecerem maioria das magias de fogo também conhecem magias de necromancia.
+
+		* Animal Morto-Vivo; ?; Terrestre Voador; Carnívoro; Origem: ?
 
 	* .
 
@@ -376,15 +392,21 @@
 
 		* Animal Planta; ?; Aquático; Onívoro; Origem: Mar Indomado, Yar Matua
 	
-	* .
+	* Dragão Verdadeiro
+
+		* Como os primeiros filhos de Ignis, os dragões verdadeiros são a primeira e mais poderosa espécie dessa criatura mitológica. Uma das criaturas mais raras do mundo, o que é incomum por se tamanho colossal e hábitos destrutivos, e mesmo assim, sendo poquissimo observado ou encontrado no mundo.
+
+		* Por serem senhores do fogo possuem além da capacidade natural de cuspir e controlar chamas eles possuem o conhecimento de todas as magias de Ignis, inclusive as esquecidas pelo tempo.
+
+		* Assim como os dragões são filhos do Fogo, elfos são da Terra, krons da Água e por fim humanos do Vento.
+
+		*  Animal; ?; Terrestre Voador; Carnívoro; Origem: ?
+
+	* Artipede
 
 		* .
 
-	* .
-
-		* .
-
-	* .
+	* Ent Genisis
 
 		* .
 
