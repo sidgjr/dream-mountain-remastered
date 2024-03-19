@@ -2,160 +2,160 @@
 //	//	Geografia
 //
 
-* Polos
+↪ Polos
 
-    * Tandlard (Polo da Força).
+    ↪ Tandlard (Polo da Força).
 
-    * Kessen'Mital (Polo da Mente).
+    ↪ Kessen'Mital (Polo da Mente).
 
-* Mares
+↪ Mares
 
-    * Mar Liberto.
+    ↪ Mar Liberto.
 
-    * Mar Indomado.
+    ↪ Mar Indomado.
 
-* Continente
+↪ Continente
 
-    * Kassalon (Arquipelago).
+    ↪ Kassalon.
 
-        * Montanha dos Sonhos (Onde os desejos são realizados).
+        ↪ Montanha dos Sonhos (Onde os desejos são realizados).
 
-        * Ilhas Pesadelo (Ilhas ao redor da montanha dos sonhos).
+        ↪ Arquipelago Pesadelo (Ilhas ao redor da montanha dos sonhos).
 
-    * Nor'Tand (Barbaros, Pequeno continente perto de Tandlard).
+    ↪ Nor'Tand (Barbaros, Pequeno continente perto de Tandlard).
 
-    * Fullet (Reino dos Homens).
+    ↪ Fullet (Reino dos Homens).
 
-        * Ibélia (Cidade-Forte, Norte).
+        ↪ Ibélia (Cidade-Forte, Norte).
 
-        * Kamya (Planices Luminescentes)
+        ↪ Kamya (Planices Luminescentes)
 
-        * Balebus (Deserto Central, Centro).
+        ↪ Balebus (Deserto Central, Centro).
 
-            * Torre Mecânica (Centro Tecnológico).
+            ↪ Torre Mecânica (Centro Tecnológico).
 
-            * Cidades Errantes (Cidades em cima de monstros).
+            ↪ Cidades Errantes (Cidades em cima de monstros).
 
-        * Aldrynn (Cidade Anciã)
+        ↪ Aldrynn (Cidade Anciã)
 
-        * Império Ashkar (Centro Tradicional, Sul).
+        ↪ Império Ashkar (Centro Tradicional, Sul).
 
-    * Nemya (Reino dos Mortos).
+    ↪ Nemya (Reino dos Mortos).
 
-        * Norte de Nemya (habitável por uma pequena civilização).
+        ↪ Norte de Nemya (habitável por uma pequena civilização).
 
-        * Necrópole Central.
+        ↪ Necrópole Central.
 
-        * Monte Dantífero.
+        ↪ Monte Dantífero.
 
-            * Portão Nekronte.
+            ↪ Portão Nekronte.
 
-            * Bosques Nekron.
+            ↪ Bosques Nekron.
 
-            * Casa de Baixo.
+            ↪ Casa de Baixo.
 
-    * Libers (Primeira República)
+    ↪ Libers (Primeira República)
 
-        * Capital de Libers (Cidade mais rica do mundo).
+        ↪ Capital de Libers (Cidade mais rica do mundo).
 
-    * Tellyerus (Reino dos Monstros).
+    ↪ Tellyerus (Reino dos Monstros).
 
-        * Yar Matua (Floresta Exótica)
+        ↪ Yar Matua (Floresta Exótica)
 
-        * Fukuyn (Montanhas Gêmeas)
+        ↪ Fukuyn (Montanhas Gêmeas)
 
-            * Fortaleza Glacial (Capital)
+            ↪ Fortaleza Glacial (Capital)
 
-        * Gler Rathis (Pantano Nevoeiro)
+        ↪ Gler Rathis (Pantano Nevoeiro)
 
-        * Zay'Zut (Savana Celeste)
+        ↪ Zay'Zut (Savana Celeste)
 
-        * Nedurt (Reino Esquecido)
+        ↪ Nedurt (Reino Esquecido)
 
-            * Lorgashe (Capital)
+            ↪ Lorgashe (Capital)
 
-        * Anak (Floresta dos Behemoth)
+        ↪ Anak (Floresta dos Behemoth)
 
-        * Kessent (Sul)
+        ↪ Kessent (Sul)
 
-            * Academia Violeta.
+            ↪ Academia Violeta.
 
-            * Bosque Syar.
+            ↪ Bosque Syar.
 
-            * Vales Ocultos.
+            ↪ Vales Ocultos.
 
 
 
 //
 //	//	Ambientes
 //
-*
+↪
 
-    * Tandlard
+    ↪ Tandlard
 
-        * Vegetação: 
+        ↪ Vegetação: 
 
-        * Clima: 
+        ↪ Clima: 
 
-        * Flora e Fauna: 
+        ↪ Flora e Fauna: 
 
-        * Solo: 
+        ↪ Solo: 
 
-        * Hidrografia: 
+        ↪ Hidrografia: 
 
-    * Kessen'Mital 
+    ↪ Kessen'Mital 
 
-    * Mar Liberto.
+    ↪ Mar Liberto.
 
-    * Mar Indomado.
+    ↪ Mar Indomado.
 
-    * Montanha dos Sonhos (Kassalon)
+    ↪ Montanha dos Sonhos (Kassalon)
 
-    * Ilhas Pesadelo (Kassalon)
+    ↪ Ilhas Pesadelo (Kassalon)
 
-    * Nor'Tand (Fullet)
+    ↪ Nor'Tand (Fullet)
 
-    * Ibélia (Fullet)
+    ↪ Ibélia (Fullet)
 
-    * Kamya (Fullet)
+    ↪ Kamya (Fullet)
 
-    * Torre Mecânica (Balebus) (Fullet)
+    ↪ Torre Mecânica (Balebus) (Fullet)
 
-    * Cidades Errantes (Balebus) (Fullet)
+    ↪ Cidades Errantes (Balebus) (Fullet)
 
-    * Aldrynn (Fullet)
+    ↪ Aldrynn (Fullet)
 
-    * Império Ashkar (Fullet)
+    ↪ Império Ashkar (Fullet)
 
-    * Norte de Nemya (Nemya)
+    ↪ Norte de Nemya (Nemya)
 
-    * Necrópole Central (Nemya)
+    ↪ Necrópole Central (Nemya)
 
-    * Portão Nekronte (Monte Dantífero) (Nemya)
+    ↪ Portão Nekronte (Monte Dantífero) (Nemya)
 
-    * Bosques Nekron (Monte Dantífero) (Nemya)
+    ↪ Bosques Nekron (Monte Dantífero) (Nemya)
 
-    * Casa de Baixo (Monte Dantífero) (Nemya)
+    ↪ Casa de Baixo (Monte Dantífero) (Nemya)
 
-    * Libers 
+    ↪ Libers 
 
-    * Yar Matua (Tellyerus)
+    ↪ Yar Matua (Tellyerus)
 
-    * Fortaleza Glacial (Fukuyn) (Tellyerus)
+    ↪ Fortaleza Glacial (Fukuyn) (Tellyerus)
 
-    * Gler Rathis (Tellyerus)
+    ↪ Gler Rathis (Tellyerus)
 
-    * Zay'Zut  (Tellyerus)
+    ↪ Zay'Zut  (Tellyerus)
 
-    * Lorgashe (Nedurt) (Tellyerus)
+    ↪ Lorgashe (Nedurt) (Tellyerus)
 
-    * Anak (Tellyerus)
+    ↪ Anak (Tellyerus)
 
-    * Academia Violeta (Kessent) (Tellyerus)
+    ↪ Academia Violeta (Kessent) (Tellyerus)
 
-    * Bosque Syar (Kessent) (Tellyerus)
+    ↪ Bosque Syar (Kessent) (Tellyerus)
 
-    * Vales Ocultos (Kessent) (Tellyerus)
+    ↪ Vales Ocultos (Kessent) (Tellyerus)
 
 
 
@@ -163,178 +163,178 @@
 //	//	Masmorras
 //
 
-* Tandlard
+↪ Tandlard
 
-    * Costa Sangrenta (Classe Dalet)
+    ↪ Costa Sangrenta (Classe Dalet)
 
-    * Tundra Boreal (Classe Aleph)
+    ↪ Tundra Boreal (Classe Aleph)
 
-* Kessen'Mital 
+↪ Kessen'Mital 
 
-    * Praias Iridescentes (Classe Zayin)
+    ↪ Praias Iridescentes (Classe Zayin)
 
-    * Vulcão Oivuzev (Classe Dalet)
+    ↪ Vulcão Oivuzev (Classe Dalet)
 
-* Mar Liberto
+↪ Mar Liberto
 
-    * Tripulação Fantasma (Classe Samek)
+    ↪ Tripulação Fantasma (Classe Samek)
 
-    * Fenda Abissal (Classe Kaph)
+    ↪ Fenda Abissal (Classe Kaph)
 
-* Mar Indomado
+↪ Mar Indomado
 
-    * O Primeiro Exílio (Classe Shin)
+    ↪ O Primeiro Exílio (Classe Shin)
 
-    * Tumúlo dos Leviatãs (Classe Zayin)
+    ↪ Tumúlo dos Leviatãs (Classe Zayin)
 
-* Montanha dos Sonhos (Kassalon)
+↪ Montanha dos Sonhos (Kassalon)
 
-    * Ordem dos Magus (Classe Aleph)
+    ↪ Ordem dos Magus (Classe Aleph)
 
-    * Castelo Nulo (Classe Ifest)
+    ↪ Castelo Nulo (Classe Ifest)
 
-* Ilhas Pesadelo (Kassalon)
+↪ Ilhas Pesadelo (Kassalon)
 
-    * Vale da Quietude (Classe Het)
+    ↪ Vale da Quietude (Classe Het)
 
-    * Muros Sonambulos (Classe Dalet)
+    ↪ Muros Sonambulos (Classe Dalet)
 
-* Nor'Tand
+↪ Nor'Tand
 
-    * Caverna da Fúria (Classe Yod)
+    ↪ Caverna da Fúria (Classe Yod)
 
-    * Frota Nevada (Classe Tet)
+    ↪ Frota Nevada (Classe Tet)
 
-* Ibélia (Fullet)
+↪ Ibélia (Fullet)
 
-    * Muralhas de Basalto (Classe Kaph)
+    ↪ Muralhas de Basalto (Classe Kaph)
 
-    * Presídio Central (Classe Yod)
+    ↪ Presídio Central (Classe Yod)
 
-* Kamya (Fullet)
+↪ Kamya (Fullet)
 
-    * Santuário de Folhas (Classe Ayin)
+    ↪ Santuário de Folhas (Classe Ayin)
 
-    * Poço Lunar (Classe Samek)
+    ↪ Poço Lunar (Classe Samek)
 
-* Torre Mecânica (Balebus) (Fullet)
+↪ Torre Mecânica (Balebus) (Fullet)
 
-    * Feira dos Inventores (Classe Samek)
+    ↪ Feira dos Inventores (Classe Samek)
 
-    * Oficina do Mundo (Classe Tet)
+    ↪ Oficina do Mundo (Classe Tet)
 
-* Cidades Errantes (Balebus) (Fullet)
+↪ Cidades Errantes (Balebus) (Fullet)
 
-    * Dirigível Mercenário (Classe Samek)
+    ↪ Dirigível Mercenário (Classe Samek)
 
-    * Desafio dos Exilados (Classe Kaph)
+    ↪ Desafio dos Exilados (Classe Kaph)
 
-* Aldrynn (Fullet)
+↪ Aldrynn (Fullet)
 
-    * Poço Solar (Classe Samek)
+    ↪ Poço Solar (Classe Samek)
 
-    * Labirinto do Primeiro Mago (Classe Het)
+    ↪ Labirinto do Primeiro Mago (Classe Het)
 
-* Império Ashkar (Fullet)
+↪ Império Ashkar (Fullet)
 
-    * Sindicato Rebelde (Classe Resh)
+    ↪ Sindicato Rebelde (Classe Resh)
 
-    * Tribunal Supremo (Classe Ayin)
+    ↪ Tribunal Supremo (Classe Ayin)
 
-* Norte de Nemya (Nemya)
+↪ Norte de Nemya (Nemya)
 
-    * Culto das Bruxas (Classe Samek)
+    ↪ Culto das Bruxas (Classe Samek)
 
-    * Fronteira Morta (Classe Kaph)
+    ↪ Fronteira Morta (Classe Kaph)
 
-* Necrópole Central (Nemya)
+↪ Necrópole Central (Nemya)
 
-    * Salão Sangrento (Classe Tet)
+    ↪ Salão Sangrento (Classe Tet)
 
-    * Castelo de Ossos (Classe Het)
+    ↪ Castelo de Ossos (Classe Het)
 
-* Portão Nekronte (Monte Dantífero) (Nemya)
+↪ Portão Nekronte (Monte Dantífero) (Nemya)
 
-    * Enseada dos Corpos (Classe Zayin)
+    ↪ Enseada dos Corpos (Classe Zayin)
 
-    * Pedágio para o Abismo (Classe Zayin)
+    ↪ Pedágio para o Abismo (Classe Zayin)
 
-* Bosques Nekron (Monte Dantífero) (Nemya)
+↪ Bosques Nekron (Monte Dantífero) (Nemya)
 
-    * Trilha Solitária (Classe Dalet)
+    ↪ Trilha Solitária (Classe Dalet)
 
-    * Mata Espinhosa (Classe Dalet)
+    ↪ Mata Espinhosa (Classe Dalet)
 
-    * Monte Eterno (Classe Dalet)
+    ↪ Monte Eterno (Classe Dalet)
 
-    * Lago dos Lamentos (Classe Dalet)
+    ↪ Lago dos Lamentos (Classe Dalet)
 
-    * Campo Espectral (Classe Zayin)
+    ↪ Campo Espectral (Classe Zayin)
 
-* Casa de Baixo (Monte Dantífero) (Nemya)
+↪ Casa de Baixo (Monte Dantífero) (Nemya)
 
-    * Portão Zero (Classe Aleph)
+    ↪ Portão Zero (Classe Aleph)
 
-    * Sala da Invasão (Classe Ifest)
+    ↪ Sala da Invasão (Classe Ifest)
 
-* Libers 
+↪ Libers 
 
-    * Liga dos Lutadores (Classe Yod)
+    ↪ Liga dos Lutadores (Classe Yod)
 
-    * Jardim do Colecionador (Classe Tet)
+    ↪ Jardim do Colecionador (Classe Tet)
 
-    * Propriedade dos Dourak (Classe Het)
+    ↪ Propriedade dos Dourak (Classe Het)
 
-* Yar Matua (Tellyerus)
+↪ Yar Matua (Tellyerus)
 
-    * Vulcão Za'Ar (Classe Dalet)
+    ↪ Vulcão Za'Ar (Classe Dalet)
 
-    * Ruínas Anciãs (Classe Dalet)
+    ↪ Ruínas Anciãs (Classe Dalet)
 
-* Fukuyn (Tellyerus)
+↪ Fukuyn (Tellyerus)
 
-    * Fortaleza Glacial (Classe Tet)
+    ↪ Fortaleza Glacial (Classe Tet)
 
-    * Galeria Criogênica (Classe Zayin)
+    ↪ Galeria Criogênica (Classe Zayin)
 
-* Gler Rathis (Tellyerus)
+↪ Gler Rathis (Tellyerus)
 
-    * Casa dos Venenos (Classe Yod)
+    ↪ Casa dos Venenos (Classe Yod)
 
-    * O Fosso (Classe Tet)
+    ↪ O Fosso (Classe Tet)
 
-* Zay'Zut (Tellyerus)
+↪ Zay'Zut (Tellyerus)
 
-    * Colmeia Mãe (Classe Yod)
+    ↪ Colmeia Mãe (Classe Yod)
 
-    * Arquipelago Celeste (Classe Tet)
+    ↪ Arquipelago Celeste (Classe Tet)
 
-* Nedurt (Tellyerus)
+↪ Nedurt (Tellyerus)
 
-    * Cofre Esquecido (Classe Kaph)
+    ↪ Cofre Esquecido (Classe Kaph)
 
-    * Cemitério Real (Classe Tet)
+    ↪ Cemitério Real (Classe Tet)
 
-* Anak (Tellyerus)
+↪ Anak (Tellyerus)
 
-    * Ninho de Serpes (Classe Tet)
+    ↪ Ninho de Serpes (Classe Tet)
 
-    * Rebanho de Behemoths (Classe Tet)
+    ↪ Rebanho de Behemoths (Classe Tet)
 
-* Academia Violeta (Kessent) (Tellyerus)
+↪ Academia Violeta (Kessent) (Tellyerus)
 
-    * Muralha Azul (Classe Samek)
+    ↪ Muralha Azul (Classe Samek)
 
-    * Torra da Direção (Classe Yod)
+    ↪ Torra da Direção (Classe Yod)
 
-* Bosque Syar (Kessent) (Tellyerus)
+↪ Bosque Syar (Kessent) (Tellyerus)
 
-    * Lago das Fadas (Classe Tet)
+    ↪ Lago das Fadas (Classe Tet)
 
-    * Campo de Lótus (Classe Het)
+    ↪ Campo de Lótus (Classe Het)
 
-* Vales Ocultos (Kessent) (Tellyerus)
+↪ Vales Ocultos (Kessent) (Tellyerus)
 
-    * Estepes Arcanas (Classe Het)
+    ↪ Estepes Arcanas (Classe Het)
 
-    * Obelisco (Classe Zayin)
+    ↪ Obelisco (Classe Zayin)
