@@ -2,35 +2,35 @@
 //	///	Atributos principais
 //
 
-* Força
+↪ Força
 
-    * Sobre: O atributo responsável pela fisíca e propriedade de seres e objetos.
+    ↪ Sobre: O atributo responsável pela fisíca e propriedade de seres e objetos.
 
-    * Vantagem: cada ponto de Força concede 2 pontos de vida máxima. Cada 5 pontos concedem 1 de dano base.
+    ↪ Vantagem: cada ponto de Força concede 2 pontos de vida máxima. Cada 5 pontos concedem 1 de dano base.
 
-    * Bônus: cada 10 pontos de Força concedem 1 ponto de regeneração de vida.
+    ↪ Bônus: cada 10 pontos de Força concedem 1 ponto de regeneração de vida.
 
-    * Principal: Ao ficar abaixo da metade vida recebe duplica a regeneração vida e cura recebida.
+    ↪ Principal: Ao ficar abaixo da metade vida recebe duplica a regeneração vida e cura recebida.
 
-* Agilidade
+↪ Agilidade
 
-    * Sobre: O atributo responsável pelo comportamento do ser ou objeto em relação ao mundo.
+    ↪ Sobre: O atributo responsável pelo comportamento do ser ou objeto em relação ao mundo.
 
-    * Vantagem: cada ponto de Agilidade concede 1 pontos de velocidade. Cada 10 pontos concedem 1 ponto de precisão.
+    ↪ Vantagem: cada ponto de Agilidade concede 1 pontos de velocidade. Cada 10 pontos concedem 1 ponto de precisão.
 
-    * Bônus: Cada 20 pontos concedem 1 ação de movimento adicional por turno.
+    ↪ Bônus: Cada 20 pontos concedem 1 ação de movimento adicional por turno.
 
-    * Principal: A cada quarta habilidade tem acerto crítico garantido.
+    ↪ Principal: A cada quarta habilidade tem acerto crítico garantido.
 
-* Inteligência
+↪ Inteligência
 
-    * Sobre: O atributo responsável pela consciência do ser ou objeto.
+    ↪ Sobre: O atributo responsável pela consciência do ser ou objeto.
 
-    * Vantagem: cada ponto de Inteligência concede 3 pontos de mana máximo. Cada 15 pontos concedem 1 ponto de habilidade.
+    ↪ Vantagem: cada ponto de Inteligência concede 3 pontos de mana máximo. Cada 15 pontos concedem 1 ponto de habilidade.
 
-    * Bônus: cada 15 pontos de Inteligência concedem 1 ponto de regeneração de mana.
+    ↪ Bônus: cada 15 pontos de Inteligência concedem 1 ponto de regeneração de mana.
 
-    * Principal: Alcance duplicado.
+    ↪ Principal: Alcance duplicado.
 
 
 
@@ -38,49 +38,49 @@
 //	///	Características
 //
 
-* Tipo (categoria)
+↪ Tipo (categoria)
 
-    * Animal.
+    ↪ Animal.
 
-    * Monstro.
+    ↪ Monstro.
 
-    * Elemental.
+    ↪ Elemental.
 
-    * Morto-vio.
+    ↪ Morto-vio.
 
-    * Etc.
+    ↪ Etc.
 
-* Tipo (espécie)
+↪ Tipo (espécie)
 
-    * Aves.
+    ↪ Aves.
 
-    * Réptil.
+    ↪ Réptil.
 
-    * Primata.
+    ↪ Primata.
 
-    * Canino.
+    ↪ Canino.
 
-    * Urso.
+    ↪ Urso.
 
-    * Etc.
+    ↪ Etc.
 
-* Tipo (locomoção)
+↪ Tipo (locomoção)
 
-    * Terrestre.
+    ↪ Terrestre.
 
-    * Aquático.
+    ↪ Aquático.
 
-    * Voador.
+    ↪ Voador.
 
-* Tipo (alimentação)
+↪ Tipo (alimentação)
 
-    * Carnívoro
+    ↪ Carnívoro
 
-    * Herbívoro
+    ↪ Herbívoro
 
-    * Detritívoro
+    ↪ Detritívoro
 
-    * Onívoro
+    ↪ Onívoro
 
 
 
@@ -88,42 +88,42 @@
 //	///	Sub-habilidades
 //
 
-* Movimentação (Fraca)
+↪ Movimentação (Fraca)
 
-	* Submergir (Escavar e se locomever dentro de algumas superfícies)
+	↪ Submergir (Escavar e se locomever dentro de algumas superfícies)
 
-	* Salto (Realizar grandes pulos)
+	↪ Salto (Realizar grandes pulos)
 
-	* Escalar (Poder se mover em algumas paredes ou tetos)
+	↪ Escalar (Poder se mover em algumas paredes ou tetos)
 
-	* Impulso (Domínio na movimentação)
+	↪ Impulso (Domínio na movimentação)
 
-* Sobrevivência (Média)
+↪ Sobrevivência (Média)
 
-	* Disparo (Possuí ataques básicos a distância)
+	↪ Disparo (Possuí ataques básicos a distância)
 
-	* Regeneração (Regeneração de vida e mana base além dos atributos)
+	↪ Regeneração (Regeneração de vida e mana base além dos atributos)
 
-	* Detecção (Capacidade poder identificar e prever coisas)
+	↪ Detecção (Capacidade poder identificar e prever coisas)
 
-	* Camuflagem (Se esconder no meio ambiente ou até se tornar invisível)
+	↪ Camuflagem (Se esconder no meio ambiente ou até se tornar invisível)
 
-* Peculiaridade (Superior)
+↪ Peculiaridade (Superior)
 
-	* Comunicação (Poder se comunicar com individuos da mesma espécie ou outros seres)
+	↪ Comunicação (Poder se comunicar com individuos da mesma espécie ou outros seres)
 
-	* Mimetismo (Imitiar um outro ser ou a habilidade do mesmo)
+	↪ Mimetismo (Imitiar um outro ser ou a habilidade do mesmo)
 
-	* Multiplicação (Criar cópias de si mesmo ou outros indivíduos da mesma espécie)
+	↪ Multiplicação (Criar cópias de si mesmo ou outros indivíduos da mesma espécie)
 
-	* Resistência (Redução de danos e efeitos além dos marcadores)
+	↪ Resistência (Redução de danos e efeitos além dos marcadores)
 
-* Única (Verdadeira)
+↪ Única (Verdadeira)
 
-	* Imune (Imunidade a algum efeito, propriedade e etc)
+	↪ Imune (Imunidade a algum efeito, propriedade e etc)
 
-	* Especialização (Escolher e mudar o atributo principal)
+	↪ Especialização (Escolher e mudar o atributo principal)
 
-	* Conjuração (Conjurar magias e habilidades como um jogador ou NPC)
+	↪ Conjuração (Conjurar magias e habilidades como um jogador ou NPC)
 
-	* Renascimento (Voltar a vida ou evitar a morte)
+	↪ Renascimento (Voltar a vida ou evitar a morte)

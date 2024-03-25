@@ -2,21 +2,21 @@
 //	///	Dissipação (e simplificação de classe)
 //
 
-* Fraca
+↪ Fraca
 
-	* Classe Samek ou inferior (efeitos não-debilitante ou de performance).
+	↪ Classe Samek ou inferior (efeitos não-debilitante ou de performance).
 
-* Média
+↪ Média
 
-	* Classe Tet ou inferior (efeitos debilitante ou de probabilidade).
+	↪ Classe Tet ou inferior (efeitos debilitante ou de probabilidade).
 
-* Superior
+↪ Superior
 
-	* Classe Dalet ou inferior (efeitos inutilizantes e de resistência).
+	↪ Classe Dalet ou inferior (efeitos inutilizantes e de resistência).
 
-* Verdadeira
+↪ Verdadeira
 
-	* Classe Aleph ou inferior (efeitos de classe especial).
+	↪ Classe Aleph ou inferior (efeitos de classe especial).
 
 
 
@@ -24,109 +24,109 @@
 //	///	Traços
 //
 
-* Tipos de Habilidade
+↪ Tipos de Habilidade
 
-	* Ofensivo.
+	↪ Ofensivo.
 
-	* Defensivo.
+	↪ Defensivo.
 
-	* Mobilidade.
+	↪ Mobilidade.
 
-	* Controle.
+	↪ Controle.
 
-	* Recuperação.
+	↪ Recuperação.
 
-	* Utilidade.
+	↪ Utilidade.
 
-	* Invocação.
+	↪ Invocação.
 
-	* Interrupção.
+	↪ Interrupção.
 
-* Tipos de Dano
+↪ Tipos de Dano
 
-	* Físico
+	↪ Físico
 
-		* Corte.
+		↪ Corte.
 
-		* Perfuração.
+		↪ Perfuração.
 
-		* Contusão (Pancada).
+		↪ Contusão (Pancada).
 
-	* Mágico
+	↪ Mágico
 
-		* Fogo.
+		↪ Fogo.
 
-		* Gélido.
+		↪ Gélido.
 
-		* Sombrio.
+		↪ Sombrio.
 
-		* Químico.
+		↪ Químico.
 
-		* Sagrado.
+		↪ Sagrado.
 
-		* Elétrico.
+		↪ Elétrico.
 
-	* Puro
+	↪ Puro
 
-		* Especial (Ignora Redução de Dano).
+		↪ Especial (Ignora Redução de Dano).
 
-* Área de efeito
+↪ Área de efeito
 
-	* Toque (Fraca).
+	↪ Toque (Fraca).
 
-	* Projétil (Média).
+	↪ Projétil (Média).
 
-	* Individual (Média).
+	↪ Individual (Média).
 
-	* Área (Superior).
+	↪ Área (Superior).
 
-	* Local (Superior).
+	↪ Local (Superior).
 
-	* Aura (Verdadeira).
+	↪ Aura (Verdadeira).
 
-* Gatilhos
+↪ Gatilhos
 
-	* Morrer (Classe: Shin)
+	↪ Morrer (Classe: Shin)
 
-	* Abater (Classe: Resh).
+	↪ Abater (Classe: Resh).
 
-	* Causar Dano (Classe: Ayin).
+	↪ Causar Dano (Classe: Ayin).
 
-	* Aplicar Efeitos (Classe: Kaph).
+	↪ Aplicar Efeitos (Classe: Kaph).
 
-	* Causar Dano com Habilidade (Classe: Samek).
+	↪ Causar Dano com Habilidade (Classe: Samek).
 
-	* Acertar (Classe: Yod).
+	↪ Acertar (Classe: Yod).
 
-	* Consumir Item (Classe: Tet).
+	↪ Consumir Item (Classe: Tet).
 
-	* Mover com Habilidade (Classe: Het).
+	↪ Mover com Habilidade (Classe: Het).
 
-	* Ser Acertado (Classe: Zayin).
+	↪ Ser Acertado (Classe: Zayin).
 
-	* Mover (Classe: Dalet).
+	↪ Mover (Classe: Dalet).
 
-	* Começo de Turno (Classe: Aleph).
+	↪ Começo de Turno (Classe: Aleph).
 
-* Precisão
+↪ Precisão
 
-	* Crítico (20 no d20).
+	↪ Crítico (20 no d20).
 
-	* Improvável (maior ou igual a 15 no d20).
+	↪ Improvável (maior ou igual a 15 no d20).
 
-		* Fraca.
+		↪ Fraca.
 
-	* Dificil (maior ou igual a 12 no d20).
+	↪ Dificil (maior ou igual a 12 no d20).
 
-		* Média.
+		↪ Média.
 
-	* Preciso (maior ou igual a 7 no d20).
+	↪ Preciso (maior ou igual a 7 no d20).
 
-		* Superior.
+		↪ Superior.
 
-	* Garantido (sem arremesso de dados).
+	↪ Garantido (sem arremesso de dados).
 
-		* Verdadeira.
+		↪ Verdadeira.
 
 
 
@@ -134,42 +134,42 @@
 ///	///	Palavras Chave
 ///
 
-* Condicional (Fraca)
+↪ Condicional (Fraca)
 
-	* Infortunio (Aleatoriedade em seu funcionamento).
+	↪ Infortunio (Aleatoriedade em seu funcionamento).
 
-	* Sequência (Efeitos adicionais ao fazer uma sequência).
+	↪ Sequência (Efeitos adicionais ao fazer uma sequência).
 
-	* Alternativo (Efeitos adicionais ao pagar um custo extra).
+	↪ Alternativo (Efeitos adicionais ao pagar um custo extra).
 
-	* Enigma (Muda a habilidade completamente devido a uma condição).
+	↪ Enigma (Muda a habilidade completamente devido a uma condição).
 
-* Maleável (Média)
+↪ Maleável (Média)
 
-	* Reforçado (Acerto garantido).
+	↪ Reforçado (Acerto garantido).
 
-	* Fortificado (Dano se torna Puro).
+	↪ Fortificado (Dano se torna Puro).
 
-	* Diário (Usos limitados a um por dia).
+	↪ Diário (Usos limitados a um por dia).
 
-	* Dissipação (Dissipa algum efeito positivo ou negativo).
+	↪ Dissipação (Dissipa algum efeito positivo ou negativo).
 
-* Váriavel (Superior)		
+↪ Váriavel (Superior)		
 
-	* Fervor X (Adiciona X marcadores de Fervor).
+	↪ Fervor X (Adiciona X marcadores de Fervor).
 
-	* Ricochete X (Acerta X alvos adicionais).
+	↪ Ricochete X (Acerta X alvos adicionais).
 
-	* Desgaste X (Adiciona X marcadores de Desgaste).
+	↪ Desgaste X (Adiciona X marcadores de Desgaste).
 
-	* Canalizar X (Canalizar por X turnos, sem poder sofrer dano ou efeitos para realizar algo).
+	↪ Canalizar X (Canalizar por X turnos, sem poder sofrer dano ou efeitos para realizar algo).
 
-* Adicional (Verdadeira)
+↪ Adicional (Verdadeira)
 
-	* Antecipação (Pode ser usado antes de uma ação).
+	↪ Antecipação (Pode ser usado antes de uma ação).
 
-	* Proceder (pode ser usado depois de uma ação).
+	↪ Proceder (pode ser usado depois de uma ação).
 
-	* Repetino (Pode ser usado fora do turno).
+	↪ Repetino (Pode ser usado fora do turno).
 
-	* Maestria (Pode ser usado várias vezes durante os turnos).
+	↪ Maestria (Pode ser usado várias vezes durante os turnos).

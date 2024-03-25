@@ -1,2441 +1,2441 @@
-* Shin (Classe básica)
+↪ Shin (Classe básica)
 
-	* Gaia
+	↪ Gaia
 
-		* Disparo Sismico
+		↪ Disparo Sismico
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* Disparo Vendaval
+		↪ Disparo Vendaval
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* Disparo Ardente
+		↪ Disparo Ardente
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* Disparo Congelante
+		↪ Disparo Congelante
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* Disparo Selvagem
+		↪ Disparo Selvagem
 
-		    * Causa dano a longa distância e reduzir os marcadores positivos. Acertos críticos oferecem a escolha de um marcador a adicionar em si mesmo.
+		    ↪ Causa dano a longa distância e reduzir os marcadores positivos. Acertos críticos oferecem a escolha de um marcador a adicionar em si mesmo.
 
-		* Compania Animal
+		↪ Compania Animal
 
-		    * Começa com um mascote de certo nível.
+		    ↪ Começa com um mascote de certo nível.
 
-		* Toque Venenoso
+		↪ Toque Venenoso
 
-		    * Causar dano que não seja sangramento aplica esse efeito.
+		    ↪ Causar dano que não seja sangramento aplica esse efeito.
 
-		* Aspecto de Tartaruga
+		↪ Aspecto de Tartaruga
 
-		    * Aumenta os pontos de vida e reduz o dano sofrido.
+		    ↪ Aumenta os pontos de vida e reduz o dano sofrido.
 
-		* Abrir Trilhas
+		↪ Abrir Trilhas
 
-		    * Consegue encontrar os melhores caminhos em ambientes naturais.
+		    ↪ Consegue encontrar os melhores caminhos em ambientes naturais.
 
-	* Nekro
+	↪ Nekro
 
-		* Disparo Vil
+		↪ Disparo Vil
 
-		    * Causa dano a longa distância e recupera pontos de vida igual ao dano causado. Acertos críticos abatem alvos que sejam monstros.
+		    ↪ Causa dano a longa distância e recupera pontos de vida igual ao dano causado. Acertos críticos abatem alvos que sejam monstros.
 
-		* Redução Curativa
+		↪ Redução Curativa
 
-		    * Anula o efeito curativo.
+		    ↪ Anula o efeito curativo.
 
-		* Amedrontar
+		↪ Amedrontar
 
-		    * Faz uma unidade de nível inferiror correr de medo.
+		    ↪ Faz uma unidade de nível inferiror correr de medo.
 
-		* Aura Psicótica
+		↪ Aura Psicótica
 
-		    * Aura que oferece o talento de poder gastar alguns pontos de vida para aumentar o dano.
+		    ↪ Aura que oferece o talento de poder gastar alguns pontos de vida para aumentar o dano.
 
-		* Misericórdia
+		↪ Misericórdia
 
-		    * Causa mais dano em unidades que possuem menos da metade da vida.
+		    ↪ Causa mais dano em unidades que possuem menos da metade da vida.
 
-	* Alchi
+	↪ Alchi
 
-		* Disparo Quimico
+		↪ Disparo Quimico
 
-		    * Causa dano a longa distância e reduz atributos. Acertos críticos inutilizam equipamentos.
+		    ↪ Causa dano a longa distância e reduz atributos. Acertos críticos inutilizam equipamentos.
 
-		* Ganância
+		↪ Ganância
 
-		    * Ganha moedas de ouro ao causar dano, tendo um limite por dia.
+		    ↪ Ganha moedas de ouro ao causar dano, tendo um limite por dia.
 
-		* Arremoso de Substâncias
+		↪ Arremoso de Substâncias
 
-		    * pode arremessar substâncias causando seus efeitos em área.
+		    ↪ pode arremessar substâncias causando seus efeitos em área.
 
-		* Produção Farmacêutica
+		↪ Produção Farmacêutica
 
-		    * Pode criar algumas substâncias com efeitos positivos a um certo nível.
+		    ↪ Pode criar algumas substâncias com efeitos positivos a um certo nível.
 
-		* Solo Corrosivo
+		↪ Solo Corrosivo
 
-		    * Lança um produto quimico em um solo causando dano por turno e lentidão.
+		    ↪ Lança um produto quimico em um solo causando dano por turno e lentidão.
 
-	* Sagrum
+	↪ Sagrum
 
-		* Disparo Iluminado
+		↪ Disparo Iluminado
 
-		    * Causa dano a longa distância e reduz o dano. Acertos críticos dão cegueira.
+		    ↪ Causa dano a longa distância e reduz o dano. Acertos críticos dão cegueira.
 
-		* Oração
+		↪ Oração
 
-		    * Restaura pontos de vida.
+		    ↪ Restaura pontos de vida.
 
-		* Prece de Proteção
+		↪ Prece de Proteção
 
-		    * Fornece marcadores de resistência.
+		    ↪ Fornece marcadores de resistência.
 
-		* Candelabro
+		↪ Candelabro
 
-		    * Ilumina locais.
+		    ↪ Ilumina locais.
 
-		* Leitura de Testamento
+		↪ Leitura de Testamento
 
-		    * Permite a leitura de linguas antigas a um certo nivel.
+		    ↪ Permite a leitura de linguas antigas a um certo nivel.
 
-	* Arcana
+	↪ Arcana
 
-		* Disparo Arcano
+		↪ Disparo Arcano
 
-		    * Causa dano a longa distância e pode ser usado fora do turno. Acertos críticos enraizam.
+		    ↪ Causa dano a longa distância e pode ser usado fora do turno. Acertos críticos enraizam.
 
-		* Ampliar
+		↪ Ampliar
 
-		    * Aumentar dano ou resistência de equipamentos.
+		    ↪ Aumentar dano ou resistência de equipamentos.
 
-		* Distorção Relativa
+		↪ Distorção Relativa
 
-		    * Rouba a velocidade de um alvo.
+		    ↪ Rouba a velocidade de um alvo.
 
-		* Redirecionar
+		↪ Redirecionar
 
-		    * Muda o alvo de habilidades a longa distância.
+		    ↪ Muda o alvo de habilidades a longa distância.
 
-		* Aprendizado Runico
+		↪ Aprendizado Runico
 
-		    * Permite a leitura de runas ou escrituras mágicas de niveis inferiores.
+		    ↪ Permite a leitura de runas ou escrituras mágicas de niveis inferiores.
 
-	* Tekno
+	↪ Tekno
 
-		* Disparo Elétrico
+		↪ Disparo Elétrico
 
-			* Causa dano a longa distância e empurra alvos. Acertos críticos causam sangramento.
+			↪ Causa dano a longa distância e empurra alvos. Acertos críticos causam sangramento.
 
-		* Bateria Mágica
+		↪ Bateria Mágica
 
-			* Estoura em energia recebendo mana por alvos acertados.
+			↪ Estoura em energia recebendo mana por alvos acertados.
 
-		* Efeito Estático
+		↪ Efeito Estático
 
-			* Sofrer dano aumenta a velocidade, enquanto diminui a inimiga.
+			↪ Sofrer dano aumenta a velocidade, enquanto diminui a inimiga.
 
-		* Aura Inventiva
+		↪ Aura Inventiva
 
-			* Aura que oferece custo de mana reduzido a aliados.
+			↪ Aura que oferece custo de mana reduzido a aliados.
 
-		* Transformação Mecânica
+		↪ Transformação Mecânica
 
-			* Permite um item se transformar em uma criatura do bestiário, ele recebe consciência própria.
+			↪ Permite um item se transformar em uma criatura do bestiário, ele recebe consciência própria.
 
-* Resh (Classe 9)
+↪ Resh (Classe 9)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* Veneno de Caça
+		↪ Veneno de Caça
 
-		    * Causar dano diminui a esquiva do alvo é aumenta a perícia que unidades precisam para o acertar.
+		    ↪ Causar dano diminui a esquiva do alvo é aumenta a perícia que unidades precisam para o acertar.
 
-		* Envolver em Raízes
+		↪ Envolver em Raízes
 
-		    * Envolve uma unidade protegendo uma quantia de dano a não ser que seja de Fogo. Pode ser usado fora do turno.
+		    ↪ Envolve uma unidade protegendo uma quantia de dano a não ser que seja de Fogo. Pode ser usado fora do turno.
 
-		* Paralisia
+		↪ Paralisia
 
-		    * Inutiliza um alvo orgânico até ele sofrer dano ou algum efeito.
+		    ↪ Inutiliza um alvo orgânico até ele sofrer dano ou algum efeito.
 
-		* Alcateia
+		↪ Alcateia
 
-		    * Ganha força igual ao número de unidades e jogadores aliados.
+		    ↪ Ganha força igual ao número de unidades e jogadores aliados.
 
-		* Recuperação Familiar
+		↪ Recuperação Familiar
 
-		    * Cura uma unidade aliada que tenha um jogador como dono.
+		    ↪ Cura uma unidade aliada que tenha um jogador como dono.
 
-	* Nekro
+	↪ Nekro
 
-		* Contratos Sombrios
+		↪ Contratos Sombrios
 
-		    * Pode transferir pontos de vida entre jogadores aliados, necessitando do consenso de ambos.
+		    ↪ Pode transferir pontos de vida entre jogadores aliados, necessitando do consenso de ambos.
 
-		* Seta Mortal
+		↪ Seta Mortal
 
-		    * Uma habilidade de dano a distância que custa vida e sempre causa dano crítico.
+		    ↪ Uma habilidade de dano a distância que custa vida e sempre causa dano crítico.
 
-		* -unidade
+		↪ -unidade
 
-		    * 
+		    ↪ 
 
-		* -efeitos
+		↪ -efeitos
 
-		    * 
+		    ↪ 
 
-		* -controle-versatilidade -Recuperação
+		↪ -controle-versatilidade -Recuperação
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* -Recuperação
+		↪ -Recuperação
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* -Recuperação
+		↪ -Recuperação
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* -Recuperação
+		↪ -Recuperação
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* -Recuperação
+		↪ -Recuperação
 
-		    * 
+		    ↪ 
 
-* Ayin (Classe 8)
+↪ Ayin (Classe 8)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Samek (Classe 7)
+↪ Samek (Classe 7)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Kaph (Classe 6)
+↪ Kaph (Classe 6)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Yod (Classe 5)
+↪ Yod (Classe 5)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Tet (Classe 4)
+↪ Tet (Classe 4)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Het (Classe 3)
+↪ Het (Classe 3)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Zayin (Classe 2)
+↪ Zayin (Classe 2)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Dalet (Classe 1)
+↪ Dalet (Classe 1)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-* Aleph (Classe Especial)
+↪ Aleph (Classe Especial)
 
-	* Gaia
+	↪ Gaia
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ventus
+	↪ Ventus
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Ignis
+	↪ Ignis
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Aqua
+	↪ Aqua
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Primal
+	↪ Primal
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Nekro
+	↪ Nekro
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Alchi
+	↪ Alchi
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Sagrum
+	↪ Sagrum
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Arcana
+	↪ Arcana
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-	* Tekno
+	↪ Tekno
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 
 
-		* 
+		↪ 
 
-		    * 
+		    ↪ 

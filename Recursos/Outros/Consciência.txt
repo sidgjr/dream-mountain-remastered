@@ -2,81 +2,81 @@
 //	///	Qualidades e Defeitos
 //
 
-* Razão
+↪ Razão
 
-    * Simples (Executa tarefas simples e podem usar habilidades).
+    ↪ Simples (Executa tarefas simples e podem usar habilidades).
 
-    * Primitiva (Possui personalidade).
+    ↪ Primitiva (Possui personalidade).
 
-    * Racional (Pode usar itens e uso de linguagens).
+    ↪ Racional (Pode usar itens e uso de linguagens).
 
-    * Intelectual (Possui um conhecimento em classe especial).
+    ↪ Intelectual (Possui um conhecimento em classe especial).
 
-* Qualidades
+↪ Qualidades
 
-    * Cordial: períto em pontualidade, etiqueta e elegância.
+    ↪ Cordial: períto em pontualidade, etiqueta e elegância.
 
-    * Leal: uma boa e confiável companhia.
+    ↪ Leal: uma boa e confiável companhia.
 
-    * Empático: bom em entender sentimentos e o estado mental de outros.
+    ↪ Empático: bom em entender sentimentos e o estado mental de outros.
 
-    * Simpático: alguém extremamente agrádavel.
+    ↪ Simpático: alguém extremamente agrádavel.
 
-    * Altruísta: não se incomoda em ajudar ou dividr os seus pertences.
+    ↪ Altruísta: não se incomoda em ajudar ou dividr os seus pertences.
 
-    * Calmo: um estado mental consistente e inabalável.
+    ↪ Calmo: um estado mental consistente e inabalável.
 
-    * Paciente: facilmente aguarda as melhores oportunidades.
+    ↪ Paciente: facilmente aguarda as melhores oportunidades.
 
-    * Proativo: disposto a tomar as primeiras ações.
+    ↪ Proativo: disposto a tomar as primeiras ações.
 
-    * Humilde: reconhece suas limitações, além das qualidades de outros.
+    ↪ Humilde: reconhece suas limitações, além das qualidades de outros.
 
-    * Focado: completamente dedicado em suas ações.
+    ↪ Focado: completamente dedicado em suas ações.
 
-* Defeitos
+↪ Defeitos
 
-    * Indeciso: 
+    ↪ Indeciso: 
 
-    * Ganancioso: 
+    ↪ Ganancioso: 
 
-    * Irritado: 
+    ↪ Irritado: 
 
-    * Irresponsável: 
+    ↪ Irresponsável: 
 
-    * Distraído: 
+    ↪ Distraído: 
 
-    * Egoísta: 
+    ↪ Egoísta: 
 
-    * Desprezível: 
+    ↪ Desprezível: 
 
-    * Cruel: 
+    ↪ Cruel: 
 
-    * Arrogante: 
+    ↪ Arrogante: 
 
-    * Preguiçoso: 
+    ↪ Preguiçoso: 
 
-* Ambíguos
+↪ Ambíguos
 
-    * Ambicioso: 
+    ↪ Ambicioso: 
 
-    * Frio: 
+    ↪ Frio: 
 
-    * Sensível: 
+    ↪ Sensível: 
 
-    * Otimista: 
+    ↪ Otimista: 
 
-    * Honesto: 
+    ↪ Honesto: 
 
-    * Controlador: 
+    ↪ Controlador: 
 
-    * Exigente: 
+    ↪ Exigente: 
 
-    * Inocente: 
+    ↪ Inocente: 
 
-    * Excêntrico: 
+    ↪ Excêntrico: 
 
-    * Ousado: 
+    ↪ Ousado: 
 
 
 
@@ -84,43 +84,43 @@
 //	///	Interpretação
 //
 
-* Ações (Modificadores)
+↪ Ações (Modificadores)
 
-    * Inteligência
+    ↪ Inteligência
 
-		* Escrita (INT): habilidade de escrever em qualquer linguagem.
+		↪ Escrita (INT): habilidade de escrever em qualquer linguagem.
 
-		* Solução (INT): resolver problemas e Enigmas.
+		↪ Solução (INT): resolver problemas e Enigmas.
 
-		* Leitura (INT): ler um texto em alguma linguagem antiga ou desconhecida.
+		↪ Leitura (INT): ler um texto em alguma linguagem antiga ou desconhecida.
 
-		* Criação (INT): produção de algo.
+		↪ Criação (INT): produção de algo.
 
-		* Percepção (INT): identificar detalhes importantes.
+		↪ Percepção (INT): identificar detalhes importantes.
 
-	* Agilidade
+	↪ Agilidade
 
-		* Roubo (AGI): adquirir a posse de um item sem o consentimento.
+		↪ Roubo (AGI): adquirir a posse de um item sem o consentimento.
 
-		* Trapaça (AGI): enganar os sentidos de seres.
+		↪ Trapaça (AGI): enganar os sentidos de seres.
 
-		* Furtividade (AGI): não ser detectado.
+		↪ Furtividade (AGI): não ser detectado.
 
-		* Fuga (AGI): fugir de um confronto ou problema.
+		↪ Fuga (AGI): fugir de um confronto ou problema.
 
-		* Persuasão (AGI): convencer e manipular seres.
+		↪ Persuasão (AGI): convencer e manipular seres.
 
-	* Força
+	↪ Força
 
-		* Provocação (STR): iniciar conflitos.
+		↪ Provocação (STR): iniciar conflitos.
 
-		* Coragem (STR): ignorar o medo.
+		↪ Coragem (STR): ignorar o medo.
 
-		* Intimidação (STR): assutar um ser.
+		↪ Intimidação (STR): assutar um ser.
 
-		* Exercicio (STR): exercer uma atividade física.
+		↪ Exercicio (STR): exercer uma atividade física.
 
-		* Superação (STR): quebrar limitações.
+		↪ Superação (STR): quebrar limitações.
 
 
 
@@ -128,32 +128,32 @@
 ///	///	Hostilidade
 ///
 
-* Tendência
+↪ Tendência
 
-    * Dócil (Tenta interagir com os jogadores).
+    ↪ Dócil (Tenta interagir com os jogadores).
 
-    * Passivo (Não ira revidar ao ser atacado).
+    ↪ Passivo (Não ira revidar ao ser atacado).
 
-    * Neutro (Revida).
+    ↪ Neutro (Revida).
 
-    * Territorial (Ataca jogadores que entrarem uma área especifica ou chegarem muito próximos).
+    ↪ Territorial (Ataca jogadores que entrarem uma área especifica ou chegarem muito próximos).
 
-    * Hostil (Ataca jogadores sempre que possível).
+    ↪ Hostil (Ataca jogadores sempre que possível).
 
-* Comportamento
+↪ Comportamento
 
-    * Monstro
+    ↪ Monstro
 
-        * Monstros de classe Tet ou superior recebem metade do dano mágico e metade dos efeitos negativos.
+        ↪ Monstros de classe Tet ou superior recebem metade do dano mágico e metade dos efeitos negativos.
 
-        * São atraídos por itens consumíveis, variando sua força e aparição pela classe do item ou se ele foi consumido ou não.
+        ↪ São atraídos por itens consumíveis, variando sua força e aparição pela classe do item ou se ele foi consumido ou não.
 
-        * Possuem foco em abater o alvo.
+        ↪ Possuem foco em abater o alvo.
 
-    * Racional
+    ↪ Racional
 
-        * Inimigos racionais de classe Tet ou superior possuem itens, habilidades e ações semelhante a jogadores.
+        ↪ Inimigos racionais de classe Tet ou superior possuem itens, habilidades e ações semelhante a jogadores.
 
-        * São atraídos por equipamentos, variando sua força e aparição pela classe do item e principalmente a quantia de moedas de ouro e outros pertences de alto valor.
+        ↪ São atraídos por equipamentos, variando sua força e aparição pela classe do item e principalmente a quantia de moedas de ouro e outros pertences de alto valor.
 
-        * Possuem algum objetivo váriavel.
+        ↪ Possuem algum objetivo váriavel.

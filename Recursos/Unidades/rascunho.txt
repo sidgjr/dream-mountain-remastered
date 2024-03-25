@@ -1,185 +1,185 @@
-* Baleia Voadora
+↪ Baleia Voadora
 
-    * 
-
-
-* Anfibio
-
-    * 
+    ↪ 
 
 
-* Dino
+↪ Anfibio
 
-    * 
-
-
-* Grifo
-
-    * 
+    ↪ 
 
 
-* Hidra
+↪ Dino
 
-    * 
+    ↪ 
 
 
-* Formiga
+↪ Grifo
 
-    * 
+    ↪ 
+
+
+↪ Hidra
+
+    ↪ 
+
+
+↪ Formiga
+
+    ↪ 
 
 
 // Outros
 
-* Pode transportar Mobs Aquático (submerso)
+↪ Pode transportar Mobs Aquático (submerso)
 
-* Agricultura maior
+↪ Agricultura maior
 
-* Agricultura Frutas (arvóres)
+↪ Agricultura Frutas (arvóres)
 
-* Esquentar alimentos
+↪ Esquentar alimentos
 
-* Construção
+↪ Construção
 
-* Caça Noturna
+↪ Caça Noturna
 
-* Ordenhar
+↪ Ordenhar
 
-* Encantar
+↪ Encantar
 
-* Acumular XP
+↪ Acumular XP
 
-* Produzir Música
+↪ Produzir Música
 
-* Breed
+↪ Breed
 
-* Criar um egg do mob
+↪ Criar um egg do mob
 
-* Mesa
+↪ Mesa
 
-* Fornalha
+↪ Fornalha
 
-* Brew Station
+↪ Brew Station
 
-* Nadar na lava
+↪ Nadar na lava
 
-* Coletar itens aleatórios
+↪ Coletar itens aleatórios
 
-* Concede buff de potions
+↪ Concede buff de potions
 
-* Pode transportar Mobs Terrestre
+↪ Pode transportar Mobs Terrestre
 
-* Pode transportar Itens Terrestre
+↪ Pode transportar Itens Terrestre
 
-* Pode transportar Itens Voador
+↪ Pode transportar Itens Voador
 
-* Workbench de ferreiro
+↪ Workbench de ferreiro
 
-* Defumador
+↪ Defumador
 
-* Armazena mobs (Poke)
+↪ Armazena mobs (Poke)
 
-* Pode usar armas
+↪ Pode usar armas
 
-* Pode usar itens
+↪ Pode usar itens
 
-* Pode usar consumível, bufando outros
+↪ Pode usar consumível, bufando outros
 
-* Pode escavar terra
+↪ Pode escavar terra
 
-* Pode escavar pedra
+↪ Pode escavar pedra
 
-* Arar terra
+↪ Arar terra
 
-* Crafting de itens automático
+↪ Crafting de itens automático
 
-* Saber o horário
+↪ Saber o horário
 
-* Saber a localização
+↪ Saber a localização
 
-* Detectar mobs hostis
+↪ Detectar mobs hostis
 
-* Detectar mobs pacíficos
+↪ Detectar mobs pacíficos
 
-* Coletar itens
+↪ Coletar itens
 
-* Terrestre, incendiar
+↪ Terrestre, incendiar
 
-* Voador, incendiar
+↪ Voador, incendiar
 
-* Arrastar mobs, Terrestre
+↪ Arrastar mobs, Terrestre
 
-* Cortar pelo
+↪ Cortar pelo
 
-* Usar Ferramentas
+↪ Usar Ferramentas
 
-* Pseudo-montaria
+↪ Pseudo-montaria
 
-* Enxergar longas distâncias
+↪ Enxergar longas distâncias
 
-* Dar sua vida no seu lugar
+↪ Dar sua vida no seu lugar
 
-* Congelar coisas
+↪ Congelar coisas
 
-* Molhar materiais (inicialmente congreto, no caso lava obsidiana e pedra)
+↪ Molhar materiais (inicialmente congreto, no caso lava obsidiana e pedra)
 
-* Moer materiais
+↪ Moer materiais
 
-* Super abelhas, coleta flores
+↪ Super abelhas, coleta flores
 
-* Produzir cristais
+↪ Produzir cristais
 
-* Detectar sons
+↪ Detectar sons
 
-* Emitir ondas de energia
+↪ Emitir ondas de energia
 
-* Pressionar botões, ligar alavancas
+↪ Pressionar botões, ligar alavancas
 
-* Produzir Minérios
+↪ Produzir Minérios
 
-* Levar item de um baú a outro
+↪ Levar item de um baú a outro
 
-* Coleta Folhas e Frutos
+↪ Coleta Folhas e Frutos
 
-* Coleta Cogumelos
+↪ Coleta Cogumelos
 
-* Coleta Crops mais resitentes
+↪ Coleta Crops mais resitentes
 
-* Coleta plantas de caverna, deserto e Pantano
+↪ Coleta plantas de caverna, deserto e Pantano
 
-* Observa mudanças
+↪ Observa mudanças
 
-* Empurra coisas
+↪ Empurra coisas
 
-* Possui gosma e gruda blocos
+↪ Possui gosma e gruda blocos
 
-* Pode andar por trilhos
+↪ Pode andar por trilhos
 
-* Armazenar Itens
+↪ Armazenar Itens
 
-* Armazenar Itens (Pessoal)
+↪ Armazenar Itens (Pessoal)
 
-* Forjar itens
+↪ Forjar itens
 
-* Bigorna
+↪ Bigorna
 
-* Produzir liquidos
+↪ Produzir liquidos
 
-* Decompor matéria
+↪ Decompor matéria
 
-* Permitir o sono
+↪ Permitir o sono
 
-* Colmeia ambulante
+↪ Colmeia ambulante
 
-* Produzir flores
+↪ Produzir flores
 
-* Pegar com toque suave
+↪ Pegar com toque suave
 
-* Produzir ossos
+↪ Produzir ossos
 
-* Poder encontrar materiais
+↪ Poder encontrar materiais
 
-* Poder esmagar itens
+↪ Poder esmagar itens
 
-* Poder misturar Itens
+↪ Poder misturar Itens
 
-* Poder construir
+↪ Poder construir

@@ -2,185 +2,185 @@
 
 nivel 0
 
-* Isqueiro
+↪ Isqueiro
 
-	* Pode iluminar o lugar com um pequeno fogo em seus dedos
+	↪ Pode iluminar o lugar com um pequeno fogo em seus dedos
 
-* Criar Fogueira
+↪ Criar Fogueira
 
-	* Conjura uma fogueira aconchegante permitindo o sono em lugares exóticos
+	↪ Conjura uma fogueira aconchegante permitindo o sono em lugares exóticos
 
-* Criar Calor
+↪ Criar Calor
 
-	* Abençoa uma unidade removendo efeitos negativos de gelo ou agua
+	↪ Abençoa uma unidade removendo efeitos negativos de gelo ou agua
 
-* Toque Incendiario
+↪ Toque Incendiario
 
-	* Incendeia uma estrutura causando dano por segundo
+	↪ Incendeia uma estrutura causando dano por segundo
 
-* Seta de Fogo
+↪ Seta de Fogo
 
-	* Dispara um projetil de fogo causando dano e aumentando seu fervor
+	↪ Dispara um projetil de fogo causando dano e aumentando seu fervor
 
 
 nivel 1
 
-* Faísca
+↪ Faísca
 
-	* As próximas habilidades de fogo causam dano adicional
+	↪ As próximas habilidades de fogo causam dano adicional
 
-* Conflagrar
+↪ Conflagrar
 
-	* Consome todos os marcadores de Fervor para causar dano
+	↪ Consome todos os marcadores de Fervor para causar dano
 
-* Lançamento Explosivo
+↪ Lançamento Explosivo
 
-	* Lança algum objeto, unidade ou estrutura com propriedades de fogo e fisico
+	↪ Lança algum objeto, unidade ou estrutura com propriedades de fogo e fisico
 
-* Chama Guia
+↪ Chama Guia
 
-	* Cria uma pequena chama que ilumina e guia um caminho já percorrido
+	↪ Cria uma pequena chama que ilumina e guia um caminho já percorrido
 
-* Assopro Geiser
+↪ Assopro Geiser
 
-	* Afasta e queima unidades com um assopro fervente
+	↪ Afasta e queima unidades com um assopro fervente
 
 
 nivel 2
 
-* Impacto Abrasado
+↪ Impacto Abrasado
 
-	* Golpeia corpo a corpo deixando uma marca que causa dano por segundo
+	↪ Golpeia corpo a corpo deixando uma marca que causa dano por segundo
 
-* Rastro Queimado
+↪ Rastro Queimado
 
-	* Aumenta a velocidade e agilidade, deixando um rastro de fogo que causa dano por segundo
+	↪ Aumenta a velocidade e agilidade, deixando um rastro de fogo que causa dano por segundo
 
-* Cozinhar
+↪ Cozinhar
 
-	* Pode em instantes cozinhar comida ou unidades repetinamente
+	↪ Pode em instantes cozinhar comida ou unidades repetinamente
 
-* Passos Quentes
+↪ Passos Quentes
 
-	* Dissipa enraizamentos os derretendo
+	↪ Dissipa enraizamentos os derretendo
 
-* Tunel de Fogo
+↪ Tunel de Fogo
 
-	* Derrete até fazer uma entrada em uma estrutura, causando dano a estrutura e inimigos próximos
+	↪ Derrete até fazer uma entrada em uma estrutura, causando dano a estrutura e inimigos próximos
 
 
 nivel 3
 
-* Vortice Ardente
+↪ Vortice Ardente
 
-	* Causa dano em area variavel com o custo de mana
+	↪ Causa dano em area variavel com o custo de mana
 
-* Cauda de Diabrete
+↪ Cauda de Diabrete
 
-	* Arma uma bomba magica que pode ser observada sua duração por uma cauda de fogo
+	↪ Arma uma bomba magica que pode ser observada sua duração por uma cauda de fogo
 
-* Forjar a Fogo
+↪ Forjar a Fogo
 
-	* Cria um equipamento de grau 3 ou inferior que causa dano por segundo ao usuario além de ter dano aumentado
+	↪ Cria um equipamento de grau 3 ou inferior que causa dano por segundo ao usuario além de ter dano aumentado
 
-* Queimar Neurônios
+↪ Queimar Neurônios
 
-	* Pode esquecer temporariamente habilidades para repor em mana
+	↪ Pode esquecer temporariamente habilidades para repor em mana
 
-* Familiar de fogo
+↪ Familiar de fogo
 
-	* Convoca um familiar de grau 3 ou superior
+	↪ Convoca um familiar de grau 3 ou superior
 
 
 nivel 4
 
-* Bombardeamento
+↪ Bombardeamento
 
-	* Lança um ataque devastador que causa dano nas tres etapas de turno do oponente
+	↪ Lança um ataque devastador que causa dano nas tres etapas de turno do oponente
 
-* Abraço Caloroso
+↪ Abraço Caloroso
 
-	* Abraça uma unidade dissipando enraizamento e qualquer efeito negativo de água e gelo, pode ser usado para explodir unidades
+	↪ Abraça uma unidade dissipando enraizamento e qualquer efeito negativo de água e gelo, pode ser usado para explodir unidades
 
-* Cremação
+↪ Cremação
 
-	* Pode reduzir a cinza cadavares ou unidades
+	↪ Pode reduzir a cinza cadavares ou unidades
 
-* Ignição Espontânea
+↪ Ignição Espontânea
 
-	* Um fogo repentino que pode ser conjurado mesmo quando silenciado ou atordoado
+	↪ Um fogo repentino que pode ser conjurado mesmo quando silenciado ou atordoado
 
-* Consumir Fogo
+↪ Consumir Fogo
 
-	* Pode devorar habilidades próprias ou externas para recuperar um pouco de vida e mana
+	↪ Pode devorar habilidades próprias ou externas para recuperar um pouco de vida e mana
 
 
 nivel 5
 
-* Forja Infernal
+↪ Forja Infernal
 
-	* Pode criar um equipamento de grau 4 ou inferior, com dano aumentado mas causa dano ao usuario
+	↪ Pode criar um equipamento de grau 4 ou inferior, com dano aumentado mas causa dano ao usuario
 
-* Duelo Ardente
+↪ Duelo Ardente
 
-	* Cria um circulo de fogo com uma unidade afastando qualquer outra unidade ou estrutua, o duelo não pode ter interferencia externa
+	↪ Cria um circulo de fogo com uma unidade afastando qualquer outra unidade ou estrutua, o duelo não pode ter interferencia externa
 
-* Queda Solar
+↪ Queda Solar
 
-	* Conjura uma enorme bola de fogo do céu para causar dano a uma enorme quantidade de estruturas e unidades
+	↪ Conjura uma enorme bola de fogo do céu para causar dano a uma enorme quantidade de estruturas e unidades
 
-* Onda Carbonizante
+↪ Onda Carbonizante
 
-	* Envolve o usuario com um tornado de fogo crescente que carboniza unidades e estruturas em volta
+	↪ Envolve o usuario com um tornado de fogo crescente que carboniza unidades e estruturas em volta
 
-* Cataclisma
+↪ Cataclisma
 
-	* Destroi o solo conjurando lava para causar dano
+	↪ Destroi o solo conjurando lava para causar dano
 
 
 // Talentos
 
 nivel 1
 
-* Sem Frio
+↪ Sem Frio
 
-	* Dano reduzido de agua e gelo
+	↪ Dano reduzido de agua e gelo
 
-* Pávio Curto
+↪ Pávio Curto
 
-	* efeitos debilitantes são reduzidos
+	↪ efeitos debilitantes são reduzidos
 
-* Presença Infernal
+↪ Presença Infernal
 
-	* Causa dano por segundo a unidades proximas, pode ser ligado ou desligado
+	↪ Causa dano por segundo a unidades proximas, pode ser ligado ou desligado
 
 
 nivel 2
 
-* Escama de Dragão
+↪ Escama de Dragão
 
-	* Aumenta a força, HP, regeneração e dano base, além de dar afinidade com dragões 
+	↪ Aumenta a força, HP, regeneração e dano base, além de dar afinidade com dragões 
 
-* Aparição Ardua
+↪ Aparição Ardua
 
-	* Pode duplicar a velocidade do proximo movimento além de ser um teleporte, custa mana e vida
+	↪ Pode duplicar a velocidade do proximo movimento além de ser um teleporte, custa mana e vida
 
-* Tocha Humana
+↪ Tocha Humana
 
-	* Ganha um aspecto de fogo no cabelo, que pode ser ligado ou desligado, que aumenta a intensidade a cada ponto de dano recebido, aumentando a volta do dano na proxima habilidade
+	↪ Ganha um aspecto de fogo no cabelo, que pode ser ligado ou desligado, que aumenta a intensidade a cada ponto de dano recebido, aumentando a volta do dano na proxima habilidade
 
 
 nivel 3
 
-* Renascer das Cinzas
+↪ Renascer das Cinzas
 
-	* Quando estiver a beira da morte ou opcionalmente com menos de um quarto do hp pode recuperar todos os pontos de hp e mp e perder todos os efeitos negativos, só pode ser usado uma vez por semana
+	↪ Quando estiver a beira da morte ou opcionalmente com menos de um quarto do hp pode recuperar todos os pontos de hp e mp e perder todos os efeitos negativos, só pode ser usado uma vez por semana
 
-* Brasa Dupla
+↪ Brasa Dupla
 
-	* Duplica cada segunda habilidade
+	↪ Duplica cada segunda habilidade
 
-* Olho de Dragão
+↪ Olho de Dragão
 
-	* Pode ver os pontos de atributos de oponentes
+	↪ Pode ver os pontos de atributos de oponentes
 

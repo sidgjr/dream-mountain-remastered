@@ -2,184 +2,184 @@
 
 nivel 0
 
-* Disparo de Ar
+↪ Disparo de Ar
 
-	* Dispara o ar como projetil
+	↪ Dispara o ar como projetil
 
-* Salto Intermediário
+↪ Salto Intermediário
 
-	* Salta a uma altura anormal e aumenta a agilidade e velocidade
+	↪ Salta a uma altura anormal e aumenta a agilidade e velocidade
 
-* Esfera de Folego
+↪ Esfera de Folego
 
-	* Cria uma esfera de ar que recupera o folego e dissipa silencio
+	↪ Cria uma esfera de ar que recupera o folego e dissipa silencio
 
-* Sopro Auxiliar
+↪ Sopro Auxiliar
 
-	* Abençoa a unidade aumentando a audição e aumentando a chance de erro de inimigos que tentarem atacar
+	↪ Abençoa a unidade aumentando a audição e aumentando a chance de erro de inimigos que tentarem atacar
 
-* Rasteira Eólica
+↪ Rasteira Eólica
 
-	* interrompe habilidades de inimigos proximos
+	↪ interrompe habilidades de inimigos proximos
 
 
 nivel 1
 
-* Flutuar
+↪ Flutuar
 
-	* abençoa a unidade fazendo não tomar dano de queda e não cair
+	↪ abençoa a unidade fazendo não tomar dano de queda e não cair
 
-* Ventos Vandalos
+↪ Ventos Vandalos
 
-	* Destroi um estrutura de grau 2 ou inferior
+	↪ Destroi um estrutura de grau 2 ou inferior
 
-* Tornado Menor
+↪ Tornado Menor
 
-	* Arremessa unidades, estruturas e objetos pro alto em uma linha reta, os retirando de combate
+	↪ Arremessa unidades, estruturas e objetos pro alto em uma linha reta, os retirando de combate
 
-* Condensar Pressão
+↪ Condensar Pressão
 
-	* Cria um escudo invisivel que dissipa habilidades
+	↪ Cria um escudo invisivel que dissipa habilidades
 
-* Vendaval
+↪ Vendaval
 
-	* Empurra uma unidade ou estrutura causando dano a mesma e a o primeiro alvo atingido
+	↪ Empurra uma unidade ou estrutura causando dano a mesma e a o primeiro alvo atingido
 
 nivel 2
 
-* Punhos Zéfiros
+↪ Punhos Zéfiros
 
-	* Golpeia a corpo a corpo uma unidade ou estrutura fazendo que sua próxima habilidade sejá uma aletória daquele mesmo nível
+	↪ Golpeia a corpo a corpo uma unidade ou estrutura fazendo que sua próxima habilidade sejá uma aletória daquele mesmo nível
 
-* Dissipar
+↪ Dissipar
 
-	* Anula uma habildiade distante
+	↪ Anula uma habildiade distante
 
-* Ir Pelos Ares
+↪ Ir Pelos Ares
 
-	* Remove uma estrutura ou objeto até o combate acabar
+	↪ Remove uma estrutura ou objeto até o combate acabar
 
-* Despoluir
+↪ Despoluir
 
-	* Remove efeitos mágicos que sejam locais mas não estruturas de grau 3 ou inferior
+	↪ Remove efeitos mágicos que sejam locais mas não estruturas de grau 3 ou inferior
 
-* De Ponta Cabeça
+↪ De Ponta Cabeça
 
-	* Remove uma unidade de combate até que o conjurador seja atordoado
+	↪ Remove uma unidade de combate até que o conjurador seja atordoado
 
 
 nivel 3
 
-* Tomar Altitude
+↪ Tomar Altitude
 
-	* Pode lançar uma unidade para o alto causando dano de queda e silenciamento
+	↪ Pode lançar uma unidade para o alto causando dano de queda e silenciamento
 
-* Segundo Chão
+↪ Segundo Chão
 
-	* Pode criar uma atmosfera densa no ar dando suporte para unidades se locomoverem
+	↪ Pode criar uma atmosfera densa no ar dando suporte para unidades se locomoverem
 
-* Cria de Sonho
+↪ Cria de Sonho
 
-	* Cria uma pequena unidade de nuvem para transporte
+	↪ Cria uma pequena unidade de nuvem para transporte
 
-* Frescor Revigorante
+↪ Frescor Revigorante
 
-	* Purifica efeitos negativos e move a unidade afetada
+	↪ Purifica efeitos negativos e move a unidade afetada
 
-* Tornado Intermediário
+↪ Tornado Intermediário
 
-	* Causa dano em area, lentidão e muda unidades de lugar
+	↪ Causa dano em area, lentidão e muda unidades de lugar
 
 
 nivel 4
 
-* Convocar Sonho
+↪ Convocar Sonho
 
-	* Cria uma grau 5 chamada Sonho
+	↪ Cria uma grau 5 chamada Sonho
 
-* Convocar Familiar Intermediário
+↪ Convocar Familiar Intermediário
 
-	* Cria uma unidade de grau 3 ou inferior
+	↪ Cria uma unidade de grau 3 ou inferior
 
-* Ventos Caóticos
+↪ Ventos Caóticos
 
-	* Causa dano e muda habilidades por aleatorias do mesmo nivel e também os alvos
+	↪ Causa dano e muda habilidades por aleatorias do mesmo nivel e também os alvos
 
-* Assoprar Dados
+↪ Assoprar Dados
 
-	* Pode manipular para qualquer valor a próxima rolagem de dados
+	↪ Pode manipular para qualquer valor a próxima rolagem de dados
 
-* Redireção Aérea
+↪ Redireção Aérea
 
-	* Muda o alvo de uma habilidade
+	↪ Muda o alvo de uma habilidade
 
 
 nivel 5
 
-* Voo
+↪ Voo
 
-	* Abençoa uma unidade o concendendo a habilidade de voo
+	↪ Abençoa uma unidade o concendendo a habilidade de voo
 
-* Tornado
+↪ Tornado
 
-	* Causa dano e arremessa ao uma area em linha reta
+	↪ Causa dano e arremessa ao uma area em linha reta
 
-* Rosa dos Ventos
+↪ Rosa dos Ventos
 
-	* Teletransporta você e unidades e estruturas proximas para qualquer direção em linha reta entre norte, sul, leste, oeste
+	↪ Teletransporta você e unidades e estruturas proximas para qualquer direção em linha reta entre norte, sul, leste, oeste
 
-* Suspiro Anulador
+↪ Suspiro Anulador
 
-	* Anula uma habilidade, pode ser usado mesmo quando atordoado e silenciado
+	↪ Anula uma habilidade, pode ser usado mesmo quando atordoado e silenciado
 
-* Manto de Neblina
+↪ Manto de Neblina
 
-	* Cria uma area que aplica invisibilidade a unidades aliadas a qualquer unidade fora da area, redirecionando habilidades.
+	↪ Cria uma area que aplica invisibilidade a unidades aliadas a qualquer unidade fora da area, redirecionando habilidades.
 
 
 // Talentos
 
 nivel 1
 
-* Aumentar o Folego
+↪ Aumentar o Folego
 
-	* Diminui efeitos negativos quando submerso e aumenta a inteligência e agilidade enquanto não estiver tocando o chão
+	↪ Diminui efeitos negativos quando submerso e aumenta a inteligência e agilidade enquanto não estiver tocando o chão
 
-* Pés Leves
+↪ Pés Leves
 
-	* Aumenta a velocidade e agilidade
+	↪ Aumenta a velocidade e agilidade
 
-* Anti Queda
+↪ Anti Queda
 
-	* Não recebe dano de queda
+	↪ Não recebe dano de queda
 
 
 nivel 2
 
-* Impeto Insistente
+↪ Impeto Insistente
 
-	* Aumenta a velocidade e agilidade a cada acerto a unidades, perdendo todos os acumulos quando sofrer dano
+	↪ Aumenta a velocidade e agilidade a cada acerto a unidades, perdendo todos os acumulos quando sofrer dano
 
-* Conjuração Aleatória
+↪ Conjuração Aleatória
 
-	* Tem a chance de conjurar habilidades adicionais aleatorias
+	↪ Tem a chance de conjurar habilidades adicionais aleatorias
 
-* Familiar Extendido
+↪ Familiar Extendido
 
-	* Pode aumentar o tempo de duração de unidades
+	↪ Pode aumentar o tempo de duração de unidades
 
 
 nivel 3
 
-* Velocidade Intermediária
+↪ Velocidade Intermediária
 
-	* Aumenta a agilidade e velocidade
+	↪ Aumenta a agilidade e velocidade
 
-* Aura Dissipadora
+↪ Aura Dissipadora
 
-	* Tem a chance de anular habilidades
+	↪ Tem a chance de anular habilidades
 
-* Forma de Ar
+↪ Forma de Ar
 
-	* Se dissipa na forma de um tornado, redirecionando habilidades e aumentando a velocidade
+	↪ Se dissipa na forma de um tornado, redirecionando habilidades e aumentando a velocidade
 

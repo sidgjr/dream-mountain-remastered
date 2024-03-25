@@ -1,78 +1,78 @@
-* As 5 Raças Primordiais:
+↪ As 5 Raças Primordiais:
 
-	* Humano (alta inteligência).
+	↪ Humano (alta inteligência).
 
-		* Talento (Versátil): Recebe um adicional em todos os atributos, mais um ponto adicional por nível.
+		↪ Talento (Versátil): Recebe um adicional em todos os atributos, mais um ponto adicional por nível.
 
-		* Talento (Criatividade): habilidades de Suporte, Utilidade e Invocação custam metade dos recursos e pontos de Mana.
+		↪ Talento (Criatividade): habilidades de Suporte, Utilidade e Invocação custam metade dos recursos e pontos de Mana.
 
-		* Talento (Barganha): Possuí mais Persuação com seres racionais.
+		↪ Talento (Barganha): Possuí mais Persuação com seres racionais.
 
-	* Elfo (mobilidade e sabedoria).
+	↪ Elfo (mobilidade e sabedoria).
 
-		* Talento (Sábio): Recebe mais pontos de mana máximo igual a Inteligência. No começo de turno regenera pontos de mana igual ao alcance adicional.
+		↪ Talento (Sábio): Recebe mais pontos de mana máximo igual a Inteligência. No começo de turno regenera pontos de mana igual ao alcance adicional.
 
-		* (Passo da Floresta): 
+		↪ (Passo da Floresta): 
 
-		* ():
+		↪ ():
 
-	* Helyr (dano contra alvos vulneraveis).
+	↪ Helyr (dano contra alvos vulneraveis).
 
-	* Cael (Alto vigor e proteção).
+	↪ Cael (Alto vigor e proteção).
 
-	* Estilhaço (indisponível)
+	↪ Estilhaço (indisponível)
 
 
-* Raças Mágicas:
+↪ Raças Mágicas:
 
-	* Hupel (inversão).
+	↪ Hupel (inversão).
 
-		* Talento (Inversão de Corpo): Dano recebido é invertido entre magíco e físico.
+		↪ Talento (Inversão de Corpo): Dano recebido é invertido entre magíco e físico.
 
-		* Talento (Inversão de Espírito): Regeneração de vida e mana são invertidas.
+		↪ Talento (Inversão de Espírito): Regeneração de vida e mana são invertidas.
 
-		* Habilidade (Inversão de Estado) : Realiza uma conexão com um alvo, invertendo em quem é colocados os marcadores.
+		↪ Habilidade (Inversão de Estado) : Realiza uma conexão com um alvo, invertendo em quem é colocados os marcadores.
 
-		* Talento (Atributomorfose): No inicio de combate você permutar seus atributos.
+		↪ Talento (Atributomorfose): No inicio de combate você permutar seus atributos.
 
-	* Nufia (se dividem).
+	↪ Nufia (se dividem).
 
-		* Habilidade (Divisão): Se divide em 2 clones com metades dos atributos e marcadores arrendondados para cima.
+		↪ Habilidade (Divisão): Se divide em 2 clones com metades dos atributos e marcadores arrendondados para cima.
 
-		* Habilidade (Fusão): Une 2 clones em um ser só.
+		↪ Habilidade (Fusão): Une 2 clones em um ser só.
 
-		* Talento (Impeto Gêmeo): Uma das copias de Divisão ganha um turno extra (O próximo).
+		↪ Talento (Impeto Gêmeo): Uma das copias de Divisão ganha um turno extra (O próximo).
 
-		* Talento (Travessura): Possuí uma pequena chance de anular magias.
+		↪ Talento (Travessura): Possuí uma pequena chance de anular magias.
 
-	* Shinui (possuem mais de uma forma).
+	↪ Shinui (possuem mais de uma forma).
 
-		* Talento (Memória Genética): Pode armazenar informações de seres.
+		↪ Talento (Memória Genética): Pode armazenar informações de seres.
 
-		* Habilidade (Registro): Registra uma espécie que seja aliada na Memória Genética.
+		↪ Habilidade (Registro): Registra uma espécie que seja aliada na Memória Genética.
 
-		* Habilidade (Transformação): Pode se transformar completamente em um ser registrado em Memória Genética.
+		↪ Habilidade (Transformação): Pode se transformar completamente em um ser registrado em Memória Genética.
 
-		* Talento (Perda de memória): Abaixo da metade dos pontos de vida, cada dano não periódico sofrido faz perder uma das espécies registradas em Memória Genética até o descanso.
+		↪ Talento (Perda de memória): Abaixo da metade dos pontos de vida, cada dano não periódico sofrido faz perder uma das espécies registradas em Memória Genética até o descanso.
 
-	* Ravari (bons atributos de combate).
+	↪ Ravari (bons atributos de combate).
 
-		* Talento (Mestre das Feras): Começa com um mascote, pode ter mascostes adicionais baseado no nível.
+		↪ Talento (Mestre das Feras): Começa com um mascote, pode ter mascostes adicionais baseado no nível.
 
-		* Talento (Conexão Selvagem): Possuí mais Persuação com criaturas.
+		↪ Talento (Conexão Selvagem): Possuí mais Persuação com criaturas.
 
-		* Talento (Barbaridade): Possuem Força e Agilidade adicionais, esses mesmos atributos oferecem o dobro dos seus status, mas só pode usar calça de equipamento.
+		↪ Talento (Barbaridade): Possuem Força e Agilidade adicionais, esses mesmos atributos oferecem o dobro dos seus status, mas só pode usar calça de equipamento.
 
-	* Kehara (alto vigor).
+	↪ Kehara (alto vigor).
 
-		* Talento (Revitalizar): No começo de turno recupera pontos de vida igual ao dano base. Possui mais vigor.
+		↪ Talento (Revitalizar): No começo de turno recupera pontos de vida igual ao dano base. Possui mais vigor.
 
-		* Talento (Berserk): Abaixo de uma certa quantia de pontos de vida ganha pontos de agilidade e dano adicional a custo da regeneração de Revitalizar.
+		↪ Talento (Berserk): Abaixo de uma certa quantia de pontos de vida ganha pontos de agilidade e dano adicional a custo da regeneração de Revitalizar.
 
-		* Habilidade (Ataque Ártico): Sacrifica pontos de vida para causar dano igual a metade desse valor.
+		↪ Habilidade (Ataque Ártico): Sacrifica pontos de vida para causar dano igual a metade desse valor.
 
-	* Nodonte (alto nível de resistência).
+	↪ Nodonte (alto nível de resistência).
 
-		* Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do dano físico sofrido. O mesmo se aplica a dano mágico e marcadores de Barreira.
+		↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do dano físico sofrido. O mesmo se aplica a dano mágico e marcadores de Barreira.
 
-		* Habilidade (Forma Ancestral): Ganha Força igual aos marcadores de Armadura, Barreira e Resistência, causando também marcadores de veneno igual a essa quantia nos oponentes que o acertar, porém não pode usar magias. Sofre metade dos efeitos negativos.
+		↪ Habilidade (Forma Ancestral): Ganha Força igual aos marcadores de Armadura, Barreira e Resistência, causando também marcadores de veneno igual a essa quantia nos oponentes que o acertar, porém não pode usar magias. Sofre metade dos efeitos negativos.

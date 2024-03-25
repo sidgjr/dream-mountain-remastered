@@ -1,419 +1,419 @@
-* Shin (Classe básica)
+↪ Shin (Classe básica)
 
-	* Ar-Vivo
+	↪ Ar-Vivo
 
-		* Nas margens das Praias Iridescentes, onde a realidade é invertida, uma váriação mágica de água-viva ilumina os céus em uma explosão de cores. Ao invés de ser aquático como seus parentes distantes, O Ar-Vivo através de uma fisionomia arcana possui a habilidade de "nadar no ar".
+		↪ Nas margens das Praias Iridescentes, onde a realidade é invertida, uma váriação mágica de água-viva ilumina os céus em uma explosão de cores. Ao invés de ser aquático como seus parentes distantes, O Ar-Vivo através de uma fisionomia arcana possui a habilidade de "nadar no ar".
 
-		* Seu corpo é composto de 90% de Mana, fazendo que emita brilhos fortes e coloridos, usados durante a noite para atrair parceiros, onde realizam danças e se multiplicam em individuos menores ao encontrar outro de sua espécie. Por essa natureza eles são facilmente atráidos por luminosidade, se multiplicam de forma exponensial tornando uma boa fonte de alimento e Mana.
+		↪ Seu corpo é composto de 90% de Mana, fazendo que emita brilhos fortes e coloridos, usados durante a noite para atrair parceiros, onde realizam danças e se multiplicam em individuos menores ao encontrar outro de sua espécie. Por essa natureza eles são facilmente atráidos por luminosidade, se multiplicam de forma exponensial tornando uma boa fonte de alimento e Mana.
 
-		* Eles costuman a descansar ao dia, boiano sobre águas absorvendo a luz solar, além de comer restos orgânicos e vegetações, só a noite emergindo dos mares e lagos em busca de parceiros.
+		↪ Eles costuman a descansar ao dia, boiano sobre águas absorvendo a luz solar, além de comer restos orgânicos e vegetações, só a noite emergindo dos mares e lagos em busca de parceiros.
 
-		* Além de serem atraídos por luz, também são atraídos por magia, sendo muito bons para detectar itens ou tesouros mágicos. Sua variação de cor é baseada nos pigmentos da sua dieta, possuindo mais variações de cores no ambiente caótico das Praias Iridescentes, em outros ambientes ela tende a seguir uma coloração mais monocromática entre os seus indivíduos.
+		↪ Além de serem atraídos por luz, também são atraídos por magia, sendo muito bons para detectar itens ou tesouros mágicos. Sua variação de cor é baseada nos pigmentos da sua dieta, possuindo mais variações de cores no ambiente caótico das Praias Iridescentes, em outros ambientes ela tende a seguir uma coloração mais monocromática entre os seus indivíduos.
 
-		* Ao receber luz branca eles automátimacamente entram em estado de repouso e alimentação (O mesmo que ocorre durante o dia), Além de por sua composição de mana, ser extremamente caçado e criado para criação de poções e itens.
+		↪ Ao receber luz branca eles automátimacamente entram em estado de repouso e alimentação (O mesmo que ocorre durante o dia), Além de por sua composição de mana, ser extremamente caçado e criado para criação de poções e itens.
 
-		* Animal; Cnidário; Voador; Detritívoro; Origem: Praias Iridescentes (Kessen'Mital)
+		↪ Animal; Cnidário; Voador; Detritívoro; Origem: Praias Iridescentes (Kessen'Mital)
 
-	* Grimbo
+	↪ Grimbo
 
-		* Como parte da familia dos polvo-dumbos, eles diferentes de outros polvos possuem a aparência mais circular e compacta. Assim como os demais pode mudar de cor, se camuflar e produzir tinta.
+		↪ Como parte da familia dos polvo-dumbos, eles diferentes de outros polvos possuem a aparência mais circular e compacta. Assim como os demais pode mudar de cor, se camuflar e produzir tinta.
 
-		* O Grimbo pode produzir tintas aleatórias ao longo do dia, além de possuir uma grande capacidade intelectual. Esse animal tem a capacidade de conseguir decorar pelo menos um livro ou escritura, sem entender o seu significado, porém conseguindo copiar e colar as letras e desenhos com sua tinta.
+		↪ O Grimbo pode produzir tintas aleatórias ao longo do dia, além de possuir uma grande capacidade intelectual. Esse animal tem a capacidade de conseguir decorar pelo menos um livro ou escritura, sem entender o seu significado, porém conseguindo copiar e colar as letras e desenhos com sua tinta.
 
-		* Por sua habilidade peculiar é frequentemente usado para produzir jornais e traduções de livros.
+		↪ Por sua habilidade peculiar é frequentemente usado para produzir jornais e traduções de livros.
 
-		* Animal; Polvo; Aquático; Carnívoro; Origem: Libers
+		↪ Animal; Polvo; Aquático; Carnívoro; Origem: Libers
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
-
-
-* Resh (Classe 9)
-
-	* Parva
-
-		* Também conhecido como "Coelho do mar", é um molusco com uma aparencia idêntica a um coelho. Possui sensores quimicos que se parecem com orelhas, mas que usam para poder se orientarem.
-
-		* Por ser extremamente sensível pode se desorientar facilmente ao receber algum efeito negativo.
-
-		* Possui uma habilidade incrível em achar e coletar algas e frutos do mar.
-
-		* Animal; Molusco; Terrestre Aquático; Herbpívoro; Origem: Libers
-
-	* .
-
-		* .
-
-	* .
-
-		* .
-
-	* .
-
-		* .
-
-	* .
-
-		* .
+		↪ .
 
 
-* Ayin (Classe 8)
+↪ Resh (Classe 9)
 
-	* Ovelha do Mar
+	↪ Parva
 
-		* Sendo encontrado praticamente em todas as praias do Mar Liberto, a ovelha do mar é um ser dócil e adorável. Um molusco que por conta da absorção de seiva e seus cloroplastos desenvolveu uma coloração esverdeada identinca a algas, que podem auxiliar em sua dieta fazendo fotossíntese em seu próprio corpo.
+		↪ Também conhecido como "Coelho do mar", é um molusco com uma aparencia idêntica a um coelho. Possui sensores quimicos que se parecem com orelhas, mas que usam para poder se orientarem.
+
+		↪ Por ser extremamente sensível pode se desorientar facilmente ao receber algum efeito negativo.
+
+		↪ Possui uma habilidade incrível em achar e coletar algas e frutos do mar.
+
+		↪ Animal; Molusco; Terrestre Aquático; Herbpívoro; Origem: Libers
+
+	↪ .
+
+		↪ .
+
+	↪ .
+
+		↪ .
+
+	↪ .
+
+		↪ .
+
+	↪ .
+
+		↪ .
+
+
+↪ Ayin (Classe 8)
+
+	↪ Ovelha do Mar
+
+		↪ Sendo encontrado praticamente em todas as praias do Mar Liberto, a ovelha do mar é um ser dócil e adorável. Um molusco que por conta da absorção de seiva e seus cloroplastos desenvolveu uma coloração esverdeada identinca a algas, que podem auxiliar em sua dieta fazendo fotossíntese em seu próprio corpo.
         
-        * Por conta de ter o mesmo tamanho de uma ovelha, além de ter uma aparência agradável, é frequentemente acolhida em zoologicos ou como mascotes.
+        ↪ Por conta de ter o mesmo tamanho de uma ovelha, além de ter uma aparência agradável, é frequentemente acolhida em zoologicos ou como mascotes.
 
-        * Além da aparência esse molusco possuí utilidades, como por exemplo reproduzir em suas costas as plantas absorvidos pelos mesmo, sendo praticamente um cultivo ambulante.
+        ↪ Além da aparência esse molusco possuí utilidades, como por exemplo reproduzir em suas costas as plantas absorvidos pelos mesmo, sendo praticamente um cultivo ambulante.
 
-        * São inofensivos, sendo atraídos por vegetação e tons esverdeados.
+        ↪ São inofensivos, sendo atraídos por vegetação e tons esverdeados.
 
-        * Animal Planta; Molusco; Terrestre Aquático; Herbpívoro; Origem: Mar Liberto
+        ↪ Animal Planta; Molusco; Terrestre Aquático; Herbpívoro; Origem: Mar Liberto
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
 
-* Samek (Classe 7)
+↪ Samek (Classe 7)
 
-	* Lobo Celeste
+	↪ Lobo Celeste
 
-		* Para acompanhar as criaturas voadoras do Arquipelago Celeste de Zay'Zut, o Lobo Celeste teve a adaptação de desenvolver uma membrana de pele entre suas patas dianteiras às traseiras permitindo voo planado. Além de planar possui alta velocidade terrestre, também podendo escalar e saltar entre arvóres ou ilhas voadoras.
+		↪ Para acompanhar as criaturas voadoras do Arquipelago Celeste de Zay'Zut, o Lobo Celeste teve a adaptação de desenvolver uma membrana de pele entre suas patas dianteiras às traseiras permitindo voo planado. Além de planar possui alta velocidade terrestre, também podendo escalar e saltar entre arvóres ou ilhas voadoras.
 
-		* Por estar constamente próximo a nuvens sua pelagem é branca, com pequenas variações acizentadas, porém no peito, patas e fucinho possui coloração viva similar a de aves, para confundir presas e predadores.
+		↪ Por estar constamente próximo a nuvens sua pelagem é branca, com pequenas variações acizentadas, porém no peito, patas e fucinho possui coloração viva similar a de aves, para confundir presas e predadores.
 
-		* Vivem tanto em casal quanto em alcateias, tendo uma ótima comunicação e hierarquia entre seus membros, uivando em ultrasom em uma frequência que apenas eles escutem.
+		↪ Vivem tanto em casal quanto em alcateias, tendo uma ótima comunicação e hierarquia entre seus membros, uivando em ultrasom em uma frequência que apenas eles escutem.
 
-		* São animais extremamente inteligentes e táticos, atacando sempre em vantagem númerica alvos grandes através da estratégia de exaustão e ataques em turnos.
+		↪ São animais extremamente inteligentes e táticos, atacando sempre em vantagem númerica alvos grandes através da estratégia de exaustão e ataques em turnos.
 
-		* Animal; Canino; Voador Terrestre; Carnívoro; Origem: Arquipelago Celeste (Zay'Zut)
+		↪ Animal; Canino; Voador Terrestre; Carnívoro; Origem: Arquipelago Celeste (Zay'Zut)
 
-	* Pagunino
+	↪ Pagunino
 
-		* Um tipo incomum de caranguejo-eremita, possui uma altura invejável que pode chegar até a cintura de uma pessoa. Suas conchas são gigantes contra o próprio corpo, mas as vezes é possível encontrar exemplares menores usando peças de equipamento como concha.
+		↪ Um tipo incomum de caranguejo-eremita, possui uma altura invejável que pode chegar até a cintura de uma pessoa. Suas conchas são gigantes contra o próprio corpo, mas as vezes é possível encontrar exemplares menores usando peças de equipamento como concha.
 
-		* Quando necessitam correr possuem uma velocidade terrestre surreal, como normalmente arrastam suas conchas ao andar, na corrida eles a levantam sobre o corpo para suas disparadas de corrida.
+		↪ Quando necessitam correr possuem uma velocidade terrestre surreal, como normalmente arrastam suas conchas ao andar, na corrida eles a levantam sobre o corpo para suas disparadas de corrida.
 
-		* Além da velocidade terrestre suas pinças possuem força o suficiente para poder arrastar pequenas presas na corrida. Sua força pode até mesmo arrastar alguns animais com peso superior ao Pagunino, mas é um evento muito raro.
+		↪ Além da velocidade terrestre suas pinças possuem força o suficiente para poder arrastar pequenas presas na corrida. Sua força pode até mesmo arrastar alguns animais com peso superior ao Pagunino, mas é um evento muito raro.
 
-		* Por ser bom de caça esse animal foi crucial para o desenvolvimento da Capital de Libers desde sua origem. Hoje mesmo em ambundância por ser o país mais rico do mundo, o Pagunino ainda é respeitado e adotado por vários lares como mascote.
+		↪ Por ser bom de caça esse animal foi crucial para o desenvolvimento da Capital de Libers desde sua origem. Hoje mesmo em ambundância por ser o país mais rico do mundo, o Pagunino ainda é respeitado e adotado por vários lares como mascote.
 
-		* Animal; Crustaceo; Terrestre Aquático; Carnívoro; Origem: Libers
+		↪ Animal; Crustaceo; Terrestre Aquático; Carnívoro; Origem: Libers
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
 
-* Kaph (Classe 6)
+↪ Kaph (Classe 6)
 
-	* Enguia Incendiária
+	↪ Enguia Incendiária
 
-		* As criaturas do Pantano Nevoeiro em sua maioria são peçonhentas, diferente do seu habitat e de outros membros da sua espécie a Enguia Incendiária tem em seu arsenal uma habilidade diferente: o fogo.
+		↪ As criaturas do Pantano Nevoeiro em sua maioria são peçonhentas, diferente do seu habitat e de outros membros da sua espécie a Enguia Incendiária tem em seu arsenal uma habilidade diferente: o fogo.
 
-		* Mesmo não tendo a capacidade de eletrocutar como seus parentes distantes essa criatua consegue produzir uma temperatura extremamente alta nas águas que habitam, aniquilando predadores e presas, além realizar queimaduras graves em quem toca. Também possui uma alta resistência a magias de água, gelo e fogo.
+		↪ Mesmo não tendo a capacidade de eletrocutar como seus parentes distantes essa criatua consegue produzir uma temperatura extremamente alta nas águas que habitam, aniquilando predadores e presas, além realizar queimaduras graves em quem toca. Também possui uma alta resistência a magias de água, gelo e fogo.
 
-		* Embora extraordinária em suas habilidades de caça é fragil e bem menor que outras enguias. É um animal extremamente apreciado na culinária arcana, com uma carne que nunca esfria que pode ser apenas preparada por grandes magos de fogo.
+		↪ Embora extraordinária em suas habilidades de caça é fragil e bem menor que outras enguias. É um animal extremamente apreciado na culinária arcana, com uma carne que nunca esfria que pode ser apenas preparada por grandes magos de fogo.
 
-		* Não é um animal agressivo, usando suas habilidades apenas quando muito assustada, podendo ser facilmente atraída e domesticada usando fogo ou magias e itens relacionados com o aumento de temperatura.
+		↪ Não é um animal agressivo, usando suas habilidades apenas quando muito assustada, podendo ser facilmente atraída e domesticada usando fogo ou magias e itens relacionados com o aumento de temperatura.
 
-		* Animal; Gimnotídeo; Aquático; Carnívoro; Origem: Gler Rathis
+		↪ Animal; Gimnotídeo; Aquático; Carnívoro; Origem: Gler Rathis
 
-	* Manta-real
+	↪ Manta-real
 
-		* Um animal raro e extremamente apreciado por comerciantes marítimos, a Manta-real é uma raia com a capacidade de conseguir voar e planar por longos períodos quando bem alimentada. Costuma voar a grandes alturas para caçar aves, mesclando com o seu cardápio natural de peixes.
+		↪ Um animal raro e extremamente apreciado por comerciantes marítimos, a Manta-real é uma raia com a capacidade de conseguir voar e planar por longos períodos quando bem alimentada. Costuma voar a grandes alturas para caçar aves, mesclando com o seu cardápio natural de peixes.
 
-		* Por seu tamanho colossal e ser extremamente dócil com outros seres que não fazem parte da sua dieta, são domesticada e criadas por marinheiros ou comerciantes como meio de transporte, pesca e até mesmo fins militares.
+		↪ Por seu tamanho colossal e ser extremamente dócil com outros seres que não fazem parte da sua dieta, são domesticada e criadas por marinheiros ou comerciantes como meio de transporte, pesca e até mesmo fins militares.
 
-		* A Manta-real pode transportar toneladas acima do seu corpo, além de possuir um veneno mortal em sua cauda que pode causar sangramentos graves a qualquer individuo que demonstre hostilidade. É extremamente mais cara e mais útil do que um barco ou dirigível;
+		↪ A Manta-real pode transportar toneladas acima do seu corpo, além de possuir um veneno mortal em sua cauda que pode causar sangramentos graves a qualquer individuo que demonstre hostilidade. É extremamente mais cara e mais útil do que um barco ou dirigível;
 
-		* Animal; Batóide; Aquático; Carnívoro; Origem: Mar Liberto
+		↪ Animal; Batóide; Aquático; Carnívoro; Origem: Mar Liberto
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
 
-* Yod (Classe 5)
+↪ Yod (Classe 5)
 
-	* Furão-golias
+	↪ Furão-golias
 
-		* O nome Golias define bem sua altura e comprimento em relação a outras espécies de furão, podendo alcancar o tamanho de um cavalo junto com um comprimento desproporcional de oito vezes sua altura, tornando-o um ser tão adorável quanto monstruoso.
+		↪ O nome Golias define bem sua altura e comprimento em relação a outras espécies de furão, podendo alcancar o tamanho de um cavalo junto com um comprimento desproporcional de oito vezes sua altura, tornando-o um ser tão adorável quanto monstruoso.
 
-		* Esse tipo de furão pode ser encontrado apenas em ambiente extremamente hostis e severos como desertos e polos, fazendo que sua pelagem tenha cores amareladas e escuras para se esconder nas áreias, ou branca a acinzentada para a neve.
+		↪ Esse tipo de furão pode ser encontrado apenas em ambiente extremamente hostis e severos como desertos e polos, fazendo que sua pelagem tenha cores amareladas e escuras para se esconder nas áreias, ou branca a acinzentada para a neve.
 
-		* O Furão-golias, além do tamanho colossal, possui uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possui a habilidade incomum de deslocar seus próprios ossos e juntas a fim de até duplicar o seu próprio comprimento.
+		↪ O Furão-golias, além do tamanho colossal, possui uma força extraordinária em todo o seu corpo, usando-a para estrangular presas até cinco vezes o seu próprio tamanho, além da suas habilidades de excavação podendo perseguir criaturas submersas. Este animal também possui a habilidade incomum de deslocar seus próprios ossos e juntas a fim de até duplicar o seu próprio comprimento.
 
-		* São especialistas na caça de vormes e ursos, sendo usados por muitos povos ao redor de Salon'gar para a caça e transporte.
+		↪ São especialistas na caça de vormes e ursos, sendo usados por muitos povos ao redor de Salon'gar para a caça e transporte.
 
-		* Possuem um comportamento incomum de código moral, mesmo famintos e extremamente cansados nunca atacam filhotes ou seres humanoides, além de sempre tentar interações e comunicações com seres que possívelmente podem ser parceiros de caça.
+		↪ Possuem um comportamento incomum de código moral, mesmo famintos e extremamente cansados nunca atacam filhotes ou seres humanoides, além de sempre tentar interações e comunicações com seres que possívelmente podem ser parceiros de caça.
 
-		* Animal; Mustelídeo; Terrestre; Carnívoro; Origem: Costa Sangrenta, Nor'Tand, Balebus
+		↪ Animal; Mustelídeo; Terrestre; Carnívoro; Origem: Costa Sangrenta, Nor'Tand, Balebus
 
-	* Urso da Praia
+	↪ Urso da Praia
 
-		* Assim como um urso são extremamente territoriais, porém por também serem aquáticos, seu domínio se estende desde as margens da praias até as profundezas do oceano. Possui cascos de crustaceo ao invés de pelagem como seus parentes, além de 4 braços e guelras entre os dedos para a natação.
+		↪ Assim como um urso são extremamente territoriais, porém por também serem aquáticos, seu domínio se estende desde as margens da praias até as profundezas do oceano. Possui cascos de crustaceo ao invés de pelagem como seus parentes, além de 4 braços e guelras entre os dedos para a natação.
 
-        * Vê tudo que não for maior dele como presa fazendo que com além da pesca persiga outras criaturas pelas areias das praias. Pode também escavar para se esconder e depois surpreender suas vítimas. Costumam colocar ovos entre cavernas subaquaticas, mas mesmo sem o parto ainda são mamíferos.
+        ↪ Vê tudo que não for maior dele como presa fazendo que com além da pesca persiga outras criaturas pelas areias das praias. Pode também escavar para se esconder e depois surpreender suas vítimas. Costumam colocar ovos entre cavernas subaquaticas, mas mesmo sem o parto ainda são mamíferos.
 
-        * Possuem uma alta resistência a ferimentos, mas principalmente a ambientes extremos. Quanto mais feridos ou exaustos não só aumentam sua defesa e regeneração como também sua velocidade e ferocidade.
+        ↪ Possuem uma alta resistência a ferimentos, mas principalmente a ambientes extremos. Quanto mais feridos ou exaustos não só aumentam sua defesa e regeneração como também sua velocidade e ferocidade.
 
-		* Animal; Urso; Terrestre Aquático; Carnívoro; Origem: Mar Liberto
+		↪ Animal; Urso; Terrestre Aquático; Carnívoro; Origem: Mar Liberto
 
-	* Hippocampus
+	↪ Hippocampus
 
-		* Sendo metade cavalo e metade peixe o Hippocampus é um ser extremamente veloz nos mares e nos rios. Tendo um temperamento dócil é um ser muito usado e respeitado pelos povos que tem contato, muito utilizado pela marinha do Império de Ashkar.
+		↪ Sendo metade cavalo e metade peixe o Hippocampus é um ser extremamente veloz nos mares e nos rios. Tendo um temperamento dócil é um ser muito usado e respeitado pelos povos que tem contato, muito utilizado pela marinha do Império de Ashkar.
 
-		* Pode criar laços duradouros com seu dono, podendo ser facilmente domesticado sendo alimenado por criaturas aquáticas de nível inferior.
+		↪ Pode criar laços duradouros com seu dono, podendo ser facilmente domesticado sendo alimenado por criaturas aquáticas de nível inferior.
 
-		* Animal; Singnatídeo; Aquático; Carnívoro; Origem: Ashkar
+		↪ Animal; Singnatídeo; Aquático; Carnívoro; Origem: Ashkar
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
 
-* Tet (Classe 4)
+↪ Tet (Classe 4)
 
-	* Tubarão-machado
+	↪ Tubarão-machado
 
-		* Difente de seus parentes o Tubarão-machado consegue viver tanto em água doce quanto nos mares, e por seu habitat preferido ser grandes rios e lagos esse monstro desenvolveu coloração de um marrom carvalho com variações de verde para imitar a folhas e troncos caídos a água.
+		↪ Difente de seus parentes o Tubarão-machado consegue viver tanto em água doce quanto nos mares, e por seu habitat preferido ser grandes rios e lagos esse monstro desenvolveu coloração de um marrom carvalho com variações de verde para imitar a folhas e troncos caídos a água.
 
-		* Sua camuflagem não é feita para caça, sendo usada apenas para o sono e hibernação sem Incômodo, porque quando essa criatura avista uma presa ela ataca imediatamente seu alvo sem ele se quer diferenciar a vegetação de seu predador.
+		↪ Sua camuflagem não é feita para caça, sendo usada apenas para o sono e hibernação sem Incômodo, porque quando essa criatura avista uma presa ela ataca imediatamente seu alvo sem ele se quer diferenciar a vegetação de seu predador.
 
-		* Embora extremamente agressivo e impulsivo o Tubarão-machado possui uma dieta Onívora, cortando as árvores a margem dos lagos e rios com seu bico similar a um machado, comendo suas folhas e os animais que a habitam. Quando muito faminto por carne em específico essa criatua é capaz de um salto veloz do rio para atacar sua presa fora d'agua, depois se rastejando de volta ao rio, ou em um salto capturando seu alimento e indo a um novo rio do outro lado junto a presa.
+		↪ Embora extremamente agressivo e impulsivo o Tubarão-machado possui uma dieta Onívora, cortando as árvores a margem dos lagos e rios com seu bico similar a um machado, comendo suas folhas e os animais que a habitam. Quando muito faminto por carne em específico essa criatua é capaz de um salto veloz do rio para atacar sua presa fora d'agua, depois se rastejando de volta ao rio, ou em um salto capturando seu alimento e indo a um novo rio do outro lado junto a presa.
 
-		* Ao estar satisfeito com carne e folhas o animal é bem pacífico com outras formas de vida, tanto terrestre quanto aquáticas, a não ser que se aproximem do seu ninho feito de troncos das arvóres caídas ou das que eles mesmo cortam.
+		↪ Ao estar satisfeito com carne e folhas o animal é bem pacífico com outras formas de vida, tanto terrestre quanto aquáticas, a não ser que se aproximem do seu ninho feito de troncos das arvóres caídas ou das que eles mesmo cortam.
 
-		* Apesar de não ter uma Inteligência notável o Tubarão-machado possui uma atividade peculiar de autoconsciência: quando de bom humor e satisfeito costuma procurar por sementes a beira da água e replanta-las, uma atitude que a longo prazo o retornará mais alimento, tornando-o um pseudo-agricultor. Além do cultivo, por um motivo desconhecido essa criatura constrói algumas estruturas peculiares de madeira como uma forma rudimentar de arte.
+		↪ Apesar de não ter uma Inteligência notável o Tubarão-machado possui uma atividade peculiar de autoconsciência: quando de bom humor e satisfeito costuma procurar por sementes a beira da água e replanta-las, uma atitude que a longo prazo o retornará mais alimento, tornando-o um pseudo-agricultor. Além do cultivo, por um motivo desconhecido essa criatura constrói algumas estruturas peculiares de madeira como uma forma rudimentar de arte.
 
-		* Animal; Lamnídeo; Aquático; Onívoro; Origem: Anak, Floresta dos Behemoth
+		↪ Animal; Lamnídeo; Aquático; Onívoro; Origem: Anak, Floresta dos Behemoth
 
-	* Deminata
+	↪ Deminata
 
-		* Sendo uma dos seres mais raros do Mar Liberto, essa gigantesca tartaruga tem o costume de carregar seus filhotes em seu casco. Por ter um tamanho colossal, quando adestrada, pode até mesmo carregar vários individuos de outras espécies, se tornando um bom meio de transporte.
+		↪ Sendo uma dos seres mais raros do Mar Liberto, essa gigantesca tartaruga tem o costume de carregar seus filhotes em seu casco. Por ter um tamanho colossal, quando adestrada, pode até mesmo carregar vários individuos de outras espécies, se tornando um bom meio de transporte.
 
-		* Apesar de uma dieta onívora o Deminata não apresenta perigo, ao se deparar com uma ameaça pode nadar em grandes velocidades, além de possuir uma enorme resistência e regeneração.
+		↪ Apesar de uma dieta onívora o Deminata não apresenta perigo, ao se deparar com uma ameaça pode nadar em grandes velocidades, além de possuir uma enorme resistência e regeneração.
 
-		* Podem se mover pela terra, mas terrivelmente devagar, sendo um evento muito raro, já que não precisa de praias para poder porem seus ovos, eles são expelidos contra o mar e depois acoplados a seu casco. Mesmo ao nascer dos filhotes eles ainda passam boa parte de sua infância e amadurecimento em seu casco.
+		↪ Podem se mover pela terra, mas terrivelmente devagar, sendo um evento muito raro, já que não precisa de praias para poder porem seus ovos, eles são expelidos contra o mar e depois acoplados a seu casco. Mesmo ao nascer dos filhotes eles ainda passam boa parte de sua infância e amadurecimento em seu casco.
 
-		* Animal; Tartaruga; Aquático Terrestre; Onívoro; Origem: Mar Liberto
+		↪ Animal; Tartaruga; Aquático Terrestre; Onívoro; Origem: Mar Liberto
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
 
-* Het (Classe 3)
+↪ Het (Classe 3)
 
-	* Vorme do Exílio
+	↪ Vorme do Exílio
 
-		* Um verme colossal, maior entre todos os gigantescos vormes de Salon'gar, Com a capacidade de devorar cidades inteiras, formando cráteras extensas por onde cavan ou criando seus ninhos. Mesmo tendo uma força massiva é uma criatura territorial, atacando apenas quem se aproxima do seu ninho e construções aos arredores.
+		↪ Um verme colossal, maior entre todos os gigantescos vormes de Salon'gar, Com a capacidade de devorar cidades inteiras, formando cráteras extensas por onde cavan ou criando seus ninhos. Mesmo tendo uma força massiva é uma criatura territorial, atacando apenas quem se aproxima do seu ninho e construções aos arredores.
 
-		* Os vormes de Balebus possuem uma característica incomum: não se alimetam de matéria orgânica. Tem uma preferência por devorar metais e pedras preciosas, dando preferência a qualidade, brilho e resistência do material, assumindo aparência próxima a sua dieta com variações de rocha e areia (principais da sua dieta).
+		↪ Os vormes de Balebus possuem uma característica incomum: não se alimetam de matéria orgânica. Tem uma preferência por devorar metais e pedras preciosas, dando preferência a qualidade, brilho e resistência do material, assumindo aparência próxima a sua dieta com variações de rocha e areia (principais da sua dieta).
 		
-		* Seu apetite por materiais raros pode faze-los atacar viajantes que não estejam o incomodando, mas sim possuindo joias e ouro como comerciantes. Mesmo sendo devoradores de fortunas são muito bons em encontrar os mesmos materiais e tesouros.
+		↪ Seu apetite por materiais raros pode faze-los atacar viajantes que não estejam o incomodando, mas sim possuindo joias e ouro como comerciantes. Mesmo sendo devoradores de fortunas são muito bons em encontrar os mesmos materiais e tesouros.
 		
-		* Ao eclodir dos ovos, caso seja acolhido e alimentado com materiais preciosos durante sua infância o vorme gera uma lealdade incondicional por seu cuidador, sendo a única forma descoberta de como adestrar essa aberração dos desertos, tática utilizada principalmente por piratas e exilados de Balebus.
+		↪ Ao eclodir dos ovos, caso seja acolhido e alimentado com materiais preciosos durante sua infância o vorme gera uma lealdade incondicional por seu cuidador, sendo a única forma descoberta de como adestrar essa aberração dos desertos, tática utilizada principalmente por piratas e exilados de Balebus.
 		
-		* Animal; Anelídeo; Terrestre; Detritívoro; Origem: Balebus, Deserto Central
+		↪ Animal; Anelídeo; Terrestre; Detritívoro; Origem: Balebus, Deserto Central
 
-	* Magnoboa
+	↪ Magnoboa
 
-		* Sendo uma das maiores espécies de serpente do mundo a Magnoboa é predador feroz dos mares. É um exemplar que felizmente não pode ser encontrado em meio terrestre, porém é um terror frequente para pescadores e mercadores.
+		↪ Sendo uma das maiores espécies de serpente do mundo a Magnoboa é predador feroz dos mares. É um exemplar que felizmente não pode ser encontrado em meio terrestre, porém é um terror frequente para pescadores e mercadores.
 
-		* Magnoboa possui a habilidade de poder armazenar grandes quantidade de qualquer liquido em seu corpo, podendo além de ajustar o seu peso e capacidade de pressão, como regurgitar torrentes de água para ferir ou atordoar suas vitímas.
+		↪ Magnoboa possui a habilidade de poder armazenar grandes quantidade de qualquer liquido em seu corpo, podendo além de ajustar o seu peso e capacidade de pressão, como regurgitar torrentes de água para ferir ou atordoar suas vitímas.
 
-		* Pode sobreviver em altas e baixas temperatura, até mesmo conseguindo armazenar substâncias da mesma temperatura em seu corpo, como magma, venenos ou acidos.
+		↪ Pode sobreviver em altas e baixas temperatura, até mesmo conseguindo armazenar substâncias da mesma temperatura em seu corpo, como magma, venenos ou acidos.
 
-		* Animal; Réptil; Aquático; Carnívoro; Origem: Mar Liberto
+		↪ Animal; Réptil; Aquático; Carnívoro; Origem: Mar Liberto
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
-	* .
+	↪ .
 
-		* .
-
-
-* Zayin (Classe 2)
-
-	* Peletzu
-
-		* Uma das maiores criaturas voadoras do mundo, o Peletzu em questão de tamanho só perde para seres dos polos e para além do Mar Indomado. Sendo uma ave gigantesca, com o bigo tão grande quanto o próprio corpo, o Peletzu pode abocanhar criaturas colossais e sobrevoar pelos mares por horas segurando toneladas.
-
-		* É uma criatura ao mesmo tempo graciosa e temída, ela costuma prender em sua boca tudo que chama sua atenção, além de um costume sinistro de dar aos seus filhotes a presa ainda viva em seu ninho.
-
-		* O Peletzu tem uma prática comum e perigosa para o meio ambiente, alguns exemplares da sua espécie podem voar e sobreviver entre as ilhas para além do Mar Indomado, trazendo algumas espécies de classe Dalet ou Aleph para regiões que anteriormente eram tranquilas.
-
-		* Animal; Ave; Voador; Carnívoro; Origem: Mar Liberto
-
-	* Pantera-enigma
-
-		* Como predador dos Vales Ocultos em Kessent a Pantera-enigma é uma criatura tão misteriosa quanto o seu habitat natural. Por ser mágico possui um leque de mágias em várias áreas conhecidas pelos magos, mas a sua principal é o poder mental e o arcano.
-
-		* Essa criatura tem um terceiro olho em sua testa, onde pode usar para além de se comunicar telepaticamente também controlar o corpo de suas vitímas. Por ser um felino é extremamente cruel com suas vítimas, fazendo elas o servirem até morrerem, o que não demora muito, já que usa 100% da capacidade física de seus corpos.
-
-		* Mesmo que na maioria das vezes ela brinque com sua comida, existem muitos relatos e histórias desses seres que fazem charadas, são bem intencionados, ou até mesmo ajudam quem acharem interessantes
-
-		* Animal; Felino; Terrestre; Carnívoro; Origem: Vales Ocultos (Kessent, Sul)
-
-	* .
-
-		* .
-
-	* .
-
-		* .
-
-	* .
-
-		* .
+		↪ .
 
 
-* Dalet (Classe 1)
+↪ Zayin (Classe 2)
 
-	* Zorrante
+	↪ Peletzu
 
-		* Uma aberração das terras dos sonhos e pesadelos, o Zorrante possui um corpo escuro de salamandra, tendo olhos e bocas emitindo uma forte luz branca. Possui um metabolismo sobrenatural, necessitando apenas de boas horas de sono para repor as forças ao invés de alimentos.
+		↪ Uma das maiores criaturas voadoras do mundo, o Peletzu em questão de tamanho só perde para seres dos polos e para além do Mar Indomado. Sendo uma ave gigantesca, com o bigo tão grande quanto o próprio corpo, o Peletzu pode abocanhar criaturas colossais e sobrevoar pelos mares por horas segurando toneladas.
 
-		* Além do metabolismo esse monstro pode disparar rajadas de luz obliteradoras, apagando da existência qualquer coisa em seu caminho. Também tem a capacidade de através de suas guelras produzir uma sombra viva que envolve seu corpo tornando-o apenas uma nuvem negra, tendo apenas o brilho de seus olhos e boca a mostra
+		↪ É uma criatura ao mesmo tempo graciosa e temída, ela costuma prender em sua boca tudo que chama sua atenção, além de um costume sinistro de dar aos seus filhotes a presa ainda viva em seu ninho.
 
-		* Sua fome funciona como uma bateria de sono, para cada hora acordado necessita de duas de sono, não se alimenta de nada, aniquilando outras formas de vida apenas por território.
+		↪ O Peletzu tem uma prática comum e perigosa para o meio ambiente, alguns exemplares da sua espécie podem voar e sobreviver entre as ilhas para além do Mar Indomado, trazendo algumas espécies de classe Dalet ou Aleph para regiões que anteriormente eram tranquilas.
 
-		* É encontrado raramente em estado de repouso por todo Kassalon, principalmente no Vale da Quietude junto a outras criaturas lendárias, porém também pode ser encontrado nos Muros Sonambulos.  
+		↪ Animal; Ave; Voador; Carnívoro; Origem: Mar Liberto
 
-		* Monstro; Anfíbio; Terrestre Aquático; ?; Origem: Ilhas Pesadelo (Kassalon)
+	↪ Pantera-enigma
 
-	* Fulgurodonte
+		↪ Como predador dos Vales Ocultos em Kessent a Pantera-enigma é uma criatura tão misteriosa quanto o seu habitat natural. Por ser mágico possui um leque de mágias em várias áreas conhecidas pelos magos, mas a sua principal é o poder mental e o arcano.
 
-		* Na tempestade caótica de elementos do Vulcão Oivuzev, o Fulgurodonte se aproveita das mudanças climáticas para emboscar suas vitímas. Um Tubarão com uma fisionomia arcana tendo a estranha habilidade de "nadar no ar" em alta velocidade. Além do "voo", possui a habilidade de criar e manipular tempestades ou tornados, sendo um verdadeiro terror climático.
+		↪ Essa criatura tem um terceiro olho em sua testa, onde pode usar para além de se comunicar telepaticamente também controlar o corpo de suas vitímas. Por ser um felino é extremamente cruel com suas vítimas, fazendo elas o servirem até morrerem, o que não demora muito, já que usa 100% da capacidade física de seus corpos.
 
-		* Além da voracidade, velocidade e força sem iguais, graças a sua reserva de mana e seu habitat natural consegue conjurar mágias de água, gelo, vento ou trovão, também tendo uma alta resistência a esses mesmos elementos.
+		↪ Mesmo que na maioria das vezes ela brinque com sua comida, existem muitos relatos e histórias desses seres que fazem charadas, são bem intencionados, ou até mesmo ajudam quem acharem interessantes
 
-		* Mesmo com um tamanho igual a de uma baleia, essa criatura colossal ataca em bandos, principalmente em movimentos circulares graças a uma estratégia de emboscar presas em tornados, tática desenvolvida para caçar criaturas míticas e lendárias que habitam no Polo da Mente.
+		↪ Animal; Felino; Terrestre; Carnívoro; Origem: Vales Ocultos (Kessent, Sul)
 
-		* É um ser extremamente agressivo, porém prioriza sempre os maiores alvos, inclusive até interrompendo o ataque a uma presa caso uma maior surja. Difente de seus parentes distantes os tubarões, o Fulgurodonte ao invés de ter um alfato aguçado para sangue ele consegue sentir o cheiro do gastos de mana, também sendo atraído por grandes conjurações. 
+	↪ .
 
-		* Monstro; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
+		↪ .
 
-	* Cograssus
+	↪ .
 
-		* Como um parente distante dos basilossauros e das baleias, Cograssus é o maior animal marítimo que habita o Mar Liberto, também batendo de frente em tamanho com várias aberrações do Mar Indomado.
+		↪ .
+
+	↪ .
+
+		↪ .
+
+
+↪ Dalet (Classe 1)
+
+	↪ Zorrante
+
+		↪ Uma aberração das terras dos sonhos e pesadelos, o Zorrante possui um corpo escuro de salamandra, tendo olhos e bocas emitindo uma forte luz branca. Possui um metabolismo sobrenatural, necessitando apenas de boas horas de sono para repor as forças ao invés de alimentos.
+
+		↪ Além do metabolismo esse monstro pode disparar rajadas de luz obliteradoras, apagando da existência qualquer coisa em seu caminho. Também tem a capacidade de através de suas guelras produzir uma sombra viva que envolve seu corpo tornando-o apenas uma nuvem negra, tendo apenas o brilho de seus olhos e boca a mostra
+
+		↪ Sua fome funciona como uma bateria de sono, para cada hora acordado necessita de duas de sono, não se alimenta de nada, aniquilando outras formas de vida apenas por território.
+
+		↪ É encontrado raramente em estado de repouso por todo Kassalon, principalmente no Vale da Quietude junto a outras criaturas lendárias, porém também pode ser encontrado nos Muros Sonambulos.  
+
+		↪ Monstro; Anfíbio; Terrestre Aquático; ?; Origem: Ilhas Pesadelo (Kassalon)
+
+	↪ Fulgurodonte
+
+		↪ Na tempestade caótica de elementos do Vulcão Oivuzev, o Fulgurodonte se aproveita das mudanças climáticas para emboscar suas vitímas. Um Tubarão com uma fisionomia arcana tendo a estranha habilidade de "nadar no ar" em alta velocidade. Além do "voo", possui a habilidade de criar e manipular tempestades ou tornados, sendo um verdadeiro terror climático.
+
+		↪ Além da voracidade, velocidade e força sem iguais, graças a sua reserva de mana e seu habitat natural consegue conjurar mágias de água, gelo, vento ou trovão, também tendo uma alta resistência a esses mesmos elementos.
+
+		↪ Mesmo com um tamanho igual a de uma baleia, essa criatura colossal ataca em bandos, principalmente em movimentos circulares graças a uma estratégia de emboscar presas em tornados, tática desenvolvida para caçar criaturas míticas e lendárias que habitam no Polo da Mente.
+
+		↪ É um ser extremamente agressivo, porém prioriza sempre os maiores alvos, inclusive até interrompendo o ataque a uma presa caso uma maior surja. Difente de seus parentes distantes os tubarões, o Fulgurodonte ao invés de ter um alfato aguçado para sangue ele consegue sentir o cheiro do gastos de mana, também sendo atraído por grandes conjurações. 
+
+		↪ Monstro; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
+
+	↪ Cograssus
+
+		↪ Como um parente distante dos basilossauros e das baleias, Cograssus é o maior animal marítimo que habita o Mar Liberto, também batendo de frente em tamanho com várias aberrações do Mar Indomado.
 		
-		* Habitando apenas na Fenda Abissal é uma criatura que raramente faz aparições na superficie, surgindo apenas para acumular oxigênio que pode durar por meses submerso em um quantidade incrível de pressão, onde pode se alimentar de outras criaturas abissais.
+		↪ Habitando apenas na Fenda Abissal é uma criatura que raramente faz aparições na superficie, surgindo apenas para acumular oxigênio que pode durar por meses submerso em um quantidade incrível de pressão, onde pode se alimentar de outras criaturas abissais.
 
-		* É extremamente territorial, porém por viver em grande depressões raramente ataca embarcações. Mesmo sendo uma criatura colossal possui a capacidade similar a de insetos: o poder de levantar várias vezes o seu peso, conseguindo chegar a marca de até dez vezes.
+		↪ É extremamente territorial, porém por viver em grande depressões raramente ataca embarcações. Mesmo sendo uma criatura colossal possui a capacidade similar a de insetos: o poder de levantar várias vezes o seu peso, conseguindo chegar a marca de até dez vezes.
 
-		* As lendas dizem que na Era dos Magus, as civilizações antigas tinham o dom de usar essas enormes feras como meio de transporte para comércio e até mesmo fins militares.
+		↪ As lendas dizem que na Era dos Magus, as civilizações antigas tinham o dom de usar essas enormes feras como meio de transporte para comércio e até mesmo fins militares.
 
-		* Animal; Basilosauridae; Aquático; Carnívoro; Origem: Fenda Abissal (Mar Liberto)
+		↪ Animal; Basilosauridae; Aquático; Carnívoro; Origem: Fenda Abissal (Mar Liberto)
 
-	* Dragão Fantasma
+	↪ Dragão Fantasma
 
-		* São encontrados a uma frequência assustadora nas terras mortas de Nekron. Antingamente eram Dragões Verdadeiros, mas após a Guerra dos Lagos foram quase todos completamente extintos, hoje vagando como tormentos gigantescos em busca de vingança.
+		↪ São encontrados a uma frequência assustadora nas terras mortas de Nekron. Antingamente eram Dragões Verdadeiros, mas após a Guerra dos Lagos foram quase todos completamente extintos, hoje vagando como tormentos gigantescos em busca de vingança.
 
-		* Os Dragões Verdadeiros por si só já eram criaturas que representavam o ódio e a fúria do mundo, mas após traídos pela ganância e egoismo dos mortais desenvolveram uma indole completamente cruel e maligna, frutos do rancor armazenado por milenios.
+		↪ Os Dragões Verdadeiros por si só já eram criaturas que representavam o ódio e a fúria do mundo, mas após traídos pela ganância e egoismo dos mortais desenvolveram uma indole completamente cruel e maligna, frutos do rancor armazenado por milenios.
 
-		* Além de conhecerem maioria das magias de fogo também conhecem magias de necromancia.
+		↪ Além de conhecerem maioria das magias de fogo também conhecem magias de necromancia.
 
-		* Animal Morto-Vivo; ?; Terrestre Voador; Carnívoro; Origem: ?
+		↪ Animal Morto-Vivo; ?; Terrestre Voador; Carnívoro; Origem: ?
 
-	* .
+	↪ .
 
-		* .
+		↪ .
 
 
-* Aleph (Classe Especial)
+↪ Aleph (Classe Especial)
 
-	* Helyatã
+	↪ Helyatã
 
-		* A lenda diz que um sábio Helyr, por curiosidade, permitiu a entrada dos primeiros nulos sobre Salon'gar criando um acesso milenar na montanha dos sonhos. A Primeira Invasão, em um ato de traição com ele, transformou o sábio no primeiro Leviatã que o mundo já teve. Mesmo sendo morto pelos Nove Heróis na Era da Noite, suas crias se espalharam pelo mundo, principalmente pelo Mar Indomado, mas exemplares podem ser encontrados nos mares ao redor da Floresta Exótica de Yar Matua.
+		↪ A lenda diz que um sábio Helyr, por curiosidade, permitiu a entrada dos primeiros nulos sobre Salon'gar criando um acesso milenar na montanha dos sonhos. A Primeira Invasão, em um ato de traição com ele, transformou o sábio no primeiro Leviatã que o mundo já teve. Mesmo sendo morto pelos Nove Heróis na Era da Noite, suas crias se espalharam pelo mundo, principalmente pelo Mar Indomado, mas exemplares podem ser encontrados nos mares ao redor da Floresta Exótica de Yar Matua.
 
-		* Por se tratar de uma criatura que já foi um Helyr, também tem as mesmas características de um ser mesclado entre fauna e flora, tendo folhas e cascos de arvóres formando o seu corpo. Mesmo sendo uma criatura marítima o tom esverdeado de ser uma flora ambulante da ao Helyatã uma visão bem graciosa, porém o seu comportamento é o mesmo de um monstro, aniquilando qualquer coisa em seu caminho.
+		↪ Por se tratar de uma criatura que já foi um Helyr, também tem as mesmas características de um ser mesclado entre fauna e flora, tendo folhas e cascos de arvóres formando o seu corpo. Mesmo sendo uma criatura marítima o tom esverdeado de ser uma flora ambulante da ao Helyatã uma visão bem graciosa, porém o seu comportamento é o mesmo de um monstro, aniquilando qualquer coisa em seu caminho.
 
-		* É o maior ser vivo já observado em todo Salon'gar, suas medidas corretas ainda são desconhecidas, possuindo a capacidade de devorar cidades inteiras com apenas uma mordida. Além de ser a maior criatura que já existiu, por onde passa deixa esporos do seu corpo em forma de flores nas águas, também as esverdeado com uma substância extremamente tóxica. Essa mesma substância é uma das substâncias mais raras e caras do mundo.
+		↪ É o maior ser vivo já observado em todo Salon'gar, suas medidas corretas ainda são desconhecidas, possuindo a capacidade de devorar cidades inteiras com apenas uma mordida. Além de ser a maior criatura que já existiu, por onde passa deixa esporos do seu corpo em forma de flores nas águas, também as esverdeado com uma substância extremamente tóxica. Essa mesma substância é uma das substâncias mais raras e caras do mundo.
 
-		* Animal Planta; ?; Aquático; Onívoro; Origem: Mar Indomado, Yar Matua
+		↪ Animal Planta; ?; Aquático; Onívoro; Origem: Mar Indomado, Yar Matua
 	
-	* Dragão Verdadeiro
+	↪ Dragão Verdadeiro
 
-		* Como os primeiros filhos de Ignis, os dragões verdadeiros são a primeira e mais poderosa espécie dessa criatura mitológica. Uma das criaturas mais raras do mundo, o que é incomum por se tamanho colossal e hábitos destrutivos, e mesmo assim, sendo poquissimo observado ou encontrado no mundo.
+		↪ Como os primeiros filhos de Ignis, os dragões verdadeiros são a primeira e mais poderosa espécie dessa criatura mitológica. Uma das criaturas mais raras do mundo, o que é incomum por se tamanho colossal e hábitos destrutivos, e mesmo assim, sendo poquissimo observado ou encontrado no mundo.
 
-		* Por serem senhores do fogo possuem além da capacidade natural de cuspir e controlar chamas eles possuem o conhecimento de todas as magias de Ignis, inclusive as esquecidas pelo tempo.
+		↪ Por serem senhores do fogo possuem além da capacidade natural de cuspir e controlar chamas eles possuem o conhecimento de todas as magias de Ignis, inclusive as esquecidas pelo tempo.
 
-		* Assim como os dragões são filhos do Fogo, elfos são da Terra, krons da Água e por fim humanos do Vento.
+		↪ Assim como os dragões são filhos do Fogo, elfos são da Terra, krons da Água e por fim humanos do Vento.
 
-		*  Animal; ?; Terrestre Voador; Carnívoro; Origem: ?
+		↪  Animal; ?; Terrestre Voador; Carnívoro; Origem: ?
 
-	* Artipede
+	↪ Artipede
 
-		* .
+		↪ .
 
-	* Ent Gênisis
+	↪ Ent Gênisis
 
-		* .
+		↪ .
 
-	* Megadominus
+	↪ Megadominus
 
-		* .
+		↪ .
 
-	* Octoserpus
+	↪ Octoserpus
 
-		* .
+		↪ .

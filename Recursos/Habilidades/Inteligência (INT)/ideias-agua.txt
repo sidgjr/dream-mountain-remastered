@@ -2,184 +2,184 @@
 
 nivel 0
 
-* Criogenia Básica
+↪ Criogenia Básica
 
-	* Pode congelar pequenas criaturas e objetos.
+	↪ Pode congelar pequenas criaturas e objetos.
 
-* Manipular Água
+↪ Manipular Água
 
-	* Pode extrair água de fontes inanimadas para criar uma base de água.
+	↪ Pode extrair água de fontes inanimadas para criar uma base de água.
 
-* Seta de Gelo
+↪ Seta de Gelo
 
-	* Dispara um objeto de gelo causando dano e lentidão.
+	↪ Dispara um objeto de gelo causando dano e lentidão.
 
-* Chão Frio
+↪ Chão Frio
 
-	* Congela o terreno aplicando lentidão e uma chance de enraizamento
+	↪ Congela o terreno aplicando lentidão e uma chance de enraizamento
 
-* Familiar Amigável
+↪ Familiar Amigável
 
-	* Convoca um familiar de Grau 0
+	↪ Convoca um familiar de Grau 0
 
 
 nivel 1
 
-* Domo liquido
+↪ Domo liquido
 
-	* Cria uma barreira de água protegendo unidades aliadas
+	↪ Cria uma barreira de água protegendo unidades aliadas
 
-* Projeção de Gelo
+↪ Projeção de Gelo
 
-	* Pode analisar e criar mapas, objetos ou estruturas de gelo para ver informações
+	↪ Pode analisar e criar mapas, objetos ou estruturas de gelo para ver informações
 
-* Proteção Contra o Frio
+↪ Proteção Contra o Frio
 
-	* Abençoa a unidade aliada aumentando sua resitência contra água e gelo
+	↪ Abençoa a unidade aliada aumentando sua resitência contra água e gelo
 
-* Criar Nuvem Básica
+↪ Criar Nuvem Básica
 
-	* Conjura uma nuvem que pode atrapalhar inimigos ou curar aliados
+	↪ Conjura uma nuvem que pode atrapalhar inimigos ou curar aliados
 
-* Melhorar Circulação
+↪ Melhorar Circulação
 
-	* Purifica venenos de grau 2 ou inferior
+	↪ Purifica venenos de grau 2 ou inferior
 
 
 nivel 2
 
-* Lotús de Gelo
+↪ Lotús de Gelo
 
-	* Enraiza todas as unidades inimigas em torno de uma unidade
+	↪ Enraiza todas as unidades inimigas em torno de uma unidade
 
-* Respirar na Água
+↪ Respirar na Água
 
-	* Abençoa uma unidade concendendo a capacidade de respirar e conjurar em baixo da água
+	↪ Abençoa uma unidade concendendo a capacidade de respirar e conjurar em baixo da água
 
-* Bolha Mágica
+↪ Bolha Mágica
 
-	* Conjura uma bolha levitando e sufocando uma unidade alvo
+	↪ Conjura uma bolha levitando e sufocando uma unidade alvo
 
-* Corrente Refrescante
+↪ Corrente Refrescante
 
-	* cura uma unidade aliado, a cura se repete para uma unidade alida por perto, se repetindo a escolha do conjurador e sem repetições
+	↪ cura uma unidade aliado, a cura se repete para uma unidade alida por perto, se repetindo a escolha do conjurador e sem repetições
 
-* Criar Elemental de Água Básico
+↪ Criar Elemental de Água Básico
 
-	* Conjura um elemental de Grau 2 ou inferior
+	↪ Conjura um elemental de Grau 2 ou inferior
 
 
 nivel 3
 
-* Criar Lago
+↪ Criar Lago
 
-	* Alaga um terreno, afogando unidades e aumentando a capacidade de habilidades de água
+	↪ Alaga um terreno, afogando unidades e aumentando a capacidade de habilidades de água
 
-* Andar sobre Água
+↪ Andar sobre Água
 
-	* Abençoa uma unidade permitindo andar sobre a água até sofrer uma quantia de dano
+	↪ Abençoa uma unidade permitindo andar sobre a água até sofrer uma quantia de dano
 
-* Criogenia Intermediaria
+↪ Criogenia Intermediaria
 
-	* Congela unidades, estruturas e objetos maiores
+	↪ Congela unidades, estruturas e objetos maiores
 
-* Afogar
+↪ Afogar
 
-	* Silencia e causa dano a uma unidade submersa, ou conjura uma bolha de água apenas para a cabeça
+	↪ Silencia e causa dano a uma unidade submersa, ou conjura uma bolha de água apenas para a cabeça
 
-* Aspecto de Anfibio
+↪ Aspecto de Anfibio
 
-	* Abençoa uma unidade permitindo se locomover submerso normalmente, o mais rápido quando o próprio conjurador
+	↪ Abençoa uma unidade permitindo se locomover submerso normalmente, o mais rápido quando o próprio conjurador
 
 
 nivel 4
 
-* Vortex
+↪ Vortex
 
-	* Manipula a água para criar um vortice que atordoa e causa dano a unidades
+	↪ Manipula a água para criar um vortice que atordoa e causa dano a unidades
 
-* Tsunami
+↪ Tsunami
 
-	* Cria uma onda gigante devastando unidades e estruturas
+	↪ Cria uma onda gigante devastando unidades e estruturas
 
-* Aurora Boreal
+↪ Aurora Boreal
 
-	* Ilumina os céus curando aliados por turno
+	↪ Ilumina os céus curando aliados por turno
 
-* Criar Elemental de Água Intermediario
+↪ Criar Elemental de Água Intermediario
 
-	* Conjura um familiar de grau 3 ou inferior
+	↪ Conjura um familiar de grau 3 ou inferior
 
-* Conjuração Multi-aquatica
+↪ Conjuração Multi-aquatica
 
-	* Duplica as próximas duas curas
+	↪ Duplica as próximas duas curas
 
 
 nivel 5
 
-* Criar Mar
+↪ Criar Mar
 
-	* Alaga o chão até o horizonte
+	↪ Alaga o chão até o horizonte
 
-* Nevasca
+↪ Nevasca
 
-	* Muda a temperatura para congelar unidades inimigas por turno
+	↪ Muda a temperatura para congelar unidades inimigas por turno
 
-* Tempestade
+↪ Tempestade
 
-	* Muda o tempo para conjurar nuvens e raios
+	↪ Muda o tempo para conjurar nuvens e raios
 
-* Dividir Oceanos
+↪ Dividir Oceanos
 
-	* Consegue partir mares
+	↪ Consegue partir mares
 
-* Criar Equipamento de Água
+↪ Criar Equipamento de Água
 
-	* Cria uma cópia de equipamento aplicando propriedades de águas
+	↪ Cria uma cópia de equipamento aplicando propriedades de águas
 
 
 // Talentos
 
 nivel 1
 
-* Sommelier
+↪ Sommelier
 
-	* Aumenta a duração de poções e consumiveis
+	↪ Aumenta a duração de poções e consumiveis
 
-* Maestria Subáquatica
+↪ Maestria Subáquatica
 
-	* aumenta o dano e cura quando submerso
+	↪ aumenta o dano e cura quando submerso
 
-* Natação (Água)
+↪ Natação (Água)
 
-	* Aumenta a velocidade e agilidade quando submerso
+	↪ Aumenta a velocidade e agilidade quando submerso
 
 
 nivel 2
 
-* Resitência a Sangramento
+↪ Resitência a Sangramento
 
-	* Recebe a metade do dano e duração de sangramentos
+	↪ Recebe a metade do dano e duração de sangramentos
 
-* Resistência a Veneno
+↪ Resistência a Veneno
 
-	* Recebe a metade do dano e duração de venenos
+	↪ Recebe a metade do dano e duração de venenos
 
-* Resistência a Fogo
+↪ Resistência a Fogo
 
-	* Recebe dano reduzido de fogo
+	↪ Recebe dano reduzido de fogo
 
 
 nivel 3
 
-* Hidromancia
+↪ Hidromancia
 
-	* Pode conjurar algumas habilidades sem custar mana ou fonte de água
+	↪ Pode conjurar algumas habilidades sem custar mana ou fonte de água
 
-* Perícia em Inundação
+↪ Perícia em Inundação
 
-	* Aumenta a chance de acerto de criação de agua
+	↪ Aumenta a chance de acerto de criação de agua
 
-* Forma líquida
+↪ Forma líquida
 
-	* Pode se transformar em água
+	↪ Pode se transformar em água
