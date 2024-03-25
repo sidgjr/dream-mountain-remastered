@@ -6,31 +6,37 @@
 
     ↪ Sobre: O atributo responsável pela fisíca e propriedade de seres e objetos.
 
-    ↪ Vantagem: cada ponto de Força concede 2 pontos de vida máxima. Cada 5 pontos concedem 1 de dano base.
+    ↪ Secundário:
 
-    ↪ Bônus: cada 10 pontos de Força concedem 1 ponto de regeneração de vida.
+        ↪ Ataque: cada 1 ponto corresponde a 1 ponto de dano da unidade.
 
-    ↪ Principal: Ao ficar abaixo da metade vida recebe duplica a regeneração vida e cura recebida.
+        ↪ Defesa: cada 2 pontos correspondem a 1 de dano fisico reduzido sofrido.
+
+        ↪ Vitalidade: cada 1 ponto corresponde a 3 pontos de vida máximo.
 
 ↪ Agilidade
 
     ↪ Sobre: O atributo responsável pelo comportamento do ser ou objeto em relação ao mundo.
 
-    ↪ Vantagem: cada ponto de Agilidade concede 1 pontos de velocidade. Cada 10 pontos concedem 1 ponto de precisão.
+    ↪ Secundário:
 
-    ↪ Bônus: Cada 20 pontos concedem 1 ação de movimento adicional por turno.
+        ↪ Velocidade: cada 1 ponto corresponde a 1 metro que a unidade pode percorrer por turno.
 
-    ↪ Principal: A cada quarta habilidade tem acerto crítico garantido.
+        ↪ Alcance: cada 2 pontos correspondem a 1 metro de alcance adicional nas ataques e habilidades (exceto por corpo a corpo).
+
+        ↪ Comunicação: cada 1 ponto corresponde a 3 metros de distância máxima de unidades controladas por esta.
 
 ↪ Inteligência
 
     ↪ Sobre: O atributo responsável pela consciência do ser ou objeto.
 
-    ↪ Vantagem: cada ponto de Inteligência concede 3 pontos de mana máximo. Cada 15 pontos concedem 1 ponto de habilidade.
+    ↪ Secundário:
 
-    ↪ Bônus: cada 15 pontos de Inteligência concedem 1 ponto de regeneração de mana.
+        ↪ Maestria: cada 1 ponto corresponde a 1 ponto de dano em habilidades e unidades.
 
-    ↪ Principal: Alcance duplicado.
+        ↪ Noção: cada 2 pontos correspondem a 1 de dano mágico reduzido sofrido.
+
+        ↪ Domínio: cada 1 ponto corresponde a 4 pontos de mana máxima.
 
 
 

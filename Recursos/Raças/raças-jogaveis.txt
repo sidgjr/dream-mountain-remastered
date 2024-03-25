@@ -6,19 +6,31 @@
 
 		↪ Talento (Criatividade): habilidades de Suporte, Utilidade e Invocação custam metade dos recursos e pontos de Mana.
 
-		↪ Talento (Barganha): Possuí mais Persuação com seres racionais.
+		↪ Talento (Barganha): Possuí mais Comunicação com seres racionais.
 
 	↪ Elfo (mobilidade e sabedoria).
 
-		↪ Talento (Sábio): Recebe mais pontos de mana máximo igual a Inteligência. No começo de turno regenera pontos de mana igual ao alcance adicional.
+		↪ Talento (Sábio): Recebe mais pontos de mana máximo igual ao Domínio. No começo de turno regenera pontos de mana igual ao alcance adicional.
 
-		↪ (Passo da Floresta): 
+		↪ Talento (Olhar da Mata): Recebe acerto garantido em ataques e habilidades quando no alcance máximo.
 
-		↪ ():
+		↪ Talento (Rastro Silvestre): Acima da metade dos pontos de vida, recebe o dobro de velocidade.
 
 	↪ Helyr (dano contra alvos vulneraveis).
 
+		↪ Habilidade (Soberania Primordial): Checa um atributo da unidade alvo, caso o seu seja superior ganha esquiva e acerto crítico contra essa unidade
+
+		↪ Talento (Vinha Vil): Pode detectar seres ao seu redor através do solo, usando Alcance.
+
+		↪ Talento (Malevolência): Acertos críticos aumentados contra alvos com marcadores negativos.
+
 	↪ Cael (Alto vigor e proteção).
+
+		↪ Talento (Planar Celestial): Evita dano de queda e pode planar de qualquer altura.
+
+		↪ Talento (Penas Blindadas): Resistência aumentada, tem uma chance de anular ataques e habilidades físicas.
+
+		↪ Talento (Benção Divina): Dobra a vitalidade, resistência e noção vinda de itens e efeitos.
 
 	↪ Estilhaço (indisponível)
 
@@ -37,7 +49,7 @@
 
 	↪ Nufia (se dividem).
 
-		↪ Habilidade (Divisão): Se divide em 2 clones com metades dos atributos e marcadores arrendondados para cima.
+		↪ Habilidade (Divisão): Se divide em 2 clones com metades dos aspectos físicos como tamanho, atributos, secundários e marcadores arrendondados para baixo (não interfere ganho de xp).
 
 		↪ Habilidade (Fusão): Une 2 clones em um ser só.
 
@@ -53,26 +65,26 @@
 
 		↪ Habilidade (Transformação): Pode se transformar completamente em um ser registrado em Memória Genética.
 
-		↪ Talento (Perda de memória): Abaixo da metade dos pontos de vida, cada dano não periódico sofrido faz perder uma das espécies registradas em Memória Genética até o descanso.
+		↪ Talento (Perda de memória): Abaixo da metade dos pontos de vida, cada dano não periódico sofrido faz perder uma das espécies registradas em Memória Genética de forma aleatória.
 
 	↪ Ravari (bons atributos de combate).
 
 		↪ Talento (Mestre das Feras): Começa com um mascote, pode ter mascostes adicionais baseado no nível.
 
-		↪ Talento (Conexão Selvagem): Possuí mais Persuação com criaturas.
+		↪ Talento (Conexão Selvagem): Possuí mais Comunicação com criaturas.
 
-		↪ Talento (Barbaridade): Possuem Força e Agilidade adicionais, esses mesmos atributos oferecem o dobro dos seus status, mas só pode usar calça de equipamento.
+		↪ Talento (Barbaridade): Possuem Força e seus secundários aumentados, esses mesmos atributos oferecem o dobro dos seus status, mas inteligência é dividida pela metade.
 
 	↪ Kehara (alto vigor).
 
-		↪ Talento (Revitalizar): No começo de turno recupera pontos de vida igual ao dano base. Possui mais vigor.
+		↪ Talento (Revitalizar): No começo de turno recupera pontos de vida igual ao dano base. Possui mais vitalidade.
 
 		↪ Talento (Berserk): Abaixo de uma certa quantia de pontos de vida ganha pontos de agilidade e dano adicional a custo da regeneração de Revitalizar.
 
-		↪ Habilidade (Ataque Ártico): Sacrifica pontos de vida para causar dano igual a metade desse valor.
+		↪ Habilidade (Ataque Ártico): Sacrifica pontos de vida para causar dano igual a metade desse valor arrendondado para baixo.
 
 	↪ Nodonte (alto nível de resistência).
 
 		↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do dano físico sofrido. O mesmo se aplica a dano mágico e marcadores de Barreira.
 
-		↪ Habilidade (Forma Ancestral): Ganha Força igual aos marcadores de Armadura, Barreira e Resistência, causando também marcadores de veneno igual a essa quantia nos oponentes que o acertar, porém não pode usar magias. Sofre metade dos efeitos negativos.
+		↪ Habilidade (Forma Ancestral): Ganha Força igual aos marcadores de Armadura, Barreira e Resistência, causando também marcadores de veneno igual a essa quantia nos oponentes que o acertar, porém não pode usar habilidades. Sofre metade dos efeitos negativos.

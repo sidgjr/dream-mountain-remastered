@@ -36,47 +36,47 @@
 
 ↪ Defeitos
 
-    ↪ Indeciso: 
+    ↪ Indeciso: incapaz de tomar decisões e demonstrar confiança.
 
-    ↪ Ganancioso: 
+    ↪ Ganancioso: com uma tendência exagerada de acumular recursos.
 
-    ↪ Irritado: 
+    ↪ Irritado: temperamento muito alto.
 
-    ↪ Irresponsável: 
+    ↪ Irresponsável: geralmente não cumpre tarefas, mesmo as mais simples.
 
-    ↪ Distraído: 
+    ↪ Distraído: qualquer detalhe ou evento pode tirar o seu foco de qualquer atividade.
 
-    ↪ Egoísta: 
+    ↪ Egoísta: não se arrisca por outras pessoas ou objetivos alheios.
 
-    ↪ Desprezível: 
+    ↪ Desprezível: possui comportamentos controversos.
 
-    ↪ Cruel: 
+    ↪ Cruel: há sadismo por trás de suas ações.
 
-    ↪ Arrogante: 
+    ↪ Arrogante: julga conhecer e ser superior a tudo.
 
     ↪ Preguiçoso: 
 
 ↪ Ambíguos
 
-    ↪ Ambicioso: 
+    ↪ Ambicioso: bom em seguir seus objetivos, mas as vezes são irreais.
 
-    ↪ Frio: 
+    ↪ Frio: tomam decisões sem basear em sentimentos mesmo que duvidosas.
 
-    ↪ Sensível: 
+    ↪ Otimista: consegue ver o lado bom de tudo, até de algo que não tenha.
 
-    ↪ Otimista: 
+    ↪ Honesto: péssimo em mentir.
 
-    ↪ Honesto: 
+    ↪ Controlador: tendência querer ter tudo na palma da mão.
 
-    ↪ Controlador: 
+    ↪ Exigente: com padrões muito altos.
 
-    ↪ Exigente: 
+    ↪ Inocente: não consegue ver maldade ou entender duplo sentido.
 
-    ↪ Inocente: 
+    ↪ Excêntrico: aparencia e comportamentos bem incomuns.
 
-    ↪ Excêntrico: 
+    ↪ Ousado: entre a coragem e a falta de noção.
 
-    ↪ Ousado: 
+    ↪ Bipolar: possui mais de uma personalidade, não tendo controle da mudança. 
 
 
 
