@@ -12,7 +12,7 @@
 
 		↪ Ao receber luz branca eles automátimacamente entram em estado de repouso e alimentação (O mesmo que ocorre durante o dia), Além de por sua composição de mana, ser extremamente caçado e criado para criação de poções e itens.
 
-		↪ Animal; Cnidário; Voador; Detritívoro; Origem: Praias Iridescentes (Kessen'Mital)
+		↪ Monstro Mágico; Cnidário; Voador; Detritívoro; Origem: Praias Iridescentes (Kessen'Mital)
 
 	↪ Grimbo
 
@@ -22,7 +22,27 @@
 
 		↪ Por sua habilidade peculiar é frequentemente usado para produzir jornais e traduções de livros.
 
-		↪ Animal; Polvo; Aquático; Carnívoro; Origem: Libers
+		↪ Monstro Mágico; Polvo; Aquático; Carnívoro; Origem: Libers
+
+	↪ .
+
+		↪ .
+
+	↪ .
+
+		↪ .
+
+	↪ .
+
+		↪ .
+
+	↪ .
+
+		↪ .
+
+	↪ .
+
+		↪ .
 
 	↪ .
 
@@ -47,7 +67,7 @@
 
 		↪ Possui uma habilidade incrível em achar e coletar algas e frutos do mar.
 
-		↪ Animal; Molusco; Terrestre Aquático; Herbpívoro; Origem: Libers
+		↪ Monstro; Molusco; Terrestre Aquático; Herbpívoro; Origem: Libers
 
 	↪ .
 
@@ -78,7 +98,7 @@
 
         ↪ São inofensivos, sendo atraídos por vegetação e tons esverdeados.
 
-        ↪ Animal Planta; Molusco; Terrestre Aquático; Herbpívoro; Origem: Mar Liberto
+        ↪ Monstro Planta; Molusco; Terrestre Aquático; Herbpívoro; Origem: Mar Liberto
 
 	↪ .
 
@@ -109,7 +129,7 @@
 
 		↪ São animais extremamente inteligentes e táticos, atacando sempre em vantagem númerica alvos grandes através da estratégia de exaustão e ataques em turnos.
 
-		↪ Animal; Canino; Voador Terrestre; Carnívoro; Origem: Arquipelago Celeste (Zay'Zut)
+		↪ Monstro; Canino; Voador Terrestre; Carnívoro; Origem: Arquipelago Celeste (Zay'Zut)
 
 	↪ Pagunino
 
@@ -121,11 +141,15 @@
 
 		↪ Por ser bom de caça esse animal foi crucial para o desenvolvimento da Capital de Libers desde sua origem. Hoje mesmo em ambundância por ser o país mais rico do mundo, o Pagunino ainda é respeitado e adotado por vários lares como mascote.
 
-		↪ Animal; Crustaceo; Terrestre Aquático; Carnívoro; Origem: Libers
+		↪ Monstro; Crustaceo; Terrestre Aquático; Carnívoro; Origem: Libers
 
-	↪ .
+	↪ Aquara
 
-		↪ .
+		↪ Assim como outras criaturas de Kamya o Aquara possui elegância e vaidade, usando de suas habilidades mágicas essa espécie de lobo pode caminhar sobre as águas.
+
+		↪ "Andando" no rios ele usa de seu focinho e patas extremamente finos e alongados para capturar peixes, indepedente se são normais ou encantados.
+
+		↪ Monstro; Canino; Terrestre; Carnívoro; Origem: Planices Luminescentes (Kamya)
 
 	↪ .
 
@@ -148,7 +172,7 @@
 
 		↪ Não é um animal agressivo, usando suas habilidades apenas quando muito assustada, podendo ser facilmente atraída e domesticada usando fogo ou magias e itens relacionados com o aumento de temperatura.
 
-		↪ Animal; Gimnotídeo; Aquático; Carnívoro; Origem: Gler Rathis
+		↪ Monstro Mágico; Gimnotídeo; Aquático; Carnívoro; Origem: Gler Rathis
 
 	↪ Manta-real
 
@@ -158,7 +182,7 @@
 
 		↪ A Manta-real pode transportar toneladas acima do seu corpo, além de possuir um veneno mortal em sua cauda que pode causar sangramentos graves a qualquer individuo que demonstre hostilidade. É extremamente mais cara e mais útil do que um barco ou dirigível;
 
-		↪ Animal; Batóide; Aquático; Carnívoro; Origem: Mar Liberto
+		↪ Monstro; Batóide; Aquático; Carnívoro; Origem: Mar Liberto
 
 	↪ .
 
@@ -187,7 +211,7 @@
 
 		↪ Possuem um comportamento incomum de código moral, mesmo famintos e extremamente cansados nunca atacam filhotes ou seres humanoides, além de sempre tentar interações e comunicações com seres que possívelmente podem ser parceiros de caça.
 
-		↪ Animal; Mustelídeo; Terrestre; Carnívoro; Origem: Costa Sangrenta, Nor'Tand, Balebus
+		↪ Monstro; Mustelídeo; Terrestre; Carnívoro; Origem: Costa Sangrenta, Nor'Tand, Balebus
 
 	↪ Urso da Praia
 
@@ -197,7 +221,7 @@
 
         ↪ Possuem uma alta resistência a ferimentos, mas principalmente a ambientes extremos. Quanto mais feridos ou exaustos não só aumentam sua defesa e regeneração como também sua velocidade e ferocidade.
 
-		↪ Animal; Urso; Terrestre Aquático; Carnívoro; Origem: Mar Liberto
+		↪ Monstro; Urso; Terrestre Aquático; Carnívoro; Origem: Mar Liberto
 
 	↪ Hippocampus
 
@@ -205,7 +229,7 @@
 
 		↪ Pode criar laços duradouros com seu dono, podendo ser facilmente domesticado sendo alimenado por criaturas aquáticas de nível inferior.
 
-		↪ Animal; Singnatídeo; Aquático; Carnívoro; Origem: Ashkar
+		↪ Monstro; Singnatídeo; Aquático; Carnívoro; Origem: Ashkar
 
 	↪ .
 
@@ -230,7 +254,7 @@
 
 		↪ Apesar de não ter uma Inteligência notável o Tubarão-machado possui uma atividade peculiar de autoconsciência: quando de bom humor e satisfeito costuma procurar por sementes a beira da água e replanta-las, uma atitude que a longo prazo o retornará mais alimento, tornando-o um pseudo-agricultor. Além do cultivo, por um motivo desconhecido essa criatura constrói algumas estruturas peculiares de madeira como uma forma rudimentar de arte.
 
-		↪ Animal; Lamnídeo; Aquático; Onívoro; Origem: Anak, Floresta dos Behemoth
+		↪ Monstro; Lamnídeo; Aquático; Onívoro; Origem: Anak, Floresta dos Behemoth
 
 	↪ Deminata
 
@@ -240,15 +264,27 @@
 
 		↪ Podem se mover pela terra, mas terrivelmente devagar, sendo um evento muito raro, já que não precisa de praias para poder porem seus ovos, eles são expelidos contra o mar e depois acoplados a seu casco. Mesmo ao nascer dos filhotes eles ainda passam boa parte de sua infância e amadurecimento em seu casco.
 
-		↪ Animal; Tartaruga; Aquático Terrestre; Onívoro; Origem: Mar Liberto
+		↪ Monstro; Tartaruga; Aquático Terrestre; Onívoro; Origem: Mar Liberto
 
-	↪ .
+	↪ Magiena
 
-		↪ .
+		↪ Como uma das criaturas mais comuns dos Vale Ocultos as Magienas se destacam por andar em bandos. Sendo parentes distantes das hienas elas possuem o habito de comer carcaças deixadas por outros montros, porém por se traterem corpos de monstros mágicos essas hienas se adaptaram com a habilidade de desencantar objetos e corpos.
 
-	↪ .
+		↪ O habito de desencantar é para que as Magienas consigam ter acesso ao corpo de uma criatura mágica morta sem sofrer alguma maldição ou encantamento, porém é muito comum elas também conseguirem devorar itens mágicos, assim como encantamentos, num processo de conversão de mana para matéria orgânica.
 
-		↪ .
+		↪ Embora sejam extremamente comuns em seu habitat, por conta do seu difícil acesso são criaturas extremamente raras e cobiçadas pelo mundo todo, principalmente entre os magos.
+
+		↪ Monstro; Hiena; Terrestre; Detritívoro; Origem: Vales Ocultos
+
+	↪ Unicornio
+
+		↪ Sendo uma das criaturas mais puras de Salon'gar os unicornios são um simbolo de dignidade. São maiores que cavalos normais e tem tendência a ajudar aqueles que ele julgam ser puros.
+
+		↪ Para julgar se alguém é puro eles possuem a capacidade de poder ler mentes e sentimentos de qualquer ser, usando para poder saber de suas intenções.
+
+		↪ Vivem cavalgando em bandos pelos bosques de Syar, mas são raramente observados, já que conseguem detectar presenças impuras a distancias absurdas.
+
+		↪ Monstro Divino; Cavalo; Terrestre; Herbívoro; Origem: Bosque Syar (Kessent, Sul)
 
 	↪ .
 
@@ -267,7 +303,7 @@
 		
 		↪ Ao eclodir dos ovos, caso seja acolhido e alimentado com materiais preciosos durante sua infância o vorme gera uma lealdade incondicional por seu cuidador, sendo a única forma descoberta de como adestrar essa aberração dos desertos, tática utilizada principalmente por piratas e exilados de Balebus.
 		
-		↪ Animal; Anelídeo; Terrestre; Detritívoro; Origem: Balebus, Deserto Central
+		↪ Monstro Mágico; Anelídeo; Terrestre; Detritívoro; Origem: Balebus, Deserto Central
 
 	↪ Magnoboa
 
@@ -277,11 +313,17 @@
 
 		↪ Pode sobreviver em altas e baixas temperatura, até mesmo conseguindo armazenar substâncias da mesma temperatura em seu corpo, como magma, venenos ou acidos.
 
-		↪ Animal; Réptil; Aquático; Carnívoro; Origem: Mar Liberto
+		↪ Monstro; Réptil; Aquático; Carnívoro; Origem: Mar Liberto
 
-	↪ .
+	↪ Beelzedom
 
-		↪ .
+		↪ Beelzedom é um sapo gigantesco, podendo chegar a 1 metro e meio de altura e quase o dobro de comprimento.
+
+		↪ Como outros seres do Pantano Nevoeiro o Beelzedom também possui veneno, mas ele se destaca por sua capacidade mágica de poder armazenar itens e seres em seu estomago.
+
+		↪ Itens no seu estomago sofrem uma mutação, tornando-os venenosos ou dando algum encantamento aleatório.
+
+		↪ Monstro; Anfíbio; Terrestre Aquático; Carnívoro; Origem: Pantano Nevoeiro (Gler Rathis)
 
 	↪ .
 
@@ -302,7 +344,7 @@
 
 		↪ O Peletzu tem uma prática comum e perigosa para o meio ambiente, alguns exemplares da sua espécie podem voar e sobreviver entre as ilhas para além do Mar Indomado, trazendo algumas espécies de classe Dalet ou Aleph para regiões que anteriormente eram tranquilas.
 
-		↪ Animal; Ave; Voador; Carnívoro; Origem: Mar Liberto
+		↪ Monstro; Dinossauro Ave; Voador; Carnívoro; Origem: Mar Liberto
 
 	↪ Pantera-enigma
 
@@ -312,7 +354,7 @@
 
 		↪ Mesmo que na maioria das vezes ela brinque com sua comida, existem muitos relatos e histórias desses seres que fazem charadas, são bem intencionados, ou até mesmo ajudam quem acharem interessantes
 
-		↪ Animal; Felino; Terrestre; Carnívoro; Origem: Vales Ocultos (Kessent, Sul)
+		↪ Monstro Mágico; Felino; Terrestre; Carnívoro; Origem: Vales Ocultos (Kessent, Sul)
 
 	↪ .
 
@@ -339,7 +381,7 @@
 
 		↪ É encontrado raramente em estado de repouso por todo Kassalon, principalmente no Vale da Quietude junto a outras criaturas lendárias, porém também pode ser encontrado nos Muros Sonambulos.  
 
-		↪ Monstro; Anfíbio; Terrestre Aquático; ?; Origem: Ilhas Pesadelo (Kassalon)
+		↪ Monstro Divino; Anfíbio; Terrestre Aquático; ?; Origem: Ilhas Pesadelo (Kassalon)
 
 	↪ Fulgurodonte
 
@@ -351,7 +393,7 @@
 
 		↪ É um ser extremamente agressivo, porém prioriza sempre os maiores alvos, inclusive até interrompendo o ataque a uma presa caso uma maior surja. Difente de seus parentes distantes os tubarões, o Fulgurodonte ao invés de ter um alfato aguçado para sangue ele consegue sentir o cheiro do gastos de mana, também sendo atraído por grandes conjurações. 
 
-		↪ Monstro; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
+		↪ Monstro Mágico; Lamnídeo; Voador Aquático; Carnívoro; Origem: Vulcão Oivuzev (Kessen'Mital)
 
 	↪ Cograssus
 
@@ -363,7 +405,7 @@
 
 		↪ As lendas dizem que na Era dos Magus, as civilizações antigas tinham o dom de usar essas enormes feras como meio de transporte para comércio e até mesmo fins militares.
 
-		↪ Animal; Basilosauridae; Aquático; Carnívoro; Origem: Fenda Abissal (Mar Liberto)
+		↪ Monstro; Dinossauro; Aquático; Carnívoro; Origem: Fenda Abissal (Mar Liberto)
 
 	↪ Dragão Fantasma
 
@@ -373,7 +415,7 @@
 
 		↪ Além de conhecerem maioria das magias de fogo também conhecem magias de necromancia.
 
-		↪ Animal Morto-Vivo; ?; Terrestre Voador; Carnívoro; Origem: ?
+		↪ Monstro Morto-Vivo; ?; Terrestre Voador; Carnívoro; Origem: ?
 
 	↪ .
 
@@ -390,7 +432,7 @@
 
 		↪ É o maior ser vivo já observado em todo Salon'gar, suas medidas corretas ainda são desconhecidas, possuindo a capacidade de devorar cidades inteiras com apenas uma mordida. Além de ser a maior criatura que já existiu, por onde passa deixa esporos do seu corpo em forma de flores nas águas, também as esverdeado com uma substância extremamente tóxica. Essa mesma substância é uma das substâncias mais raras e caras do mundo.
 
-		↪ Animal Planta; ?; Aquático; Onívoro; Origem: Mar Indomado, Yar Matua
+		↪ Monstro Planta; ?; Aquático; Onívoro; Origem: Mar Indomado, Yar Matua
 	
 	↪ Dragão Verdadeiro
 
@@ -400,7 +442,7 @@
 
 		↪ Assim como os dragões são filhos do Fogo, elfos são da Terra, krons da Água e por fim humanos do Vento.
 
-		↪  Animal; ?; Terrestre Voador; Carnívoro; Origem: ?
+		↪ Monstro; ?; Terrestre Voador; Carnívoro; Origem: ?
 
 	↪ Artipede
 
