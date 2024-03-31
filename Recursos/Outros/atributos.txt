@@ -39,7 +39,6 @@
         ↪ Domínio: cada 1 ponto corresponde a 4 pontos de mana máxima.
 
 
-
 //
 //	///	Características
 //

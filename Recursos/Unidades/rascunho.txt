@@ -14,28 +14,49 @@
     ↪ Monstro; Dinossauro; Terrestre; Herbívoro; Origem: Floresta dos Behemoth (Anak)
 
 
-↪ Grifo
-
-    ↪ 
-
-
-↪ Hidra
-
-    ↪ 
-
-    ↪ 
-
-    ↪ 
-
-    ↪ Monstro; Reptíl; Terrestre; Carnívoro; Origem: ?
-
-
 ↪ Formiga
 
     ↪ 
 
 
+↪ Lucenix
+
+
 ↪ Aranha
+
+
+↪ Fungo que anda
+
+
+↪ Fruto que anda
+
+
+↪ Besouro Gigante
+
+*
+↪ Ahool (Morcego gigante)
+
+    ↪ 
+
+
+↪ Alicanto (Passaro dourado, não projeta sombra e da sorte)
+
+    ↪ 
+
+
+↪ 
+
+    ↪ 
+
+
+↪ 
+
+    ↪ 
+
+
+↪ 
+
+    ↪ 
 
 
 // Outros

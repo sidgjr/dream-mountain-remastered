@@ -282,9 +282,9 @@
 
 		↪ Para julgar se alguém é puro eles possuem a capacidade de poder ler mentes e sentimentos de qualquer ser, usando para poder saber de suas intenções.
 
-		↪ Vivem cavalgando em bandos pelos bosques de Syar, mas são raramente observados, já que conseguem detectar presenças impuras a distancias absurdas.
+		↪ Vivem cavalgando em bandos pelos bosques ao redor de Aldrynn, mas são raramente observados, já que conseguem detectar presenças impuras a distancias absurdas.
 
-		↪ Monstro Divino; Cavalo; Terrestre; Herbívoro; Origem: Bosque Syar (Kessent, Sul)
+		↪ Monstro Divino; Cavalo; Terrestre; Herbívoro; Origem: Cidade Anciã (Aldrynn)
 
 	↪ .
 
@@ -325,9 +325,13 @@
 
 		↪ Monstro; Anfíbio; Terrestre Aquático; Carnívoro; Origem: Pantano Nevoeiro (Gler Rathis)
 
-	↪ .
+	↪ Grifo
 
-		↪ .
+		↪ Tendo partes de leão e partes de Águia o Grifo simboliza a ordem e a justiça.
+
+		↪ Pode usar magias sagradas além de ter imunidade e poder adicional contra o profano.
+
+		↪ Monstro; Mamífero; Terrestre Voador; Carnívoro; Origem: Cidade Anciã (Aldrynn)
 
 	↪ .
 
@@ -417,9 +421,15 @@
 
 		↪ Monstro Morto-Vivo; ?; Terrestre Voador; Carnívoro; Origem: ?
 
-	↪ .
+	↪ Hidra
 
-		↪ .
+		↪ Com incontáveis cabeças de serpente a Hidra é uma das criaturas mitológicas mais temidas de Salon'gar.
+
+		↪ Com um corpo de lagarto ela pode se mover tanto pela lama, quanto rios e na mata. Ao cortar uma das cabeças, duas nascem no lugar, tornando a quase imortal e exponencialmente mais forte a cada dia.
+
+		↪ Além dessa regeneração a hidra também possui um veneno tão letal que pode matar seres imensos apenas com o halito.
+
+		↪ Monstro; Reptíl; Terrestre; Carnívoro; Origem: Pantano Nevoeiro (Gler Rathis)
 
 
 ↪ Aleph (Classe Especial)
@@ -442,7 +452,7 @@
 
 		↪ Assim como os dragões são filhos do Fogo, elfos são da Terra, krons da Água e por fim humanos do Vento.
 
-		↪ Monstro; ?; Terrestre Voador; Carnívoro; Origem: ?
+		↪ Monstro; ?; Terrestre Voador; Carnívoro; Origem: Reino Esquecido (Nedurt)
 
 	↪ Artipede
 
