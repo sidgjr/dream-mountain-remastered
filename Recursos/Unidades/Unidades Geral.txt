@@ -48,13 +48,23 @@
 
 		↪ .
 
-	↪ .
+	↪ Jarro-vivo
 
-		↪ .
+		↪ Encontrado principalmente em estruturas abandonadas, o Jarro-vivo é um elemental em forma de recipiente caminha de um lado para outro fugindo de qualquer individuo que encontrar.
 
-	↪ .
+		↪ Na maioria das ocasiões esse elemental possui ou não armazenado o liquido de alguma poção milenar, a preservando por milenios ou eras.
 
-		↪ .
+		↪ Pode ser atraído por poções.
+
+		↪ Monstro-Objeto Elemental; ?; Terrestre; ?; Origem: estruturas abandonadas
+
+	↪ Gosma
+
+		↪ Encontrado em todo canto do mundo, a gosma é um monstro pacífico que se alimenta de restos orgânicos. Pode aumentar o seu tamanho de acordo com a quantia de alimentos ingeridos, além facilmente se multiplicar ao ser divido.
+
+		↪ São considerados uma praga, tendo recompensas por sua caça, além de facilmente ocuparem espaços a Gosma dependendo do que consome pode evoluir para espécies letais e hostis.
+
+		↪ Monstro; ?; Terrestre; Detritívoro; Origem: qualquer lugar
 
 
 ↪ Resh (Classe 9)
@@ -69,9 +79,13 @@
 
 		↪ Monstro; Molusco; Terrestre Aquático; Herbpívoro; Origem: Libers
 
-	↪ .
+	↪ Coruja-ártica
 
-		↪ .
+		↪ Encontrado raramente na Costa Sangrenta, a Coruja-ártica possui uma coloração de branco a carmesim. Além da sau coloração é uma ave com um comportamento extremamente agressivo e territorial.
+
+		↪ Essa espécie de coruja se protege com uma habilidade incomum, aumentando sua esquiva e de seus companheiros de forma mágica
+
+		↪ Monstro; Ave; Voador; Carnívoro; Origem: Costa Sangrenta (Tandlard)
 
 	↪ .
 
@@ -100,9 +114,13 @@
 
         ↪ Monstro Planta; Molusco; Terrestre Aquático; Herbpívoro; Origem: Mar Liberto
 
-	↪ .
+	↪ Bolha Prismática.
 
-		↪ .
+		↪ Sendo um dos seres mais cobiçados por magos da Academia Violeta, a Bolha Prismática é um elemental de forma esférica com a estranha propriedade de refletir algumas mágias.
+
+		↪ É comumente encontrado entre os Bosques Syar e os vales Ocultos, se escondendo de qualquer figura que achar hostil.
+
+		↪ Monstro Elemental; ?; Voador; ?; Origem: Kessent
 
 	↪ .
 
@@ -333,9 +351,15 @@
 
 		↪ Monstro; Mamífero; Terrestre Voador; Carnívoro; Origem: Cidade Anciã (Aldrynn)
 
-	↪ .
+	↪ Baturg.
 
-		↪ .
+		↪ Uma aberração parente dos mamutes, possuindo seis cabeças de elefante e quatro pares de pernas.
+
+		↪ É uma criatura colossal, onde não se da para saber qual parte é a sua frente, já que ele pode se mover para ambas direções como se fossem dois animais grudados.
+
+		↪ Embora seja extremamente agressivo, sua hostilidade é devido ao ambiente da Tundra Boreal.
+
+		↪ Monstro; elefante; Terrestre; Herbpívoro; Origem; Tandlard
 
 
 ↪ Zayin (Classe 2)
@@ -360,9 +384,13 @@
 
 		↪ Monstro Mágico; Felino; Terrestre; Carnívoro; Origem: Vales Ocultos (Kessent, Sul)
 
-	↪ .
+	↪ Carpa Arcana
 
-		↪ .
+		↪ Sendo uma das criaturas mágicas mais raras de Salon'gar, a Carpa Arcana possui uma das habilidades mais incomuns já observado: a de armazenar dezenas de objetos no interior de seu estomago.
+
+		↪ Dizem as lendas que esse ser possui uma dimensão paralela em suas entranhas, porque essa criatura pode guardar volumes de objetos muito maior que o seu próprio corpo, sem o desproporcionar. 
+
+		↪ Monstro Mágico; Peixe; Aquático Voador; Onívora; Origem: Praias Iridescentes
 
 	↪ .
 
