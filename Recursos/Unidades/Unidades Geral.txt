@@ -114,7 +114,7 @@
 
         ↪ Monstro Planta; Molusco; Terrestre Aquático; Herbpívoro; Origem: Mar Liberto
 
-	↪ Bolha Prismática.
+	↪ Bolha Prismática
 
 		↪ Sendo um dos seres mais cobiçados por magos da Academia Violeta, a Bolha Prismática é um elemental de forma esférica com a estranha propriedade de refletir algumas mágias.
 
@@ -169,9 +169,13 @@
 
 		↪ Monstro; Canino; Terrestre; Carnívoro; Origem: Planices Luminescentes (Kamya)
 
-	↪ .
+	↪ Quebra-joelhos
 
-		↪ .
+		↪ Encontrado como uma praga no Reino Esquecido, o Quebra-joelhos é uma espécie de tatu com a peculiaridade de investir contra alvos que considera hostil.
+
+		↪ Um dos pontos fortes dessa criatura é a de identificar pontos fracos e, através de sua arrancada violenta, atacar esses pontos, muitas vezes fraturando ossos de suas vitimas.
+
+		↪ Monstro; Mamífero; Terrestre; Onívoro; Origem: Nedurt (Reino Esquecido)
 
 	↪ .
 
@@ -202,9 +206,13 @@
 
 		↪ Monstro; Batóide; Aquático; Carnívoro; Origem: Mar Liberto
 
-	↪ .
+	↪ Manatur
 
-		↪ .
+		↪ Sendo uma criatura ancestral, o Manatur é várias vezes confundido com cristais de Mana, porém para olhos astutos e magos veteranos é possível perceber sua aura que aumenta poderes mágicos.
+
+		↪ Manatur não se sente atraído por mana, mas por geralmente querer se esconder entre os cristais, ele frequentemente procura regiões ou objetos emanados de mana para poder se camuflar entre eles.
+
+		↪ Monstro; Tartaruga; Terrestre; Onívoro; Origem: qualquer lugar
 
 	↪ .
 
@@ -304,9 +312,15 @@
 
 		↪ Monstro Divino; Cavalo; Terrestre; Herbívoro; Origem: Cidade Anciã (Aldrynn)
 
-	↪ .
+	↪ Tanstegodonte
 
-		↪ .
+    	↪ 
+
+    	↪ 
+
+    	↪ 
+
+		↪ Monstro; Dinossauro; Terrestre; Herbívoro; Origem: Floresta dos Behemoths (Anak)
 
 
 ↪ Het (Classe 3)
@@ -392,13 +406,23 @@
 
 		↪ Monstro Mágico; Peixe; Aquático Voador; Onívora; Origem: Praias Iridescentes
 
-	↪ .
+	↪ Georhino
 
-		↪ .
+		↪ Sendo umas das aberrações mais temidas da Floresta dos Behemoths, o Georhino é um rinocerante gigantesco, que além da sua altura e brutalidade consegue absorver golpes de armas e converter sua pele para uma armadura do mesmo material.
 
-	↪ .
+		↪ A eras atrás reis e magos o banhavam de ouro para ser um patrimonio vivo.
 
-		↪ .
+		↪ Monstro; Mamífero; Terrestre; Herbívoro; Origem: Floresta dos Behemoths (Anak)
+
+	↪ Serpe Sorridente.
+
+		↪ Um dos mais cruéis monstros de Salon'gar. A serpe Sorridente é uma dragão serpente, voando através de poderes de vento, que parece apreciar o desgosto de suas vitimas.
+
+		↪ Possuindo uma alta inteligência, é capaz de conjurar diversas magias de vento como um exímio feiticeiro elemental.
+
+		↪ Além de ser do tamanho de um dragão, também tem uma agilidade fora do comum para voar e se rastejar.
+
+		↪ Monstro Mágico; Serpente Dragão; Carnívoro; Origem: Floresta Exótica (Yar Matua)
 
 
 ↪ Dalet (Classe 1)
