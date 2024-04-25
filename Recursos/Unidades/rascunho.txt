@@ -1,36 +1,10 @@
-↪ Baleia Voadora
-
-    ↪ 
-
-
 ↪ Formiga
-
-    ↪ 
-
-
-↪ Lucenix
 
 
 ↪ Aranha
 
 
-↪ Fungo que anda
-
-
-↪ Fruto que anda
-
-
 ↪ Besouro Gigante
-
-*
-↪ Ahool (Morcego gigante)
-
-    ↪ 
-
-
-↪ Alicanto (Passaro dourado, não projeta sombra e da sorte)
-
-    ↪ 
 
 
 ↪ 
@@ -55,8 +29,6 @@
 ↪ Agricultura maior
 
 ↪ Agricultura Frutas (arvóres)
-
-↪ Caça Noturna
 
 ↪ Ordenhar
 

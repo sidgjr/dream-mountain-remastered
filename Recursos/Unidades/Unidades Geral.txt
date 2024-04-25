@@ -257,13 +257,25 @@
 
 		↪ Monstro; Singnatídeo; Aquático; Carnívoro; Origem: Ashkar
 
-	↪ .
+	↪ Ahool (Morcego gigante)
 
-		↪ .
+		↪ Como uma das maiores espécies de morcego, o Ahool tem hábitos noturnos incríveis, podendo desde "enxergar" no escuro completo, como ecolocalizar criaturas e objetos entre a escuridão.
 
-	↪ .
+		↪ Essa criatura tem uma preferência nutritiva em caçar criaturas da noite, tanto animais noturnos como mortos-vivos ou pequenos demônios.
 
-		↪ .
+		↪ Também podem ingerir itens almadiçoados, os regorjitando sem nenhum encantamento profano. 
+
+		↪ Monstro; Mamífero; Voador; Onívoro; Origem: Motanhas Gêmeas (Fukuyn)
+
+	↪ Alicanto
+
+		↪ O Alicanto é um passaro extremamente raro, possuindo características mágicas e divinas.
+
+		↪ Ao realizar o voo ele não projeta sombra onde passa, e para aqueles que o verem eles serão abençoados com sorte e fortuna, porém se o passáro os ver os enfeitiçara com um cobiça desenfreada.
+
+		↪ Essa fera só se alimenta de pedras e materiais preciosos.
+
+		↪ Monstro Mágico Divino; Passaro; Voador; ?; Origem: Deserto Central (Balebus)
 
 
 ↪ Tet (Classe 4)
@@ -314,11 +326,11 @@
 
 	↪ Tanstegodonte
 
-    	↪ 
+    	↪ Sendo a maior criatura terrestre de Salon'gar, o Tanstegodonte é uma espécie de brontossauro que se alimenta de arvores inteiras, podendo até mastigar e diregir destroços.
 
-    	↪ 
+    	↪ É dito que raramente pode devorar montanhas inteiras por completo, mas esse comportamento foi poucas vezes observado.
 
-    	↪ 
+    	↪ Não é uma criatura hostil, já que em seu habitat nenhum ser consegue causar um arranhão sequer, mesmo sendo as florestas dos Behemoths.
 
 		↪ Monstro; Dinossauro; Terrestre; Herbívoro; Origem: Floresta dos Behemoths (Anak)
 
