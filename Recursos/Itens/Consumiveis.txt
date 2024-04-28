@@ -1,79 +1,35 @@
 ↪ Shin (Classe básica)
 
-    ↪ Gaiola Velha
+    ↪ Bandagens Velhas
 
-        ↪ Aumenta em 5 a Comunicação
+        ↪ Consumir: ganhe 3 marcadores de Regeneração.
 
-        ↪ Permite poder ter 1 monstro domesticado adicional.
+    ↪ 
 
-    ↪ Espada Enferrujada
+        ↪ 
 
-        ↪ Aumenta o Ataque em 8.
+    ↪ 
 
-        ↪ O seu terceiro ataque com este item sempre erra.
+        ↪ 
 
-    ↪ Cajado do Pastor
+    ↪ 
 
-        ↪ Aumenta o Alcance e Maestria em 2 ao usar mágias do tipo Recuperação.
+        ↪ 
 
-    ↪ Machadinha
+    ↪ 
 
-        ↪ Aumenta o Ataque e a Velocidade em 2.
-
-    ↪ Estilingue
-
-        ↪ Pode usar qualquer coisa sólida e pequena como munição.
-
-        ↪ Causa metade do seu ataque, arrendonado para baixo, em até 20 metros de distância.
-    
-    ↪ Grimório Rasgado
-
-        ↪ Aumenta o Domínio em 3.
-    
-    ↪ Manto Sujo
-
-        ↪ Aumenta a Noção em 2.
-
-        ↪ No início de cada turno ganhe 1 marcador de Esquiva.
-    
-    ↪ Escudo de Tábuas
-
-        ↪ Aumenta a Defesa em 3.
-
-        ↪ No início de cada turno ganhe 1 marcador de Armadura.
-    
-    ↪ Chapéu do Camponês
-
-        ↪ Aumenta a Velocidade em 4.
-
-        ↪ No início de cada turno ganhe 1 marcador de Produção.
-
-    ↪ Luvas do Lenhador
-
-        ↪ Aumenta o Ataque em 1, incrementado para 2 ao usar armas de Corte ou para 3 ao usar Machados.
+        ↪ 
 
 
 ↪ Resh (Classe 9)
-    
-    ↪ Colar de Conchas
 
-        ↪ Aumenta a Noção em 6.
+    ↪ Poção Rubra Menor
 
-        ↪ Toda vez que conjurar uma mágia, restaure 1 ponto de vida.
-    
-    ↪ Manto de Folhas
+        ↪ Consumir: Restaure 5 pontos de vida e ganhe 5 marcadores de Regeneração.
 
-        ↪ Aumenta a Agilidade em 2.
+    ↪ Frasco Evenenado
 
-        ↪ Toda vez que acertar um ataque ou uma mágia, ganhe 2 marcadores de Agilidade.
-
-    ↪ 
-
-        ↪ 
-
-    ↪ Elmo Desgastado
-
-        ↪ Aumenta a Defesa em 7, incrementado para 20 quando estiver com metade dos pontos de vida.
+        ↪ Consumir: Ganhe 5 marcadores de Veneno.
 
     ↪ 
 
@@ -83,21 +39,9 @@
 
         ↪ 
 
-    ↪ 
+    ↪ Maleta de Primeiros-Scorros
 
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
+        ↪ Consumir: aplica uma Dissipação completa para os marcadores Não-Debilitante (Lentidão, Veneno, Fraqueza, Sangramento).
 
 
 ↪ Ayin (Classe 8)
