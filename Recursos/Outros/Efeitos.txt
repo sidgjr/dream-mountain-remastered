@@ -6,7 +6,7 @@
 
     ↪ Segurança (são todos consumidos em um erro critico para evitá-lo).
 
-    ↪ Prioridades (Aumenta a influência na ordem de turnos).
+    ↪ Prioridade (Aumenta a influência na ordem de turnos).
 
     ↪ Fervor (Melhora habilidades).
 
@@ -86,4 +86,4 @@
 
     ↪ Azar (Escolha do pior rolamento de dados).
 
-    ↪ Polimorfia (Se torna um monstro perdendo todas as suas habilidades e atributos pela da transformação).
+    ↪ Polimorfia (Se torna um monstro perdendo todas as suas habilidades e atributos pela as da transformação).

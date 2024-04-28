@@ -1,168 +1,442 @@
-Nível 0 (consumíveis básicos/ enferrujados)
+↪ Shin (Classe básica)
 
-    Pedra (str em metros)
-        1 de dano
+    ↪ Bandagens Velhas
 
-    Bandagens
-        +2 hp (ferimentos superficiais)
+        ↪ Consumir: ganhe 3 marcadores de Regeneração.
 
-    Espada enferrujada (toque)
-        +3 de dano, 2 usos
+    ↪ Espada Enferrujada
 
-    Bastão (alcance de 1m para toque)
-        +1 de dano
+        ↪ Aumenta o Ataque em 8.
+
+        ↪ O seu terceiro ataque com este item sempre erra.
+
+    ↪ Cajado do Pastor
+
+        ↪ Aumenta o Alcance e Maestria em 2 ao usar mágias do tipo Recuperação.
+
+    ↪ Machadinha
+
+        ↪ Aumenta o Ataque e a Velocidade em 2.
+
+    ↪ Estilingue
+
+        ↪ Pode usar qualquer coisa sólida e pequena como munição.
+
+        ↪ Causa metade do seu ataque, arrendonado para baixo, em até 20 metros de distância.
     
-    Machadinha (toque)
-        +1 de dano
+    ↪ Grimório Rasgado
 
-    Shuriken (str + 1 metros) (fácil de encontrar e fazer)
-        1 de dano, uso único
-
-    Capacete desgastado
-        -2 de dano recebido, 4 usos
-
-    Escudo velho
-        -6 de dano recebido, 1 uso
-
-    Estilingue simples (str + 4 metros)
-        Lança um projétil pequeno qualquer (dano baseado no objeto)
-
-    Poção de veneno menor (str em metros) (algo deu errado na alquimia kkkkkk)
-        Adiciona 4 marcadores de veneno que causam 1 de dano
-
-    Poção de cura menor
-        +4 hp (ferimentos menores, doenças comuns (gripe, etc))
-
-
-Nível 1 (equipamento básico)
-
-    Poção de mana menor
-        +6 mp
-
-    Poção de veneno mediana (ainda deu errado na alquimia)
-        Adiciona 3 marcadores de veneno que causam 2 de dano, chance de 1 em 20 de causar stun
-
-    Capacete de constantan
-        -2 de dano recebido, previne morte por dano crítico na cabeça e quebra
-
-    Adaga simples (toque/ str em metros)
-        +3 de dano, str - 2 ao ser arremessado
-
-    Calça de couro
-        -2.5 de dano recebido, -0.5 extra pra ataques de gelo
-
-    Peitoral de bronze
-        -3 de dano recebido
-
-    Arco de madeira (agilidade + 7 metros)
-        +1 de dano ao projétil lançado
-    Flecha simples (munição)
-        3 de dano base
-
-    Botas com espinhos (toque)
-        str + 2 de dano, -1 agi em terrenos não congelados, anula debuff de terrenos congelados
-
-    Lança longa (alcance de 1m para toque/ str - 2 em metros)
-        +2 de dano, str - 1 de dano ao ser arremessado
-
-    Foice (alcance de 1m para toque)
-        +0 de dano, AOE
-
-    Chicote (alcance de 2m para toque)
-        +0 de dano
-
-    Machado grande(Toque)
-        +4 de dano, -1 agi
-
-
-Nível 2 (equipamentos de alta qualidade)
+        ↪ Aumenta o Domínio em 3.
     
-    Poção de cura mediana
-        +6 hp, +1 regen por 3 turnos
+    ↪ Manto Sujo
+
+        ↪ Aumenta a Noção em 2.
+
+        ↪ No início de cada turno ganhe 1 marcador de Esquiva.
     
-    Set de duraluminio
-        Capacete
-            -2 de dano recebido, previne morte por dano crítico na cabeça 3 vezes, após isso quebra
-        Peitoral
-            -4 de dano recebido
-        Calça
-            -3 de dano recebido
-        Botas
-            -1 de dano recebido
-        Set completo
-            +4 de str
+    ↪ Escudo de Tábuas
 
-    Espada de invar (toque)
-        +3 de dano, adiciona 2 marcadores de sangramento que causam 2 de dano
+        ↪ Aumenta a Defesa em 3.
 
-    Explosivos
-        30 de dano
-
-    Escudo (uma mão)
-        -5 de dano recebido, -2 agi
-
-    Berserk sword (toque)
-        +6 de dano, -4 agi (str > 10 requerido)
-
-    Adagas de alumínio (toque)
-        + agi/5 em dano
-
-    Bomba de fumaça (instantânea)
-        Reduz drasticamente a taxa de acerto a distância
-
-    Flechas explosivas (munição)
-        5 de dano base
-
-    Machado de dois gumes (toque)
-        +4 de dano, 1 de dano ao usuário
-
-    Poção de veneno maior (esse foi na maldade msm)
-        Causa 1 de dano, adiciona 4 marcadores de veneno que causam 3 de dano, chance de 3 em 20 de causar stun
-
-Nível 3 (equipamentos mágicos/místicos/únicos)
-
-    Poção de mana mediana
-        +12 mp, +4 mana regen por 2 turnos
-
-    Amuletos (pequenas pedras)
-        boost pra cada tipo de magia (+2 de dano/ +2 de cura/ +1 regen/ mais vida em summon)
-        disponíveis: Aqua(d6 azul), Ignis(d4 vermelho ou preto), Gaia(d20 pontudo), Ventus(d8 aerado(com vários tuneis de ar))
-
-    Pingente de mana
-        Armazena até 6mp e pode ser usada a qualquer momento enquanto em posse do usuário
-
-    Bolha instantânea (4 turnos)
-        cria uma bolha de água no local do uso
-        +2hp por turno
-        anula 1 magia de ignis e quebra
-
-    Zarabatana congelante
-        Qualquer projétil atirado por esse equipamento congela o oponente
-
-    Cajado do afogado (azul com a parte de baixo permanentemente congelada com corais)
-        Acertos críticos causam lentidão
-
-    Granada sonora (pedra reutilizável)
-        Afasta unidades por 1 metro da explosão
-        +1 marcador de stun no primeiro uso
-        2 de dano num raio de 3 metros ignorando defesa
+        ↪ No início de cada turno ganhe 1 marcador de Armadura.
     
-    /Tlum/ Manto do liberto
-        Habilita planar
-        Anula dano de queda/ queda lenta
+    ↪ Chapéu do Camponês
+
+        ↪ Aumenta a Velocidade em 4.
+
+        ↪ No início de cada turno ganhe 1 marcador de Produção.
+
+    ↪ Luvas do Lenhador
+
+        ↪ Aumenta o Ataque em 1, aumentando para 2 ao usar armas de Corte, aumentando para 3 ao usar Machados.
+
+
+↪ Resh (Classe 9)
     
-    /Tlum e Nathan/ Coroa rochosa
-        Aumenta 1 atributo de todas as unidades invocadas
+    ↪ Colar de Conchas
 
-    /Tlum/ Quebra-magos
-        O primeiro ataque causado por esse equipamento queima mana igual ao dano
-        +5 de dano, 1 vez a cada 2 turnos
+        ↪ Aumenta a Noção em 6.
 
-    Bolas metalicas
-        Prendem o alvo por 3 turnos
+        ↪ Toda vez que conjurar uma mágia, restaure 1 ponto de vida.
+    
+    ↪ Manto de Folhas
 
-    /Tlum/ Estaca chamuscada
-        Chance de conjurar uma habilidade gratuita aleatória de nível 1 ao castar qualquer magia de fogo
+        ↪ Aumenta a Agilidade em 2
 
-    /Tlum/ Arco de Apolo
-        Todas as flechas atiradas por esse arco adicionam 2 marcadores de combustão que causam 3 de dano
+        ↪ Toda vez que acertar um ataque ou uma mágia, ganhe 2 marcadores de Agilidade.
+
+    ↪ Poção Rubra Menor
+
+        ↪ Consumir: Restaure 5 pontos de vida e ganhe 5 marcadores de Regeneração.
+
+    ↪ Elmo Desgastado
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Ayin (Classe 8)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Samek (Classe 7)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Kaph (Classe 6)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Yod (Classe 5)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Tet (Classe 4)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Het (Classe 3)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Zayin (Classe 2)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Aleph (Classe Especial)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
