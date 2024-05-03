@@ -1,21 +1,8 @@
-///
-Nível 0 (consumíveis básicos/ enferrujados)
-
-    Poção de veneno menor (str em metros) (algo deu errado na alquimia kkkkkk)
-        Adiciona 4 marcadores de veneno que causam 1 de dano
-
-
 Nível 1 (equipamento básico)
-
-    Poção de mana menor
-        +6 mp
 
     Poção de veneno mediana (ainda deu errado na alquimia)
         Adiciona 3 marcadores de veneno que causam 2 de dano, chance de 1 em 20 de causar stun
-
-    Capacete de constantan
-        -2 de dano recebido, previne morte por dano crítico na cabeça e quebra
-
+   
     Adaga simples (toque/ str em metros)
         +3 de dano, str - 2 ao ser arremessado
 

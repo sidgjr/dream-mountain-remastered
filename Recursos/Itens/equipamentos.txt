@@ -8,9 +8,11 @@
 
     ↪ Espada Enferrujada
 
-        ↪ Aumenta o Ataque em 8.
+        ↪ Aumenta o Ataque em 9.
 
         ↪ O seu terceiro ataque com este item sempre erra.
+
+        ↪ Quebra com erro crítico.
 
     ↪ Cajado do Pastor
 
@@ -25,6 +27,8 @@
         ↪ Pode usar qualquer coisa sólida e pequena como munição.
 
         ↪ Causa metade do seu ataque, arrendonado para baixo, em até 20 metros de distância.
+
+        ↪ O dano não pode passar de 10 (sem incluir as resistências).
     
     ↪ Grimório Rasgado
 
@@ -57,7 +61,7 @@
     
     ↪ Colar de Conchas
 
-        ↪ Aumenta a Noção em 6.
+        ↪ Aumenta a Noção em 4.
 
         ↪ Toda vez que conjurar uma mágia, restaure 1 ponto de vida.
     
@@ -67,13 +71,13 @@
 
         ↪ Toda vez que acertar um ataque ou uma mágia, ganhe 2 marcadores de Agilidade.
 
-    ↪ 
+    ↪ Adaga do Ladrão
 
-        ↪ 
+        ↪ Aumenta a Agilidade em 6, e o Ataque em 6.
 
     ↪ Elmo Desgastado
 
-        ↪ Aumenta a Defesa em 7, incrementado para 20 quando estiver com metade dos pontos de vida.
+        ↪ Aumenta a Defesa em 5, incrementado para 15 quando estiver com metade dos pontos de vida.
 
     ↪ 
 

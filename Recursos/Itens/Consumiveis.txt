@@ -23,17 +23,23 @@
 
 ↪ Resh (Classe 9)
 
-    ↪ Poção Rubra Menor
+    ↪ Frasco Rubro
 
-        ↪ Consumir: Restaure 5 pontos de vida e ganhe 5 marcadores de Regeneração.
+        ↪ Poção.
+
+        ↪ Restaure 4 Pontos de Vida e ganhe 4 marcadores de Regeneração.
 
     ↪ Frasco Evenenado
 
-        ↪ Consumir: Ganhe 5 marcadores de Veneno.
+        ↪ Elixir.
 
-    ↪ 
+        ↪ Ganhe 5 marcadores de Veneno.
 
-        ↪ 
+    ↪ Frasco Sáfira
+
+        ↪ Poção.
+
+        ↪ Restaura 1d20 Pontos de Mana.
 
     ↪ 
 
@@ -41,7 +47,9 @@
 
     ↪ Maleta de Primeiros-Scorros
 
-        ↪ Consumir: aplica uma Dissipação completa para os marcadores Não-Debilitante (Lentidão, Veneno, Fraqueza, Sangramento).
+        ↪ Consumível.
+
+        ↪ Aplica uma Dissipação completa para os marcadores negativos "Não-Debilitante" (Lentidão, Veneno, Fraqueza, Sangramento).
 
 
 ↪ Ayin (Classe 8)
