@@ -236,9 +236,9 @@
 
         ↪ Arma de Duas Mãos, Diversos.
 
-        ↪ Aumenta a Comunicação em 10 e o Domínio em 5.
+        ↪ Aumenta a Comunicação em 10 e o Domínio em 10.
 
-        ↪ Maestria aumentada em 5 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
+        ↪ Maestria aumentada em 10 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
 
         ↪ No inicio do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
