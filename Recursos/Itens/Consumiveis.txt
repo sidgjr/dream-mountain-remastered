@@ -2,7 +2,7 @@
 
     ↪ Bandagens Velhas
 
-        ↪ Consumir: ganhe 3 marcadores de Regeneração.
+        ↪ Ganhe 3 Marcadores de Regeneração.
 
     ↪ 
 
@@ -27,13 +27,13 @@
 
         ↪ Poção.
 
-        ↪ Restaure 4 Pontos de Vida e ganhe 4 marcadores de Regeneração.
+        ↪ Restaure 4 Pontos de Vida e ganhe 4 Marcadores de Regeneração.
 
     ↪ Frasco Evenenado
 
         ↪ Elixir.
 
-        ↪ Ganhe 5 marcadores de Veneno.
+        ↪ Ganhe 5 Marcadores de Veneno.
 
     ↪ Frasco Sáfira
 
@@ -41,9 +41,11 @@
 
         ↪ Restaura 1d20 Pontos de Mana.
 
-    ↪ 
+    ↪ Frasco Sonífero
 
-        ↪ 
+        ↪ Elixir.
+
+        ↪ Ganhe 5 Marcadores de Sono.
 
     ↪ Maleta de Primeiros-Scorros
 

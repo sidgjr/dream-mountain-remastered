@@ -2,11 +2,15 @@
 
     ↪ Gaiola Velha
 
+        ↪ Arma, Diversos.
+
         ↪ Aumenta em 5 a Comunicação
 
         ↪ Permite poder ter 1 monstro domesticado adicional.
 
     ↪ Espada Enferrujada
+
+        ↪ Arma de Duas Mãos, Espada.
 
         ↪ Aumenta o Ataque em 9.
 
@@ -16,25 +20,35 @@
 
     ↪ Cajado do Pastor
 
+        ↪ Arma de Duas Mãos, Cajado.
+
         ↪ Aumenta o Alcance e Maestria em 2 ao usar mágias do tipo Recuperação.
 
     ↪ Machadinha
+
+        ↪ Arma, Machado.
 
         ↪ Aumenta o Ataque e a Velocidade em 2.
 
     ↪ Estilingue
 
+        ↪ Arma de Longo Alcance, Diversos.
+
         ↪ Pode usar qualquer coisa sólida e pequena como munição.
 
         ↪ Causa metade do seu ataque, arrendonado para baixo, em até 20 metros de distância.
 
-        ↪ O dano não pode passar de 10 (sem incluir as resistências).
+        ↪ O dano não pode passar de 10.
     
     ↪ Grimório Rasgado
+
+        ↪ Arma, Diversos.
 
         ↪ Aumenta o Domínio em 3.
     
     ↪ Manto Sujo
+
+        ↪ Costas.
 
         ↪ Aumenta a Noção em 2.
 
@@ -42,17 +56,23 @@
     
     ↪ Escudo de Tábuas
 
+        ↪ Arma, Escudo.
+
         ↪ Aumenta a Defesa em 3.
 
         ↪ No início de cada turno ganhe 1 marcador de Armadura.
     
     ↪ Chapéu do Camponês
 
+        ↪ Elmo.
+
         ↪ Aumenta a Velocidade em 4.
 
         ↪ No início de cada turno ganhe 1 marcador de Produção.
 
     ↪ Luvas do Lenhador
+
+        ↪ Mãos.
 
         ↪ Aumenta o Ataque em 1, incrementado para 2 ao usar armas de Corte ou para 3 ao usar Machados.
 
@@ -61,11 +81,15 @@
     
     ↪ Colar de Conchas
 
+        ↪ Pescoço.
+
         ↪ Aumenta a Noção em 4.
 
         ↪ Toda vez que conjurar uma mágia, restaure 1 ponto de vida.
     
     ↪ Manto de Folhas
+
+        ↪ Costas.
 
         ↪ Aumenta a Agilidade em 2.
 
@@ -73,48 +97,74 @@
 
     ↪ Adaga do Ladrão
 
-        ↪ Aumenta a Agilidade em 6, e o Ataque em 6.
+        ↪ Arma, Adaga.
+
+        ↪ Aumenta a Agilidade e o Ataque em 6.
 
     ↪ Elmo Desgastado
 
+        ↪ Elmo.
+
         ↪ Aumenta a Defesa em 5, incrementado para 15 quando estiver com metade dos pontos de vida.
 
-    ↪ 
+    ↪ Colete de Couro
 
-        ↪ 
+        ↪ Torso
 
-    ↪ 
+        ↪ Aumenta a Defesa em 5
 
-        ↪ 
+        ↪ Toda vez que sofrer dano mágico que não seja periódico, recebe 3 Marcadores de Noção.
 
-    ↪ 
+    ↪ Arco de Caçador
 
-        ↪ 
+        ↪ Arma de Longo Alcance, Arco.
 
-    ↪ 
+        ↪ Aumenta a Força em 2 e a Agilidade em 8.
 
-        ↪ 
+        ↪ Causa até 20 pontos de dano, em até 30 metros de distância.
 
-    ↪ 
+    ↪ Flecha Simples
 
-        ↪ 
+        ↪ Munição, Arco.
 
-    ↪ 
+        ↪ 4 de Dano Base.
 
-        ↪ 
+    ↪ Perneiras de Bronze
+
+        ↪ Pernas.
+
+        ↪ Aumenta a Força em 4.
+
+        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 10.
+
+    ↪ Forcado do Fazendeiro 
+
+        ↪ Arma de Duas Mãos, Lança.
+
+        ↪ Aumenta o Ataque em 10 e a Vitalidade em 5.
+
+        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
+
+    ↪ Grimório do Bruxo Aprendiz
+
+        ↪ Arma, Diversos.
+
+        ↪ Aumenta o Domínio em 10 e a Maestria em 5.
+
+        ↪ Toda vez que realizar uma mágia do tipo Ofensivo, ganhe 2 Marcadores de Maestria.
 
 
 ↪ Ayin (Classe 8)
 
-    ↪ 
+    ↪ Conjunto: 
 
         ↪ 
 
-    ↪ 
+    ↪ Conjunto: 
 
         ↪ 
 
-    ↪ 
+    ↪ Conjunto: 
 
         ↪ 
 

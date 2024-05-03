@@ -1,0 +1,51 @@
+↪ Mineração
+
+	↪ Metais básicos
+
+		↪ Estanho (Aumento de Velocidade)
+
+		↪ Cobre (Reduz dano inimigo, principalmente Fogo)
+
+		↪ Ferro (Versatilidade, aguentar mais runas e encantamentos)
+
+		↪ Prata (Aumento de cura)
+
+		↪ Ouro (Aumento do valor do item)
+
+	↪ Outros básicos
+
+		↪ Ametista (Aumento de Maestria)
+
+		↪ Safira (Aumento do Domínio)
+
+		↪ Rubi (Aumento do Ataque)
+
+		↪ Esmeralda (Aumento da Vitalidade)
+
+		↪ Diamante (Intensificação)
+
+	↪ Metais Salon'gar
+
+		↪ Stekros (Estilhaço, Acerto Critico e Sangramento)
+
+		↪ Oyneres (Revidar)
+
+		↪ Sécrun (Metal Sagrado)
+
+		↪ Anulium (Resitência a mágia)
+
+		↪ Zinkar (Maleável e indestrutível)
+
+		↪ Nonamium
+
+	↪ Outros Salon'gar
+
+		↪ Carvão Fantasma (Etéreo)
+
+		↪ Lahrar (Joia de Fervor)
+
+		↪ Amird (Joia do Desgaste)
+
+		↪ Gravoeno (Joia Druída, afinidade com monstros)
+
+		↪ Intokel (Joia Mortifera)
