@@ -22,7 +22,7 @@
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta o Alcance e Maestria em 2 ao usar mágias do tipo Recuperação.
+        ↪ Aumenta o Alcance e Maestria em 2 ao usar Mágias do tipo Recuperação.
 
     ↪ Machadinha
 
@@ -85,7 +85,7 @@
 
         ↪ Aumenta a Noção em 4.
 
-        ↪ Toda vez que conjurar uma mágia, restaure 1 ponto de vida.
+        ↪ Toda vez que conjurar uma Mágia, restaure 1 ponto de vida.
     
     ↪ Manto de Folhas
 
@@ -93,7 +93,7 @@
 
         ↪ Aumenta a Agilidade em 2.
 
-        ↪ Toda vez que acertar um ataque ou uma mágia, ganhe 2 marcadores de Agilidade.
+        ↪ Toda vez que acertar um ataque ou uma Mágia, ganhe 2 marcadores de Agilidade.
 
     ↪ Adaga do Ladrão
 
@@ -121,7 +121,7 @@
 
         ↪ Aumenta a Força em 2 e a Agilidade em 8.
 
-        ↪ Causa até 20 pontos de dano, em até 30 metros de distância.
+        ↪ Causa até 15 pontos de dano, em até 30 metros de distância.
 
     ↪ Flecha Simples
 
@@ -133,9 +133,9 @@
 
         ↪ Pernas.
 
-        ↪ Aumenta a Força em 4.
+        ↪ Aumenta a Força em 3.
 
-        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 10.
+        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 8.
 
     ↪ Forcado do Fazendeiro 
 
@@ -143,7 +143,7 @@
 
         ↪ Aumenta o Ataque em 10 e a Vitalidade em 5.
 
-        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
+        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
 
     ↪ Grimório do Bruxo Aprendiz
 
@@ -156,45 +156,91 @@
 
 ↪ Ayin (Classe 8)
 
-    ↪ Conjunto: 
+    ↪ Conjunto: Armadura de Aço
 
-        ↪ 
+        ↪ Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ Conjunto: 
+        ↪ Cada parte concede 4 Pontos de Força.
 
-        ↪ 
+        ↪ Conjunto Completo: Acertos Críticos de Ataques Corpo a Corpo e Habilidades com Alcance de Toque causam o Triplo do dano ao invés de em Dobro.
 
-    ↪ Conjunto: 
+    ↪ Conjunto: Uniforme da Academia Violeta
 
-        ↪ 
+        ↪ Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte concede 2 Pontos de Força e 3 Pontos de Inteligência.
 
-        ↪ 
+        ↪ Conjunto Completo: Acertos Críticos de Mágias tem o seu Custo de Mana Restituído, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
 
-    ↪ 
+    ↪ Conjunto: Traje do Mercenário
 
-        ↪ 
+        ↪ Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte concede 3 Pontos de Força e 4 Pontos de Agilidade
 
-        ↪ 
+        ↪ Conjunto Completo: O primeiro Acerto Crítico em um combate concede um Turno Adicional.
 
-    ↪ 
+    ↪ Lança Imperial
 
-        ↪ 
+        ↪ Arma de Duas Mãos, Lança
 
-    ↪ 
+        ↪ Aumenta o Ataque em 12, Defesa e Noção em 6.
 
-        ↪ 
+        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 2 metros.
 
-    ↪ 
+    ↪ Cutelo Ensanguentado
 
-        ↪ 
+        ↪ Arma, Machado.
 
-    ↪ 
+        ↪ Aumenta o Ataque em 7.
 
-        ↪ 
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 7 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
+
+    ↪ Arco Longo do Franco-atirador
+
+        ↪ Arma de Longo Alcance, Arco.
+
+        ↪ Aumenta a Força em 3, a Inteligência em 6 e a Agilidade em 9.
+
+        ↪ Causa até 20 pontos de dano, em até 40 metros de distância.
+
+        ↪ Ataques causados com esta arma adicionam 2 Marcadores de Alcance e Comunicação.
+
+    ↪ Flecha de Ossos
+
+        ↪ Munição, Arco.
+
+        ↪ 6 de Dano Base.
+
+        ↪ Metade do dano causado com essa flecha é metade Físico e metade Mágico.
+
+    ↪ Escudo de Prata
+
+        ↪ Arma, Escudo.
+
+        ↪ Aumenta a Defesa e Noção em 10.
+
+        ↪ Aumenta a Maestria em 10 ao usar Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade.
+
+        ↪ Ao sofrer Dano Mágico não periódico, usa Metade da Defesa como Noção adicional, o mesmo ocorre para Dano Físico, utilizando Metade da Noção como Defesa adicional.
+
+    ↪ Cetro do Mago de Guerra
+
+        ↪ Arma de Duas Mãos, Cajado.
+
+        ↪ Aumenta a Inteligência em 6.
+
+        ↪ A Maestria é aumentada em 6 para Mágias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Mágia da escola Ignis.
+
+    ↪ Tambor do Xamã
+
+        ↪ Arma de Duas Mãos, Diversos.
+
+        ↪ Aumenta a Comunicação em 10 e o Domínio em 5.
+
+        ↪ Maestria aumentada em 5 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
+
+        ↪ No inicio do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
 
 ↪ Samek (Classe 7)

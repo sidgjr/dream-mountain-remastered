@@ -3,9 +3,6 @@ Nível 1 (equipamento básico)
     Botas com espinhos (toque)
         str + 2 de dano, -1 agi em terrenos não congelados, anula debuff de terrenos congelados
 
-    Lança longa (alcance de 1m para toque/ str - 2 em metros)
-        +2 de dano, str - 1 de dano ao ser arremessado
-
     Foice (alcance de 1m para toque)
         +0 de dano, AOE
 
