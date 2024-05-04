@@ -54,7 +54,7 @@
 
     ↪ Veneno (Causa dano por turno).
 
-    ↪ Fraqueza (Reduz o dano).
+    ↪ Fraqueza (Reduz o Ataque e a Maestria).
 
     ↪ Sangramento (Causa dano por turno, só é removido com Dissipação).
 

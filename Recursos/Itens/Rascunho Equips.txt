@@ -1,8 +1,5 @@
 Nível 1 (equipamento básico)
 
-    Foice (alcance de 1m para toque)
-        +0 de dano, AOE
-
     Chicote (alcance de 2m para toque)
         +0 de dano
 

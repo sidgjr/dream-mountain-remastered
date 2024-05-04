@@ -245,21 +245,37 @@
 
 ↪ Samek (Classe 7)
 
-    ↪ 
+    ↪ Foice da Necrópole Central
 
-        ↪ 
+        ↪ Aumenta o Ataque em 10, a Força e a Agiliade em 5.
 
-    ↪ 
+        ↪  O Alcance de Ataques Corpo a Corpo e Habilidade com Alcance de Toque é aumentado em 3 metros e aplicam 2 marcadores de Sangramento e Fraqueza.
 
-        ↪ 
+        ↪ Sempre que realizar um Ataque Básico em um alvo, esse mesmo Ataque também é aplicado em todos inimigos dentro do Atributo de Alcance.
 
-    ↪ 
+    ↪ Punhal do Pantano Nevoeiro 
 
-        ↪ 
+        ↪ Arma, Adaga.
 
-    ↪ 
+        ↪ Aumenta a Força, Agilidade e Inteligência em 5.
 
-        ↪ 
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcador de Veneno e 6 Marcadores de Lentidão.
+
+    ↪ Chicote do Antigo Aventureiro
+
+        ↪ Arma de Duas Mãos, Diversos.
+
+        ↪ Aumenta a Agilidade em 15.
+
+        ↪ Alcance de 15 Metros, seus Ataques e Habilidades são considerados Corpo a Corpo tanto quanto de Longo Alcance: O Alcance também pode ser somado pelo seu Atributo, assim como armas de Longo Alcance, e pode ser usados habilidades Corpo a Corpo.
+
+    ↪ Machado do Barbáro
+
+        ↪ Arma de Duas Mãos, Machado.
+
+        ↪ Aumenta a Força em 12, Diminui os Pontos de Mana pela metade.
+
+        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 3 Marcadores de Força e Fervor.
 
     ↪ 
 
