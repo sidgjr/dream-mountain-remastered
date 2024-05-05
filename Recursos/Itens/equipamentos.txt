@@ -1,4 +1,4 @@
-↪ Shin (Classe básica)
+↪ Shin (Classe básica, itens inferiores)
 
     ↪ Sacola Rasgada
 
@@ -42,7 +42,7 @@
 
         ↪ Arma de Longo Alcance, Diversos.
 
-        ↪ Causa metade do seu Ataque, arrendonado para baixo, em até 20 metros de distância.
+        ↪ Causa metade do seu Ataque, arrendonado para baixo, em até 15 metros de distância.
 
         ↪ O dano não pode passar de 10.
     
@@ -83,7 +83,7 @@
         ↪ Aumenta o Ataque em 1, incrementado para 2 ao usar armas de Duas Mãos ou para 3 ao usar Machados.
 
 
-↪ Resh (Classe 9)
+↪ Resh (Classe 9, itens comuns)
 
     ↪ Mochila Simples
 
@@ -135,7 +135,7 @@
 
         ↪ Aumenta a Força em 2 e a Agilidade em 6.
 
-        ↪ Pode causar um máximo de 15 pontos de dano, em até 30 metros de distância.
+        ↪ Pode causar um máximo de 15 pontos de dano, em até 20 metros de distância.
 
     ↪ Perneiras de Bronze
 
@@ -162,7 +162,7 @@
         ↪ Toda vez que realizar uma Mágia do tipo Ofensivo, ganhe 2 Marcadores de Maestria.
 
 
-↪ Ayin (Classe 8)
+↪ Ayin (Classe 8, itens incomuns)
 
     ↪ Bolsa do Alquimista
 
@@ -218,7 +218,7 @@
 
         ↪ Aumenta a Força em 2, a Inteligência em 4 e a Agilidade em 6.
 
-        ↪ Causa até 20 pontos de dano, em até 40 metros de distância.
+        ↪ Causa até 20 pontos de dano, em até 25 metros de distância.
 
         ↪ Ataques causados com esta arma adicionam 3 Marcadores de Alcance e Comunicação.
 
@@ -251,7 +251,7 @@
         ↪ No inicio do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
 
-↪ Samek (Classe 7)
+↪ Samek (Classe 7, itens raros)
 
     ↪ Bolso sem Fundo
 
@@ -263,19 +263,19 @@
 
     ↪ Foice da Necrópole Central
 
-        ↪ Aumenta o Ataque em 10, a Força e a Agiliade em 4.
+        ↪ Aumenta o Ataque em 9, a Força e a Agilidade em 4.
 
-        ↪  O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros e aplicam 2 marcadores de Sangramento e Fraqueza.
+        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros e aplicam 2 marcadores de Sangramento e Fraqueza.
 
         ↪ Sempre que realizar um Ataque Básico em um alvo, esse mesmo Ataque também é aplicado em todos inimigos dentro do seu Atributo de Alcance.
 
-    ↪ Punhal do Pantano Nevoeiro 
+    ↪ Punhal do Pantano Nevoeiro
 
         ↪ Arma, Adaga.
 
         ↪ Aumenta a Força, Agilidade e Inteligência em 4.
 
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcador de Veneno e 5 Marcadores de Lentidão.
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcadores de Veneno e 5 Marcadores de Lentidão.
 
     ↪ Chicote do Antigo Aventureiro
 
@@ -289,32 +289,60 @@
 
         ↪ Arma de Duas Mãos, Machado.
 
-        ↪ Aumenta a Força em 10, Porém também diminui o Domínio em 5.
+        ↪ Aumenta a Força em 12, Porém também diminui o Domínio em 5.
 
         ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 3 Marcadores de Força e Fervor.
 
-    ↪ 
+    ↪ Báculo do Afogado
 
-        ↪ 
+        ↪ Arma de Duas Mãos, Cajado.
 
-    ↪ 
+        ↪ Aumenta a Inteligência em 7 e a Força em 3.
 
-        ↪ 
+        ↪ Sempre que uma Mágia conjurada por você colocar um Marcador em uma unidade, companheiro ou inimigo, coloque aquela quantia mais 1 Marcador.
 
-    ↪ 
+    ↪ Manto do Liberto
 
-        ↪ 
+        ↪ Equipamento, Costas.
 
-    ↪ 
+        ↪ Aumenta a Força, Agilidade e Inteligência em 3.
 
-        ↪ 
+        ↪ Habilidade: Concede 3 Pontos de Força. Essa habiliade pode ser ativada para alterar esse Pontos para Agilidade, Inteligência ou até Força de volta.
 
-    ↪ 
+    ↪ Garra de Urso
 
-        ↪ 
+        ↪ Arma de Punho, Diversos.
+
+        ↪ Mesmo sendo uma arma, ao equipar o usuário ainda é considerado Desarmado.
+
+        ↪ Aumenta a Força e Agilidade em 5.
+
+        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 1 metros.
+
+        ↪ A primeira vez que causar Dano em mais de uma unidade inimiga nesse turno, você pode realizar mais um Ataque Básico nesse turno.
+
+    ↪ Tomo Esquecido
+
+        ↪ Armas, Diversos.
+
+        ↪ Aumenta o Domínio em 10.
+
+        ↪ No início de turno se o usuário estiver com menos da metade dos Pontos de Mana, restaure 1d6 de Pontos de Mana.
+
+    ↪ Besta Anti-Gigantes.
+
+        ↪ Arma de Longo Alcance, Diversos.
+
+        ↪ Pode usar Munição de Arco.
+
+        ↪ Aumenta a Força em 5 e a Agilidade em 10.
+
+        ↪ Causa até um máximo 25 pontos de dano, em até 30 metros de distância.
+
+        ↪ Metade do Dano causado com esta arma ignora completamente metade da Defesa e Noção do alvo.
 
 
-↪ Kaph (Classe 6)
+↪ Kaph (Classe 6, itens mágicos)
 
     ↪ 
 

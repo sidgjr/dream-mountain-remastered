@@ -62,11 +62,11 @@
 
     ↪ Cegueira (Aumenta a taxa de erro).
 
-    ↪ Desarme (Não pode atacar ou usar Toque).
+    ↪ Desarme (Não pode atacar ou usar Habilidades com Alcance de Toque).
 
     ↪ Enraizamento (Não pode se mover).
 
-    ↪ Silêncio (Não pode usar habilidades).
+    ↪ Silêncio (Não pode usar Habilidades ou Mágias).
 
 ↪ Dissipação Superior (Inutilizantes).
 

@@ -5,9 +5,6 @@ Nível 2 (equipamentos de alta qualidade)
 
 Nível 3 (equipamentos mágicos/místicos/únicos)
 
-    Poção de mana mediana
-        +12 mp, +4 mana regen por 2 turnos
-
     Amuletos (pequenas pedras)
         boost pra cada tipo de magia (+2 de dano/ +2 de cura/ +1 regen/ mais vida em summon)
         disponíveis: Aqua(d6 azul), Ignis(d4 vermelho ou preto), Gaia(d20 pontudo), Ventus(d8 aerado(com vários tuneis de ar))
@@ -22,18 +19,7 @@ Nível 3 (equipamentos mágicos/místicos/únicos)
 
     Zarabatana congelante
         Qualquer projétil atirado por esse equipamento congela o oponente
-
-    Cajado do afogado (azul com a parte de baixo permanentemente congelada com corais)
-        Acertos críticos causam lentidão
-
-    Granada sonora (pedra reutilizável)
-        Afasta unidades por 1 metro da explosão
-        +1 marcador de stun no primeiro uso
-        2 de dano num raio de 3 metros ignorando defesa
     
-    /Tlum/ Manto do liberto
-        Habilita planar
-        Anula dano de queda/ queda lenta
     
     /Tlum e Nathan/ Coroa rochosa
         Aumenta 1 atributo de todas as unidades invocadas
@@ -41,9 +27,6 @@ Nível 3 (equipamentos mágicos/místicos/únicos)
     /Tlum/ Quebra-magos
         O primeiro ataque causado por esse equipamento queima mana igual ao dano
         +5 de dano, 1 vez a cada 2 turnos
-
-    Bolas metalicas
-        Prendem o alvo por 3 turnos
 
     /Tlum/ Estaca chamuscada
         Chance de conjurar uma habilidade gratuita aleatória de nível 1 ao castar qualquer magia de fogo
@@ -60,17 +43,13 @@ Nível 3 (equipamentos mágicos/místicos/únicos)
 proteção contra aquele elemento
 
 
-* Bomba de fumaça - obscurece visão e aumenta esquiva (errar ataques), com
-certo de nivel de velocidade seu uso é atemporal
-
-
 * Adaga do grande aprendiz - 
 
 escolha uma habilidade de sua barra de habilidades,
 essa habilidade fica gravada nesta arma, pode ser usada enquanto equipada mesmo
 sem estar com a barra da habilidade gravada.
 
-só pode gravar habilidades de força ou agiliade.
+só pode gravar habilidades de força ou Agilidade.
 
 a habilidade deve respeitar seu custo, esquecimento é aplicado a sua barra ou a
 propria arma segundo o texto da habilidade.
@@ -85,53 +64,12 @@ ataque basico ou a habiliade gravada
 * Sacola de pó mágico - revela unidades invisiveis - consumivel
 
 
-
-// Sem nome
-
-* escudo que toma mais desgastes por ataques, mas pode bloquear magias
-
-
-
 // Só o nome
 
 * A Mata-Bruxas
 
 
 ///////////////////
-
-// Com Nome
-
-* Rosa dos quatro elementos - escolhe um dos quatro elementos quando usada,
-proteção contra aquele elemento
-
-
-* Bomba de fumaça - obscurece visão e aumenta esquiva (errar ataques), com
-certo de nivel de velocidade seu uso é atemporal
-
-
-* Adaga do grande aprendiz - 
-
-escolha uma habilidade de sua barra de habilidades,
-essa habilidade fica gravada nesta arma, pode ser usada enquanto equipada mesmo
-sem estar com a barra da habilidade gravada.
-
-só pode gravar habilidades de força ou agiliade.
-
-a habilidade deve respeitar seu custo, esquecimento é aplicado a sua barra ou a
-propria arma segundo o texto da habilidade.
-
-acima de certo nivel de velocidade pode atacar em turno de oponentes, sendo
-ataque basico ou a habiliade gravada
-
-
-* A Lamentadora - espada que ganha dano conforme vida perdida
-
-
-* Sacola de pó mágico - revela unidades invisiveis – consumível
-
-
-Espadas de gelo e fogo – escolher gelo e fogo, a escolha não pode ser a do turno anterior, gelo recupera vida e pode alternar a barra, fogo causa mais dano e pode alternar a barra do inimigo, ambos para próxima anterior
-
 
 
 // Sem nome
