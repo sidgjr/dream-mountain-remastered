@@ -1,5 +1,13 @@
 ↪ Shin (Classe básica)
 
+    ↪ Sacola Rasgada
+
+        ↪ Bolsa.
+
+        ↪ Aumenta o número máximo de Itens no Inventário em 2.
+
+        ↪ Perde 1 ponto de Velocidade e Alcance para cada Item extra armazenado.
+
     ↪ Gaiola Velha
 
         ↪ Arma, Diversos.
@@ -12,7 +20,7 @@
 
         ↪ Arma de Duas Mãos, Espada.
 
-        ↪ Aumenta o Ataque em 9.
+        ↪ Aumenta o Ataque em 7.
 
         ↪ O seu terceiro ataque com este item sempre erra.
 
@@ -34,9 +42,7 @@
 
         ↪ Arma de Longo Alcance, Diversos.
 
-        ↪ Pode usar qualquer coisa sólida e pequena como munição.
-
-        ↪ Causa metade do seu ataque, arrendonado para baixo, em até 20 metros de distância.
+        ↪ Causa metade do seu Ataque, arrendonado para baixo, em até 20 metros de distância.
 
         ↪ O dano não pode passar de 10.
     
@@ -48,7 +54,7 @@
     
     ↪ Manto Sujo
 
-        ↪ Costas.
+        ↪ Equipamento, Costas.
 
         ↪ Aumenta a Noção em 2.
 
@@ -64,24 +70,32 @@
     
     ↪ Chapéu do Camponês
 
-        ↪ Elmo.
+        ↪ Equipamento, Elmo.
 
         ↪ Aumenta a Velocidade em 4.
 
-        ↪ No início de cada turno ganhe 1 marcador de Produção.
+        ↪ No início de cada turno ganhe 1 Marcador de Produção.
 
     ↪ Luvas do Lenhador
 
-        ↪ Mãos.
+        ↪ Equipamento, Mãos.
 
-        ↪ Aumenta o Ataque em 1, incrementado para 2 ao usar armas de Corte ou para 3 ao usar Machados.
+        ↪ Aumenta o Ataque em 1, incrementado para 2 ao usar armas de Duas Mãos ou para 3 ao usar Machados.
 
 
 ↪ Resh (Classe 9)
+
+    ↪ Mochila Simples
+
+        ↪ Bolsa.
+
+        ↪ Aumenta o número máximo de Itens no Inventário em 3.
+
+        ↪ Perde 1 ponto de Velocidade para cada Item extra armazenado.
     
     ↪ Colar de Conchas
 
-        ↪ Pescoço.
+        ↪ Equipamento, Pescoço.
 
         ↪ Aumenta a Noção em 4.
 
@@ -89,59 +103,53 @@
     
     ↪ Manto de Folhas
 
-        ↪ Costas.
+        ↪ Equipamento, Costas.
 
-        ↪ Aumenta a Agilidade em 2.
+        ↪ Aumenta a Agilidade em 3.
 
-        ↪ Toda vez que acertar um ataque ou uma Mágia, ganhe 2 marcadores de Agilidade.
+        ↪ Toda vez que acertar um Ataque ou uma Mágia, ganhe 2 Marcadores de Agilidade.
 
     ↪ Adaga do Ladrão
 
         ↪ Arma, Adaga.
 
-        ↪ Aumenta a Agilidade e o Ataque em 6.
+        ↪ Aumenta a Agilidade e o Ataque em 4.
 
     ↪ Elmo Desgastado
 
-        ↪ Elmo.
+        ↪ Equipamento, Elmo.
 
-        ↪ Aumenta a Defesa em 5, incrementado para 15 quando estiver com metade dos pontos de vida.
+        ↪ Aumenta a Defesa em 5, incrementado para 10 quando estiver com metade dos pontos de vida.
 
     ↪ Colete de Couro
 
-        ↪ Torso
+        ↪ Equipamento, Torso
 
-        ↪ Aumenta a Defesa em 5
+        ↪ Aumenta a Defesa em 4
 
-        ↪ Toda vez que sofrer dano mágico que não seja periódico, recebe 3 Marcadores de Noção.
+        ↪ Toda vez que sofrer dano mágico que não seja periódico, recebe 2 Marcadores de Noção.
 
     ↪ Arco de Caçador
 
         ↪ Arma de Longo Alcance, Arco.
 
-        ↪ Aumenta a Força em 2 e a Agilidade em 8.
+        ↪ Aumenta a Força em 2 e a Agilidade em 6.
 
-        ↪ Causa até 15 pontos de dano, em até 30 metros de distância.
-
-    ↪ Flecha Simples
-
-        ↪ Munição, Arco.
-
-        ↪ 4 de Dano Base.
+        ↪ Pode causar um máximo de 15 pontos de dano, em até 30 metros de distância.
 
     ↪ Perneiras de Bronze
 
-        ↪ Pernas.
+        ↪ Equipamento, Pernas.
 
         ↪ Aumenta a Força em 3.
 
-        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 8.
+        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 5.
 
     ↪ Forcado do Fazendeiro 
 
         ↪ Arma de Duas Mãos, Lança.
 
-        ↪ Aumenta o Ataque em 10 e a Vitalidade em 5.
+        ↪ Aumenta o Ataque em 8 e a Vitalidade em 4.
 
         ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
 
@@ -149,34 +157,42 @@
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta o Domínio em 10 e a Maestria em 5.
+        ↪ Aumenta o Domínio e a Maestria em 5.
 
-        ↪ Toda vez que realizar uma mágia do tipo Ofensivo, ganhe 2 Marcadores de Maestria.
+        ↪ Toda vez que realizar uma Mágia do tipo Ofensivo, ganhe 2 Marcadores de Maestria.
 
 
 ↪ Ayin (Classe 8)
 
+    ↪ Bolsa do Alquimista
+
+        ↪ Bolsa.
+
+        ↪ Aumenta o número máximo de Itens no Inventário em 5, porém apenas para Itens do tipo Poção e Elixir.
+
+        ↪ Aumenta o Domínio em 1 para cada Item extra armazenado.
+
     ↪ Conjunto: Armadura de Aço
 
-        ↪ Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte concede 4 Pontos de Força.
+        ↪ Cada parte concede 3 Pontos de Força.
 
         ↪ Conjunto Completo: Acertos Críticos de Ataques Corpo a Corpo e Habilidades com Alcance de Toque causam o Triplo do dano ao invés de em Dobro.
 
     ↪ Conjunto: Uniforme da Academia Violeta
 
-        ↪ Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte concede 2 Pontos de Força e 3 Pontos de Inteligência.
+        ↪ Cada parte concede 1 Pontos de Força e 3 Pontos de Inteligência.
 
         ↪ Conjunto Completo: Acertos Críticos de Mágias tem o seu Custo de Mana Restituído, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
 
     ↪ Conjunto: Traje do Mercenário
 
-        ↪ Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte concede 3 Pontos de Força e 4 Pontos de Agilidade
+        ↪ Cada parte concede 2 Pontos de Força e 4 Pontos de Agilidade
 
         ↪ Conjunto Completo: O primeiro Acerto Crítico em um combate concede um Turno Adicional.
 
@@ -184,7 +200,7 @@
 
         ↪ Arma de Duas Mãos, Lança
 
-        ↪ Aumenta o Ataque em 12, Defesa e Noção em 6.
+        ↪ Aumenta o Ataque em 12, Defesa e Noção em 5.
 
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 2 metros.
 
@@ -192,35 +208,27 @@
 
         ↪ Arma, Machado.
 
-        ↪ Aumenta o Ataque em 7.
+        ↪ Aumenta o Ataque em 6.
 
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 7 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 6 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
 
     ↪ Arco Longo do Franco-atirador
 
         ↪ Arma de Longo Alcance, Arco.
 
-        ↪ Aumenta a Força em 3, a Inteligência em 6 e a Agilidade em 9.
+        ↪ Aumenta a Força em 2, a Inteligência em 4 e a Agilidade em 6.
 
         ↪ Causa até 20 pontos de dano, em até 40 metros de distância.
 
-        ↪ Ataques causados com esta arma adicionam 2 Marcadores de Alcance e Comunicação.
-
-    ↪ Flecha de Ossos
-
-        ↪ Munição, Arco.
-
-        ↪ 6 de Dano Base.
-
-        ↪ Metade do dano causado com essa flecha é metade Físico e metade Mágico.
+        ↪ Ataques causados com esta arma adicionam 3 Marcadores de Alcance e Comunicação.
 
     ↪ Escudo de Prata
 
         ↪ Arma, Escudo.
 
-        ↪ Aumenta a Defesa e Noção em 10.
+        ↪ Aumenta a Defesa e Noção em 8.
 
-        ↪ Aumenta a Maestria em 10 ao usar Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade.
+        ↪ Aumenta a Maestria em 6 ao usar Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade.
 
         ↪ Ao sofrer Dano Mágico não periódico, usa Metade da Defesa como Noção adicional, o mesmo ocorre para Dano Físico, utilizando Metade da Noção como Defesa adicional.
 
@@ -228,58 +236,62 @@
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta a Inteligência em 6.
+        ↪ Aumenta a Inteligência em 5.
 
-        ↪ A Maestria é aumentada em 6 para Mágias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Mágia da escola Ignis.
+        ↪ A Maestria é aumentada em 5 para Mágias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Mágia da escola Ignis.
 
     ↪ Tambor do Xamã
 
         ↪ Arma de Duas Mãos, Diversos.
 
-        ↪ Aumenta a Comunicação em 10 e o Domínio em 10.
+        ↪ Aumenta a Comunicação em 6 e o Domínio em 6.
 
-        ↪ Maestria aumentada em 10 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
+        ↪ Maestria aumentada em 6 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
 
         ↪ No inicio do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
 
 ↪ Samek (Classe 7)
 
+    ↪ Bolso sem Fundo
+
+        ↪ Bolsa, Item Mágico.
+
+        ↪ Aumenta o número máximo de Itens no Inventário em 3.
+
+        ↪ Aumenta 1 número máximo de Itens no Inventário para cada Tipo Principal de Item adicional armazenado (Exemplo: Arma, Equipamento, Poção, Etc).
+
     ↪ Foice da Necrópole Central
 
-        ↪ Aumenta o Ataque em 10, a Força e a Agiliade em 5.
+        ↪ Aumenta o Ataque em 10, a Força e a Agiliade em 4.
 
-        ↪  O Alcance de Ataques Corpo a Corpo e Habilidade com Alcance de Toque é aumentado em 3 metros e aplicam 2 marcadores de Sangramento e Fraqueza.
+        ↪  O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros e aplicam 2 marcadores de Sangramento e Fraqueza.
 
-        ↪ Sempre que realizar um Ataque Básico em um alvo, esse mesmo Ataque também é aplicado em todos inimigos dentro do Atributo de Alcance.
+        ↪ Sempre que realizar um Ataque Básico em um alvo, esse mesmo Ataque também é aplicado em todos inimigos dentro do seu Atributo de Alcance.
 
     ↪ Punhal do Pantano Nevoeiro 
 
         ↪ Arma, Adaga.
 
-        ↪ Aumenta a Força, Agilidade e Inteligência em 5.
+        ↪ Aumenta a Força, Agilidade e Inteligência em 4.
 
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcador de Veneno e 6 Marcadores de Lentidão.
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcador de Veneno e 5 Marcadores de Lentidão.
 
     ↪ Chicote do Antigo Aventureiro
 
         ↪ Arma de Duas Mãos, Diversos.
 
-        ↪ Aumenta a Agilidade em 15.
+        ↪ Aumenta a Agilidade em 10.
 
-        ↪ Alcance de 15 Metros, seus Ataques e Habilidades são considerados Corpo a Corpo tanto quanto de Longo Alcance: O Alcance também pode ser somado pelo seu Atributo, assim como armas de Longo Alcance, e pode ser usados habilidades Corpo a Corpo.
+        ↪ Alcance de 15 Metros, seus Ataques e Habilidades são considerados Corpo a Corpo tanto quanto de Longo Alcance: O Alcance também pode ser somado pelo seu Atributo, assim como armas de Longo Alcance, e também pode ser usados Habilidades com Alcance de Toque, assim como armas Corpo a Corpo.
 
     ↪ Machado do Barbáro
 
         ↪ Arma de Duas Mãos, Machado.
 
-        ↪ Aumenta a Força em 12, Diminui os Pontos de Mana pela metade.
+        ↪ Aumenta a Força em 10, Porém também diminui o Domínio em 5.
 
         ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 3 Marcadores de Força e Fervor.
-
-    ↪ 
-
-        ↪ 
 
     ↪ 
 

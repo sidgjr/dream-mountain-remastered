@@ -2,11 +2,13 @@
 
     ↪ Bandagens Velhas
 
-        ↪ Ganhe 3 Marcadores de Regeneração.
+        ↪ Aplica 3 Marcadores de Regeneração.
 
-    ↪ 
+    ↪ Pedra Pequena
 
-        ↪ 
+        ↪ Munição, Diversos.
+
+        ↪ 2 de Dano Base.
 
     ↪ 
 
@@ -27,13 +29,13 @@
 
         ↪ Poção.
 
-        ↪ Restaure 4 Pontos de Vida e ganhe 4 Marcadores de Regeneração.
+        ↪ Restaura 4 Pontos de Vida e aplica 4 Marcadores de Regeneração.
 
     ↪ Frasco Evenenado
 
         ↪ Elixir.
 
-        ↪ Ganhe 5 Marcadores de Veneno.
+        ↪ Aplica 4 Marcadores de Veneno.
 
     ↪ Frasco Sáfira
 
@@ -45,7 +47,40 @@
 
         ↪ Elixir.
 
-        ↪ Ganhe 5 Marcadores de Sono.
+        ↪ Aplica 5 Marcadores de Sono.
+
+    ↪ Flecha Simples
+
+        ↪ Munição, Arco.
+
+        ↪ 3 de Dano Base.
+
+
+↪ Ayin (Classe 8)
+
+    ↪ Tônico Carmesim
+
+        ↪ Poção.
+
+        ↪ Restaura 20 Pontos de Vida, aplicando 3 Marcadores de Sangramento.
+
+    ↪ Bomba de Fumaça
+
+        ↪ Armadilha
+
+        ↪ Aplica em uma área baseada no atributo de Alcance, 4 Marcadores de Esquiva e Fraqueza em todos as unidades inimigas acertadas.
+
+    ↪ Flecha de Ossos
+
+        ↪ Munição, Arco.
+
+        ↪ 5 de Dano Base.
+
+        ↪ O dano causado com essa flecha é metade Físico e metade Mágico.
+
+    ↪ 
+
+        ↪ 
 
     ↪ Maleta de Primeiros-Scorros
 
@@ -54,74 +89,13 @@
         ↪ Aplica uma Dissipação completa para os marcadores negativos "Não-Debilitante" (Lentidão, Veneno, Fraqueza, Sangramento).
 
 
-↪ Ayin (Classe 8)
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-
 ↪ Samek (Classe 7)
 
-    ↪ 
+    ↪ Flechas Explosivas
 
-        ↪ 
+        ↪ Munição, Arco.
 
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
+        ↪ 6 de Dano Base, causando mais um 1d6 em de Dano do tipo Fogo em uma área ao redor do alvo igual a metade do seu atributo de Alcance.
 
     ↪ 
 
@@ -142,29 +116,11 @@
 
 ↪ Kaph (Classe 6)
 
-    ↪ 
+    ↪ Explosivo Rudimentar
 
-        ↪ 
+        ↪ Armadilha.
 
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
+        ↪ Causa 2d20 na unidade inimiga que entrar em seu raio de Alcance (definido pelo Atributo de seu dono)
 
     ↪ 
 

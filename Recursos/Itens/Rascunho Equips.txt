@@ -1,55 +1,7 @@
-Nível 1 (equipamento básico)
-
-    Chicote (alcance de 2m para toque)
-        +0 de dano
-
-    Machado grande(Toque)
-        +4 de dano, -1 agi
-
-
 Nível 2 (equipamentos de alta qualidade)
-    
-    Poção de cura mediana
-        +6 hp, +1 regen por 3 turnos
-    
-    Set de duraluminio
-        Capacete
-            -2 de dano recebido, previne morte por dano crítico na cabeça 3 vezes, após isso quebra
-        Peitoral
-            -4 de dano recebido
-        Calça
-            -3 de dano recebido
-        Botas
-            -1 de dano recebido
-        Set completo
-            +4 de str
-
-    Espada de invar (toque)
-        +3 de dano, adiciona 2 marcadores de sangramento que causam 2 de dano
-
-    Explosivos
-        30 de dano
-
-    Escudo (uma mão)
-        -5 de dano recebido, -2 agi
-
-    Berserk sword (toque)
-        +6 de dano, -4 agi (str > 10 requerido)
-
-    Adagas de alumínio (toque)
-        + agi/5 em dano
-
-    Bomba de fumaça (instantânea)
-        Reduz drasticamente a taxa de acerto a distância
-
-    Flechas explosivas (munição)
-        5 de dano base
 
     Machado de dois gumes (toque)
         +4 de dano, 1 de dano ao usuário
-
-    Poção de veneno maior (esse foi na maldade msm)
-        Causa 1 de dano, adiciona 4 marcadores de veneno que causam 3 de dano, chance de 3 em 20 de causar stun
 
 Nível 3 (equipamentos mágicos/místicos/únicos)
 

@@ -8,11 +8,11 @@
 
     ↪ Secundário:
 
-        ↪ Ataque: cada 1 ponto corresponde a 1 ponto de dano da unidade.
+        ↪ Ataque: cada 1 ponto corresponde a 1 Ponto de Dano Base da unidade.
 
-        ↪ Defesa: cada 2 pontos correspondem a 1 de dano fisico reduzido sofrido.
+        ↪ Defesa: cada 2 pontos correspondem a 1 de Dano Físico reduzido sofrido.
 
-        ↪ Vitalidade: cada 1 ponto corresponde a 3 pontos de vida máximo.
+        ↪ Vitalidade: cada 1 ponto corresponde a 3 Pontos de Vida Máxima.
 
 ↪ Agilidade
 
@@ -22,9 +22,9 @@
 
         ↪ Velocidade: cada 1 ponto corresponde a 1 metro que a unidade pode percorrer por turno.
 
-        ↪ Alcance: cada 2 pontos correspondem a 1 metro de alcance adicional nas ataques e habilidades (exceto por corpo a corpo).
+        ↪ Alcance: cada 2 pontos correspondem a 1 metro de alcance adicional nos Ataques e Habilidades (exceto por Corpo a Corpo).
 
-        ↪ Comunicação: cada 1 ponto corresponde a 3 metros de distância máxima de unidades controladas por esta.
+        ↪ Comunicação: cada 1 ponto corresponde a 3 metros de Distância Máxima de unidades controladas por esta.
 
 ↪ Inteligência
 
@@ -32,11 +32,11 @@
 
     ↪ Secundário:
 
-        ↪ Maestria: cada 1 ponto corresponde a 1 ponto de dano em habilidades e unidades.
+        ↪ Maestria: cada 1 ponto corresponde a 1 ponto de dano em Habilidades e Unidades.
 
-        ↪ Noção: cada 2 pontos correspondem a 1 de dano mágico reduzido sofrido.
+        ↪ Noção: cada 2 pontos correspondem a 1 de Dano Mágico reduzido sofrido.
 
-        ↪ Domínio: cada 1 ponto corresponde a 4 pontos de mana máxima.
+        ↪ Domínio: cada 1 ponto corresponde a 4 Pontos de Mana máxima.
 
 
 //
