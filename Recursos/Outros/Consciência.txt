@@ -136,7 +136,7 @@
 
     ↪ Neutro (Revida).
 
-    ↪ Territorial (Ataca jogadores que entrarem uma área especifica ou chegarem muito próximos).
+    ↪ Territorial (Ataca jogadores que entrarem uma área específica ou chegarem muito próximos).
 
     ↪ Hostil (Ataca jogadores sempre que possível).
 
