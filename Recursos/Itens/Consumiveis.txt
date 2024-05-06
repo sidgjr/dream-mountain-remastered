@@ -161,7 +161,34 @@
         ↪ 
 
 
-↪ Yod (Classe 5)
+↪ Yod (Classe 5, Itens Mágicos)
+
+    ↪ Punhado de Poeira Mágica
+
+        ↪ Armadilha.
+
+        ↪ Aplica em uma área baseada duas vezes no atributo de Alcance, a Remoção de qualquer efeito de Camuflagem ou Furtividade.
+
+        ↪ Remove até 1d20 de Marcadores de Performance das unidades inimigas atingidas a escolha do usuário (Segurança, Prioridade, Fervor e Atributo).
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Tet (Classe 4, Itens Rúnicos)
 
     ↪ 
 
@@ -204,7 +231,7 @@
         ↪ 
 
 
-↪ Tet (Classe 4)
+↪ Het (Classe 3, Itens Lendários)
 
     ↪ 
 
@@ -247,7 +274,7 @@
         ↪ 
 
 
-↪ Het (Classe 3)
+↪ Zayin (Classe 2, Itens Divinos)
 
     ↪ 
 
@@ -290,50 +317,7 @@
         ↪ 
 
 
-↪ Zayin (Classe 2)
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-
-↪ Aleph (Classe Especial)
+↪ Aleph (Classe Especial, Itens criados na Montanha dos Sonhos)
 
     ↪ 
 

@@ -323,7 +323,7 @@
 
     ↪ Tomo Esquecido
 
-        ↪ Armas, Diversos.
+        ↪ Arma, Diversos.
 
         ↪ Aumenta o Domínio em 10.
 
@@ -360,7 +360,7 @@
 
         ↪ Conjunto Completo: Ganha Maestria e Defesa igual a metade do pontos de Ataque (arredondado para baixo).
 
-    ↪ Conjunto: Kimono do Campeão Clandestino.
+    ↪ Conjunto: Kimono do Campeão Clandestino
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -406,9 +406,9 @@
 
         ↪ Cada parte aumenta a Inteligência, Vitalidade e Comunicação em 4.
 
-        ↪ Conjunto Completo: Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade podem ter um alvo adicional. Caso seja em Área, uma segunda Área também pode ser criada.
+        ↪ Conjunto Completo: Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade podem ter um alvo adicional. Caso seja em Área, o Raio será incrementado seu valor original mais a metade, o mesmo ocorre para Auras.
 
-    ↪ Conjunto: Traje do Diretor de Mágia.
+    ↪ Conjunto: Traje do Diretor de Mágia
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -427,7 +427,133 @@
         ↪ Um quarto do Dano não periódico sofrido é devolvido para a fonte causadora (arredondado para baixo).
 
 
-↪ Yod (Classe 5)
+↪ Yod (Classe 5, Itens Mágicos)
+
+    ↪ Cartola Mágica
+
+        ↪ Bolsa ou Elmo, Item Mágico.
+
+        ↪ Aumenta o número máximo de Itens no Inventário em 10.
+
+        ↪ Pode armazenar também até 5 Unidades ou Estruturas de nível Yod ou inferior em Compartimentos Extras.
+
+    ↪ Pingente Élfico
+
+        ↪ Equipamento Mágico, Pescoço.
+
+        ↪ Reduz 5 de Noção de cada unidade inimiga nesse Combate. Ganha Metade desse valor como Noção (arredondado para baixo).
+
+    ↪ Coroa do Rei de Mármore
+
+        ↪ Equipamento Mágico, Elmo.
+
+        ↪ Aumenta 1 de Força, Agilidade e Inteligência em cada unidade econtrolada e companheiro para cada unidade controlada e companheiro.
+
+    ↪ Rosa dos Quatro Ventos
+
+        ↪ Arma Mágica, Diversos.
+
+        ↪ Aumenta a Velocidade em 20.
+
+        ↪ No inicio do turno o usuário pode escolher entro Norte, Sul, Leste ou Oeste, e se teletransportar para qualquer distância nessa direção. Esse efeito não consome a Ação principal ou a de Movimentação. 
+
+    ↪ Quebra-magos
+
+        ↪ Arma Mágica de Duas Mãos, Lança.
+
+        ↪ Aumenta a Noção em 20.
+
+        ↪ Ao invés de causar Dano com essa Arma, ele causa essa quantia de Dano nos Pontos de Mana do alvo. Toda vez que causar Dano ao ponto de diminuir a Mana para 0, também aplica 1 Marcador de Banimento.
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Tet (Classe 4, Itens Rúnicos)
+
+    ↪ Sabre de Gelo
+
+        ↪ Arma Mágica, Espada.
+
+        ↪ Reduz a Velocidade e o Alcance em 10.
+
+        ↪ Ao invés de causar Dano com essa Arma, ele causa essa quantia de Dano em forma de Marcadores de Fraqueza e Lentidão (podem ser distribuídos da forma que quiser, e no caso de valores impares é arredondado para baixo).
+
+        ↪ Acerto crítico podem causar 2 Marcadores de um efeito Debilitante a escolha do usuário (Cegueira, Desarme, Enraizamento ou Silêncio).
+
+    ↪ Punhal do Eterno Aprendiz
+
+        ↪ Arma Mágica, Adaga.
+
+        ↪ No inicio do turno o usuário pode escolher uma Habilidade ou Mágia que ele Possui. Essa Habilidade ou Mágia fica gravada nesta arma até o fim do Combate, sendo conjurada toda vez que realizar um Ataque Básico, ainda respeitando as condições e custos daquela Habilidade ou Mágia. A conjuração desta Arma não consome a Ação Principal. Acertos críticos do Ataque básico ou da Conjuração permitem a troca da Habilidade ou Mágia gravada.
+
+    ↪ Arco Silvestre
+
+        ↪ Arma Mágica de Longo Alcance, Arco.
+
+        ↪ Esse Arco não usa Munição e nem pode causar Dano.
+
+        ↪ Alcance de até 35 metros de distância.
+
+        ↪ Disparos com esse arco cria uma unidade de nível Ayin ou inferior no alvo acertado. Unidades criadas com essa Arma Mágica duram apenas dois turnos. Acertos Críticos criam unidades de nível Kaph ou inferior. Essas unidades estão sobre o controle do usuário e o turno delas é após o do dono.
+
+    ↪ Grimório Pertubado
+
+        ↪ Arma, Diversos.
+
+        ↪ Aumenta o Domínio em 15.
+
+        ↪ Em combate, no inicio do turno do usuário uma Mágia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Mágias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Mágias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
+
+    ↪ O Machado-que-grita
+
+        ↪ Arma Amaldiçoada de Duas Mãos, Machado.
+
+        ↪ Ao Equipar essa Arma Amaldiçoada é impossível desequipar, a menos que o usuário Descanse, Abata uma unidade ou sofra uma Dissipação Superior.
+
+        ↪ Enquanto equipado o usuário tem um Marcador Infinito de Silêncio (que não pode ser dissipado ou movido).
+
+        ↪ Ataques Básicos causam Dano Mágico do Tipo Sombrio igual a metade dos Pontos de Vidas faltantes do usuário.
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Het (Classe 3, Itens Lendários)
 
     ↪ 
 
@@ -470,7 +596,7 @@
         ↪ 
 
 
-↪ Tet (Classe 4)
+↪ Zayin (Classe 2, Itens Divinos)
 
     ↪ 
 
@@ -513,93 +639,7 @@
         ↪ 
 
 
-↪ Het (Classe 3)
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-
-↪ Zayin (Classe 2)
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-
-↪ Aleph (Classe Especial)
+↪ Aleph (Classe Especial, Itens criados na Montanha dos Sonhos)
 
     ↪ 
 
