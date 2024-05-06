@@ -12,7 +12,7 @@
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta em 5 a Comunicação
+        ↪ Aumenta em 3 a Comunicação.
 
         ↪ Permite poder ter 1 monstro domesticado adicional.
 
@@ -20,7 +20,7 @@
 
         ↪ Arma de Duas Mãos, Espada.
 
-        ↪ Aumenta o Ataque em 7.
+        ↪ Aumenta o Ataque em 6.
 
         ↪ O seu terceiro ataque com este item sempre erra.
 
@@ -30,7 +30,7 @@
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta o Alcance e Maestria em 2 ao usar Mágias do tipo Recuperação.
+        ↪ Aumenta o Alcance e Maestria em 3 ao usar Mágias do tipo Recuperação.
 
     ↪ Machadinha
 
@@ -42,15 +42,15 @@
 
         ↪ Arma de Longo Alcance, Diversos.
 
-        ↪ Causa metade do seu Ataque, arredondado para baixo, em até 15 metros de distância.
+        ↪ Causa metade do seu Ataque, arredondado para baixo, em até 10 metros de distância.
 
-        ↪ O dano não pode passar de 10.
+        ↪ O dano não pode passar de 5.
     
     ↪ Grimório Rasgado
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta o Domínio em 3.
+        ↪ Aumenta o Domínio em 2.
     
     ↪ Manto Sujo
 
@@ -72,7 +72,7 @@
 
         ↪ Equipamento, Elmo.
 
-        ↪ Aumenta a Velocidade em 4.
+        ↪ Aumenta a Velocidade em 3.
 
         ↪ No início de cada turno ganhe 1 Marcador de Produção.
 
@@ -105,7 +105,7 @@
 
         ↪ Equipamento, Costas.
 
-        ↪ Aumenta a Agilidade em 3.
+        ↪ Aumenta a Agilidade em 2.
 
         ↪ Toda vez que acertar um Ataque ou uma Mágia, ganhe 2 Marcadores de Agilidade.
 
@@ -113,43 +113,43 @@
 
         ↪ Arma, Adaga.
 
-        ↪ Aumenta a Agilidade e o Ataque em 4.
+        ↪ Aumenta a Agilidade e o Ataque em 3.
 
     ↪ Elmo Desgastado
 
         ↪ Equipamento, Elmo.
 
-        ↪ Aumenta a Defesa em 5, incrementado para 10 quando estiver com metade dos pontos de vida.
+        ↪ Aumenta a Defesa em 4, incrementado para 8 quando estiver com metade dos pontos de vida.
 
     ↪ Colete de Couro
 
-        ↪ Equipamento, Torso
+        ↪ Equipamento, Torso.
 
-        ↪ Aumenta a Defesa em 4
+        ↪ Aumenta a Defesa em 3.
 
-        ↪ Toda vez que sofrer dano mágico que não seja periódico, recebe 2 Marcadores de Noção.
+        ↪ Toda vez que sofrer Dano Mágico que não seja periódico, recebe 2 Marcadores de Noção.
 
     ↪ Arco de Caçador
 
         ↪ Arma de Longo Alcance, Arco.
 
-        ↪ Aumenta a Força em 2 e a Agilidade em 6.
+        ↪ Aumenta a Força e o Ataque em 1 e a Agilidade em 4.
 
-        ↪ Pode causar um máximo de 15 pontos de dano, em até 20 metros de distância.
+        ↪ Pode causar um máximo de 10 pontos de dano, em até 15 metros de distância.
 
     ↪ Perneiras de Bronze
 
         ↪ Equipamento, Pernas.
 
-        ↪ Aumenta a Força em 3.
+        ↪ Aumenta a Força em 2.
 
-        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 5.
+        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 3.
 
     ↪ Forcado do Fazendeiro 
 
         ↪ Arma de Duas Mãos, Lança.
 
-        ↪ Aumenta o Ataque em 8 e a Vitalidade em 4.
+        ↪ Aumenta o Ataque em 6 e a Vitalidade em 2.
 
         ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
 
@@ -157,7 +157,7 @@
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta o Domínio e a Maestria em 5.
+        ↪ Aumenta o Domínio e a Maestria em 3.
 
         ↪ Toda vez que realizar uma Mágia do tipo Ofensivo, ganhe 2 Marcadores de Maestria.
 
@@ -176,7 +176,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Força em 3.
+        ↪ Cada parte aumenta a Força em 2.
 
         ↪ Conjunto Completo: Acertos Críticos de Ataques Corpo a Corpo e Habilidades com Alcance de Toque causam o Triplo do dano ao invés de em Dobro.
 
@@ -184,7 +184,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Força em 2 e Agilidade em 2.
+        ↪ Cada parte aumenta a Força em 1 e Agilidade em 2.
 
         ↪ Conjunto Completo: O primeiro Acerto Crítico em um combate concede um Turno Adicional.
 
@@ -200,7 +200,7 @@
 
         ↪ Arma de Duas Mãos, Lança
 
-        ↪ Aumenta o Ataque em 12, Defesa e Noção em 5.
+        ↪ Aumenta o Ataque em 8, Defesa e Noção em 3.
 
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 2 metros.
 
@@ -208,17 +208,17 @@
 
         ↪ Arma, Machado.
 
-        ↪ Aumenta o Ataque em 6.
+        ↪ Aumenta o Ataque e Velocidade em 4.
 
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 6 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 4 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
 
     ↪ Arco Longo do Franco-atirador
 
         ↪ Arma de Longo Alcance, Arco.
 
-        ↪ Aumenta a Força em 2, a Inteligência em 4 e a Agilidade em 6.
+        ↪ Aumenta a Agilidade em 5, a Força e Inteligência em 2.
 
-        ↪ Causa até 20 pontos de dano, em até 25 metros de distância.
+        ↪ Causa até 15 pontos de dano, em até 20 metros de distância.
 
         ↪ Ataques causados com esta arma adicionam 3 Marcadores de Alcance e Comunicação.
 
@@ -226,9 +226,9 @@
 
         ↪ Equipamento, Escudo.
 
-        ↪ Aumenta a Defesa e Noção em 8.
+        ↪ Aumenta a Defesa e Noção em 5.
 
-        ↪ Aumenta a Maestria em 6 ao usar Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade.
+        ↪ Aumenta a Maestria em 3 ao usar Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade.
 
         ↪ Ao sofrer Dano Mágico não periódico, usa Metade da Defesa como Noção adicional, o mesmo ocorre para Dano Físico, utilizando Metade da Noção como Defesa adicional.
 
@@ -236,17 +236,17 @@
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta a Inteligência em 5.
+        ↪ Aumenta a Inteligência em 3.
 
-        ↪ A Maestria é aumentada em 5 para Mágias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Mágia da escola Ignis.
+        ↪ A Maestria é aumentada em 3 para Mágias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Mágia da escola Ignis.
 
     ↪ Tambor do Xamã
 
         ↪ Arma de Duas Mãos, Diversos.
 
-        ↪ Aumenta a Comunicação em 6 e o Domínio em 6.
+        ↪ Aumenta a Comunicação em 4 e o Domínio em 4.
 
-        ↪ Maestria aumentada em 6 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
+        ↪ Maestria aumentada em 4 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
 
         ↪ No inicio do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
@@ -257,13 +257,13 @@
 
         ↪ Bolsa, Item Mágico.
 
-        ↪ Aumenta o número máximo de Itens no Inventário em 3.
+        ↪ Aumenta o número máximo de Itens no Inventário em 4.
 
         ↪ Aumenta 1 número máximo de Itens no Inventário para cada Tipo Principal de Item adicional armazenado (Exemplo: Arma, Equipamento, Poção, Etc).
 
     ↪ Foice da Necrópole Central
 
-        ↪ Aumenta o Ataque em 9, a Força e a Agilidade em 4.
+        ↪ Aumenta o Ataque em 7, a Força e a Agilidade em 2.
 
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros e aplicam 2 marcadores de Sangramento e Fraqueza.
 
@@ -273,41 +273,41 @@
 
         ↪ Arma, Adaga.
 
-        ↪ Aumenta a Força, Agilidade e Inteligência em 4.
+        ↪ Aumenta a Força, Agilidade e Inteligência em 3.
 
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcadores de Veneno e 5 Marcadores de Lentidão.
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque aplica 3 Marcadores de Veneno e 4 Marcadores de Lentidão.
 
     ↪ Chicote do Antigo Aventureiro
 
         ↪ Arma de Duas Mãos, Diversos.
 
-        ↪ Aumenta a Agilidade em 10.
+        ↪ Aumenta a Agilidade em 7.
 
-        ↪ Alcance de 15 Metros, seus Ataques e Habilidades são considerados Corpo a Corpo tanto quanto de Longo Alcance: O Alcance também pode ser somado pelo seu Atributo, assim como armas de Longo Alcance, e também pode ser usados Habilidades com Alcance de Toque, assim como armas Corpo a Corpo.
+        ↪ Alcance de 14 Metros, seus Ataques e Habilidades são considerados Corpo a Corpo tanto quanto de Longo Alcance: O Alcance também pode ser somado pelo seu Atributo, assim como armas de Longo Alcance, e também pode ser usados Habilidades com Alcance de Toque, assim como armas Corpo a Corpo.
 
     ↪ Machado do Barbáro
 
         ↪ Arma de Duas Mãos, Machado.
 
-        ↪ Aumenta a Força em 12, Porém também diminui o Domínio em 5.
+        ↪ Aumenta a Força em 8, Porém também diminui o Domínio em 4.
 
-        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 3 Marcadores de Força e Fervor.
+        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Força e Fervor.
 
     ↪ Báculo do Afogado
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta a Inteligência em 7 e a Força em 3.
+        ↪ Aumenta a Inteligência em 5 e a Força em 2.
 
-        ↪ Sempre que uma Mágia conjurada por você colocar um Marcador em uma unidade, companheiro ou inimigo, coloque aquela quantia mais 1 Marcador.
+        ↪ Sempre que uma Mágia conjurada por você colocar um Marcador em uma unidade, companheiro ou inimigo, o usuário pode colocar aquela quantia mais 1 Marcador.
 
     ↪ Manto do Liberto
 
         ↪ Equipamento, Costas.
 
-        ↪ Aumenta a Força, Agilidade e Inteligência em 3.
+        ↪ Aumenta a Força, Agilidade e Inteligência em 2.
 
-        ↪ Habilidade: Concede 3 Pontos de Força. Essa habiliade pode ser ativada para alterar esse Pontos para Agilidade, Inteligência ou até Força de volta.
+        ↪ Habilidade: Enquanto este item é equipado concede 2 Pontos de Força. Essa habiliade pode ser ativada para alterar esse Pontos para Agilidade, Inteligência ou até Força de volta.
 
     ↪ Garra de Urso
 
@@ -315,19 +315,19 @@
 
         ↪ Mesmo sendo uma arma, ao equipar o usuário ainda é considerado Desarmado.
 
-        ↪ Aumenta a Força e Agilidade em 5.
+        ↪ Aumenta a Força e Agilidade em 4.
 
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 1 metros.
 
-        ↪ A primeira vez que causar Dano em mais de uma unidade inimiga nesse turno, você pode realizar mais um Ataque Básico nesse turno.
+        ↪ A primeira vez que causar Dano não periódico em mais de uma unidade inimiga nesse turno, você pode realizar mais um Ataque Básico nesse turno.
 
     ↪ Tomo Esquecido
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta o Domínio em 10.
+        ↪ Aumenta o Domínio em 5.
 
-        ↪ No início de turno se o usuário estiver com menos da metade dos Pontos de Mana, restaure 1d6 de Pontos de Mana.
+        ↪ No início de turno se o usuário estiver com menos da metade dos Pontos de Mana, restaure 1d4 de Pontos de Mana.
 
     ↪ Besta Anti-Gigantes.
 
@@ -335,9 +335,9 @@
 
         ↪ Pode usar Munição de Arco.
 
-        ↪ Aumenta a Força em 5 e a Agilidade em 10.
+        ↪ Aumenta a Agilidade em 6 e a Força em 5.
 
-        ↪ Causa até um máximo 25 pontos de dano, em até 30 metros de distância.
+        ↪ Causa até um máximo 20 pontos de dano, em até 25 metros de distância.
 
         ↪ Metade do Dano causado com esta arma ignora completamente metade da Defesa e Noção do alvo.
 
@@ -348,7 +348,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Vitalidade, Defesa e Noção em 4.
+        ↪ Cada parte aumenta a Vitalidade, Defesa e Noção em 3.
 
         ↪ Conjunto Completo: Quando uma Unidade Aliada ou Companheiro morrer pela primeira vez no dia, ele é ressuscitado. Os Pontos de Vida atual do alvo é igual Defesa do usuário, o mesmo ocorre para Pontos de Mana e Noção. 
 
@@ -356,7 +356,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Força, Velocidade e Comunicação em 4.
+        ↪ Cada parte aumenta a Força, Velocidade e Comunicação em 3.
 
         ↪ Conjunto Completo: Ganha Maestria e Defesa igual a metade do pontos de Ataque (arredondado para baixo).
 
@@ -372,7 +372,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Agilidade, Defesa e Vitalidade em 3. Ao usar Arma de Longo Alcance também aumenta o Ataque em 2.
+        ↪ Cada parte aumenta a Agilidade, Defesa e Vitalidade em 2. Ao usar Arma de Longo Alcance também aumenta o Ataque em 2.
 
         ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance, unidades controladas por você recebem um aumento de um quinto dos seus Atributos (arredondado para baixo).
 
@@ -380,7 +380,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Agilidade e Ataque em 4, também a Vitalidade, Defesa e Noção em 2.
+        ↪ Cada parte aumenta a Agilidade e Ataque em 3, também a Vitalidade, Defesa e Noção em 2.
 
         ↪ Conjunto Completo: Ganha Ataque e Alcance adicional igual a um quarto da Velocidade (arredondado para baixo).
 
@@ -388,7 +388,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta Agilidade, Maestria e Ataque em 3. Ao Usar Arma de Longo Alcance também aumenta o Alcance em 3.
+        ↪ Cada parte aumenta Agilidade, Maestria e Ataque em 2. Ao Usar Arma de Longo Alcance também aumenta o Alcance e Comunicação em 2.
 
         ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance causa Dano Mágico adicional igual a um quarto da distância do alvo (arredondado para baixo), e também causa dano dobrado em unidades que não sejam racionais (Monstros, Estruturas e etc).
 
@@ -396,7 +396,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Inteligência em 3, e a Força e Agilidade em 2.
+        ↪ Cada parte aumenta a Inteligência em 2, e a Força e Agilidade em 1.
 
         ↪ Conjunto Completo: Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle custam metade dos Pontos de Mana. Mágias da escola de Ignis e Nekro custam apenas um terço (ambos arredondados para baixo).
 
@@ -404,7 +404,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Inteligência, Vitalidade e Comunicação em 4.
+        ↪ Cada parte aumenta a Inteligência, Vitalidade e Comunicação em 3.
 
         ↪ Conjunto Completo: Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade podem ter um alvo adicional. Caso seja em Área, o Raio será incrementado seu valor original mais a metade, o mesmo ocorre para Auras.
 
@@ -412,7 +412,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Inteligência, Domínio e Noção em 5.
+        ↪ Cada parte aumenta a Inteligência, Domínio e Noção em 4.
 
         ↪ Conjunto Completo: Mágias do tipo Defensivo, Mobilidade, Controle, Utilidade e Invocação podem se feitas uma vez fora do turno, assim como Mágias do tipo Interrupção. Nesse efeito essas Mágias também serão consideradas do Tipo Interrupção e só podem ser conjuradas uma vez por combate com essas propriedades adicionais.
 
@@ -420,9 +420,9 @@
 
         ↪ Equipamento, Escudo.
 
-        ↪ Aumenta a Defesa, Noção e Vitalidade em 10.
+        ↪ Aumenta a Defesa, Noção e Vitalidade em 7.
 
-        ↪ Aumenta A Defesa e Noção igual a metade dos Pontos de Vida perdidos. O Limite desse efeito é até de 15.
+        ↪ Aumenta A Defesa e Noção igual a metade dos Pontos de Vida perdidos. O Limite desse efeito é até de 7.
 
         ↪ Um quarto do Dano não periódico sofrido é devolvido para a fonte causadora (arredondado para baixo).
 
@@ -433,9 +433,9 @@
 
         ↪ Bolsa ou Elmo, Item Mágico.
 
-        ↪ Aumenta o número máximo de Itens no Inventário em 10.
+        ↪ Aumenta o número máximo de Itens no Inventário em 8.
 
-        ↪ Pode armazenar também até 5 Unidades ou Estruturas de nível Yod ou inferior em Compartimentos Extras.
+        ↪ Pode armazenar também até 4 Unidades de nível Yod ou inferior como Compartimentos Extras.
 
     ↪ Pingente Élfico
 
@@ -443,17 +443,17 @@
 
         ↪ Reduz 5 de Noção de cada unidade inimiga nesse Combate. Ganha Metade desse valor como Noção (arredondado para baixo).
 
-    ↪ Coroa do Rei de Mármore
+    ↪ Manto do Rei de Basalto
 
-        ↪ Equipamento Mágico, Elmo.
+        ↪ Equipamento Mágico, Costas.
 
-        ↪ Aumenta 1 de Força, Agilidade e Inteligência em cada unidade econtrolada e companheiro para cada unidade controlada e companheiro.
+        ↪ Aumenta 1 de Força, Agilidade e Inteligência em cada unidade aliada ou companheiro de equipe para cada duas unidades aliadas ou companheiros de equipe. Esse efeito não pode ser repetido por outro item idêntico na mesma equipe.
 
     ↪ Rosa dos Quatro Ventos
 
         ↪ Arma Mágica, Diversos.
 
-        ↪ Aumenta a Velocidade em 20.
+        ↪ Aumenta a Velocidade em 10.
 
         ↪ No inicio do turno o usuário pode escolher entro Norte, Sul, Leste ou Oeste, e se teletransportar para qualquer distância nessa direção. Esse efeito não consome a Ação principal ou a de Movimentação. 
 
@@ -461,36 +461,62 @@
 
         ↪ Arma Mágica de Duas Mãos, Lança.
 
-        ↪ Aumenta a Noção em 20.
+        ↪ Aumenta a Noção em 10.
 
         ↪ Ao invés de causar Dano com essa Arma, ele causa essa quantia de Dano nos Pontos de Mana do alvo. Toda vez que causar Dano ao ponto de diminuir a Mana para 0, também aplica 1 Marcador de Banimento.
 
-    ↪ 
+    ↪ Faixa do Sábio
 
-        ↪ 
+        ↪ Equipamento Mágico, Cinto.
 
-    ↪ 
+        ↪ Você não pode sofrer Dano, Marcadores ou Efeitos do mesmo Ataque, Mágia ou Habilidade usado no Turno Anterior daquela unidade (o usuário não precisa ter sido o alvo ou sido atingido).
 
-        ↪ 
+    ↪ Braceletes do Executor
 
-    ↪ 
+        ↪ Equipamento Mágico, Pulsos.
 
-        ↪ 
+        ↪ Acertos Críticos podem causar Acertos Críticos (Até um máximo de multiplicar em 4 o Dano e seus Efeitos)
 
-    ↪ 
+        ↪ Habilidade: Enquanto este item é equipado concede 4 Pontos de Ataque. Essa habiliade pode ser ativada para alterar esse Pontos para Maestria, ou até Ataque de volta.
 
-        ↪ 
+    ↪ Cetro Profano
 
-    ↪ 
+        ↪ Arma Mágica de Duas Mãos, Cajado.
 
-        ↪ 
+        ↪ Aumenta a Vitalidade em 10.
+
+        ↪ Enquanto equipado, unidades inimigas são frequentemente dissipadas de Marcadores de Regeneração, e também só podem restaurar Pontos de Vida igual a metade do valor original da fonte (arredondado para baixo).
+
+    ↪ Diário do Alpinista
+
+        ↪ Arma Mágica, Diversos.
+
+        ↪ Habilidade: Enquanto este item é equipado o Atributo de Alcance é dobrado. Essa habiliade pode ser ativada para alterar esse Atributo dobrado para o de Comunicação, ou até o Alcance de volta.
+
+    ↪ Braceletes do Salvador
+
+        ↪ Equipamento Mágico, Pulsos.
+
+        ↪ Aumenta a Noção e Defesa em 5.
+
+        ↪ Quando uma unidade aliada ou companheiro de equipe realizar um erro crítico, o usuário pode sacrificar metade dos Pontos de Vida atuais para transformar o erro em um acerto crítico (arredondado para baixo). Só pode ocorrer uma vez por aliado.
 
 
 ↪ Tet (Classe 4, Itens Rúnicos)
 
+    ↪ Lâmina Circense
+
+        ↪ Arma Mágica, Adaga.
+
+        ↪ Aumenta o Ataque e a Velocidade em 4.
+
+        ↪ Sempre que o usuário equipar este item ou troca-lo de mão, pode realizar dois Ataques básicos adicionais neste turno, esse Efeito não consome a Ação Principal ou de Ataque Básico.
+
+        ↪ Ataques Críticos do usuário ao invés de causar duas vezes o Dano, realizam dois Ataques Básicos (incrementado em caso de aumento do valor do Crítico).
+
     ↪ Sabre de Gelo
 
-        ↪ Arma Mágica, Espada.
+        ↪ Arma Rúnica, Espada.
 
         ↪ Reduz a Velocidade e o Alcance em 10.
 
@@ -500,31 +526,31 @@
 
     ↪ Punhal do Eterno Aprendiz
 
-        ↪ Arma Mágica, Adaga.
+        ↪ Arma Rúnica, Adaga.
 
         ↪ No inicio do turno o usuário pode escolher uma Habilidade ou Mágia que ele Possui. Essa Habilidade ou Mágia fica gravada nesta arma até o fim do Combate, sendo conjurada toda vez que realizar um Ataque Básico, ainda respeitando as condições e custos daquela Habilidade ou Mágia. A conjuração desta Arma não consome a Ação Principal. Acertos críticos do Ataque básico ou da Conjuração permitem a troca da Habilidade ou Mágia gravada.
 
     ↪ Arco Silvestre
 
-        ↪ Arma Mágica de Longo Alcance, Arco.
+        ↪ Arma Rúnica de Longo Alcance, Arco.
 
         ↪ Esse Arco não usa Munição e nem pode causar Dano.
 
         ↪ Alcance de até 35 metros de distância.
 
-        ↪ Disparos com esse arco cria uma unidade de nível Ayin ou inferior no alvo acertado. Unidades criadas com essa Arma Mágica duram apenas dois turnos. Acertos Críticos criam unidades de nível Kaph ou inferior. Essas unidades estão sobre o controle do usuário e o turno delas é após o do dono.
+        ↪ Disparos com esse arco cria uma unidade de nível Samek ou inferior no alvo acertado. Unidades criadas com essa Arma Mágica duram apenas dois turnos. Acertos Críticos criam unidades de nível Yod ou inferior. Essas unidades estão sobre o controle do usuário e o turno delas é após o do dono.
 
     ↪ Grimório Pertubado
 
-        ↪ Arma, Diversos.
+        ↪ Arma Rúnica, Diversos.
 
-        ↪ Aumenta o Domínio em 15.
+        ↪ Aumenta o Domínio em 10.
 
         ↪ Em combate, no inicio do turno do usuário uma Mágia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Mágias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Mágias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
 
     ↪ O Machado-que-grita
 
-        ↪ Arma Amaldiçoada de Duas Mãos, Machado.
+        ↪ Arma Rúnica Amaldiçoada de Duas Mãos, Machado.
 
         ↪ Ao Equipar essa Arma Amaldiçoada é impossível desequipar, a menos que o usuário Descanse, Abata uma unidade ou sofra uma Dissipação Superior.
 
@@ -532,25 +558,41 @@
 
         ↪ Ataques Básicos causam Dano Mágico do Tipo Sombrio igual a metade dos Pontos de Vidas faltantes do usuário.
 
-    ↪ 
+    ↪ Gládio dos Dois Tempos
 
-        ↪ 
+        ↪ Arma Rúnica, Espada.
 
-    ↪ 
+        ↪ Habilidades com Alcance de Toque causam Dano Puro adicional igual a metade do seus Custos (Dano Puro ignora qualquer mitigação de dano, seja ela por Atributo, Marcadores ou Efeitos). 
 
-        ↪ 
+        ↪ Causar Dano não periódico no mesmo alvo duas vezes no mesmo turno pode restaurar Pontos de Vida no usuário Igual a um quarto de sua Velocidade. Esse efeito só pode ocorrer duas vezes por alvo e em cada Combate.
 
-    ↪ 
+    ↪ Brasão Anulador
 
-        ↪ 
+        ↪ Equipamento Rúnico, Escudo.
 
-    ↪ 
+        ↪ Aumenta a Vitalidade, Defesa, Noção, Velocidade e Alcance em 5.
 
-        ↪ 
+        ↪ O usuário ao invés de causar Dano neste turno, ele pode aplicar aquela quantia de Dano como marcadores de Remoção. Também funciona em unidades aliadas e companheiros de equipe.
 
-    ↪ 
+        ↪ Se uma unidade inimiga receber Marcadores Positivos, essa unidade recebe metade daqueles Marcadores (arredondado para baixo).
 
-        ↪ 
+    ↪ Varinha do Sanguinomante
+
+        ↪ Arma Rúnica, Diversos.
+
+        ↪ Aumenta o Domínio igual a um terço dos Pontos de Vida perdidos (arredondado para baixo).
+
+        ↪ Toda vez que uma unidade inimiga usar a Ação de Movimentação, aplica Marcadores de Sangramento igual a um quarto da distância percorrida (arredondado para baixo).
+
+        ↪ Toda vez que uma unidade inimiga usar uma Habilidade ou Mágia do Tipo Mobilidade aquela unidade recebe Marcadores de Desgaste igual a um quinto da distância percorrida (arredondado para baixo).
+
+    ↪ Coleira do Domador de Feras.
+
+        ↪ Arma Rúnica, Diversos.
+
+        ↪ Aumenta a Maestria e Comunicação em 6.
+
+        ↪ Habilidade: o usuário pode escolher uma unidade controlada por ele. Aquela unidade recebe Atributos igual aos do usuário.
 
 
 ↪ Het (Classe 3, Itens Lendários)
@@ -559,13 +601,23 @@
 
         ↪ 
 
-    ↪ 
+    ↪ Gaiola do Colecionador
 
-        ↪ 
+        ↪ Arma Lendária de Duas Mãos, Diversos.
 
-    ↪ 
+        ↪ Aumenta o Alcance e Comunicação em 10.
 
-        ↪ 
+        ↪ Ao relizar um Ataque Básico, ao invés disso o usuário pode domesticar uma criatura de classe Het ou inferior. Para caso de classe Zayin é necessário um Acerto Crítico. Só uma criatura por vez pode ser domesticada com esse Efeito.
+
+        ↪ Pode armazenar até uma unidade de qualquer classe, mesmo com o item desequipado (para invocar a criatura armazenada é necessário o item equipado).
+
+    ↪ Égide do Supremo
+
+        ↪ Equipamento Lendária, Escudo.
+
+        ↪ Aumenta a Vitalidade, Defesa e Noção em 10.
+
+        ↪ Ataques Básicos aplicam 2 Marcadores Negativos a escolha do usuário (Lentidão, Veneno, Fraqueza, Sangramento, Cegueira, Desarme, Enraizamento, Silêncio, Sono, Desgaste, Atordoamento, Banimento, Remoção, Medo, Azar ou Polimorfia). Esse Efeito não pode repetir os mesmos Marcadores escolhidos nesse combate.
 
     ↪ 
 
@@ -641,9 +693,15 @@
 
 ↪ Aleph (Classe Especial, Itens criados na Montanha dos Sonhos)
 
-    ↪ 
+    ↪ Mochila Infinita
 
-        ↪ 
+        ↪ Equipamento Abstrato, Bolsa.
+
+        ↪ O usuário não pode sofrer Marcadores de Banimento ou Polimorfia.
+
+        ↪ Aumenta o número máximo de Itens no Inventário para Ilimitado. O mesmo ocorre para armazenar estruturas, unidades e até companheiros de equipe.
+
+        ↪ Para armazenar companheiros de equipe é necessário o consentimento do mesmo e que ele não tenha nenhum Marcador Inutilizante com exceção de Desgaste (Sono, Atordoamento ou Banimento). Esse efeito consome a Ação Principal do usuário. Companheiros de equipe podem sair do armazenamento a qualquer momento durante o turno do usuário.
 
     ↪ 
 
