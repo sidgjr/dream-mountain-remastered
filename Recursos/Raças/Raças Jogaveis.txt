@@ -1,90 +1,90 @@
 ↪ As 5 Raças Primordiais:
 
-	↪ Humano (alta inteligência).
+	↪ Humano (Alta Inteligência)
 
-		↪ Talento (Versátil): Recebe um adicional em todos os atributos, mais um ponto adicional por nível.
+		↪ Talento (Versátil): Recebe 1 Ponto Adicional em todos os Atributos, mais um ponto adicional por nível.
 
 		↪ Talento (Criatividade): habilidades de Suporte, Utilidade e Invocação custam metade dos recursos e pontos de Mana.
 
-		↪ Talento (Barganha): Possuí mais Comunicação com seres racionais.
+		↪ Talento (Barganha): Aumenta Comunicação pela metade com seres racionais como alvos (companheiros de equipe e NPCs).
 
-	↪ Elfo (mobilidade e sabedoria).
+	↪ Elfo (Mobilidade e Sabedoria)
 
-		↪ Talento (Sábio): Recebe mais pontos de mana máximo igual ao Domínio. No começo de turno regenera pontos de mana igual ao alcance adicional.
+		↪ Talento (Sábio): Recebe mais Pontos de Mana máximo igual ao Domínio. No começo de turno restaura Pontos de Mana igual a um quarto do Alcance.
 
-		↪ Talento (Olhar da Mata): Recebe acerto garantido em ataques e habilidades quando no alcance máximo.
+		↪ Talento (Olhar da Mata): Recebe acerto garantido em Ataques Básicos, Mágias e Habilidades quando no alcance máximo.
 
-		↪ Talento (Rastro Silvestre): Acima da metade dos pontos de vida, recebe o dobro de velocidade.
+		↪ Talento (Rastro Silvestre): Acima da metade dos Pontos de Vida, Pode se mover ao dobro da Velocidade, mas apenas para Ação de Movimento.
 
-	↪ Helyr (dano contra alvos vulneraveis).
+	↪ Helyr (Dano contra Alvos Vulneraveis)
 
-		↪ Habilidade (Soberania Primordial): Checa um atributo da unidade alvo, caso o seu seja superior ganha esquiva e acerto crítico contra essa unidade
+		↪ Habilidade (Soberania Primordial): Checa um atributo da unidade alvo, caso o do usuário seja superior ganha 2 de Esquiva e Chance de Acerto Crítico contra essa unidade.
 
-		↪ Talento (Vinha Vil): Pode detectar seres ao seu redor através do solo, usando Alcance.
+		↪ Talento (Vinha Vil): Pode detectar seres ao seu redor através do solo, usando Alcance, revelando unidades com efeitos de Camuflagem ou Invisibilidade.
 
-		↪ Talento (Malevolência): Acertos críticos aumentados contra alvos com marcadores negativos.
+		↪ Talento (Malevolência): Chance de Acertos Críticos aumentados em 1 contra alvos com marcadores negativos.
 
-	↪ Cael (Alto vigor e proteção).
+	↪ Cael (Alta Proteção)
 
 		↪ Talento (Planar Celestial): Evita dano de queda e pode planar de qualquer altura.
 
-		↪ Talento (Penas Blindadas): Resistência aumentada, tem uma chance de anular ataques e habilidades físicas.
+		↪ Talento (Penas Blindadas): Defesa e Noção são aumentadas em 2 pontos a cada Nível.
 
-		↪ Talento (Benção Divina): Dobra a vitalidade, resistência e noção vinda de itens e efeitos.
+		↪ Talento (Benção Divina): Dobra a Resistência e Noção com a fonte de Itens.
 
-	↪ Estilhaço (indisponível)
+	↪ Estilhaço (Indisponível)
 
 
 ↪ Raças Mágicas:
 
-	↪ Hupel (inversão).
+	↪ Hupel (Inversão).
 
-		↪ Talento (Inversão de Corpo): Dano recebido é invertido entre magíco e físico.
+		↪ Talento (Inversão de Corpo): Dano recebido é invertido entre Magíco e Físico.
 
-		↪ Talento (Inversão de Espírito): Regeneração de vida e mana são invertidas.
+		↪ Talento (Inversão de Espírito): Recuperação de Pontos de Vida e Mana são invertidas.
 
 		↪ Habilidade (Inversão de Estado) : Realiza uma conexão com um alvo, invertendo em quem é colocados os marcadores.
 
 		↪ Talento (Atributomorfose): No inicio de combate você permutar seus atributos.
 
-	↪ Nufia (se dividem).
+	↪ Nufia (Multiplicação).
 
-		↪ Habilidade (Divisão): Se divide em 2 clones com metades dos aspectos físicos como tamanho, atributos, secundários e marcadores arrendondados para baixo (não interfere ganho de xp).
+		↪ Habilidade (Divisão): Se divide em 2 clones com metades dos aspectos físicos como Tamanho, Atributos, Secundários e Marcadores arrendondados para baixo (não interfere o ganho de xp).
 
 		↪ Habilidade (Fusão): Une 2 clones em um ser só.
 
 		↪ Talento (Impeto Gêmeo): Uma das copias de Divisão ganha um turno extra (O próximo).
 
-		↪ Talento (Travessura): Possuí uma pequena chance de anular magias.
+		↪ Talento (Travessura): Esquiva aumentada em 2 contra Mágias conjuradas por unidade inimigas.
 
-	↪ Shinui (possuem mais de uma forma).
+	↪ Shinui (Polimorfismo).
 
-		↪ Talento (Memória Genética): Pode armazenar informações de seres.
+		↪ Talento (Memória Genética): Pode armazenar informações de seres. Só é possível armazenar uma espécie por dia.
 
 		↪ Habilidade (Registro): Registra uma espécie que seja aliada na Memória Genética.
 
 		↪ Habilidade (Transformação): Pode se transformar completamente em um ser registrado em Memória Genética.
 
-		↪ Talento (Perda de memória): Abaixo da metade dos pontos de vida, cada dano não periódico sofrido faz perder uma das espécies registradas em Memória Genética de forma aleatória.
+		↪ Talento (Perda de memória): Abaixo da metade dos Pontos de Vida, toda vez que sofrer Dano não periódico faz perder uma das espécies registradas em Memória Genética de forma aleatória.
 
-	↪ Ravari (bons atributos de combate).
+	↪ Ravari (Combate).
 
-		↪ Talento (Mestre das Feras): Começa com um mascote, pode ter mascostes adicionais baseado no nível.
+		↪ Talento (Mestre das Feras): Começa com uma criatura domesticada, pode ter mascostes adicionais baseado no nível do usuário.
 
-		↪ Talento (Conexão Selvagem): Possuí mais Comunicação com criaturas.
+		↪ Talento (Conexão Selvagem): Comunicação aumentada pela metade quando relacionado a Monstros.
 
-		↪ Talento (Barbaridade): Possuem Força e seus secundários aumentados, esses mesmos atributos oferecem o dobro dos seus status, mas inteligência é dividida pela metade.
+		↪ Talento (Barbaridade): Subatributos de Força oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade.
 
-	↪ Kehara (alto vigor).
+	↪ Kehara (Barbáros).
 
-		↪ Talento (Revitalizar): No começo de turno recupera pontos de vida igual ao dano base. Possui mais vitalidade.
+		↪ Talento (Revitalizar): No começo de turno recupera Pontos de Vida igual a metade do dano base. Recebem 3 Pontos de Vitalidade por Nível.
 
-		↪ Talento (Berserk): Abaixo de uma certa quantia de pontos de vida ganha pontos de agilidade e dano adicional a custo da regeneração de Revitalizar.
+		↪ Talento (Berserk): Abaixo de uma certa quantia de pontos de vida ganha Pontos de Agilidade e Ataque adicional ao custo da regeneração de Revitalizar.
 
-		↪ Habilidade (Ataque Ártico): Sacrifica pontos de vida para causar dano igual a metade desse valor arrendondado para baixo.
+		↪ Habilidade (Ataque Ártico): Sacrifica qualquer quantia de Pontos de Vida para causar dano igual a metade desse valor (arrendondado para baixo).
 
 	↪ Nodonte (alto nível de resistência).
 
-		↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do dano físico sofrido. O mesmo se aplica a dano mágico e marcadores de Barreira.
+		↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do Dano Físico sofrido não mitigado. O mesmo se aplica a Dano Mágico e Marcadores de Barreira.
 
-		↪ Habilidade (Forma Ancestral): Ganha Força igual aos marcadores de Armadura, Barreira e Resistência, causando também marcadores de veneno igual a essa quantia nos oponentes que o acertar, porém não pode usar habilidades. Sofre metade dos efeitos negativos.
+		↪ Habilidade (Forma Ancestral): Ganha Força igual a metade aos marcadores de Armadura, Barreira e Resistência (arredondado para baixo), porém o usuário é Silenciado. O usuário só pode sair dessa forma quando descansar ou quando sofrer uma Dissipação Superior (tanto Positiva quanto Negativa).
