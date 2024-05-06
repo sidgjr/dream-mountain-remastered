@@ -1,4 +1,4 @@
-↪ Shin (Classe básica, itens inferiores)
+↪ Shin (Classe básica, Itens Inferiores)
 
     ↪ Bandagens Velhas
 
@@ -39,7 +39,7 @@
         ↪ O primeiro uso deste Item em um turno não consome a Ação Principal.
 
 
-↪ Resh (Classe 9, itens comuns)
+↪ Resh (Classe 9, Itens Comuns)
 
     ↪ Frasco Rubro
 
@@ -72,7 +72,7 @@
         ↪ 3 de Dano Base.
 
 
-↪ Ayin (Classe 8, itens incomuns)
+↪ Ayin (Classe 8, Itens Incomuns)
 
     ↪ Tônico Carmesim
 
@@ -107,7 +107,7 @@
         ↪ Aplica uma Dissipação completa para os marcadores negativos "Não-Debilitante" (Lentidão, Veneno, Fraqueza, Sangramento).
 
 
-↪ Samek (Classe 7, itens raros)
+↪ Samek (Classe 7, Itens Raros)
 
     ↪ Flechas Explosivas
 
@@ -123,26 +123,26 @@
 
         ↪ Inimigos são afastados em uma distância igual ao Raio do efeito.
 
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-
-↪ Kaph (Classe 6, itens mágicos)
-
     ↪ Explosivo Rudimentar
 
         ↪ Armadilha.
 
         ↪ Causa 2d20 de Dano Mágico do Tipo Fogo na unidade inimiga que entrar em seu raio de Alcance (definido pelo Atributo de seu dono)
+
+    ↪ 
+
+        ↪ 
+
+    ↪ 
+
+        ↪ 
+
+
+↪ Kaph (Classe 6, Itens Encantados)
+
+    ↪ 
+
+        ↪ 
 
     ↪ 
 

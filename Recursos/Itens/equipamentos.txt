@@ -1,4 +1,4 @@
-↪ Shin (Classe básica, itens inferiores)
+↪ Shin (Classe básica, Itens Inferiores)
 
     ↪ Sacola Rasgada
 
@@ -42,7 +42,7 @@
 
         ↪ Arma de Longo Alcance, Diversos.
 
-        ↪ Causa metade do seu Ataque, arrendonado para baixo, em até 15 metros de distância.
+        ↪ Causa metade do seu Ataque, arredondado para baixo, em até 15 metros de distância.
 
         ↪ O dano não pode passar de 10.
     
@@ -62,7 +62,7 @@
     
     ↪ Escudo de Tábuas
 
-        ↪ Arma, Escudo.
+        ↪ Equipamento, Escudo.
 
         ↪ Aumenta a Defesa em 3.
 
@@ -83,7 +83,7 @@
         ↪ Aumenta o Ataque em 1, incrementado para 2 ao usar armas de Duas Mãos ou para 3 ao usar Machados.
 
 
-↪ Resh (Classe 9, itens comuns)
+↪ Resh (Classe 9, Itens Comuns)
 
     ↪ Mochila Simples
 
@@ -162,7 +162,7 @@
         ↪ Toda vez que realizar uma Mágia do tipo Ofensivo, ganhe 2 Marcadores de Maestria.
 
 
-↪ Ayin (Classe 8, itens incomuns)
+↪ Ayin (Classe 8, Itens Incomuns)
 
     ↪ Bolsa do Alquimista
 
@@ -176,25 +176,25 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte concede 3 Pontos de Força.
+        ↪ Cada parte aumenta a Força em 3.
 
         ↪ Conjunto Completo: Acertos Críticos de Ataques Corpo a Corpo e Habilidades com Alcance de Toque causam o Triplo do dano ao invés de em Dobro.
-
-    ↪ Conjunto: Uniforme da Academia Violeta
-
-        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
-
-        ↪ Cada parte concede 1 Pontos de Força e 3 Pontos de Inteligência.
-
-        ↪ Conjunto Completo: Acertos Críticos de Mágias tem o seu Custo de Mana Restituído, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
 
     ↪ Conjunto: Traje do Mercenário
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte concede 2 Pontos de Força e 4 Pontos de Agilidade
+        ↪ Cada parte aumenta a Força em 2 e Agilidade em 2.
 
         ↪ Conjunto Completo: O primeiro Acerto Crítico em um combate concede um Turno Adicional.
+
+    ↪ Conjunto: Uniforme da Academia Violeta
+
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Força em 1 e a Inteligência em 2.
+
+        ↪ Conjunto Completo: Acertos Críticos de Mágias tem o seu Custo de Mana Restituído, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
 
     ↪ Lança Imperial
 
@@ -224,7 +224,7 @@
 
     ↪ Escudo de Prata
 
-        ↪ Arma, Escudo.
+        ↪ Equipamento, Escudo.
 
         ↪ Aumenta a Defesa e Noção em 8.
 
@@ -232,7 +232,7 @@
 
         ↪ Ao sofrer Dano Mágico não periódico, usa Metade da Defesa como Noção adicional, o mesmo ocorre para Dano Físico, utilizando Metade da Noção como Defesa adicional.
 
-    ↪ Cetro do Mago de Guerra
+    ↪ Cetro do Incendiário
 
         ↪ Arma de Duas Mãos, Cajado.
 
@@ -251,7 +251,7 @@
         ↪ No inicio do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
 
-↪ Samek (Classe 7, itens raros)
+↪ Samek (Classe 7, Itens Raros)
 
     ↪ Bolso sem Fundo
 
@@ -342,47 +342,89 @@
         ↪ Metade do Dano causado com esta arma ignora completamente metade da Defesa e Noção do alvo.
 
 
-↪ Kaph (Classe 6, itens mágicos)
+↪ Kaph (Classe 6, Itens Encantados)
 
-    ↪ 
+    ↪ Conjunto: Blindagens do Verdadeiro Guardião
 
-        ↪ 
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte aumenta a Vitalidade, Defesa e Noção em 4.
 
-        ↪ 
+        ↪ Conjunto Completo: Quando uma Unidade Aliada ou Companheiro morrer pela primeira vez no dia, ele é ressuscitado. Os Pontos de Vida atual do alvo é igual Defesa do usuário, o mesmo ocorre para Pontos de Mana e Noção. 
 
-    ↪ 
+    ↪ Conjunto: Armadura do Primeiro Gladiador
 
-        ↪ 
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte aumenta a Força, Velocidade e Comunicação em 4.
 
-        ↪ 
+        ↪ Conjunto Completo: Ganha Maestria e Defesa igual a metade do pontos de Ataque (arredondado para baixo).
 
-    ↪ 
+    ↪ Conjunto: Kimono do Campeão Clandestino.
 
-        ↪ 
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte aumenta a Força, Agilidade e Inteligência em 1, incrementado para 3 ao usuário estar Desarmado.
 
-        ↪ 
+        ↪ Conjunto Completo: Enquanto desarmado, ao causar dano em um alvo faz com que a vítima cause um quarto a menos de Dano não periódico em você até o fim do combate (arredondado para baixo).
 
-    ↪ 
+    ↪ Conjunto: Fardagem do Guarda Florestal
 
-        ↪ 
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte aumenta a Agilidade, Defesa e Vitalidade em 3. Ao usar Arma de Longo Alcance também aumenta o Ataque em 2.
 
-        ↪ 
+        ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance, unidades controladas por você recebem um aumento de um quinto dos seus Atributos (arredondado para baixo).
 
-    ↪ 
+    ↪ Conjunto: Vestes do Assassino de Aluguel
 
-        ↪ 
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte aumenta a Agilidade e Ataque em 4, também a Vitalidade, Defesa e Noção em 2.
 
-        ↪ 
+        ↪ Conjunto Completo: Ganha Ataque e Alcance adicional igual a um quarto da Velocidade (arredondado para baixo).
+
+    ↪ Conjunto: Uniforme do Caçador de Dragões
+
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta Agilidade, Maestria e Ataque em 3. Ao Usar Arma de Longo Alcance também aumenta o Alcance em 3.
+
+        ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance causa Dano Mágico adicional igual a um quarto da distância do alvo (arredondado para baixo), e também causa dano dobrado em unidades que não sejam racionais (Monstros, Estruturas e etc).
+
+    ↪ Conjunto: Couraça do Mago de Guerra
+
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Inteligência em 3, e a Força e Agilidade em 2.
+
+        ↪ Conjunto Completo: Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle custam metade dos Pontos de Mana. Mágias da escola de Ignis e Nekro custam apenas um terço (ambos arredondados para baixo).
+
+    ↪ Conjunto: Revestimentos do Sumo Sacerdote
+
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Inteligência, Vitalidade e Comunicação em 4.
+
+        ↪ Conjunto Completo: Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade podem ter um alvo adicional. Caso seja em Área, uma segunda Área também pode ser criada.
+
+    ↪ Conjunto: Traje do Diretor de Mágia.
+
+        ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Inteligência, Domínio e Noção em 5.
+
+        ↪ Conjunto Completo: Mágias do tipo Defensivo, Mobilidade, Controle, Utilidade e Invocação podem se feitas uma vez fora do turno, assim como Mágias do tipo Interrupção. Nesse efeito essas Mágias também serão consideradas do Tipo Interrupção e só podem ser conjuradas uma vez por combate com essas propriedades adicionais.
+
+    ↪ Vanguarda dos Lamentos
+
+        ↪ Equipamento, Escudo.
+
+        ↪ Aumenta a Defesa, Noção e Vitalidade em 10.
+
+        ↪ Aumenta A Defesa e Noção igual a metade dos Pontos de Vida perdidos. O Limite desse efeito é até de 15.
+
+        ↪ Um quarto do Dano não periódico sofrido é devolvido para a fonte causadora (arredondado para baixo).
 
 
 ↪ Yod (Classe 5)
