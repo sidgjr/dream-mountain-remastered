@@ -307,7 +307,7 @@
 
         ↪ Aumenta a Força, Agilidade e Inteligência em 2.
 
-        ↪ Habilidade: Enquanto este item é equipado concede 2 Pontos de Força. Essa habiliade pode ser ativada para alterar esse Pontos para Agilidade, Inteligência ou até Força de volta.
+        ↪ Habilidade: Enquanto este item é equipado concede 2 Pontos de Força. Essa habilidade pode ser ativada para alterar esse Pontos para Agilidade, Inteligência ou até Força de volta.
 
     ↪ Garra de Urso
 
@@ -477,7 +477,7 @@
 
         ↪ Acertos Críticos podem causar Acertos Críticos (Até um máximo de multiplicar em 4 o Dano e seus Efeitos)
 
-        ↪ Habilidade: Enquanto este item é equipado concede 4 Pontos de Ataque. Essa habiliade pode ser ativada para alterar esse Pontos para Maestria, ou até Ataque de volta.
+        ↪ Habilidade: Enquanto este item é equipado concede 4 Pontos de Ataque. Essa habilidade pode ser ativada para alterar esse Pontos para Maestria, ou até Ataque de volta.
 
     ↪ Cetro Profano
 
@@ -491,7 +491,7 @@
 
         ↪ Arma Mágica, Diversos.
 
-        ↪ Habilidade: Enquanto este item é equipado o Atributo de Alcance é dobrado. Essa habiliade pode ser ativada para alterar esse Atributo dobrado para o de Comunicação, ou até o Alcance de volta.
+        ↪ Habilidade: Enquanto este item é equipado o Atributo de Alcance é dobrado. Essa Habilidade pode ser ativada para alterar esse Atributo dobrado para o de Comunicação, ou até o Alcance de volta.
 
     ↪ Braceletes do Salvador
 
@@ -641,9 +641,9 @@
 
         ↪ Causar Dano com essa Arma também aplica 6 Marcadores de Fraqueza, Cegueira e Desgaste.
 
-        ↪ Essa Arma só pode ser desequipado por Dissipação Superior (Postita ou Negativa) e enquanto equipado o usuário não pode restaurar Pontos de Vida e nem ser Ressuscitado.
+        ↪ Essa Arma só pode ser desequipada por Dissipação Verdadeira (Postita ou Negativa) e enquanto equipado o usuário não pode restaurar Pontos de Vida e nem ser Ressuscitado.
 
-        ↪ Habilidade: Abata a unidade alvo. Se o nível do alvo for inferior o usuário perde Pontos de Vida igual a metade dos Pontos de Vida Máxima daquele alvo. Caso o nível seja igual ao superior do usuário a quantia da perda de Pontos de Vida é igual a Vida Máxima do alvo.
+        ↪ Habilidade: Abata a unidade alvo. Se o nível do alvo for inferior o usuário perde Pontos de Vida igual a metade dos Pontos de Vida Máxima daquele alvo. Caso o nível seja igual ou superior do usuário a quantia da perda de Pontos de Vida é igual a Vida Máxima do alvo.
 
     ↪ Carabina do Tecnomago
 
@@ -753,36 +753,84 @@
 
     ↪ Assassina de Deuses
 
-        ↪ 
+        ↪ Arma Abstrata Amaldiçoada de Duas Mãos, Lança.
+
+        ↪ Aumenta o Ataque em 99.
+
+        ↪ Perde todas as Mágias e Habilidades (exceto por talentos).
+
+        ↪ Não pode ser desequipado.
 
     ↪ Arco da Fortuna
 
-        ↪ 
+        ↪ Arma Abstrata de Longo Alcance, Arco.
+
+        ↪ Essa Arma não usa Munição.
+
+        ↪ Aumenta o Ataque e a Velocidade em 20.
+
+        ↪ Alcance de até 99 metros de distância.
+
+        ↪ Enquanto Equipado o Atributo de Alcance não aumenta a distância máxima de Ataques Básicos ou Habilidades utilizando esta Arma.
+
+        ↪ Acertos Críticos contra alvos com Pontos de Vida Inferior a um quarto o abatem. Alvos finalizados dessa forma concedem em sua recopensa um adicional de Moedas de Ouro igual a soma de todos os Atributos do usuário.
 
     ↪ Ego dos Mares Gêmeos
 
-        ↪ 
+        ↪ Arma Abstrata, Espada.
+
+        ↪ Aumenta a Força em 20.
+
+        ↪ Cada Ponto de Força também aumenta 1 Ponto de Domínio.
+
+        ↪ Habilidade: pode invocar Bolha, uma Criatura Abstrata Aquática e Voadora. Bolha é imortal, possui Pontos de Mana infinitos e pode conjurar qualquer Mágia da escola Aqua.
 
     ↪ Ego do Rei Exilado
 
-        ↪ 
+        ↪ Equipamento Abstrato, Costas.
+
+        ↪ Aumenta a Agilidade em 20.
+
+        ↪ Cada Ponto de Agilidade também aumenta 1 Ponto de Ataque.
+
+        ↪ Habilidade: pode invocar o Vorme Real, uma Criatura Abstrata Terrestre. Vorme Real é imortal, seus Ataques Básicos podem destruir até uma Estrutura ou Item de classe Zayin ou inferior do alvo (também causam Dano Físico igual ao Ataque do usuário).
 
     ↪ Ego das Mil Mágias
 
-        ↪ 
+        ↪ Arma Abstrata de Duas Mãos, Cajado Lança.
+
+        ↪ Aumenta a Inteligência em 20.
+
+        ↪ Cada Ponto de Inteligência também aumenta 1 Ponto de Vitalidade.
+
+        ↪ Habilidade: pode invocar Zenith, uma Criatura Abstrata Terrestre e Voadora. Zenith é imortal e faz com que o usuário não possa sofrer Dano de Ataques Básicos ou de Mágias de uma escola que o usuário tenha conjurado no turno anterior.
 
     ↪ Livro da Vida
 
-        ↪ 
+        ↪ Arma Abstrata, Diversos.
+
+        ↪ Equipar esse Item sem utilizar algum Equipamento de Mãos teletransporta o usuário para o Pós-vida Celestial. Desequipar o Item retorna o usuário de volta ao Mundo Material.
+
+        ↪ Habilidade: Aplica no usuário ou em um alvo, aliado ou inimigo, 1 Marcador de Polimorfia permanente. Qualquer raça jogavel ou criatura do Bestiário pode ser escolhida para a mudança. Essa Habilidade pode ser usada novamente para remover o Marcador ou trocar a criatura polimorfada. Essa habilidade também pode ser usada enquanto o próprio usuário estiver polimorfado.
 
     ↪ Livro da Morte
 
-        ↪ 
+        ↪ Arma Abstrata, Diversos.
+
+        ↪ Equipar esse Item sem utilizar algum Equipamento de Mãos teletransporta o usuário para o Pós-vida Infernal. Desequipar o Item retorna o usuário de volta ao Mundo Material.
+
+        ↪ Habilidade: Pode invocar dos mortos até uma unidade, NPC ou companheiro de equipe do Pós-vida. Se essa unidade não for um Jogador ela está sobre o seu controle. A invocação também pode ser de figuras históricas do mundo ou personagens de Campanhas passadas. Só uma invocação diferente pode ser feito no mesmo dia.
 
     ↪ Tomo do Primeiro Magus
 
-        ↪ 
+        ↪ Arma Abstrata, Diversos.
+
+        ↪ O usuário pode escolher uma escola de Mágia. Enquanto o item estiver equipado ele tem conhecimento de todas as Mágias daquela escola, e pode não gastar Pontos de Mana para conjurar essas Mágias.
 
     ↪ Coroa do Herdeiro do Mundo
 
-        ↪ 
+        ↪ Equipamento Abstrato Amaldiçoado, Elmo.
+
+        ↪ Esse Equipamento não pode ser desequipado.
+
+        ↪ O usuário	não pode conjurar Mágias, mas também não pode sofrer Mágias.
