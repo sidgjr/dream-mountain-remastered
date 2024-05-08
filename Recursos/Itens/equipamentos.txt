@@ -6,7 +6,7 @@
 
         ↪ Aumenta o número máximo de Itens no Inventário em 2.
 
-        ↪ Perde 1 ponto de Velocidade e Alcance para cada Item extra armazenado.
+        ↪ Perde 2 ponto de Velocidade e Alcance para cada Item extra armazenado.
 
     ↪ Gaiola Velha
 
@@ -22,9 +22,9 @@
 
         ↪ Aumenta o Ataque em 6.
 
-        ↪ O seu terceiro ataque com este item sempre erra.
+        ↪ O quarto Ataque Básico do usuário com esta Arma sempre erra.
 
-        ↪ Quebra com erro crítico.
+        ↪ Está Arma quebra com Erros Críticos.
 
     ↪ Cajado do Pastor
 
@@ -42,9 +42,9 @@
 
         ↪ Arma de Longo Alcance, Diversos.
 
-        ↪ Causa metade do seu Ataque, arredondado para baixo, em até 10 metros de distância.
+        ↪ Causa metade do seu Ataque, arredondado para baixo, com Alcance Base de 10 metros de distância.
 
-        ↪ O dano não pode passar de 5.
+        ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 5.
     
     ↪ Grimório Rasgado
 
@@ -58,7 +58,7 @@
 
         ↪ Aumenta a Noção em 2.
 
-        ↪ No início de cada turno ganhe 1 marcador de Esquiva.
+        ↪ Aumenta a Esquiva em 1.
     
     ↪ Escudo de Tábuas
 
@@ -66,21 +66,21 @@
 
         ↪ Aumenta a Defesa em 3.
 
-        ↪ No início de cada turno ganhe 1 marcador de Armadura.
+        ↪ Reduz o Dano não periódico sofrido em 1.
     
     ↪ Chapéu do Camponês
 
         ↪ Equipamento, Elmo.
 
-        ↪ Aumenta a Velocidade em 3.
+        ↪ Aumenta a Velocidade em 2.
 
-        ↪ No início de cada turno ganhe 1 Marcador de Produção.
+        ↪ Aumenta a Produção e Saque em 1.
 
     ↪ Luvas do Lenhador
 
         ↪ Equipamento, Mãos.
 
-        ↪ Aumenta o Ataque em 1, incrementado para 2 ao usar armas de Duas Mãos ou para 3 ao usar Machados.
+        ↪ Aumenta o Ataque em 1, incrementado para 3 ao usar armas de Duas Mãos.
 
 
 ↪ Resh (Classe 9, Itens Comuns)
@@ -91,7 +91,7 @@
 
         ↪ Aumenta o número máximo de Itens no Inventário em 3.
 
-        ↪ Perde 1 ponto de Velocidade para cada Item extra armazenado.
+        ↪ Perde 1 ponto de Velocidade e Alcance para cada Item extra armazenado.
     
     ↪ Colar de Conchas
 
@@ -99,7 +99,7 @@
 
         ↪ Aumenta a Noção em 4.
 
-        ↪ Toda vez que conjurar uma Mágia, restaure 1 ponto de vida.
+        ↪ Toda vez que o usuário conjurar uma Mágia, ele restaura 1 Ponto de Vida.
     
     ↪ Manto de Folhas
 
@@ -113,7 +113,7 @@
 
         ↪ Arma, Adaga.
 
-        ↪ Aumenta a Agilidade e o Ataque em 3.
+        ↪ Aumenta a Agilidade em 2 e o Ataque em 3.
 
     ↪ Elmo Desgastado
 
@@ -127,21 +127,21 @@
 
         ↪ Aumenta a Defesa em 3.
 
-        ↪ Toda vez que sofrer Dano Mágico que não seja periódico, recebe 2 Marcadores de Noção.
+        ↪ Toda vez que sofrer Dano Mágico que não seja periódico, recebe 2 Marcadores de Barreira.
 
-    ↪ Arco de Caçador
+    ↪ Arco do Caçador
 
         ↪ Arma de Longo Alcance, Arco.
 
-        ↪ Aumenta a Força e o Ataque em 1 e a Agilidade em 4.
+        ↪ Aumenta a Força e o Ataque em 1, além da Agilidade em 4.
 
-        ↪ Pode causar um máximo de 10 pontos de dano, em até 15 metros de distância.
+        ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 10, com Alcance Básico 15 metros de distância.
 
     ↪ Perneiras de Bronze
 
         ↪ Equipamento, Pernas.
 
-        ↪ Aumenta a Força em 2.
+        ↪ Aumenta a Força em 3.
 
         ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 3.
 
@@ -149,9 +149,9 @@
 
         ↪ Arma de Duas Mãos, Lança.
 
-        ↪ Aumenta o Ataque em 6 e a Vitalidade em 2.
+        ↪ Aumenta o Ataque em 6 e a Vitalidade em 3.
 
-        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
+        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte, Saque e Produção.
 
     ↪ Grimório do Bruxo Aprendiz
 
@@ -159,7 +159,7 @@
 
         ↪ Aumenta o Domínio e a Maestria em 3.
 
-        ↪ Toda vez que realizar uma Mágia do tipo Ofensivo, ganhe 2 Marcadores de Maestria.
+        ↪ Toda vez que realizar uma Mágia do Tipo Ofensivo, Defensivo ou Recupera, ganhe 2 Marcadores de Maestria.
 
 
 ↪ Ayin (Classe 8, Itens Incomuns)
@@ -194,13 +194,13 @@
 
         ↪ Cada parte aumenta a Força em 1 e a Inteligência em 2.
 
-        ↪ Conjunto Completo: Acertos Críticos de Mágias tem o seu Custo de Mana Restituído, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
+        ↪ Conjunto Completo: Acertos Críticos de Mágias tem o seu Custo de Mana restituídos, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
 
     ↪ Lança Imperial
 
         ↪ Arma de Duas Mãos, Lança
 
-        ↪ Aumenta o Ataque em 8, Defesa e Noção em 3.
+        ↪ Aumenta o Ataque em 7, além da Defesa e Noção em 3.
 
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 2 metros.
 
@@ -210,7 +210,7 @@
 
         ↪ Aumenta o Ataque e Velocidade em 4.
 
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 4 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 5 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
 
     ↪ Arco Longo do Franco-atirador
 
@@ -218,9 +218,9 @@
 
         ↪ Aumenta a Agilidade em 5, a Força e Inteligência em 2.
 
-        ↪ Causa até 15 pontos de dano, em até 20 metros de distância.
+        ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 15, com Alcance Básico 20 metros de distância.
 
-        ↪ Ataques causados com esta arma adicionam 3 Marcadores de Alcance e Comunicação.
+        ↪ Ataques Básicos causados com esta arma adicionam 3 Marcadores de Alcance e Comunicação.
 
     ↪ Escudo de Prata
 
@@ -248,7 +248,7 @@
 
         ↪ Maestria aumentada em 4 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
 
-        ↪ No inicio do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
+        ↪ No início do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
 
 ↪ Samek (Classe 7, Itens Raros)
@@ -263,9 +263,11 @@
 
     ↪ Foice da Necrópole Central
 
-        ↪ Aumenta o Ataque em 7, a Força e a Agilidade em 2.
+        ↪ Arma de Duas Mãos, Diversos.
 
-        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros e aplicam 2 marcadores de Sangramento e Fraqueza.
+        ↪ Aumenta o Ataque em 7, a Força e a Agilidade em 3.
+
+        ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros e aplicam 2 Marcadores de Sangramento e Fraqueza.
 
         ↪ Sempre que realizar um Ataque Básico em um alvo, esse mesmo Ataque também é aplicado em todos inimigos dentro do seu Atributo de Alcance.
 
@@ -297,7 +299,7 @@
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta a Inteligência em 5 e a Força em 2.
+        ↪ Aumenta a Inteligência em 4 e a Força em 2.
 
         ↪ Sempre que uma Mágia conjurada por você colocar um Marcador em uma unidade, companheiro ou inimigo, o usuário pode colocar aquela quantia mais 1 Marcador.
 
@@ -305,7 +307,7 @@
 
         ↪ Equipamento, Costas.
 
-        ↪ Aumenta a Força, Agilidade e Inteligência em 2.
+        ↪ Aumenta a Força, Agilidade e Inteligência em 1.
 
         ↪ Habilidade: Enquanto este item é equipado concede 2 Pontos de Força. Essa habilidade pode ser ativada para alterar esse Pontos para Agilidade, Inteligência ou até Força de volta.
 
@@ -325,7 +327,7 @@
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta o Domínio em 5.
+        ↪ Aumenta o Domínio em 6.
 
         ↪ No início de turno se o usuário estiver com menos da metade dos Pontos de Mana, restaure 1d4 de Pontos de Mana.
 
@@ -335,11 +337,11 @@
 
         ↪ Pode usar Munição de Arco.
 
-        ↪ Aumenta a Agilidade em 6 e a Força em 5.
+        ↪ Aumenta a Agilidade em 6 e a Força em 4.
 
-        ↪ Causa até um máximo 20 pontos de dano, em até 25 metros de distância.
+        ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 20, com Alcance Básico 25 metros de distância.
 
-        ↪ Metade do Dano causado com esta Arma ignora completamente um quarto da Defesa e Noção do alvo (arredondado para baixo).
+        ↪ Dano Causado com esta Arma ignora um quarto da Defesa e Noção do alvo (arredondado para baixo).
 
 
 ↪ Kaph (Classe 6, Itens Encantados)
@@ -364,7 +366,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Força, Agilidade e Inteligência em 1, incrementado para 3 ao usuário estar Desarmado.
+        ↪ Cada parte aumenta a Força, Agilidade e Inteligência em 1, incrementado para 2 ao usuário estar Desarmado.
 
         ↪ Conjunto Completo: Enquanto desarmado, ao causar dano em um alvo faz com que a vítima cause um quarto a menos de Dano não periódico em você até o fim do combate (arredondado para baixo).
 
@@ -380,7 +382,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Agilidade e Ataque em 3, também a Vitalidade, Defesa e Noção em 2.
+        ↪ Cada parte aumenta a Agilidade e Ataque em 2, também a Vitalidade, Defesa e Noção em 2.
 
         ↪ Conjunto Completo: Ganha Ataque e Alcance adicional igual a um quarto da Velocidade (arredondado para baixo).
 
@@ -388,19 +390,19 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta Agilidade, Maestria e Ataque em 2. Ao Usar Arma de Longo Alcance também aumenta o Alcance e Comunicação em 2.
+        ↪ Cada parte aumenta Agilidade, Maestria e Ataque em 2. Ao Usar Arma de Longo Alcance também aumenta o Alcance e Velocidade em 2.
 
-        ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance causa Dano Mágico adicional igual a um quarto da distância do alvo (arredondado para baixo), e também causa dano dobrado em unidades que não sejam racionais (Monstros, Estruturas e etc).
+        ↪ Conjunto Completo: Ao utilizar Arma de Longo Alcance causa Dano Mágico adicional do Tipo Fogo igual a um quarto da distância do alvo (arredondado para baixo), e também causa dano dobrado em unidades que não sejam racionais (Monstros, Estruturas e etc).
 
-    ↪ Conjunto: Couraça do Mago de Guerra
+    ↪ Conjunto: Armação do Mago de Guerra
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Inteligência em 2, e a Força e Agilidade em 1.
+        ↪ Cada parte aumenta a Inteligência em 3, além da Força em 2.
 
         ↪ Conjunto Completo: Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle custam metade dos Pontos de Mana. Mágias da escola de Ignis e Nekro custam apenas um terço (ambos arredondados para baixo).
 
-    ↪ Conjunto: Revestimentos do Sumo Sacerdote
+    ↪ Conjunto: Revestimento do Sumo Sacerdote
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -441,13 +443,13 @@
 
         ↪ Equipamento Mágico, Pescoço.
 
-        ↪ Reduz 5 de Noção de cada unidade inimiga nesse Combate. Ganha Metade desse valor como Noção (arredondado para baixo).
+        ↪ Reduz 4 de Noção de cada unidade inimiga nesse Combate. Ganha Metade desse valor como Noção.
 
     ↪ Manto do Rei de Basalto
 
         ↪ Equipamento Mágico, Costas.
 
-        ↪ Aumenta 1 de Força, Agilidade e Inteligência em cada unidade aliada ou companheiro de equipe para cada duas unidades aliadas ou companheiros de equipe. Esse efeito não pode ser repetido por outro item idêntico na mesma equipe.
+        ↪ Aumenta 1 de Força, Agilidade e Inteligência em cada unidade aliada ou companheiro de equipe para cada duas unidades aliadas ou companheiros de equipe. Esse efeito não pode ser repetido por outro Equipamento idêntico na mesma equipe.
 
     ↪ Rosa dos Quatro Ventos
 
@@ -455,7 +457,7 @@
 
         ↪ Aumenta a Velocidade em 10.
 
-        ↪ No inicio do turno o usuário pode escolher entro Norte, Sul, Leste ou Oeste, e se teletransportar para qualquer distância nessa direção. Esse efeito não consome a Ação principal ou a de Movimentação. 
+        ↪ No início do turno o usuário pode escolher entro Norte, Sul, Leste ou Oeste, e se teletransportar para qualquer distância nessa direção. Esse efeito não consome a Ação principal ou a de Movimentação. 
 
     ↪ Quebra-magos
 
@@ -469,13 +471,13 @@
 
         ↪ Equipamento Mágico, Cinto.
 
-        ↪ Você não pode sofrer Dano, Marcadores ou Efeitos do mesmo Ataque, Mágia ou Habilidade usado no Turno Anterior daquela unidade (o usuário não precisa ter sido o alvo ou sido atingido).
+        ↪ Você não pode sofrer Dano, Marcadores ou Efeitos do mesmo Ataque, Mágia ou Habilidade usado no Turno Anterior daquela unidade (o usuário não precisa ter sido o alvo ou atingido).
 
     ↪ Braceletes do Executor
 
         ↪ Equipamento Mágico, Pulsos.
 
-        ↪ Acertos Críticos podem causar Acertos Críticos (Até um máximo de multiplicar em 4 o Dano e seus Efeitos)
+        ↪ Acertos Críticos podem causar Acertos Críticos (Até um máximo de multiplicar em 4 o Dano e seus Efeitos, necessitando de uma segunda rolagem de Dados)
 
         ↪ Habilidade: Enquanto este item é equipado concede 4 Pontos de Ataque. Essa habilidade pode ser ativada para alterar esse Pontos para Maestria, ou até Ataque de volta.
 
@@ -508,7 +510,7 @@
 
         ↪ Arma Mágica, Adaga.
 
-        ↪ Aumenta o Ataque e a Velocidade em 4.
+        ↪ Aumenta o Ataque, Velocidade e Noção em 5.
 
         ↪ Sempre que o usuário equipar este item ou troca-lo de mão, pode realizar dois Ataques básicos adicionais neste turno, esse Efeito não consome a Ação Principal ou de Ataque Básico.
 
@@ -528,11 +530,15 @@
 
         ↪ Arma Rúnica, Adaga.
 
-        ↪ No inicio do turno o usuário pode escolher uma Habilidade ou Mágia que ele Possui. Essa Habilidade ou Mágia fica gravada nesta arma até o fim do Combate, sendo conjurada toda vez que realizar um Ataque Básico, ainda respeitando as condições e custos daquela Habilidade ou Mágia. A conjuração desta Arma não consome a Ação Principal. Acertos críticos do Ataque básico ou da Conjuração permitem a troca da Habilidade ou Mágia gravada.
+        ↪ Aumenta a Maestria em 6.
+
+        ↪ No início do turno o usuário pode escolher uma Habilidade ou Mágia que ele Possui. Essa Habilidade ou Mágia fica gravada nesta arma até o fim do Combate, sendo conjurada toda vez que realizar um Ataque Básico, ainda respeitando as condições e custos daquela Habilidade ou Mágia. A conjuração desta Arma não consome a Ação Principal. Acertos críticos do Ataque básico ou da Conjuração permitem a troca da Habilidade ou Mágia gravada.
 
     ↪ Arco Silvestre
 
         ↪ Arma Rúnica de Longo Alcance, Arco.
+
+        ↪ Aumenta a Agilidade em 10.
 
         ↪ Esse Arco não usa Munição e nem pode causar Dano.
 
@@ -546,7 +552,7 @@
 
         ↪ Aumenta o Domínio em 10.
 
-        ↪ Em combate, no inicio do turno do usuário uma Mágia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Mágias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Mágias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
+        ↪ Em combate, no início do turno do usuário uma Mágia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Mágias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Mágias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
 
     ↪ O Machado-que-grita
 
@@ -562,9 +568,11 @@
 
         ↪ Arma Rúnica, Espada.
 
+        ↪ Aumenta a Velocidade e o Alcance em 7.
+
         ↪ Habilidades com Alcance de Toque causam Dano Puro adicional igual a metade do seus Custos (Dano Puro ignora qualquer mitigação de dano, seja ela por Atributo, Marcadores ou Efeitos). 
 
-        ↪ Causar Dano não periódico no mesmo alvo duas vezes no mesmo turno pode restaurar Pontos de Vida no usuário Igual a um quarto de sua Velocidade. Esse efeito só pode ocorrer duas vezes por alvo e em cada Combate.
+        ↪ Causar Dano não periódico no mesmo alvo duas vezes no mesmo turno pode restaurar Pontos de Vida no usuário Igual a um quarto de sua Velocidade. Esse efeito só pode ocorrer duas vezes por alvo em cada Combate.
 
     ↪ Brasão Anulador
 
@@ -597,7 +605,7 @@
 
 ↪ Het (Classe 3, Itens Lendários)
 
-    ↪ Bolsos do Arquiteto de Reinos
+    ↪ Bolso do Arquiteto de Reinos
 
         ↪ Equipamento Lendário, Bolsa.
 
@@ -649,7 +657,7 @@
 
         ↪ Arma Lendária de Longo Alcance, Unidade, Diversos.
 
-        ↪ Aumenta a Inteligência em 5 e a Agilidade em 15.
+        ↪ Aumenta a Inteligência em 5 e a Agilidade em 10.
 
         ↪ Essa Arma não usa Munição e tem o Dano Base de 10.
 
@@ -661,7 +669,7 @@
 
         ↪ Arma Lendária de Duas Mãos, Cajado.
 
-        ↪ Aumenta a Maestria e Noção em 15.
+        ↪ Aumenta a Maestria, Noção e Comunicação em 10.
 
         ↪ A primeira vez que o usuário sofrer uma Mágia especifíca ela é anulada. Esse efeito só pode ocorrer uma vez por Mágia, reiniciando no descanso (fim de Sessão).
 
@@ -669,9 +677,9 @@
 
         ↪ Arma Lendária de Duas Mãos, Diversos
 
-        ↪ Aumenta o Domínio e Comunicação em 15.
+        ↪ Aumenta o Domínio e Comunicação em 10.
 
-        ↪ Aumenta a Maestria em 15 em Mágias do Tipo Defensivo, Recuperação, Utilidade e Invocação.
+        ↪ Aumenta a Maestria em 10 em Mágias do Tipo Defensivo, Recuperação, Utilidade e Invocação.
 
         ↪ No fim de cada turno do usuário, até um companheiro de equipe, unidade aliada ou inimiga pode sofrer uma Dissipação Média (Positiva ou Negativa, a escolha do usuário). Caso o usuário tenha realizado um Acerto Crítico nesse turno a Dissipação será do Tipo Superior.
 
@@ -679,9 +687,9 @@
 
         ↪ Arma Lendária, Espada.
 
-        ↪ Aumenta o Ataque em 7, a Defesa em 14 e a Velocidade em 21.
+        ↪ Aumenta o Ataque em 5, a Defesa em 10 e a Velocidade em 15.
 
-        ↪ Ataques Básicos não podem errar, e caso realizem Acertos Críticos Defesa do alvo é completamente ignorada (o mesmo ocorre para mitigação de Efeitos e Marcadores).
+        ↪ Ataques Básicos não podem errar, e caso realizem Acertos Críticos a Defesa do alvo é completamente ignorada (o mesmo ocorre para mitigação de Efeitos e Marcadores).
 
     ↪ Mandíbula Dracónica
 
@@ -689,7 +697,7 @@
 
         ↪ Mesmo sendo uma arma, ao equipar o usuário ainda é considerado Desarmado.
 
-        ↪ Aumenta a Força e Agilidade em 9.
+        ↪ Aumenta a Força e Agilidade em 7.
 
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 3 metros.
 
@@ -698,45 +706,95 @@
 
 ↪ Zayin (Classe 2, Itens Divinos)
 
-    ↪ 
+    ↪ Conjunto: Herança do Deus dos Protegidos
 
-        ↪ 
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Cael.
 
-    ↪ 
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ 
+        ↪ Cada parte aumenta a Vitalidade, Defesa, Noção e Velocidade em 5.
 
-    ↪ 
+        ↪ Conjunto Completo: No início do Combate o usuário pode escolher uma unidade aliada ou companheiro de equipe. Aquele aliado não pode sofrer Dano, Marcadores ou Efeitos Negativos enquanto o usuário estiver vivo ou sem Marcadores Negativos Superior ou Verdadeiro.
 
-        ↪ 
+    ↪ Conjunto: Herança do Deus das Armas
 
-    ↪ 
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Kehara.
 
-        ↪ 
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte aumenta a Força, Velocidade e Noção em 5.
 
-        ↪ 
+        ↪ Conjunto Completo: o usuário pode usar uma Arma de Duas Mãos em cada Mão, e também não pode sofrer Marcadores de Desarme ou Silêncio.
 
-    ↪ 
+    ↪ Conjunto: Herança do Deus dos Duelos
 
-        ↪ 
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Nodonte.
 
-    ↪ 
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ 
+        ↪ Cada parte aumenta a Força, Agilidade e Inteligência em 2, incrementado para 4 ao usuário estar Desarmado.
 
-    ↪ 
+        ↪ Conjunto Completo: No início do turno o usuário pode escolher um inimigo para iniciar um Duelo, esse efeito só pode ser iniciar se o usuário e o alvo não estiverem em um Duelo. O usuário e a unidade não podem sofrer Nada de outros fora do Duelo, até ser finalizado com uma Vitória entre os combatentes.
 
-        ↪ 
+    ↪ Conjunto: Herança do Deus das Feras
 
-    ↪ 
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Ravari (Mamífero).
 
-        ↪ 
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-    ↪ 
+        ↪ Cada parte aumenta Agilidade em 6 e a Força em 3. 
 
-        ↪ 
+        ↪ Conjunto Completo: Unidades controladas pelo usuário possuem um turno extra no começo do Combate, também não podendo sofrer Marcadores Negativos a menos que o usuário tenha os mesmos Marcadores.
+
+    ↪ Conjunto: Herança do Deus dos Venenos
+
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Ravari (Réptil).
+
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta Agilidade, Ataque e Maestria em 5.
+
+        ↪ Conjunto Completo: Um quarto do Dano não periódico causado pelo usuário é aplicado como Marcadores de Veneno. Marcadores de Veneno em inimigos não podem ser evitados por Efeitos, Itens, Mágias ou Habilidades, também precisando de uma Dissipação Superior ao invés de Fraca para serem removidos.
+
+    ↪ Conjunto: Herança do Deus das Riquezas
+
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Humano.
+
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Agilidade, Velocidade e o Alcance em 5.
+
+        ↪ Conjunto Completo: Toda vez que o usuário sofrer Dano não periódico, um quarto daquele Dano é mitigado e convertido para Moedas de Ouro.
+
+    ↪ Conjunto: Herança do Deus dos Feitiços
+
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Elfo.
+
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Inteligência, Comunicação e o Alcance em 5.
+
+        ↪ Conjunto Completo: o usuário tem conhecimento de Mágias de todas as unidades inimigas, e pode conjurar como se fossem suas, ainda respeitando os Custos e Condições.
+
+    ↪ Conjunto: Herança do Deus dos Milagres
+
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Cael.
+
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta a Vitalidade e o Domínio em 8.
+
+        ↪ Conjunto Completo: Mágias do Tipo Defensivo, Recuperação, Utilidade e Invocação com alvos únicos podem ser repetidas para quantos alvos o usuário escolher (ainda respeitando o Alcance). O mesmo ocorre para Área e Local que ganham raio Ilimitado, além de Mágias de Invocação que as unidades criadas são duplicadas.
+
+    ↪ Conjunto: Herança do Deus dos Enigmas
+
+        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Hupel.
+
+        ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
+
+        ↪ Cada parte aumenta o Domínio em 10.
+
+        ↪ Conjunto Completo: quando o usuário sofrer Dano ele pode fazer com que seja causado em seus Pontos de Mana ao invés dos Pontos de Vida. As Mágias e Habilidades do usuário não precisam respeitar Custos e Condições.
 
 
 ↪ Aleph (Classe Especial, Itens criados na Montanha dos Sonhos)
@@ -757,9 +815,9 @@
 
         ↪ Aumenta o Ataque em 99.
 
-        ↪ Perde todas as Mágias e Habilidades (exceto por talentos).
+        ↪ Só pode ser desequipado na Morte do usuário.
 
-        ↪ Não pode ser desequipado.
+        ↪ Perde todas as Mágias e Habilidades (exceto por talentos, ou Mágias e Habilidades com fonte de Itens ou Efeitos).
 
     ↪ Arco da Fortuna
 
@@ -769,9 +827,7 @@
 
         ↪ Aumenta o Ataque e a Velocidade em 20.
 
-        ↪ Alcance de até 99 metros de distância.
-
-        ↪ Enquanto Equipado o Atributo de Alcance não aumenta a distância máxima de Ataques Básicos ou Habilidades utilizando esta Arma.
+        ↪ Alcance Base de 99 metros de distância.
 
         ↪ Acertos Críticos contra alvos com Pontos de Vida Inferior a um quarto o abatem. Alvos finalizados dessa forma concedem em sua recopensa um adicional de Moedas de Ouro igual a soma de todos os Atributos do usuário.
 
@@ -793,7 +849,7 @@
 
         ↪ Cada Ponto de Agilidade também aumenta 1 Ponto de Ataque.
 
-        ↪ Habilidade: pode invocar o Vorme Real, uma Criatura Abstrata Terrestre. Vorme Real é imortal, seus Ataques Básicos podem destruir até uma Estrutura ou Item de classe Zayin ou inferior do alvo (também causam Dano Físico igual ao Ataque do usuário).
+        ↪ Habilidade: pode invocar o Vorme Real, uma Criatura Abstrata Terrestre. Vorme Real é imortal, seus Ataques Básicos podem destruir até uma Estrutura, Item ou Unidades Controladas de classe Zayin ou inferior do alvo (também causam Dano Físico igual ao Ataque do usuário).
 
     ↪ Ego das Mil Mágias
 
@@ -809,6 +865,8 @@
 
         ↪ Arma Abstrata, Diversos.
 
+        ↪ Aumenta a Vitalidade em 20.
+
         ↪ Equipar esse Item sem utilizar algum Equipamento de Mãos teletransporta o usuário para o Pós-vida Celestial. Desequipar o Item retorna o usuário de volta ao Mundo Material.
 
         ↪ Habilidade: Aplica no usuário ou em um alvo, aliado ou inimigo, 1 Marcador de Polimorfia permanente. Qualquer raça jogavel ou criatura do Bestiário pode ser escolhida para a mudança. Essa Habilidade pode ser usada novamente para remover o Marcador ou trocar a criatura polimorfada. Essa habilidade também pode ser usada enquanto o próprio usuário estiver polimorfado.
@@ -816,6 +874,8 @@
     ↪ Livro da Morte
 
         ↪ Arma Abstrata, Diversos.
+
+        ↪ Aumenta a Maestria em 20.
 
         ↪ Equipar esse Item sem utilizar algum Equipamento de Mãos teletransporta o usuário para o Pós-vida Infernal. Desequipar o Item retorna o usuário de volta ao Mundo Material.
 
@@ -825,12 +885,16 @@
 
         ↪ Arma Abstrata, Diversos.
 
+        ↪ Aumenta o Alcance em 20. 
+
         ↪ O usuário pode escolher uma escola de Mágia. Enquanto o item estiver equipado ele tem conhecimento de todas as Mágias daquela escola, e pode não gastar Pontos de Mana para conjurar essas Mágias.
 
     ↪ Coroa do Herdeiro do Mundo
 
         ↪ Equipamento Abstrato Amaldiçoado, Elmo.
 
-        ↪ Esse Equipamento não pode ser desequipado.
+        ↪ Aumenta a Defesa em 20.
+
+        ↪ Só pode ser desequipado na Morte do usuário.
 
         ↪ O usuário	não pode conjurar Mágias, mas também não pode sofrer Mágias.

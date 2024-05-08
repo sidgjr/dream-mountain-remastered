@@ -45,7 +45,7 @@
 
 		↪ Habilidade (Inversão de Estado) : Realiza uma conexão com um alvo, invertendo em quem é colocados os marcadores.
 
-		↪ Talento (Atributomorfose): No inicio de combate você permutar seus atributos.
+		↪ Talento (Atributomorfose): No início de combate você permutar seus atributos.
 
 	↪ Nufia (Multiplicação).
 
@@ -73,7 +73,9 @@
 
 		↪ Talento (Conexão Selvagem): Comunicação aumentada pela metade quando relacionado a Monstros.
 
-		↪ Talento (Barbaridade): Subatributos de Força oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade.
+		↪ Talento (Barbaridade): Se o usuário for um Ravari Mamífero,Subatributos de Força oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
+
+		↪ Talento (Letalidade): Se o usuário for um Ravari Réptil,Subatributos de Agilidade oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
 
 	↪ Kehara (Barbáros).
 

@@ -24,7 +24,7 @@
 
         ↪ Alcance: cada 2 pontos correspondem a 1 metro de alcance adicional nos Ataques e Habilidades (exceto por Corpo a Corpo).
 
-        ↪ Comunicação: cada 1 ponto corresponde a 3 metros de Distância Máxima de unidades controladas por esta.
+        ↪ Comunicação: cada 1 ponto corresponde a 2 metros de Distância Máxima de unidades controladas por esta.
 
 ↪ Inteligência
 
