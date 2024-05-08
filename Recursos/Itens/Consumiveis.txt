@@ -127,119 +127,127 @@
 
         ↪ Armadilha.
 
-        ↪ Causa 2d20 de Dano Mágico do Tipo Fogo na unidade inimiga que entrar em seu raio de Alcance (definido pelo Atributo de seu dono)
+        ↪ Causa 2d20 de Dano Mágico do Tipo Fogo na unidade inimiga que entrar em seu raio de Alcance (definido pelo Atributo do seu dono)
 
-    ↪ 
+    ↪ Punhado de Ferrugem
 
-        ↪ 
+        ↪ Armadilha.
 
-    ↪ 
+        ↪ Aplica em uma área baseada no atributo de Alcance, 1d10 Marcadores Negativos de Defesa, e também 1d10 de Marcadores Negativos para Noção (rolagens de dado diferente).
 
-        ↪ 
+    ↪ Flechas Evenenadas
+
+        ↪ Munição, Arco.
+
+        ↪ 5 de Dano Base, aplicando um 1d4 Marcadores de Veneno no alvo.
 
 
 ↪ Kaph (Classe 6, Itens Encantados)
 
-    ↪ 
+    ↪ Orbe Estático
 
-        ↪ 
+        ↪ Consumível Encantado com 0 Cargas.
 
-    ↪ 
+        ↪ Ganha uma Carga sempre que um inimigo usar Uma Mágia, Milagre, Maldição ou Habilidade, até um limite de 10.
 
-        ↪ 
+        ↪ O usuário pode consumir todas as Cargas para recuperar Pontos de Vida e Mana igual número de Carga vezes 3.
 
-    ↪ 
+    ↪ Pergaminho Anti-mágia
 
-        ↪ 
+        ↪ Consumível Encantado.
 
-    ↪ 
-
-        ↪ 
+        ↪ Pode ser usado para refletir a Próxima Mágia, Maldição ou Milagre que o usuário for receber nesse Combate.
 
     ↪ 
 
         ↪ 
+
+    ↪ 
+
+        ↪ 
+
+    ↪ Cantil Encantado
+
+        ↪ Consumível Encantado com 5 Cargas.
+
+        ↪ O usuário pode consumir uma Carga para restaurar 1d12 Pontos de Vida. Ao visitar Lojas ou Zonas Seguras as Cargas são restauradas.
 
 
 ↪ Yod (Classe 5, Itens Mágicos)
 
     ↪ Punhado de Poeira Mágica
 
-        ↪ Armadilha.
+        ↪ Armadilha Mágica.
 
         ↪ Aplica em uma área baseada duas vezes no atributo de Alcance, a Remoção de qualquer efeito de Camuflagem ou Furtividade.
 
         ↪ Remove até 1d20 de Marcadores de Performance das unidades inimigas atingidas a escolha do usuário (Segurança, Prioridade, Fervor e Atributo).
 
-    ↪ 
+    ↪ Elixir da Translocação
 
-        ↪ 
+        ↪ Elixir Mágico.
 
-    ↪ 
+        ↪ Teletransporta o usuário para algum lugar aleatório do Mapa ou Combate Atual.
 
-        ↪ 
+    ↪ Poção das Sombras.
 
-    ↪ 
+        ↪ Poção Mágica.
 
-        ↪ 
+        ↪ Aplica Furtividade (Furtividade é interrompida com qualquer Jogada que não seja Ação de Movimentação, e também ao estar fora de uma distância igual ao Atributo de Velocidade das unidades aliadas, Estruturas ou Companheiros de Equipe).
 
-    ↪ 
+    ↪ Elixir do Banimento
 
-        ↪ 
+        ↪ Elixir Mágico.
+
+        ↪ Aplica 3 Marcadores de Banimento.
+
+    ↪ Sal do Mar Indomado
+
+        ↪ Consumível Mágico Amaldiçoado.
+
+        ↪ Abate uma unidade controlada, Item ou Estrutura de Classe Tet ou Inferior.
 
 
 ↪ Tet (Classe 4, Itens Rúnicos)
 
-    ↪ 
+    ↪ Runa de Teletransporte
 
-        ↪ 
+        ↪ Consumível Rúnico.
 
-    ↪ 
+        ↪ Pode se Teletransportar para uma Cidade, Loja, Zona Segura ou Companheiro de Equipe. Esse efeito é considerado uma Magia da Escola Arcana do Tipo Mobilidade.
 
-        ↪ 
+    ↪ Runa da Mentira
 
-    ↪ 
+        ↪ Consumível Rúnico.
 
-        ↪ 
+        ↪ Aplica Invisibilidade ao o usuário e todas unidades aliadas ou Companheiros de Equipe (Invisibilidade é interrompida com qualquer Jogada que não seja Ação de Movimentação).
 
-    ↪ 
+    ↪ Runa de Invencibilidade
 
-        ↪ 
+        ↪ Consumível Rúnico.
 
-    ↪ 
+        ↪ Pode ser consumido pelo usuário quando ele sofrer um Ataque Básico, Mágia, Habilidade, Milagre ou Maldição, a anulando.
 
-        ↪ 
+    ↪ Runa da Alma
 
-    ↪ 
+        ↪ Consumível Rúnico.
 
-        ↪ 
+        ↪ Aplica 2 Marcadores de Imunidade, escolhendo alguma Escola de Mágia ou Conhecimento de Habilidades para esse Marcador.
 
-    ↪ 
+    ↪ Runa da Barganha
 
-        ↪ 
+        ↪ Consumível Rúnico Amaldiçoado.
 
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
+        ↪ O usuário pode escolher um Número, perdendo Pontos de Vida e restaurando Pontos de Mana igual a 1d20 vezes o Número escolhido, com uma rolagem de dados diferente para cada um deles.
 
 
 ↪ Het (Classe 3, Itens Lendários)
 
-    ↪ 
+    ↪ Orbe do Tempo
 
-        ↪ 
+        ↪ Consumível Lendário.
 
-    ↪ 
-
-        ↪ 
+        ↪ Concede um Turno Extra, essa ação não consome a Ação Principal e só pode ser usada uma vez por Jogador no dia.
 
     ↪ 
 
@@ -253,64 +261,38 @@
 
         ↪ 
 
-    ↪ 
+    ↪ Talismã da diligência
 
-        ↪ 
+        ↪ Consumível Lendário.
 
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
+        ↪ Concede Pontos de Experiência igual a metade do total necessário para subir o Nível atual do usuário.
 
 
 ↪ Zayin (Classe 2, Itens Divinos)
 
-    ↪ 
+    ↪ Fragmento do Saber
 
-        ↪ 
+        ↪ Consumível Divino.
 
-    ↪ 
+        ↪ O usuário pode escolher uma Mágia, Habilidade, Maldição ou Milagre que ele conhece, perdendo-a. A unidade ou Companheiro de Equipe que consumir esse item ganhara esse conhecimento.
 
-        ↪ 
+    ↪ Dobrão da Casa das Riquezas
 
-    ↪ 
+        ↪ Consumível Divino Amaldiçoado.
 
-        ↪ 
+        ↪ Pode destruir um Item ou Estrutura de Classe Zayin ou Inferior, o usuário ganha uma quantia de Moedas de Ouro igual a 5d20.
 
-    ↪ 
+    ↪ Talismã da Humildade
 
-        ↪ 
+        ↪ Consumível Divino.
 
-    ↪ 
+        ↪ Sobe até dois pontos de Nível do usuário. Só pode ser usado pelo Companheiro de Equipe com menos Nível e Pontos de Experiência, e esse efeito não aumenta o Nível para um superior ao Companheiro de Equipe com mais Nível ou Pontos de Experiência.
 
-        ↪ 
+    ↪ Talismã do Orgulho
 
-    ↪ 
+        ↪ Consumível Divino.
 
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
+        ↪ Sobe 1 ponto de Nível do usuário.
 
     ↪ 
 
@@ -319,29 +301,13 @@
 
 ↪ Aleph (Classe Especial, Itens criados na Montanha dos Sonhos)
 
-    ↪ 
+    ↪ Baú do Outro Mundo
 
-        ↪ 
+        ↪ Consumível Abstrato.
 
-    ↪ 
+        ↪ Ganha uma Carga sempre que um ou mais Marcadores são aplicados nesse Combate.
 
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
-
-    ↪ 
-
-        ↪ 
+        ↪ O usuário pode consumir uma Carga para colocar qualquer Marcador em qualquer Alvo, esse efeito não pode adicionar Cargas a nenhum Baú do Outro Mundo.
 
     ↪ 
 

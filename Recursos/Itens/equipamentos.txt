@@ -708,7 +708,7 @@
 
     ↪ Conjunto: Herança do Deus dos Protegidos
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Cael.
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Cael.
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -718,7 +718,7 @@
 
     ↪ Conjunto: Herança do Deus das Armas
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Kehara.
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Kehara.
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -728,7 +728,7 @@
 
     ↪ Conjunto: Herança do Deus dos Duelos
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Nodonte.
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Nodonte.
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -738,7 +738,7 @@
 
     ↪ Conjunto: Herança do Deus das Feras
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Ravari (Mamífero).
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Ravari (Mamífero).
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -748,7 +748,7 @@
 
     ↪ Conjunto: Herança do Deus dos Venenos
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Ravari (Réptil).
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Ravari (Réptil).
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -758,7 +758,7 @@
 
     ↪ Conjunto: Herança do Deus das Riquezas
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Humano.
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Humano.
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -768,7 +768,7 @@
 
     ↪ Conjunto: Herança do Deus dos Feitiços
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Elfo.
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Elfo.
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -778,7 +778,7 @@
 
     ↪ Conjunto: Herança do Deus dos Milagres
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Cael.
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Cael.
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
@@ -788,7 +788,7 @@
 
     ↪ Conjunto: Herança do Deus dos Enigmas
 
-        ↪ Estes equipamentos pertenceram a um dos 9 Heróis, um Hupel.
+        ↪ Estes Equipamentos pertenceram a um dos 9 Heróis, um Hupel.
 
         ↪ Equipamentos Divinos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
