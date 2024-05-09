@@ -1,6 +1,4 @@
-//
-
-Shin (Classe básica)
+Shin (Classe 10 ou Básica)
 
 Resh (Classe 9)
 
@@ -22,22 +20,4 @@ Dalet (Classe 1)
 
 Aleph (Classe 0 ou Especial)
 
-
-//
-
-Shin
-Resh
-Ayin
-Samek
-Kaph
-Yod
-Tet
-Het
-Zayin
-Dalet
-Aleph
-
-
-// Classes transcendentais (Lore)
-
-Ifest (Classe abstrata)
+Ifest (Classe ?)
