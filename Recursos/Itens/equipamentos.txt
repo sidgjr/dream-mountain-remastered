@@ -871,6 +871,8 @@
 
         ↪ Habilidade: Aplica no usuário ou em um alvo, aliado ou inimigo, 1 Marcador de Polimorfia permanente. Qualquer raça jogavel ou criatura do Bestiário pode ser escolhida para a mudança. Essa Habilidade pode ser usada novamente para remover o Marcador ou trocar a criatura polimorfada. Essa habilidade também pode ser usada enquanto o próprio usuário estiver polimorfado.
 
+        ↪ Ao equipar O Livro da Vida e o Livro da Morte ao mesmo tempo, o usuário pode criar um Portal para a Casa de Baixo.
+
     ↪ Livro da Morte
 
         ↪ Arma Abstrata, Diversos.
@@ -880,6 +882,8 @@
         ↪ Equipar esse Item sem utilizar algum Equipamento de Mãos teletransporta o usuário para o Pós-vida Infernal. Desequipar o Item retorna o usuário de volta ao Mundo Material.
 
         ↪ Habilidade: Pode invocar dos mortos até uma unidade, NPC ou companheiro de equipe do Pós-vida. Se essa unidade não for um Jogador ela está sobre o seu controle. A invocação também pode ser de figuras históricas do mundo ou personagens de Campanhas passadas. Só uma invocação diferente pode ser feito no mesmo dia.
+
+        ↪ Ao equipar O Livro da Vida e o Livro da Morte ao mesmo tempo, o usuário pode criar um Portal para a Casa de Baixo.
 
     ↪ Tomo do Primeiro Magus
 

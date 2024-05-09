@@ -18,11 +18,11 @@
 
         ↪ Aplica no Alvo 2 Marcadores de Enraizamento.
 
-    ↪ Espeto de Lebre
+    ↪ Espetinho de Lebre
 
         ↪ Comida.
 
-        ↪ Aplica 4 Marcadores de Velocidade, removendo também todos Marcadores de Lentidão e até 1 de Enraizamento.
+        ↪ Aplica 4 Marcadores de Velocidade, removendo também até 8 Marcadores de Lentidão e 1 de Enraizamento.
 
     ↪ Sopa de Cogumelos
 
@@ -158,13 +158,17 @@
 
         ↪ Pode ser usado para refletir a Próxima Mágia, Maldição ou Milagre que o usuário for receber nesse Combate.
 
-    ↪ 
+    ↪ Berrante do Guardião
 
-        ↪ 
+        ↪ Consumível Encantado com 3 Cargas.
 
-    ↪ 
+        ↪ Pode ser usado uma Carga para aplicar em um alvo Marcadores de Resistência igual ao Atributo de Vitalidade do usuário.
 
-        ↪ 
+    ↪ Dardo de Caça
+
+        ↪ Armadilha Encantada.
+
+        ↪ Causa Dano Físico no alvo igual ao Ataque do usuário, em uma distância igual ao Atributo de Alcance. O próximo Ataque Básico, Habilidade, Mágia, Milagre ou Maldição que aquele alvo receber terá Acerto Crítico Garantido.
 
     ↪ Cantil Encantado
 
@@ -249,17 +253,23 @@
 
         ↪ Concede um Turno Extra, essa ação não consome a Ação Principal e só pode ser usada uma vez por Jogador no dia.
 
-    ↪ 
+    ↪ Elixir da Insanidade
 
-        ↪ 
+        ↪ Elixir Lendário.
 
-    ↪ 
+        ↪ Aplica 1 Marcador de Atordoamento, 10 Marcadores Negativos de Defesa e Noção, e por fim 100 Marcadores de Velocidade.
 
-        ↪ 
+    ↪ Poção Vampírica 
 
-    ↪ 
+        ↪ Poção Lendária.
 
-        ↪ 
+        ↪ Até o fim do próximo turno do usuário todo Dano não periódico que causar também o cura pela mesma quantia.
+
+    ↪ Pergaminho do Sereno
+
+        ↪ Consumível Lendário.
+
+        ↪ Quando o usuário sofrer Dano que abaixe seus Pontos de Vida para metade ou inferior este Item é automaticamente consumido, restaurando os Pontos de Vida para o Máximo.
 
     ↪ Talismã da diligência
 
@@ -294,9 +304,15 @@
 
         ↪ Sobe 1 ponto de Nível do usuário.
 
-    ↪ 
+    ↪ Flechas Divinas
 
-        ↪ 
+        ↪ Munição Lendária.
+
+        ↪ Não pode ser como Munição por Armas de Longo Alcance.
+
+        ↪ 15 de Dano Base.
+
+        ↪ Essa Munição ao ser usada cria um Arco próprio, com 50 metros de Alcance Base (que pode ser incrementado pelo atributo de Alcance, assim como Armas de Longo Alcance), e o Dano com esta Arma é causado como Puro.
 
 
 ↪ Aleph (Classe Especial, Itens criados na Montanha dos Sonhos)
@@ -309,18 +325,41 @@
 
         ↪ O usuário pode consumir uma Carga para colocar qualquer Marcador em qualquer Alvo, esse efeito não pode adicionar Cargas a nenhum Baú do Outro Mundo.
 
-    ↪ 
+    ↪ Selo da Força
 
-        ↪ 
+        ↪ Consumível Abstrato.
 
-    ↪ 
+        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Força a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o usuário do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao usuário o Selo.
 
-        ↪ 
+        ↪ Pode ser combinado com o Selo da Agilidade e da Inteligência, consumindo os 3, para criar um Eco dos Sonhos.
 
-    ↪ 
+    ↪ Selo da Agilidade
 
-        ↪ 
+        ↪ Consumível Abstrato.
 
-    ↪ 
+        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Agilidade a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o usuário do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao usuário o Selo.
 
-        ↪ 
+        ↪ Pode ser combinado com o Selo da Força e da Inteligência, consumindo os 3, para criar um Eco dos Sonhos.
+
+    ↪ Selo da Inteligência
+
+        ↪ Consumível Abstrato.
+
+        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Inteligência a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o usuário do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao usuário o Selo.
+
+        ↪ Pode ser combinado com o Selo da Força e da Agilidade, consumindo os 3, para criar um Eco dos Sonhos.
+
+    ↪ Poção do Renascimento
+
+        ↪ Poção Abstrata;
+
+        ↪ Aplica uma Dissipação Verdadeira em todos os Marcadores Positivos e Negativos, Restaura todos os Pontos de Vida e de Mana, e caso o alvo esteja Morto ele é ressucitado (ainda respeitando as regras de ressureição).
+
+
+↪ Ifest (Classe ?, Itens que existem desde a Origem)
+
+    ↪ Eco dos Sonhos
+
+        ↪ Consumível ?.
+
+        ↪ Teletransporta o usuário para a Montanha dos Sonhos.
