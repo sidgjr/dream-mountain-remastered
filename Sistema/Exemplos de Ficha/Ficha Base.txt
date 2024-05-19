@@ -1,0 +1,55 @@
+↪ Personagem
+
+    ↪ Nome: _
+
+    ↪ Apelido: _
+
+    ↪ Qualidades: _, _, _.
+
+    ↪ Defeitos: _, _.
+
+    ↪ História: _.
+
+↪ Atributos
+
+    ↪ Nível (LVL): 0
+
+    ↪ Experiência Total (XP): 0
+
+    ↪ Pontos de Vida (HP): 0/0
+
+    ↪ Pontos de Mana (MP): 0/0
+
+    ↪ Subatributos
+
+        ↪ Força (STR): 0
+
+            ↪ Ataque: 0
+
+            ↪ Defesa: 0
+
+            ↪ Vitalidade: 0
+
+        ↪ Agilidade (AGI): 0
+
+            ↪ Velocidade: 0
+
+            ↪ Alcance: 0
+
+            ↪ Comunicação: 0
+
+        ↪ Inteligência (INT): 0
+
+            ↪ Maestria: 0
+
+            ↪ Noção: 0
+
+            ↪ Domínio: 0
+
+↪ Itens
+
+    ↪ 
+
+↪ Habilidades
+
+    ↪ 
