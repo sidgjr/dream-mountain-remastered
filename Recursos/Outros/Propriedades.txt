@@ -116,7 +116,7 @@
 
 		↪ Fraca.
 
-	↪ Dificil (maior ou igual a 12 no d20).
+	↪ Dificil (maior ou igual a 11 no d20).
 
 		↪ Média.
 

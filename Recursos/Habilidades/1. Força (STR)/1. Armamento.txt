@@ -1,24 +1,40 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪
+    ↪ Defesa Simples.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Defesa em 2, Incrementado para 4 enquanto usar alguma Arma de Duas Mãos ou ao usar duas Armas de Duas Mãos.
 
-        ↪
+    ↪ Golpes Gêmeos.
 
-    ↪ Golpe Minguante
+        ↪ Talento, Ofensivo.
+
+        ↪ Aumenta o Ataque em 2.
+
+        ↪ Ao realizar um Ataque Básico usando Armas o usuário pode também realizar outro, sem consumir Ações, a uma nova unidade dentro do seu alcance Corpo a Corpo.
+
+    ↪ Acerto Minguante.
 
         ↪ Habilidade, Ofensivo, Toque.
 
-        ↪ Requer Arma de Duas Mãos e Custa 5 Pontos de Mana.
+        ↪ Requer: Arma de duas Mãos.
 
-        ↪ 
+        ↪ Custo: 6 Pontos de Mana, Preciso (maior ou igual a 7 no d20).
 
-    ↪
+        ↪ Causa o Dano Base do usuário mais um 1d4 individual em cada alvo dentro do seu Atributo de Alcance. Ganha 1 Marcador de Força para cada inimigo atingido.
 
-        ↪
+    ↪ Contra-Ataque.
+
+        ↪ Habilidade, Interrupção, Toque.
+
+        ↪ Requer: Arma.
+
+        ↪ Repetino (Pode ser usado fora do turno).
+
+        ↪ Custo: 3 Pontos de Mana, Preciso (maior ou igual a 7 no d20).
+
+        ↪ Anula um Ataque Básico, e se caso ter sido Corpo a Corpo o usuário realiza um Ataque Básico no agressor sem consumir uma Ação.
 
     ↪
 
