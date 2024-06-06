@@ -1,1 +1,3 @@
 ↪ Arrumar os Equipamentos e Consumiveis (esqueci um nivel no começo)
+
+↪ Mudar texto de aliados em itens

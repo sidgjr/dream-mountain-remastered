@@ -120,7 +120,7 @@
 
 		↪ Média.
 
-	↪ Preciso (maior ou igual a 7 no d20).
+	↪ Normal (maior ou igual a 7 no d20).
 
 		↪ Superior.
 
@@ -170,6 +170,6 @@
 
 	↪ Proceder (pode ser usado depois de uma ação).
 
-	↪ Repetino (Pode ser usado fora do turno).
+	↪ Repentino (Pode ser usado fora do turno).
 
 	↪ Maestria (Pode ser usado várias vezes durante os turnos).

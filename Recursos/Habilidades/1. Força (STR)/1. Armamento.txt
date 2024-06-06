@@ -6,6 +6,55 @@
 
         ↪ Aumenta a Defesa em 2, Incrementado para 4 enquanto usar alguma Arma de Duas Mãos ou ao usar duas Armas de Duas Mãos.
 
+    ↪ Desvantagem Tática.
+
+        ↪ Talento, Ofensivo.
+
+        ↪ Aumenta o Ataque em 1 a cada dois inimigos no Alcance Corpo a Corpo, até o máximo de 3.  
+
+    ↪ Acerto Minguante.
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Arma.
+
+        ↪ Custo: 6 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Causa o Dano Físico igual ao Dano Base do usuário em cada alvo dentro do seu Atributo de Alcance. Ganha 1 Marcador de Agilidade para cada inimigo atingido. 
+
+    ↪ Contra-Ataque.
+
+        ↪ Habilidade, Interrupção, Toque.
+
+        ↪ Requer: Arma.
+
+        ↪ Repentino (Pode ser usado fora do turno).
+
+        ↪ Custo: 3 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Anula um Ataque Básico, e se caso ter sido Corpo a Corpo o usuário realiza um Ataque Básico no agressor sem consumir uma Ação.
+
+    ↪ Arremesso de Arma.
+
+        ↪ Habilidade, Interrupção, Projétil.
+
+        ↪ Requer: Arma, Alcance de 10 metros.
+
+        ↪ Custo: 4 Pontos de Mana, Precição Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
+
+        ↪ Causa o Dano Físico igual ao Dano Base do usuário. A Arma usada no custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando o usuário se aproximar da Arma ela é recuperada.
+
+
+↪ Resh (Classe 9, Regular)
+
+    ↪ Combate Versátil.
+
+        ↪ Talento, Utilidade.
+
+        ↪ Aumenta a Força e Agilidade em 1.
+
+        ↪ No turno do usuário ele pode Equipar e/ou Desequipar uma Arma adicional, e até uma vez no Combate ele pode Equipar e/ou Desequipar uma Arma fora de seu Turno (sendo considerado uma Habilidade do Tipo Interrupção, mas sem custos ou ações).
+
     ↪ Golpes Gêmeos.
 
         ↪ Talento, Ofensivo.
@@ -14,77 +63,87 @@
 
         ↪ Ao realizar um Ataque Básico usando Armas o usuário pode também realizar outro, sem consumir Ações, a uma nova unidade dentro do seu alcance Corpo a Corpo.
 
-    ↪ Acerto Minguante.
+    ↪ Comando para Atacar
 
-        ↪ Habilidade, Ofensivo, Toque.
+        ↪ Habilidade, Utilidade, Área.
 
-        ↪ Requer: Arma de duas Mãos.
+        ↪ Requer: Alcance de 5 metros + o atributo de Comunicação.
 
-        ↪ Custo: 6 Pontos de Mana, Preciso (maior ou igual a 7 no d20).
+        ↪ Custo: 6 Pontos de Mana, Garantido (sem arremesso de dados).
 
-        ↪ Causa o Dano Base do usuário mais um 1d4 individual em cada alvo dentro do seu Atributo de Alcance. Ganha 1 Marcador de Força para cada inimigo atingido.
+        ↪ Marca um alvo. Até o fim do próximo turno do usuário, seus aliados tem Ataque e Maestria aumentado em 1 contra aquele alvo.
 
-    ↪ Contra-Ataque.
+    ↪ Vórtice de Lâminas
 
-        ↪ Habilidade, Interrupção, Toque.
+        ↪ Habilidade, Mobilidade, Individual.
 
-        ↪ Requer: Arma.
+        ↪ Requer: Duas Armas.
 
-        ↪ Repetino (Pode ser usado fora do turno).
+        ↪ Custo: 3 Pontos de Mana por turno enquanto essa habilidade estiver ativa, Garantido (sem arremesso de dados).
 
-        ↪ Custo: 3 Pontos de Mana, Preciso (maior ou igual a 7 no d20).
+        ↪ Ao ativar o usuário entra em um outro estado. Sua velocidade é aumentado em 7, mas sua Defesa e Noção	caem em 5. Enquanto nessa forma ele não pode usar Habilidades ou itens.
 
-        ↪ Anula um Ataque Básico, e se caso ter sido Corpo a Corpo o usuário realiza um Ataque Básico no agressor sem consumir uma Ação.
+        ↪ Toda vez que realizar um Ataque Básico, ele também ocorre para cada inimigo dentro de seu alcance Corpo a Corpo, porém causando metade do Dano, usando Maestria como dano adicional (Assim como uma habilidade).
 
-    ↪
+        ↪ Assim como o uso de uma habilidade, Vórtice de Lâminas pode ser desativado tanto no começo quando fim de Turno, mas sem consumir alguma ação.
 
-        ↪
+    ↪ Salto Triunfal
 
+        ↪ Habilidade, Mobilidade, Individual.
 
-↪ Resh (Classe 9, Regular)
+        ↪ Requer: Arma de Duas Mãos, Alcance 1d12 (o dobro no caso de crítico).
 
-    ↪
+        ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
 
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
-
-    ↪
-
-        ↪
+        ↪ Salta até um alvo realizando um Ataque Básico e 1d6 de Marcadores de Lentidão no alvo.
 
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪
+    ↪ Resiliência.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Defesa em 4.
 
-        ↪
+        ↪ Ao sofrer Dano Físico que não seja por Marcadores, aumenta o Ataque do usuário em 1 até um máximo de 6 por esse Talento até o final do Combate.
 
-    ↪
+    ↪ Precisão Militar.
 
-        ↪
+        ↪ Talento, Ofensivo.
 
-    ↪
+        ↪ Aumenta o Ataque e Chance de Crítico em 1.
 
-        ↪
+    ↪ Devastar.
 
-    ↪
+        ↪ Habilidade, Ofensivo, Área.
 
-        ↪
+        ↪ Requer: Arma de Duas Mãos, Alcance 5 metros.
+
+        ↪ Custo: 8 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Golpeia o chão, reduzindo a Defesa dos oponentes ao redor em 1d8 (em Marcadores).
+
+    ↪ Grito de Coragem.
+
+        ↪ Habilidade, Suporte, Individual.
+
+        ↪ Requer: Alcance de 5 metros + o atributo de Comunicação.
+
+        ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Realiza uma Dissipação Fraca em Marcadores Negativos de um aliado alvo, ele também recebe 2 Marcadores de Força.
+
+    ↪ Sequência de Cortes
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Duas Armas.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ A próxima vez que o usuário realizar um Ataque Básico nesse turno, ele realiza um adicional, ambos ignorando um 1d6 de Defesa de seus alvos.
+
 
 
 ↪ Samek (Classe 7, Profissional)
