@@ -1,70 +1,146 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪
+    ↪ Defesa Maior.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Com sua especialidade em linha de frente você tem a Defesa Aumentada em 3, Incrementado para 5 enquanto usar um Escudo.
 
-        ↪
+    ↪ Segundo Fôlego.
 
-    ↪
+        ↪ Talento, Defensivo.
 
-        ↪
+        ↪ Você consegue encontrar brechas na batalha para poder se recuperar, fazendo com que sempre ao receber um Ataque Básico, se caso ele tenha sido totalmente mitigado de qualquer forma, restaure 1 Pontos de Vida.
 
-    ↪
+    ↪ Pancada de Escudo.
 
-        ↪
+        ↪ Habilidade, Controle, Toque.
 
-    ↪
+        ↪ Requer: Escudo.
 
-        ↪
+        ↪ Empurra o Escudo com uma força violenta, destabilizando o inimigo, realizando um Ataque Básico nele e diminuindo o seu Ataque em 2 (Através de Marcadores Negativos).
+
+    ↪ Provocar
+
+        ↪ Habilidade, Controle, Individual.
+
+        ↪ Requer: Alcance de 10 metros.
+
+        ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Insulta um inimigo, induzindo a ele o atacar. No próximo turno a Movimentação, Ataques Básicos e Habilidades só podem ser direcionadas a você.
+
+    ↪ Contenção
+
+        ↪ Habilidade, Interrupção, Toque.
+
+        ↪ Requer: Escudo.
+
+        ↪ Repentino (Pode ser usado fora do turno).
+
+        ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Você consegue interpretar feitiços como Ataques físicos, fazendo com que a próxima Mágia, Maldição ou Milagre sofrido por você seja também considerado um Ataque Básico (sendo reduzido o dano pelo atributo de Defesa além da Noção, também desecadeando Habilidades, Talentos e Efeitos que precisam de Ataques Básicos).
 
 
 ↪ Resh (Classe 9, Regular)
 
-    ↪
+    ↪ Aura da Fortaleza.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Inteligência em 1.
 
-        ↪
+        ↪ A sua presença deixa você e seus aliados mais seguros, aumentando de ambos sua Noção e Defesa em 2.
 
-    ↪
+    ↪ Escudos Gêmeos.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Vitalidade em 2.
 
-        ↪
+        ↪ Você pode escolher alguém para te ajudar na linha de frente, fazendo com que em todo começo de combate um aliado seja selecionado para receber junto a você 2 Pontos de Força adicional.
 
-    ↪
+    ↪ Vanguarda.
 
-        ↪
+        ↪ Mágia, Defensivo, Área.
+
+        ↪ Requer: Escudo, Alcance de 3 metros.
+
+        ↪ Custo: 8 Pontos de Mana, Precisão Dificil (maior ou igual a 11 no d20).
+
+        ↪ Através de um feitiço de proteção força todos os oponentes ao seu redor a te atacarem, fazendo com que suas próximas Ações sejam apenas Ataques Básicos contra você, esses Ataques tem a metade do Dano. 
+
+    ↪ Guarda Solidária.
+
+        ↪ Habilidade, Mobilidade, Individual.
+
+        ↪ Requer: Escudo, Alcance de 10 metros.
+
+        ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Avança para proteger um aliado, o concedendo 3 Marcadores de Resistência.
+
+    ↪ Arremesso de Escudo.
+
+        ↪ Habilidade, Ofensivo, Projétil.
+
+        ↪ Requer: Escudo, Alcance de 10 metros.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
+
+        ↪ Dispara seu Escudo contra um inimigo, ricocheteando em outro, Causando o Dano Físico igual a metade da sua Defesa em cada um. O escudo volta para sua mão no final da Habilidade. Acerto Crítico além de dobrar o Dano também dobra o número de alvos (4).
 
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪
+    ↪ Anti-Mágia
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Noção e Vitalidade em 3.
 
-        ↪
+        ↪ Você se torna mais resistente contra Mágias, fazendo com que no início do seu turno você posso sacrificar até 3 pontos de Defesa e os adicionar em Noção (ambos o aumento e diminuição na forma de Marcadores)
 
-    ↪
+    ↪ Superioridade Defensiva
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Agilidade e Inteligência em 2.
 
-        ↪
+        ↪ Sendo muito melhor em resistência que os demais, sempre que sofrer ou causar Dano Físico você rouba 1 Ponto de Defesa do agressor ou alvo (como Marcadores).
 
-    ↪
+    ↪ Suprimir
 
-        ↪
+        ↪ Habilidade, Controle, Toque.
+
+        ↪ Requer: Nada.
+
+        ↪ Custo: 9 Pontos de Mana, Precisão Dificil (maior ou igual a 11 no d20).
+
+        ↪ Golpeia a unidade realizando um Ataque Básico, se for a primeira vez que esse alvo sofre essa habilidade ele também recebe 2 Marcadores de Atordoamento.
+
+    ↪ Reagrupar
+
+        ↪ Habilidade, Suporte, Área.
+
+        ↪ Requer: Alcance de 5 metros + o atributo de Comunicação.
+
+        ↪ Custo: 10 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Chama todos os seus aliados próximos para se reagruparem, até o fim do seu próximo turno o atributo de Velocidade das unidades afetadas é dobrado contanto que usem a Ação de Movimentação em sua direção. Aliados que se aproximarem a uma distância Corpo a Corpo de você durante esse efeito recuperam 1d6 Pontos de Vida.
+
+    ↪ Retaliação
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Escudo e nenhuma outra Arma equipada.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Só pode ser usada uma vez por Combate.
+
+        ↪ Segurando o escudo com duas Mãos realiza um golpe brutal, realizando um Ataque Básico que ao invés de usar o atributo de Ataque para o dano é usado Defesa + Noção + Vitalidade.
 
 
 ↪ Samek (Classe 7, Profissional)

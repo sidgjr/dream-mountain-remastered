@@ -110,7 +110,7 @@
 
 ↪ Precisão
 
-	↪ Crítico (20 no d20).
+	↪ Crítica (20 no d20).
 
 	↪ Improvável (maior ou igual a 15 no d20).
 
@@ -124,7 +124,7 @@
 
 		↪ Superior.
 
-	↪ Garantido (sem arremesso de dados).
+	↪ Garantida (sem arremesso de dados).
 
 		↪ Verdadeira.
 

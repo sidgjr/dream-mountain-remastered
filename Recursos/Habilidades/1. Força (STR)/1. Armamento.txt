@@ -4,13 +4,13 @@
 
         ↪ Talento, Defensivo.
 
-        ↪ Aumenta a Defesa em 2, Incrementado para 4 enquanto usar alguma Arma de Duas Mãos ou ao usar duas Armas de Duas Mãos.
+        ↪ Sendo experiente em combates você tem a Defesa aumentada em 2, incrementado para 4 enquanto usar alguma Arma de Duas Mãos ou ao usar duas Armas de Duas Mãos.
 
     ↪ Desvantagem Tática.
 
         ↪ Talento, Ofensivo.
 
-        ↪ Aumenta o Ataque em 1 a cada dois inimigos no Alcance Corpo a Corpo, até o máximo de 3.  
+        ↪ Sempre preferindo por brigas desfavoráveis você tem o Ataque aumentado em 1 a cada dois inimigos dentro do alcance Corpo a Corpo, até o máximo de 3.  
 
     ↪ Acerto Minguante.
 
@@ -20,7 +20,7 @@
 
         ↪ Custo: 6 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Causa o Dano Físico igual ao Dano Base do usuário em cada alvo dentro do seu Atributo de Alcance. Ganha 1 Marcador de Agilidade para cada inimigo atingido. 
+        ↪ Desfere um grande golpe circular, imitando uma fase da lua, causando o Dano Físico igual ao seu Dano Base em cada alvo dentro do Atributo de Alcance. Ganha 1 Marcador de Agilidade para cada inimigo atingido. 
 
     ↪ Contra-Ataque.
 
@@ -28,21 +28,21 @@
 
         ↪ Requer: Arma.
 
-        ↪ Repentino (Pode ser usado fora do turno).
-
         ↪ Custo: 3 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Anula um Ataque Básico, e se caso ter sido Corpo a Corpo o usuário realiza um Ataque Básico no agressor sem consumir uma Ação.
+        ↪ Repentino (Pode ser usado fora do turno).
+
+        ↪ Através da experiências em diversas lutas você antecipa o golpe do inimigo, Anulando um Ataque Básico, e se caso ter sido Corpo a Corpo também realiza um Ataque Básico no agressor sem consumir uma Ação.
 
     ↪ Arremesso de Arma.
 
-        ↪ Habilidade, Interrupção, Projétil.
+        ↪ Habilidade, Ofensivo, Projétil.
 
         ↪ Requer: Arma, Alcance de 10 metros.
 
-        ↪ Custo: 4 Pontos de Mana, Precição Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
+        ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
 
-        ↪ Causa o Dano Físico igual ao Dano Base do usuário. A Arma usada no custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando o usuário se aproximar da Arma ela é recuperada.
+        ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual ao Dano Base. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando o usuário se aproximar da Arma ela é recuperada.
 
 
 ↪ Resh (Classe 9, Regular)
@@ -53,7 +53,7 @@
 
         ↪ Aumenta a Força e Agilidade em 1.
 
-        ↪ No turno do usuário ele pode Equipar e/ou Desequipar uma Arma adicional, e até uma vez no Combate ele pode Equipar e/ou Desequipar uma Arma fora de seu Turno (sendo considerado uma Habilidade do Tipo Interrupção, mas sem custos ou ações).
+        ↪ Sendo familiar com diversas Armas, no turno você pode Equipar e/ou Desequipar uma Arma adicional, e até uma vez no Combate também pode Equipar e/ou Desequipar uma Arma fora de seu Turno (sendo considerado uma Habilidade do Tipo Interrupção, mas sem custos ou ações).
 
     ↪ Golpes Gêmeos.
 
@@ -61,7 +61,7 @@
 
         ↪ Aumenta o Ataque em 2.
 
-        ↪ Ao realizar um Ataque Básico usando Armas o usuário pode também realizar outro, sem consumir Ações, a uma nova unidade dentro do seu alcance Corpo a Corpo.
+        ↪ Como um inimigo só nunca é o suficiente, ao realizar um Ataque Básico usando alguma Arma você também pode realizar outro, sem consumir Ações, a uma nova unidade dentro do seu alcance Corpo a Corpo.
 
     ↪ Comando para Atacar
 
@@ -69,9 +69,9 @@
 
         ↪ Requer: Alcance de 5 metros + o atributo de Comunicação.
 
-        ↪ Custo: 6 Pontos de Mana, Garantido (sem arremesso de dados).
+        ↪ Custo: 6 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
 
-        ↪ Marca um alvo. Até o fim do próximo turno do usuário, seus aliados tem Ataque e Maestria aumentado em 1 contra aquele alvo.
+        ↪ Inspira seus alidados para atacar um inimigo. Até o fim do seu próximo turno, seus aliados tem Ataque e Maestria aumentado em 1 contra aquele alvo.
 
     ↪ Vórtice de Lâminas
 
@@ -79,13 +79,13 @@
 
         ↪ Requer: Duas Armas.
 
-        ↪ Custo: 3 Pontos de Mana por turno enquanto essa habilidade estiver ativa, Garantido (sem arremesso de dados).
+        ↪ Custo: 3 Pontos de Mana por turno enquanto essa habilidade estiver ativa, Precisão Garantida (sem arremesso de dados).
 
-        ↪ Ao ativar o usuário entra em um outro estado. Sua velocidade é aumentado em 7, mas sua Defesa e Noção	caem em 5. Enquanto nessa forma ele não pode usar Habilidades ou itens.
+        ↪ Ao ativar essa habilidade você entra em um estado de redemoinho, cortando tudo ao seu redor. Sua velocidade é aumentado em 7, mas sua Defesa e Noção caem em 5. Enquanto nessa forma você não pode usar Habilidades ou itens.
 
-        ↪ Toda vez que realizar um Ataque Básico, ele também ocorre para cada inimigo dentro de seu alcance Corpo a Corpo, porém causando metade do Dano, usando Maestria como dano adicional (Assim como uma habilidade).
+        ↪ Toda vez que realizar um Ataque Básico, ele também ocorre para cada inimigo dentro de seu alcance Corpo a Corpo, porém causando metade do Dano.
 
-        ↪ Assim como o uso de uma habilidade, Vórtice de Lâminas pode ser desativado tanto no começo quando fim de Turno, mas sem consumir alguma ação.
+        ↪ Assim como o uso de uma habilidade, Vórtice de Lâminas pode ser desativado tanto no começo quanto no fim do Turno, mas sem consumir alguma ação.
 
     ↪ Salto Triunfal
 
@@ -95,7 +95,7 @@
 
         ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
 
-        ↪ Salta até um alvo realizando um Ataque Básico e 1d6 de Marcadores de Lentidão no alvo.
+        ↪ Prepara-se para realizar um grande pulo, saltando até um alvo e realizando um Ataque Básico, também o aplicando 1d6 de Marcadores de Lentidão.
 
 
 ↪ Ayin (Classe 8, Entusiasta)
@@ -106,13 +106,13 @@
 
         ↪ Aumenta a Defesa em 4.
 
-        ↪ Ao sofrer Dano Físico que não seja por Marcadores, aumenta o Ataque do usuário em 1 até um máximo de 6 por esse Talento até o final do Combate.
+        ↪ Torna-se mais forte ao ser ferido, fazendo com que ao sofrer Dano Físico que não seja por Marcadores, aumente o Ataque do usuário em 1, com um máximo de 6 por esse Talento, até o final do Combate.
 
     ↪ Precisão Militar.
 
         ↪ Talento, Ofensivo.
 
-        ↪ Aumenta o Ataque e Chance de Crítico em 1.
+        ↪ Os estudos e treinamentos de combate o permitiram a ser mais preciso contra os inimigos, aumentando o seu Ataque e Chance de Crítico em 1.
 
     ↪ Devastar.
 
@@ -122,7 +122,7 @@
 
         ↪ Custo: 8 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
 
-        ↪ Golpeia o chão, reduzindo a Defesa dos oponentes ao redor em 1d8 (em Marcadores).
+        ↪ Com uma força colossal você golpeia o chão, reduzindo a Defesa dos oponentes ao redor em 1d8 (em Marcadores).
 
     ↪ Grito de Coragem.
 
@@ -132,7 +132,7 @@
 
         ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
 
-        ↪ Realiza uma Dissipação Fraca em Marcadores Negativos de um aliado alvo, ele também recebe 2 Marcadores de Força.
+        ↪ Inspira seu aliado a superar suas fraquezas, realizando nele uma Dissipação Fraca em seus Marcadores Negativos, ele também recebe 2 Marcadores de Força.
 
     ↪ Sequência de Cortes
 
@@ -142,8 +142,7 @@
 
         ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ A próxima vez que o usuário realizar um Ataque Básico nesse turno, ele realiza um adicional, ambos ignorando um 1d6 de Defesa de seus alvos.
-
+        ↪ A próxima vez que você realizar um Ataque Básico nesse turno, é realizado um Ataque Básico adicional, ambos ignorando um 1d6 de Defesa de seus alvos (de forma Individual).
 
 
 ↪ Samek (Classe 7, Profissional)
