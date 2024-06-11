@@ -118,7 +118,7 @@
 
 	↪ Dificil (maior ou igual a 11 no d20).
 
-		↪ Média.
+		↪ Média.1
 
 	↪ Normal (maior ou igual a 7 no d20).
 

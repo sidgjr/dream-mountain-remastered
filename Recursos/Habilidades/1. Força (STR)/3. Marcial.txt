@@ -1,70 +1,166 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪
+    ↪ Defesa Versátil.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Com um espiríto tão forte quanto o corpo você tem a Defesa e a Noção aumentada em 2, incrementado para 4 enquanto não ter nenhuma Arma equipada.
 
-        ↪
+    ↪ Punhos Velozes.
 
-    ↪
+        ↪ Talento, Ofensivo.
 
-        ↪
+        ↪ Aumenta a Agilidade em 1.
 
-    ↪
+        ↪ Com golpes tão rápidos quanto o vento, ao não usar Armas seus Ataques Básicos concedem 1 Marcadores de Velocidade.
 
-        ↪
+    ↪ Sequência de Jabs.
 
-    ↪
+        ↪ Habilidade, Ofensivo, Toque.
 
-        ↪
+        ↪ Requer: Não usar Armas.
+
+        ↪ Custo: 3 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
+
+        ↪ Em uma velocidade anormal você realiza diversos golpes contra o alvo, realizando um Ataque Básico + 1d4 de Dano Físico, o valor desse dado também é considerado um número de Ataques básicos realizados, desencadeando apenas efeitos mas não causando dano.
+
+    ↪ Gancho Esquerdo.
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Não usar Armas.
+
+        ↪ Custo: 4 Pontos de Mana, Precisão Dificil (maior ou igual a 11 no d20).
+
+        ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
+
+        ↪ Desfere um golpe brutal no Queixo do Adversário, realizando um Ataque Básico + 1d6 de Dano Físico, empurrando a unidade para direção oposta igual ao valor do Dado.
+
+    ↪ Cruzado Direito.
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Não usar Armas.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Improvável (maior ou igual a 15 no d20).
+
+        ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
+
+        ↪ Se aproveitando da guarda baixa realiza um soco lateral no oponente, realizando um Ataque Básico + 1d8 de Dano Físico, aplicando Marcadores de Lentidão naquele alvo igual ao valor do Dado.
 
 
 ↪ Resh (Classe 9, Regular)
 
-    ↪
+    ↪ Pés e Mãos.
 
-        ↪
+        ↪ Talento, Utilidade.
 
-    ↪
+        ↪ Aumenta a Agilidade e Inteligência em 1.
 
-        ↪
+        ↪ Tendo uma diversidade de golpes, sempre que realizar um Ataque Básico sem usar uma Arma pode realiza-lo como um Chute ou Soco.
 
-    ↪
+        ↪ 1. Chute: Tem o alcance Corpo a Corpo dobrado e causa 2 Pontos de Dano Físico Adicional.
 
-        ↪
+        ↪ 2. Soco: Tem o Dano diminuído em 2 mas cada acerto dá 2 Marcadores de Fervor.
 
-    ↪
+    ↪ Golpes Gêmeos.
 
-        ↪
+        ↪ Talento, Ofensivo.
 
-    ↪
+        ↪ Aumenta a Força em 2.
 
-        ↪
+        ↪ Através de maestria em chutes o primeiro alvo que sofrer um Ataque Básico seu sem Armas ele também sofre mais um Ataque Básico adicional, esse Talento é reiniciado sempre que derrotar um inimigo.
+
+    ↪ Pisão.
+
+        ↪ Habilidade, Ofensivo, Área.
+
+        ↪ Requer: Alcance 5 metros.
+
+        ↪ Custo: 6 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Com uma pisada titânica racha o chão, empurrando 5 metros de distância qualquer unidade, seja aliada ou inimiga. Realiza uma Dissipação Fraca em seus Marcadores Negativos.
+
+    ↪ Redirecionar Ataque.
+
+        ↪ Habilidade, Interrupção, Toque.
+
+        ↪ Requer: Não usar Armas.
+
+        ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Repentino (Pode ser usado fora do turno).
+
+        ↪ Através da experiências em diversas lutas você antecipa o golpe do inimigo, Anulando um Ataque Básico, e o redireciona para qualquer alvo.
+
+        ↪ Se o ataque foi Corpo a Corpo, o redirecionamento só pode ser feito para outros alvos no alcance Corpo a Corpo. O mesmo ocorre para Ataques a distância, respeitando o seu alcance original.
+
+    ↪ Desarme.
+
+        ↪ Habilidade, Controle, Toque.
+
+        ↪ Requer: Não usar Armas.
+
+        ↪ Custo: 7 Pontos de Mana, Precisão Dificil (maior ou igual a 11 no d20).
+
+        ↪ Só pode ser usada uma vez por Alvo.
+
+        ↪ Não tendo medo de Armas, você aplica 3 Marcadores de Desarme no Alvo caso ele esteja usando uma Arma.
 
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪
+    ↪ Indomável.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Noção em 5 e a Vitalidade em 2.
 
-        ↪
+        ↪ Através de treinametnos de resistência seu corpo se tornou não só resistente a Ataques físicos, mas também para os feitiços mais poderosos, fazendo que uma vez por Combate você possa anular completamente uma Mágia, Milagre ou Maldição sofrido, realizando uma Dissipação Média nos Marcadores Negativos.
 
-    ↪
+    ↪ Bloqueio Relâmpago.
 
-        ↪
+        ↪ Talento, Defensivo.
 
-    ↪
+        ↪ Aumenta a Velocidade e Defesa em 3.
 
-        ↪
+        ↪ Aperfeiçoa seus reflexos a um outro nível, Aumentando a Esquiva em 1, e sempre que se esquivar realiza um Ataque Básico no agressor se for em um alcance Corpo a Corpo.
 
-    ↪
+    ↪ Voadora.
 
-        ↪
+        ↪ Habilidade, Mobilidade, Individual.
+
+        ↪ Requer: Não usar Armas, Alcance 1 metro + Velocidade.
+
+        ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Prepara-se para realizar um chute a uma longa distância, saltando até um alvo e realizando um Ataque Básico, se for a primeira vez que ele for atingido por essa habilidade ele também recebe 1 Marcador de Atordoamento.
+
+    ↪ Meditação.
+
+        ↪ Habilidade, Mobilidade, Individual.
+
+        ↪ Requer: Não usar Armas.
+
+        ↪ Custo: 5 Pontos de Mana por turno enquanto essa habilidade estiver ativa, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Ao ativar essa habilidade você entra em um estado de meditação, canalizando suas forças ao seu espiríto. Realizar qualquer outra Ação ou sofrer uma Ação cancela esse estado.
+
+        ↪ Ganha 2 Marcadores de Força todo fim de turno que tiver meditado.
+
+    ↪ Bote da Víbora.
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Não usar Armas.
+
+        ↪ Custo: 6 Pontos de Mana, Precisão Dificil (maior ou igual a 11 no d20).
+
+        ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
+
+        ↪ Imitando uma serpente realiza um golpe sangrento no oponente, causando um Ataque Básico + 1d4 de Dano Físico, causando Marcadores de Sangramento no alvo igual o valor do Dado.
 
 
 ↪ Samek (Classe 7, Profissional)

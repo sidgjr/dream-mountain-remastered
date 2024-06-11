@@ -55,7 +55,7 @@
 
         ↪ Sendo familiar com diversas Armas, no turno você pode Equipar e/ou Desequipar uma Arma adicional, e até uma vez no Combate também pode Equipar e/ou Desequipar uma Arma fora de seu Turno (sendo considerado uma Habilidade do Tipo Interrupção, mas sem custos ou ações).
 
-    ↪ Golpes Gêmeos.
+    ↪ Ataques Gêmeos.
 
         ↪ Talento, Ofensivo.
 
@@ -114,7 +114,7 @@
 
         ↪ Os estudos e treinamentos de combate o permitiram a ser mais preciso contra os inimigos, aumentando o seu Ataque e Chance de Crítico em 1.
 
-    ↪ Devastar.
+    ↪ Devastação.
 
         ↪ Habilidade, Ofensivo, Área.
 
@@ -134,7 +134,7 @@
 
         ↪ Inspira seu aliado a superar suas fraquezas, realizando nele uma Dissipação Fraca em seus Marcadores Negativos, ele também recebe 2 Marcadores de Força.
 
-    ↪ Sequência de Cortes
+    ↪ Sequência de Cortes.
 
         ↪ Habilidade, Ofensivo, Toque.
 
