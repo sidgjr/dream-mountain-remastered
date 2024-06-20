@@ -12,7 +12,7 @@
 
         ↪ Aumenta a Agilidade em 1.
 
-        ↪ Com golpes tão rápidos quanto o vento, ao não usar Armas seus Ataques Básicos concedem 1 Marcadores de Velocidade.
+        ↪ Com golpes tão rápidos quanto o vento, ao não usar Armas seus Ataques Básicos concedem 1 Marcador de Velocidade.
 
     ↪ Sequência de Jabs.
 
