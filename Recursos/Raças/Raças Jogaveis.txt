@@ -18,7 +18,7 @@
 
 	↪ Helyr (Dano contra Alvos Vulneraveis)
 
-		↪ Habilidade (Soberania Primordial): Checa um atributo da unidade alvo, caso o do usuário seja superior ganha 2 de Esquiva e Chance de Acerto Crítico contra essa unidade.
+		↪ Habilidade (Soberania Primordial): Checa um atributo da unidade alvo, caso o seu seja superior ganha 2 de Esquiva e Chance de Acerto Crítico permanentemente contra essa unidade.
 
 		↪ Talento (Vinha Vil): Pode detectar seres ao seu redor através do solo, usando Alcance, revelando unidades com efeitos de Camuflagem ou Invisibilidade.
 
@@ -69,13 +69,13 @@
 
 	↪ Ravari (Combate).
 
-		↪ Talento (Mestre das Feras): Começa com uma criatura domesticada, pode ter mascostes adicionais baseado no nível do usuário.
+		↪ Talento (Mestre das Feras): Começa com uma criatura domesticada, pode ter mascostes adicionais baseado no seu nível.
 
 		↪ Talento (Conexão Selvagem): Comunicação aumentada pela metade quando relacionado a Monstros.
 
-		↪ Talento (Barbaridade): Se o usuário for um Ravari Mamífero,Subatributos de Força oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
+		↪ Talento (Barbaridade): Se você for um Ravari Mamífero, Subatributos de Força oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
 
-		↪ Talento (Letalidade): Se o usuário for um Ravari Réptil,Subatributos de Agilidade oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
+		↪ Talento (Letalidade): Se você for um Ravari Réptil, Subatributos de Agilidade oferecem o dobro dos seus status, mas os de Inteligência são divididos pela metade (arrendondado para baixo).
 
 	↪ Kehara (Barbáros).
 
@@ -89,4 +89,4 @@
 
 		↪ Talento (Escama Reativa): recebe marcadores de Armadura igual a metade do Dano Físico sofrido não mitigado. O mesmo se aplica a Dano Mágico e Marcadores de Barreira.
 
-		↪ Habilidade (Forma Ancestral): Ganha Força igual a metade aos marcadores de Armadura, Barreira e Resistência (arredondado para baixo), porém o usuário é Silenciado. O usuário só pode sair dessa forma quando descansar ou quando sofrer uma Dissipação Superior (tanto Positiva quanto Negativa).
+		↪ Habilidade (Forma Ancestral): Ganha Força igual a metade aos marcadores de Armadura, Barreira e Resistência (arredondado para baixo), porém você é Silenciado. Você também só pode sair dessa forma quando descansar ou quando sofrer uma Dissipação Superior (tanto Positiva quanto Negativa).

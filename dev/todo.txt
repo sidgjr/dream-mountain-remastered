@@ -1,3 +1,5 @@
 ↪ Arrumar os Equipamentos e Consumiveis (falta o nível Dalet)
 
 ↪ Mudar texto de aliados em itens
+
+↪ Adaptar o testo usuário em equipamentos
