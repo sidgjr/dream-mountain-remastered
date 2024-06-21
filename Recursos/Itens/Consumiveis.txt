@@ -22,13 +22,13 @@
 
         ↪ Comida.
 
-        ↪ Aplica 4 Marcadores de Velocidade, removendo também até 8 Marcadores de Lentidão e 1 de Enraizamento.
+        ↪ Aplica 3 Marcadores de Velocidade, removendo também até 6 Marcadores de Lentidão e 1 de Enraizamento.
 
     ↪ Sopa de Cogumelos
 
         ↪ Comida.
 
-        ↪ Recupera 1d8 de Pontos de Vida e Mana (Para cada barra é uma rolagem de dados diferente).
+        ↪ Recupera 1d6 de Pontos de Vida e Mana (Para cada barra é uma rolagem de dados diferente).
 
     ↪ Uva Azul
 
@@ -36,7 +36,7 @@
 
         ↪ Recupera 1d4 de Pontos de Mana.
 
-        ↪ O primeiro uso deste Item em um turno não consome a Ação Principal.
+        ↪ O primeiro uso deste Item em um turno não consome uma Ação.
 
 
 ↪ Resh (Classe 9, Itens Comuns)
@@ -45,7 +45,7 @@
 
         ↪ Poção.
 
-        ↪ Restaura 4 Pontos de Vida e aplica 4 Marcadores de Regeneração.
+        ↪ Restaura 2 Pontos de Vida e aplica 4 Marcadores de Regeneração.
 
     ↪ Frasco Evenenado
 
@@ -57,13 +57,13 @@
 
         ↪ Poção.
 
-        ↪ Restaura 1d20 Pontos de Mana.
+        ↪ Restaura 1d12 Pontos de Mana.
 
     ↪ Frasco Sonífero
 
         ↪ Elixir.
 
-        ↪ Aplica 5 Marcadores de Sono.
+        ↪ Aplica 3 Marcadores de Sono.
 
     ↪ Flecha Simples
 
@@ -78,7 +78,7 @@
 
         ↪ Elixir.
 
-        ↪ Restaura 20 Pontos de Vida, aplicando 3 Marcadores de Sangramento e 1 de Desarme.
+        ↪ Restaura 15 Pontos de Vida, aplicando 3 Marcadores de Sangramento e 1 de Desarme.
 
     ↪ Bomba de Fumaça
 
@@ -98,7 +98,7 @@
 
         ↪ Elixir
 
-        ↪ Restaura 30 Pontos de Mana, aplicando 1 Marcadores de Silêncio.
+        ↪ Restaura 20 Pontos de Mana, aplicando 1 Marcadores de Silêncio.
 
     ↪ Maleta de Primeiros-Scorros
 
@@ -113,7 +113,7 @@
 
         ↪ Munição, Arco.
 
-        ↪ 6 de Dano Base, causando mais um 1d6 em de Dano Mágico do Tipo Fogo em uma área ao redor do alvo igual a metade do seu atributo de Alcance.
+        ↪ 3 de Dano Base, causando mais um 1d6 em de Dano Mágico do Tipo Fogo em uma área ao redor do alvo igual a metade do seu atributo de Alcance.
 
     ↪ Granada de Som
     
@@ -150,31 +150,31 @@
 
         ↪ Ganha uma Carga sempre que um inimigo usar Uma Mágia, Milagre, Maldição ou Habilidade, até um limite de 10.
 
-        ↪ O usuário pode consumir todas as Cargas para recuperar Pontos de Vida e Mana igual número de Carga vezes 3.
+        ↪ Você pode consumir todas as Cargas para recuperar Pontos de Vida e Mana igual número de Carga vezes 3.
 
     ↪ Pergaminho Anti-mágia
 
         ↪ Consumível Encantado.
 
-        ↪ Pode ser usado para refletir a Próxima Mágia, Maldição ou Milagre que o usuário for receber nesse Combate.
+        ↪ Pode ser usado para refletir a Próxima Mágia, Maldição ou Milagre que você for receber nesse Combate.
 
     ↪ Berrante do Guardião
 
         ↪ Consumível Encantado com 3 Cargas.
 
-        ↪ Pode ser usado uma Carga para aplicar em um alvo Marcadores de Resistência igual ao Atributo de Vitalidade do usuário.
+        ↪ Pode ser usado uma Carga para aplicar em um alvo Marcadores de Resistência igual ao seu Atributo de Vitalidade.
 
     ↪ Dardo de Caça
 
         ↪ Armadilha Encantada.
 
-        ↪ Causa Dano Físico no alvo igual ao Ataque do usuário, em uma distância igual ao Atributo de Alcance. O próximo Ataque Básico, Habilidade, Mágia, Milagre ou Maldição que aquele alvo receber terá Acerto Crítico Garantido.
+        ↪ Causa Dano Físico no alvo igual ao seu Ataque, em uma distância igual ao Atributo de Alcance. O próximo Ataque Básico, Habilidade, Mágia, Milagre ou Maldição que aquele alvo receber terá Acerto Crítico Garantido.
 
     ↪ Cantil Encantado
 
         ↪ Consumível Encantado com 5 Cargas.
 
-        ↪ O usuário pode consumir uma Carga para restaurar 1d12 Pontos de Vida. Ao visitar Lojas ou Zonas Seguras as Cargas são restauradas.
+        ↪ Você pode consumir uma Carga para restaurar 1d12 Pontos de Vida. Ao visitar Lojas ou Zonas Seguras as Cargas são restauradas.
 
 
 ↪ Yod (Classe 5, Itens Mágicos)
@@ -185,13 +185,13 @@
 
         ↪ Aplica em uma área baseada duas vezes no atributo de Alcance, a Remoção de qualquer efeito de Camuflagem ou Furtividade.
 
-        ↪ Remove até 1d20 de Marcadores de Performance das unidades inimigas atingidas a escolha do usuário (Segurança, Prioridade, Fervor e Atributo).
+        ↪ Remove até 1d20 de Marcadores de Performance das unidades inimigas atingidas a sua escolha (Segurança, Prioridade, Fervor e Atributo).
 
     ↪ Elixir da Translocação
 
         ↪ Elixir Mágico.
 
-        ↪ Teletransporta o usuário para algum lugar aleatório do Mapa ou Combate Atual.
+        ↪ Teletransporta você para algum lugar aleatório do Mapa ou Combate Atual.
 
     ↪ Poção das Sombras.
 
@@ -224,13 +224,13 @@
 
         ↪ Consumível Rúnico.
 
-        ↪ Aplica Invisibilidade ao o usuário e todas unidades aliadas ou Companheiros de Equipe (Invisibilidade é interrompida com qualquer Jogada que não seja Ação de Movimentação).
+        ↪ Aplica Invisibilidade em você e todas unidades aliadas ou Companheiros de Equipe (Invisibilidade é interrompida com qualquer Jogada que não seja Ação de Movimentação).
 
     ↪ Runa de Invencibilidade
 
         ↪ Consumível Rúnico.
 
-        ↪ Pode ser consumido pelo usuário quando ele sofrer um Ataque Básico, Mágia, Habilidade, Milagre ou Maldição, a anulando.
+        ↪ Pode ser consumido por você quando sofrer um Ataque Básico, Mágia, Habilidade, Milagre ou Maldição para anulá-la.
 
     ↪ Runa da Alma
 
@@ -242,7 +242,7 @@
 
         ↪ Consumível Rúnico Amaldiçoado.
 
-        ↪ O usuário pode escolher um Número, perdendo Pontos de Vida e restaurando Pontos de Mana igual a 1d20 vezes o Número escolhido, com uma rolagem de dados diferente para cada um deles.
+        ↪ Você pode escolher um Número, perdendo Pontos de Vida e restaurando Pontos de Mana igual a 1d20 vezes o Número escolhido, com uma rolagem de dados diferente para cada um deles.
 
 
 ↪ Het (Classe 3, Itens Lendários)
@@ -263,19 +263,19 @@
 
         ↪ Poção Lendária.
 
-        ↪ Até o fim do próximo turno do usuário todo Dano não periódico que causar também o cura pela mesma quantia.
+        ↪ Até o fim do seu próximo turno todo Dano não periódico que você causar também o cura pela mesma quantia.
 
     ↪ Pergaminho do Sereno
 
         ↪ Consumível Lendário.
 
-        ↪ Quando o usuário sofrer Dano que abaixe seus Pontos de Vida para metade ou inferior este Item é automaticamente consumido, restaurando os Pontos de Vida para o Máximo.
+        ↪ Quando você sofrer algum Dano que abaixe seus Pontos de Vida para metade ou inferior este Item é automaticamente consumido, restaurando os Pontos de Vida para o Máximo.
 
-    ↪ Talismã da diligência
+    ↪ Talismã da Diligência
 
         ↪ Consumível Lendário.
 
-        ↪ Concede Pontos de Experiência igual a metade do total necessário para subir o Nível atual do usuário.
+        ↪ Concede Pontos de Experiência igual a metade do total necessário para subir o seu Nível atual.
 
 
 ↪ Zayin (Classe 2, Itens Divinos)
@@ -284,25 +284,25 @@
 
         ↪ Consumível Divino.
 
-        ↪ O usuário pode escolher uma Mágia, Habilidade, Maldição ou Milagre que ele conhece, perdendo-a. A unidade ou Companheiro de Equipe que consumir esse item ganhara esse conhecimento.
+        ↪ Você pode escolher uma Mágia, Habilidade, Maldição ou Milagre que ele conhece, perdendo-a. A unidade ou Companheiro de Equipe que consumir esse item ganhara esse conhecimento.
 
     ↪ Dobrão da Casa das Riquezas
 
         ↪ Consumível Divino Amaldiçoado.
 
-        ↪ Pode destruir um Item ou Estrutura de Classe Zayin ou Inferior, o usuário ganha uma quantia de Moedas de Ouro igual a 5d20.
+        ↪ Pode destruir um Item ou Estrutura de Classe Zayin ou Inferior, você ganha uma quantia de Moedas de Ouro igual a 5d20.
 
     ↪ Talismã da Humildade
 
         ↪ Consumível Divino.
 
-        ↪ Sobe até dois pontos de Nível do usuário. Só pode ser usado pelo Companheiro de Equipe com menos Nível e Pontos de Experiência, e esse efeito não aumenta o Nível para um superior ao Companheiro de Equipe com mais Nível ou Pontos de Experiência.
+        ↪ Você sobe dois pontos de Nível. Só pode ser usado pelo Companheiro de Equipe com menos Nível e Pontos de Experiência, e esse efeito não aumenta o Nível para um superior ao Companheiro de Equipe com mais Nível ou Pontos de Experiência.
 
     ↪ Talismã do Orgulho
 
         ↪ Consumível Divino.
 
-        ↪ Sobe 1 ponto de Nível do usuário.
+        ↪ Você sobe 1 ponto de Nível.
 
     ↪ Flechas Divinas
 
@@ -346,13 +346,13 @@
 
         ↪ Ganha uma Carga sempre que um ou mais Marcadores são aplicados nesse Combate.
 
-        ↪ O usuário pode consumir uma Carga para colocar qualquer Marcador em qualquer Alvo, esse efeito não pode adicionar Cargas a nenhum Baú do Outro Mundo.
+        ↪ Você pode consumir uma Carga para colocar qualquer Marcador em qualquer Alvo, esse efeito não pode adicionar Cargas a nenhum Baú do Outro Mundo.
 
     ↪ Selo da Força
 
         ↪ Consumível Abstrato.
 
-        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Força a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o usuário do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao usuário o Selo.
+        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Força a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o dono do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao dono o seu Selo.
 
         ↪ Pode ser combinado com o Selo da Agilidade e da Inteligência, consumindo os 3, para criar um Eco dos Sonhos.
 
@@ -360,7 +360,7 @@
 
         ↪ Consumível Abstrato.
 
-        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Agilidade a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o usuário do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao usuário o Selo.
+        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Agilidade a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o dono do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao dono o seu Selo.
 
         ↪ Pode ser combinado com o Selo da Força e da Inteligência, consumindo os 3, para criar um Eco dos Sonhos.
 
@@ -368,7 +368,7 @@
 
         ↪ Consumível Abstrato.
 
-        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Inteligência a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o usuário do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao usuário o Selo.
+        ↪ Pode ser usado para conceder Permanentemente 30 Pontos de Inteligência a uma Arma ou Equipamento. Este efeito pode ser revertido pelo o dono do Item com o Efeito, destruindo o Item caso seja de Classe Zayin ou Inferior, e recuperando ao dono o seu Selo.
 
         ↪ Pode ser combinado com o Selo da Força e da Agilidade, consumindo os 3, para criar um Eco dos Sonhos.
 
@@ -385,4 +385,4 @@
 
         ↪ Consumível ?.
 
-        ↪ Teletransporta o usuário para a Montanha dos Sonhos.
+        ↪ Teletransporta você para a Montanha dos Sonhos.

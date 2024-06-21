@@ -42,7 +42,7 @@
 
         ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
 
-        ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual a metade do seu Ataque. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando o usuário se aproximar da Arma ela é recuperada.
+        ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual a metade do seu Ataque. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando você se aproximar da Arma ela é recuperada.
 
 
 ↪ Resh (Classe 9, Regular)
@@ -106,7 +106,7 @@
 
         ↪ Aumenta a Defesa em 4.
 
-        ↪ Torna-se mais forte ao ser ferido, fazendo com que ao sofrer Dano Físico que não seja por Marcadores, aumente o Ataque do usuário em 1, com um máximo de 6 por esse Talento, até o final do Combate.
+        ↪ Torna-se mais forte ao ser ferido, fazendo com que ao sofrer Dano Físico que não seja por Marcadores, aumenta o seu Ataque em 1, com um máximo de 6 por esse Talento, até o final do Combate.
 
     ↪ Precisão Militar.
 
