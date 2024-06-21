@@ -1,0 +1,31 @@
+↪ O que é Dream Mountain Remastered?
+
+    ↪ É um RPG de mesa baseada em um universo de obras que eu escrevo. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras e enigmas.
+
+    ↪ Dream Mountain é feito para pode incentivar qualquer pessoa a jogar a sua própria maneira, dando recursos para isso, seja habilidades estranhas para personagens exóticos ou itens sérios para fichas mais bem construídas.
+
+    ↪ Um dos focos principais de cada campanha é a história, sendo apenas um recurso narrativo para juntar e direcionar o grupo de jogadores, mas os mesmos podem fazer objetivos secundários ou explorar áreas que nem fazem parte do enredo principal.
+
+
+↪ Como jogar?
+
+    ↪ Existem alguns requisitos básicos para poder jogar:
+
+        ↪ Um bom editor de texto (Visual Studio Code, Sublime Text, etc).
+
+        ↪ 
+
+
+↪ Plano de Interpretação
+
+    ↪ 
+
+
+↪ Plano de Combate
+
+    ↪ 
+
+
+↪ Criação de Personagem
+
+    ↪ 
