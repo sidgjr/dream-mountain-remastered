@@ -10,7 +10,7 @@
 
         ↪ Talento, Defensivo.
 
-        ↪ Você consegue encontrar brechas na batalha para poder se recuperar, fazendo com que sempre ao receber um Ataque Básico, se caso ele tenha sido totalmente mitigado de qualquer forma, restaure 1 Pontos de Vida.
+        ↪ Você consegue encontrar brechas na batalha para poder se recuperar, fazendo com que sempre ao receber um Ataque Básico, se caso ele tenha sido totalmente mitigado de qualquer forma, restaure 1 Pontos de Vida. Além disso recebe 1 ponto de Dano reduzido de qualquer fonte que não seja por Marcadores.
 
     ↪ Pancada de Escudo.
 
@@ -18,7 +18,7 @@
 
         ↪ Requer: Escudo.
 
-        ↪ Empurra o Escudo com uma força violenta, destabilizando o inimigo, realizando um Ataque Básico nele e diminuindo o seu Ataque em 2 (Através de Marcadores Negativos).
+        ↪ Empurra o Escudo com uma força violenta, destabilizando o inimigo, realizando um Ataque Básico nele, apenas com metade do Dano, e diminuindo o Ataque do alvo em 2 (Através de Marcadores Negativos).
 
     ↪ Insultar
 
@@ -59,7 +59,7 @@
 
         ↪ Aumenta a Vitalidade em 2.
 
-        ↪ Você pode escolher alguém para te ajudar na linha de frente, fazendo com que em todo começo de combate um aliado seja selecionado para receber junto a você 2 Pontos de Força adicional.
+        ↪ Você pode escolher alguém para te ajudar na linha de frente, fazendo com que em todo começo de combate um aliado seja selecionado para receber junto a você 2 Pontos de Força adicional até o fim do mesmo.
 
     ↪ Vanguarda.
 
@@ -79,7 +79,7 @@
 
         ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Avança para proteger um aliado, o concedendo 3 Marcadores de Resistência.
+        ↪ Avança para proteger um aliado, o concedendo 3 Marcadores de Resistência. Ataques Básicos que seriam feitos a ele nesse turno são redirecionados a você.
 
     ↪ Arremesso de Escudo.
 
@@ -87,7 +87,7 @@
 
         ↪ Requer: Escudo, Alcance de 10 metros.
 
-        ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
+        ↪ Custo: 5 Pontos de Mana, Um Escudo, Precisão Normal (maior ou igual a 7 no d20).
 
         ↪ Dispara seu Escudo contra um inimigo, ricocheteando em outro, Causando o Dano Físico igual a metade da sua Defesa em cada um. O escudo volta para sua mão no final da Habilidade. Acerto Crítico além de dobrar o Dano também dobra o número de alvos (4).
 

@@ -24,7 +24,7 @@
 
         ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
 
-        ↪ Em uma velocidade anormal você realiza diversos golpes contra o alvo, realizando um Ataque Básico + 1d4 de Dano Físico, o valor desse dado também é considerado um número de Ataques básicos realizados, desencadeando apenas efeitos mas não causando dano.
+        ↪ Em uma velocidade anormal você realiza diversos golpes contra o alvo, realizando um Ataque Básico com metade do Dano + 1d4 de Dano Físico, o valor desse dado também é considerado um número de Ataques básicos realizados, desencadeando apenas efeitos mas não causando dano.
 
     ↪ Gancho Esquerdo.
 
@@ -36,7 +36,7 @@
 
         ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
 
-        ↪ Desfere um golpe brutal no Queixo do Adversário, realizando um Ataque Básico + 1d6 de Dano Físico, empurrando a unidade para direção oposta igual ao valor do Dado.
+        ↪ Desfere um golpe brutal no Queixo do Adversário, realizando um Ataque Básico com metade do Dano + 1d6 de Dano Físico, empurrando a unidade para direção oposta igual ao valor do Dado.
 
     ↪ Cruzado Direito.
 
@@ -48,7 +48,7 @@
 
         ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
 
-        ↪ Se aproveitando da guarda baixa realiza um soco lateral no oponente, realizando um Ataque Básico + 1d8 de Dano Físico, aplicando Marcadores de Lentidão naquele alvo igual ao valor do Dado.
+        ↪ Se aproveitando da guarda baixa realiza um soco lateral no oponente, realizando um Ataque Básico com metade do Dano + 1d8 de Dano Físico, aplicando Marcadores de Lentidão naquele alvo igual a metade do valor do Dado (arredondado para baixo).
 
 
 ↪ Resh (Classe 9, Regular)
@@ -63,7 +63,7 @@
 
         ↪ 1. Chute: Tem o alcance Corpo a Corpo dobrado e causa 2 Pontos de Dano Físico Adicional.
 
-        ↪ 2. Soco: Tem o Dano diminuído em 2 mas cada acerto dá 2 Marcadores de Fervor.
+        ↪ 2. Soco: Tem o Dano diminuído em 2, mas cada acerto dá 1 Marcador de Noção.
 
     ↪ Golpes Gêmeos.
 
@@ -71,7 +71,7 @@
 
         ↪ Aumenta a Força em 2.
 
-        ↪ Através de maestria em chutes o primeiro alvo que sofrer um Ataque Básico seu sem Armas ele também sofre mais um Ataque Básico adicional, esse Talento é reiniciado sempre que derrotar um inimigo.
+        ↪ Através de maestria em chutes o primeiro alvo que sofrer um Ataque Básico seu sem Armas ele também sofre mais um Ataque Básico adicional com a metade do Dano, esse Talento é reiniciado sempre que derrotar um inimigo.
 
     ↪ Pisão.
 
@@ -107,7 +107,7 @@
 
         ↪ Só pode ser usada uma vez por Alvo.
 
-        ↪ Não tendo medo de Armas, você aplica 3 Marcadores de Desarme no Alvo caso ele esteja usando uma Arma.
+        ↪ Não tendo medo de Armas, você aplica 2 Marcadores de Desarme no Alvo caso ele esteja usando uma Arma.
 
 
 ↪ Ayin (Classe 8, Entusiasta)
@@ -118,7 +118,7 @@
 
         ↪ Aumenta a Noção em 5 e a Vitalidade em 2.
 
-        ↪ Através de treinametnos de resistência seu corpo se tornou não só resistente a Ataques físicos, mas também para os feitiços mais poderosos, fazendo que uma vez por Combate você possa anular completamente uma Mágia, Milagre ou Maldição sofrido, realizando uma Dissipação Média nos Marcadores Negativos.
+        ↪ Através de treinametnos de resistência seu corpo se tornou não só resistente a Ataques físicos, mas também para os feitiços mais poderosos, fazendo que uma vez por Combate você possa anular completamente uma Mágia, Milagre ou Maldição sofrido, também realizando uma Dissipação Média nos Marcadores Negativos.
 
     ↪ Bloqueio Relâmpago.
 
@@ -126,7 +126,7 @@
 
         ↪ Aumenta a Velocidade e Defesa em 3.
 
-        ↪ Aperfeiçoa seus reflexos a um outro nível, Aumentando a Esquiva em 1, e sempre que se esquivar realiza um Ataque Básico no agressor se for em um alcance Corpo a Corpo.
+        ↪ Aperfeiçoa seus reflexos a um outro nível, Aumentando a Esquiva em 1, e sempre que se esquivar realiza um Ataque Básico com metade do Dano no agressor se for em um alcance Corpo a Corpo.
 
     ↪ Voadora.
 
@@ -160,7 +160,7 @@
 
         ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
 
-        ↪ Imitando uma serpente realiza um golpe sangrento no oponente, causando um Ataque Básico + 1d4 de Dano Físico, causando Marcadores de Sangramento no alvo igual o valor do Dado.
+        ↪ Imitando uma serpente realiza um golpe sangrento no oponente, causando um Ataque Básico com metade do Dano + 1d4 de Dano Físico, causando Marcadores de Sangramento no alvo igual o valor do Dado.
 
 
 ↪ Samek (Classe 7, Profissional)

@@ -20,7 +20,7 @@
 
         ↪ Custo: 6 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Desfere um grande golpe circular, imitando uma fase da lua, causando o Dano Físico igual ao seu Dano Base em cada alvo dentro do Atributo de Alcance. Ganha 1 Marcador de Agilidade para cada inimigo atingido. 
+        ↪ Desfere um grande golpe circular, imitando uma fase da lua, causando o Dano Físico igual metade do seu Ataque em cada alvo dentro do Atributo de Alcance. Ganha 1 Marcador de Força para cada inimigo atingido. 
 
     ↪ Contra-Ataque.
 
@@ -32,7 +32,7 @@
 
         ↪ Repentino (Pode ser usado fora do turno).
 
-        ↪ Através da experiências em diversas lutas você antecipa o golpe do inimigo, Anulando um Ataque Básico, e se caso ter sido Corpo a Corpo também realiza um Ataque Básico no agressor sem consumir uma Ação.
+        ↪ Através da experiências em diversas lutas você antecipa o golpe do inimigo, Anulando um Ataque Básico, e se caso ter sido Corpo a Corpo também realiza um Ataque Básico no agressor sem consumir uma Ação, mas dando apenas metade do Dano.
 
     ↪ Arremesso de Arma.
 
@@ -42,7 +42,7 @@
 
         ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20), Uma Arma de Uma Mão equipada.
 
-        ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual ao Dano Base. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando o usuário se aproximar da Arma ela é recuperada.
+        ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual a metade do seu Ataque. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando o usuário se aproximar da Arma ela é recuperada.
 
 
 ↪ Resh (Classe 9, Regular)
@@ -61,13 +61,13 @@
 
         ↪ Aumenta o Ataque em 2.
 
-        ↪ Como um inimigo só nunca é o suficiente, ao realizar um Ataque Básico usando alguma Arma você também pode realizar outro, sem consumir Ações, a uma nova unidade dentro do seu alcance Corpo a Corpo.
+        ↪ Como um inimigo só nunca é o suficiente, ao realizar um Ataque Básico usando alguma Arma você também pode realizar outro, sem consumir Ações, a uma nova unidade dentro do seu alcance Corpo a Corpo, mas esse ataque adicional causa apenas metade do Dano.
 
     ↪ Comando para Atacar
 
         ↪ Habilidade, Utilidade, Área.
 
-        ↪ Requer: Alcance de 5 metros + o atributo de Comunicação.
+        ↪ Requer: Alcance de 5 metros + o Atributo de Comunicação.
 
         ↪ Custo: 6 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
 
@@ -128,7 +128,7 @@
 
         ↪ Habilidade, Suporte, Individual.
 
-        ↪ Requer: Alcance de 5 metros + o atributo de Comunicação.
+        ↪ Requer: Alcance de 5 metros + o Atributo de Comunicação.
 
         ↪ Custo: 7 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
 
@@ -142,7 +142,7 @@
 
         ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ A próxima vez que você realizar um Ataque Básico nesse turno, é realizado um Ataque Básico adicional, ambos ignorando um 1d6 de Defesa de seus alvos (de forma Individual).
+        ↪ A próxima vez que você realizar um Ataque Básico nesse turno, é realizado um Ataque Básico adicional, ambos ignorando um 1d6 de Defesa do Alvo (de forma Individual).
 
 
 ↪ Samek (Classe 7, Profissional)

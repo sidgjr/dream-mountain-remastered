@@ -315,6 +315,29 @@
         ↪ Essa Munição ao ser usada cria um Arco próprio, com 50 metros de Alcance Base (que pode ser incrementado pelo atributo de Alcance, assim como Armas de Longo Alcance), e o Dano com esta Arma é causado como Puro.
 
 
+↪ Dalet (Classe 1, Itens Profanos)
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+    ↪
+
+        ↪
+
+
 ↪ Aleph (Classe 0 ou Especial, Itens criados na Montanha dos Sonhos)
 
     ↪ Baú do Outro Mundo
