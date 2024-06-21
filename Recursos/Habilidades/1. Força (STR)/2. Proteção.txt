@@ -20,7 +20,7 @@
 
         ↪ Empurra o Escudo com uma força violenta, destabilizando o inimigo, realizando um Ataque Básico nele e diminuindo o seu Ataque em 2 (Através de Marcadores Negativos).
 
-    ↪ Provocar
+    ↪ Insultar
 
         ↪ Habilidade, Controle, Individual.
 
@@ -28,7 +28,7 @@
 
         ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Insulta um inimigo, induzindo a ele o atacar. No próximo turno a Movimentação, Ataques Básicos e Habilidades só podem ser direcionadas a você.
+        ↪ Insulta um inimigo, com uma ofensa genial, induzindo a ele o atacar. No próximo turno a Movimentação, Ataques Básicos e Habilidades só podem ser direcionadas a você.
 
     ↪ Contenção
 

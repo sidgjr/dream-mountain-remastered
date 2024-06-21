@@ -1,10 +1,12 @@
 ↪ O que é Dream Mountain Remastered?
 
-    ↪ É um RPG de mesa baseada em um universo de obras que eu escrevo. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras e enigmas.
+    ↪ É um RPG de mesa semi-medieval baseado em um universo de obras que eu escrevo. A proposta é ser um jogo que possa ter várias modalidades como histórias, lutas, aventuras e enigmas.
 
-    ↪ Dream Mountain é feito para pode incentivar qualquer pessoa a jogar a sua própria maneira, dando recursos para isso, seja habilidades estranhas para personagens exóticos ou itens sérios para fichas mais bem construídas.
+    ↪ Dream Mountain é feito para poder incentivar qualquer pessoa a jogar a sua própria maneira, dando recursos para isso, seja habilidades estranhas para personagens exóticos ou itens sérios para fichas mais bem construídas.
 
     ↪ Um dos focos principais de cada campanha é a história, sendo apenas um recurso narrativo para juntar e direcionar o grupo de jogadores, mas os mesmos podem fazer objetivos secundários ou explorar áreas que nem fazem parte do enredo principal.
+
+    ↪ Observação: o "Remastered" no nome é porque essa história	existe desde 2014, mas só em 2023 foi realmente escrita e sistematizada, sendo posto em prática na sua primeira campanha: Sul Oculto.
 
 
 ↪ Como jogar?
@@ -13,19 +15,93 @@
 
         ↪ Um bom editor de texto (Visual Studio Code, Sublime Text, etc).
 
-        ↪ 
+        ↪ Uma conta no Google
+
+    ↪ Para começar a jogar também é necessário criar um personagem (mais detalhado nos próximos tópicos) 
+
+    ↪ Entender como funciona os turnos é fundamental para a jogabilidade, principalmente a diferença entre "Plano de Interpretação" e "Plano de Combate".
 
 
-↪ Plano de Interpretação
+↪ Plano de Interpretação.
 
-    ↪ 
+    ↪ Inicialmente os personagens começam no "Plano de Interpretação", um modo de jogo onde diálogos e tomadas de decisões são o ponto chave.
+
+    ↪ Nesse modo os jogadores tem liberdade para poder realizar qualquer ação, sem restrições como turnos ou tempo (raramente tendo turnos para todos poderem jogar igualmente, ou tempo se nada estiver progredindo).
+
+    ↪ Nesse plano os jogadores podem usar itens e habilidades desde interpretativas a de Combate.
+
+    ↪ As ações interpretativas podem ser qualquer uma, mas sempre são englobadas em alguns tipos (localizado em "Recursos/Outros/Consciência/Interpretação").
+
+    ↪ Por exemplo: ações interpretativas que envolvam Força vão ser sempre do tipo Provocação, Coragem, Intimidação, Exercício ou Superação. Então se um personagem querer levantar algum objeto muito pesado ele teria que realizar algum teste de dados na ação de Exercício.
+
+    ↪ Qualquer ação feita que seja do "Plano de Combate" ou caso algum evento indesejado ocorra,  esse plano é quebrado e todo o grupo é movido para o Plano de Combate.
 
 
-↪ Plano de Combate
+↪ Plano de Combate.
 
-    ↪ 
+    ↪ Diferente do "Plano de Interpretação", o "Plano de Combate" possui mais limitações e regras.
+
+        ↪ Só são permitidas habilidades do Plano de Combate.
+
+        ↪ Existem uma ordem de turnos, baseado no Atributo de Velocidade dos jogadores, do mais rápido para o mais lento, depois o turno dos oponentes, também seguindo a mesma ordem.
+
+    ↪ Fora isso cada turno de um jogador, NPC ou monstro possui três ações controladas em que sua ordem pode ser decidida livremente por seu usuário:
+
+        ↪ Ação de Movimentação: pode se mover pelo tabuleiro em "casas" igual ao seu Atributo de Velocidade (as casas do tabuleiro correspondem a 1 metro).
+
+        ↪ Ação de Ataque Básico: causa Dano Físico em um alvo igual ao seu Atributo de Ataque, em um Alcance de 1 metro caso esteja desequipado ou Corpo a Corpo.
+
+        ↪ Ação Principal: pode usar uma habilidade ou item.
+
+    ↪ Observação: o usuário não é obrigado a fazer todas essas ações.
+
+    ↪ Além das ações controladas existem 2 fases que o seu usuário não pode controlar a ordem:
+
+        ↪ Fase de efeitos: que ocorre no começo do turno daquele jogador, NPC ou monstro, fazendo com que todos os efeitos, seja positivos ou negativos, ocorram. 
+
+        ↪ Fase de limpeza: que ocorre no final do turno, no momento que seu usuário passa o turno, fazendo com que todos os marcadores e efeitos sejam reduzidos em 1 em cada um deles.
+
+    ↪ No fim do Combate, seja por um lado vitorioso ou uma interrupção do mesmo, todos voltam para o "Plano de Interpretação". 
 
 
-↪ Criação de Personagem
+↪ Criação de Personagem.
 
-    ↪ 
+    ↪ Há alguns documentos para auxiliar na "Criação de Personagem" como é possível ver a seguir.
+
+    ↪ Use a "Ficha Base" em "Sistema":
+
+        ↪ "Personagem"
+
+            ↪ Escolha Nome e Apelido que achar melhor.
+
+            ↪ "Qualidades" e "Defeitos" escolha os disponíveis em "Recursos/Outros/Consciência/Qualidades e Defeitos". Ambíguos podem ser escohidos em ambos os campos.
+
+            ↪ Um personagem no mínimo precisa ter um Defeito e duas Qualidades.
+
+            ↪ A história do personagem pode ser qualquer uma, apenas tendo o bom senso de suas limitações no nível inicial. Para agregar esse enredo é bom deixar esse campo por último.
+
+        ↪ "Atributos"
+
+            ↪ Escolha um atributo entre Força, Agilidade e Inteligência. Essa escolha faz com que você possa aprender habilidades ou desenvolver talentos daquele Atributo.
+
+            ↪ Todos os personagens começam no nível 1.
+
+            ↪ Para decidir os próximos campos como Vida, Mana é necessário distribuir pontos entre os Atributos Força, Agilidade e Inteligência. Cada um deles aumenta em 1 os seus respectivos Subatributos.
+
+            ↪ Consulte o que cada Atributo significa em "Recursos/Outros/Atributos/Atributos Principais".
+            
+            ↪ São 18 pontos iniciais para serem distribuídos.
+
+        ↪ "Conhecimentos"
+
+            ↪ Um personagem recém-criado tem direito a escolher inicialmente um Conhecimento do seu Atributo principal.
+
+            ↪ Conhecimentos são conjuntos de Habilidades e Talentos a respeito de um tema, onde podem ser encontrados em "Recursos/Habilidades".
+
+            ↪ O personagem já começa na Classe Resh (9 ou Regular) do Conhecimento escohido, fazendo com que ele automáticamente ganhe todas as Habilidades e Talentos da Classe Shin (10 ou Novato).
+
+            ↪ Além disso ele também pode adquirir gratuitamente uma habilidade ou Talento na Classe Resh.
+
+        ↪ "Itens"
+
+        ↪ "Habilidades e Talentos"

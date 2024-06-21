@@ -2,16 +2,6 @@
 //	///	Qualidades e Defeitos
 //
 
-↪ Razão
-
-    ↪ Simples (Executa tarefas simples e podem usar habilidades).
-
-    ↪ Primitiva (Possui personalidade).
-
-    ↪ Racional (Pode usar itens e uso de linguagens).
-
-    ↪ Intelectual (Possui um conhecimento em classe especial).
-
 ↪ Qualidades
 
     ↪ Cordial: períto em pontualidade, etiqueta e elegância.
@@ -76,7 +66,22 @@
 
     ↪ Ousado: entre a coragem e a falta de noção.
 
-    ↪ Bipolar: possui mais de uma personalidade, não tendo controle da mudança. 
+    ↪ Bipolar: possui mais de uma personalidade, não tendo controle da mudança.
+
+
+//
+//	///	Racionalidade
+//
+
+↪ Razão
+
+    ↪ Simples (Executa tarefas simples e podem usar habilidades).
+
+    ↪ Primitiva (Possui personalidade).
+
+    ↪ Racional (Pode usar itens e uso de linguagens).
+
+    ↪ Intelectual (Possui um conhecimento em classe especial).
 
 
 
@@ -86,17 +91,17 @@
 
 ↪ Ações (Modificadores)
 
-    ↪ Inteligência
+	↪ Força
 
-		↪ Escrita (INT): habilidade de escrever em qualquer linguagem.
+		↪ Provocação (STR): iniciar conflitos.
 
-		↪ Solução (INT): resolver problemas e Enigmas.
+		↪ Coragem (STR): ignorar o medo.
 
-		↪ Leitura (INT): ler um texto em alguma linguagem antiga ou desconhecida.
+		↪ Intimidação (STR): assutar um ser.
 
-		↪ Criação (INT): produção de algo.
+		↪ Exercício (STR): exercer uma atividade física.
 
-		↪ Percepção (INT): identificar detalhes importantes.
+		↪ Superação (STR): quebrar limitações.
 
 	↪ Agilidade
 
@@ -110,17 +115,17 @@
 
 		↪ Persuasão (AGI): convencer e manipular seres.
 
-	↪ Força
+    ↪ Inteligência
 
-		↪ Provocação (STR): iniciar conflitos.
+		↪ Escrita (INT): habilidade de escrever em qualquer linguagem, ou produzir propriedade intelectual.
 
-		↪ Coragem (STR): ignorar o medo.
+		↪ Solução (INT): resolver problemas e enigmas.
 
-		↪ Intimidação (STR): assutar um ser.
+		↪ Leitura (INT): ler um texto em alguma linguagem antiga ou desconhecida.
 
-		↪ Exercicio (STR): exercer uma atividade física.
+		↪ Criação (INT): produção de algo.
 
-		↪ Superação (STR): quebrar limitações.
+		↪ Percepção (INT): identificar detalhes importantes.
 
 
 
