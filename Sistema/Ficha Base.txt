@@ -4,6 +4,8 @@
 
     ↪ Apelido: _.
 
+    ↪ Raça: _.
+
     ↪ Qualidades: _, _.
 
     ↪ Defeitos: _.

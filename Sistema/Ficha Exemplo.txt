@@ -4,6 +4,8 @@
 
     ↪ Apelido: War.
 
+    ↪ Raça: Humano.
+
     ↪ Qualidades: Proativo, Leal.
 
     ↪ Defeitos: Irritado.
@@ -63,6 +65,12 @@
     ↪ 3x Bandagens Velhas.
 
 ↪ Habilidades e Talentos. // você pode colocar a habilidade inteira ou só o nome, como preferir.
+
+    ↪ Versátil.
+
+    ↪ Criatividade.
+
+    ↪ Barganha.
 
     ↪ Defesa Simples.
 
