@@ -158,7 +158,9 @@
 
         ↪ Talento, Interpretação.
 
-        ↪ Com um passado de vários combates.
+        ↪ Com um passado de vários combates para você feridas não são nada. Ganha dois Modificadores de Resistência, incrementado para três ao aguentar um Ataque ou Habilidade.
+
+        ↪ Na primeira vez que sofrer um Ataque Básico no Plano de Combate, você pode com um acerto crítico, retornar o jogo para o Plano de Interpretação.
 
 
 ↪ Samek (Classe 7, Profissional)
