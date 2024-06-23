@@ -95,7 +95,7 @@
 
 		↪ Provocação (STR): iniciar conflitos.
 
-		↪ Coragem (STR): ignorar o medo.
+		↪ Resistência (STR): suportar uma dificuldade.
 
 		↪ Intimidação (STR): assutar um ser.
 
@@ -111,7 +111,7 @@
 
 		↪ Furtividade (AGI): não ser detectado.
 
-		↪ Fuga (AGI): fugir de um confronto ou problema.
+		↪ Mobilidade (AGI): poder se movimentar.
 
 		↪ Persuasão (AGI): convencer e manipular seres.
 

@@ -1,0 +1,79 @@
+↪ Personagem.
+
+    ↪ Nome: Guerreiro Genérico.
+
+    ↪ Apelido: War.
+
+    ↪ Qualidades: Proativo, Leal.
+
+    ↪ Defeitos: Irritado.
+
+    ↪ História:
+
+        ↪ Uma história muito bem escrita, com um começo revoltante, meio dinâmico e final genial. Quem leu chorou rios de lágrimas ao ler.
+
+        ↪ E é claro histórias podem ter mais de um parágrafo.
+
+↪ Atributos (Principal: _).
+
+    ↪ Nível (LVL): 1.
+
+    ↪ Pontos de Vida (HP): 30/30.
+
+    ↪ Pontos de Mana (MP): 12/12.
+
+    ↪ Subatributos:
+
+        ↪ Força (STR): 10.
+
+            ↪ Ataque: 10.
+
+            ↪ Defesa: 10.
+
+            ↪ Vitalidade: 10.
+
+        ↪ Agilidade (AGI): 4.
+
+            ↪ Velocidade: 4.
+
+            ↪ Alcance: 4.
+
+            ↪ Comunicação: 4.
+
+        ↪ Inteligência (INT): 3.
+
+            ↪ Maestria: 3.
+
+            ↪ Noção: 3.
+
+            ↪ Domínio: 3.
+
+↪ Conhecimentos.
+
+    ↪ Armamento: Classe 9, Resh ou Regular.
+
+↪ Itens. // você pode colocar o item inteiro ou só o nome, como preferir.
+
+    ↪ Sacola Rasgada.
+
+    ↪ Espada Enferrujada.
+
+    ↪ Manto Sujo.
+
+    ↪ 3x Bandagens Velhas.
+
+↪ Habilidades e Talentos. // você pode colocar a habilidade inteira ou só o nome, como preferir.
+
+    ↪ Defesa Simples.
+
+    ↪ Desvantagem Tática.
+
+    ↪ Acerto Minguante.
+
+    ↪ Contra-Ataque.
+
+    ↪ Arremesso de Arma.
+
+    ↪ Musculatura.
+
+    ↪ Combate Versátil.

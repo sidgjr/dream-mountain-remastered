@@ -32,7 +32,7 @@
 
     ↪ As ações interpretativas podem ser qualquer uma, mas sempre são englobadas em alguns tipos (localizado em "Recursos/Outros/Consciência/Interpretação").
 
-    ↪ Por exemplo: ações interpretativas que envolvam Força vão ser sempre do tipo Provocação, Coragem, Intimidação, Exercício ou Superação. Então se um personagem querer levantar algum objeto muito pesado ele teria que realizar algum teste de dados na ação de Exercício.
+    ↪ Por exemplo: ações interpretativas que envolvam Força vão ser sempre do tipo Provocação, Resistência, Intimidação, Exercício ou Superação. Então se um personagem querer levantar algum objeto muito pesado ele teria que realizar algum teste de dados na ação de Exercício.
 
     ↪ Qualquer ação feita que seja do "Plano de Combate" ou caso algum evento indesejado ocorra,  esse plano é quebrado e todo o grupo é movido para o Plano de Combate.
 
@@ -104,4 +104,107 @@
 
         ↪ "Itens"
 
+            ↪ Um personagem recém-criado tem direito a escolher inicialmente três Equipamentos e três Consumíveis ("Recursos/Itens").
+
+            ↪ Ambos os itens tem que ser da Classe Shin. Equipamentos não podem ser repetidos nessa escolha inicial.
+
         ↪ "Habilidades e Talentos"
+
+            ↪ Todas as habilidade e Talentos adquiridos nos conhecimentos ficam nessa parte.
+
+
+↪ Progressão.
+
+    ↪ Como um teste nessa mesa não haverá pontos de experiência. O progresso vai ser definido por feitos, que podem ser desde combates a interações interpretativas.
+
+    ↪ Nesses feitos: os mais simples podem conceder pontos de Atributo permanente para os personagens no fim da sessão. Grandes feitos ou por uma questão de aleatoriedade podem concender, ao invés de atributos, pontos para poder adquirir novas habilidades.
+
+    ↪ A Campanha será divida em capítulos, cada um durando uma sessão e meia (as vezes uma sessão, as vezes duas), onde o nível dos personagens é o mesmo do capítulo.
+
+    ↪ Os personagens só podem aprender habilidades ou usar itens igual ao do seu nível.
+
+    ↪ Ao subir de nível o personagem ganha 3 pontos para poder distribuir entre os Atributos (STR, AGI e INT), assim como na criação da ficha, além de 1 ponto adicional que sempre vai para o Atributo principal do personagem.
+
+
+↪ Peculiaridades.
+
+    ↪ Regra de ouro: qualquer outra regra ou fundamento pode ser quebrado para melhorar a experiência ou diversão dos jogadores.
+
+    ↪ Existem diferenças entre os Atributos Principais.
+
+        ↪ Personagens são naturalmente melhores que os outros em uma atividade interpretativas relacionada ao seu Atributo principal, fazendo com que eles tenham um ponto de vantagem adicional na realização dos mesmos.
+
+            ↪ Exemplo: Personagens do tipo Agilidade, mesmo sem evoluir nenhuma habilidade, já possuem um ponto adiconal de vantagem na rolagem de dados para as seguintes atividades: Roubo, Trapaça, Furtividade, Mobilidade, Persuasão.
+
+        ↪ Cada Atributo possui vantagens e desvantagens:
+
+            ↪ Força: cada conhecimento possui dois talentos por nível, mas apenas uma habilidade de Interpretação.
+
+            ↪ Agilidade: cada conhecimento possui um talento por nível e duas habilidades de Interpretação.
+
+            ↪ Inteligência: cada conhecimento possui um meio talento por nível (variando), mas tem três habilidades de Interpretação.
+
+    ↪ Jogar fora do turno.
+
+        ↪ Algumas habilidades podem ser usadas fora do turno do personagem, se no caso tiverem um texto para isso.
+
+        ↪ No caso: cada personagem só podem fazer uma Ação especial dessa até voltar o seu turno.
+
+    ↪ Pilha de feitos.
+
+        ↪ Ações podem desecandear efeitos, mas o que acontece se vários serem acionados ao mesmo tempo?
+
+            ↪ Multiplos efeitos que foram acionados ao mesmo tempos são resolvidos na ordem que seu usuário achar melhor, tanto efeitos positivos quanto negativos.
+
+            ↪ Se uma Ação ou efeito desecandear outro efeito ou Ação, a última sempre é resolvida primeiro.
+
+            ↪ Um jogador, monstro ou NPC sempre pode responder uma Ação ou efeito com outra Ação, se ela permitir jogar fora de seu turno, tendo prioridade na resolução (a menos que também desencadeie outra Ação ou efeito).
+
+
+↪ Dicas.
+
+    ↪ Para Novatos:
+
+        ↪ Personagens do Atributo Força são mais fáceis de jogar.
+
+            ↪ São inicialmente muito mais fortes e resistentes que outros personagens.
+
+            ↪ Por possuerem habilidades fáceis de compreender e muitos talentos, que são habilidades que se usam sozinhas, eles tem uma complexidade baixa.
+
+            ↪ Não precisam de muitos itens ou estarem com nível alto para dar trabalho ao seus oponentes.
+
+            ↪ São muito bons para lutar contra monstros, já que são tão fortes e irracionais quanto eles.
+
+            ↪ É importante lembrar: o conhecimento Marcial possui uma pequena complexidade que é a realização de combos. Já o de Proteção não é recomendado para novatos.
+
+        ↪ Existem conhecimentos "fáceis" de jogar em outros atributos:
+
+            ↪ Artilharia é um conhecimento com certa facilidade, cobrando apenas um bom posicionamento do jogador.
+
+            ↪ Domesticação, administrar e adquirir monstro para lutar ao seu lado pode ser incialmente difícil, mas esses seres jogam praticamente no lugar do jogador.
+
+            ↪ Mágias de fogo pelo Ignis e milagres pelo Sagrado são conhecimentos de Inteligência muito fáceis de serem executados, além de intuitivos.
+
+    ↪ Para Veteranos:
+
+        ↪ Solo
+
+            ↪ Trapaça e Aqua são estremamente forte e úteis para jogadores que querem ter um kit de habilidades completos, tanto interpretativo quanto de Combate.
+
+            ↪ Além do conhecimento de Proteção ser essencial para equipes, ele também possui uma sobrevivência incrível para ser jogada de forma isolada.
+
+            ↪ Necromancia, Alquimia, Primal são incríveis em sobrevivência, não necessitando de aliados em várias ocasiões.
+
+        ↪ Complexidade
+
+            ↪ Maior parte dos conhecimentos de Inteligência e Agilidade possuem um alto nível de jogabilidade.
+
+            ↪ Alquimistas, Tecnomantes e Geomantes possuem habilidades incríveis para cidades, desde economia e resolução de problemas básicos.
+
+            ↪ Arcano e Tecnomante são os conhecimentos mais difíceis do jogo.
+
+            ↪ Proteção é o único conhecimento de Força considerado difícil.
+
+    ↪ Ficha de Exemplo:
+
+        ↪ Em "Sistema" existe uma ficha de exemplo para ajudar com as dúvidas.

@@ -4,9 +4,9 @@
 
     ↪ Apelido: _.
 
-    ↪ Qualidades: _, _, _.
+    ↪ Qualidades: _, _.
 
-    ↪ Defeitos: _, _.
+    ↪ Defeitos: _.
 
     ↪ História:
 

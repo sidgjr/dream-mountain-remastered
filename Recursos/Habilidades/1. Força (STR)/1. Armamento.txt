@@ -44,6 +44,12 @@
 
         ↪ Assim como uma lança você dispara sua Arma contra um inimigo, Causando o Dano Físico igual a metade do seu Ataque. A Arma usada no Custo cai no chão na posição do alvo, em caso de crítico fica presa no alvo. Quando você se aproximar da Arma ela é recuperada.
 
+    ↪ Musculatura.
+
+        ↪ Talento, Interpretação.
+
+        ↪ Por passar a vida inteira carregando Armas pesadas você desenvolveu muitos muscúlos, tendo um modificador adicional em tarefas que exigem Exercício, incrementado para dois se for carregar alguma coisa.
+
 
 ↪ Resh (Classe 9, Regular)
 
@@ -97,6 +103,14 @@
 
         ↪ Prepara-se para realizar um grande pulo, saltando até um alvo e realizando um Ataque Básico, também o aplicando 1d6 de Marcadores de Lentidão.
 
+    ↪ Reconhecer Armas.
+
+        ↪ Habilidade, Interpretação.
+
+        ↪ Com muito estudo e uso de diversas Armas você ganhou a habilidade de reconhecer qualquer uma, não importan onde esteja, podendo assim realizar um teste de Percepção para saber quantas Armas o alvo possui e quais são.
+
+        ↪ Ganha um modificador adicional para Percepção no geral, incrementado para dois ao tentar ao usar essa Habilidade.
+
 
 ↪ Ayin (Classe 8, Entusiasta)
 
@@ -143,6 +157,14 @@
         ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
         ↪ A próxima vez que você realizar um Ataque Básico nesse turno, é realizado um Ataque Básico adicional, ambos ignorando um 1d6 de Defesa do Alvo (de forma Individual).
+
+    ↪ Ameaça Viva.
+
+        ↪ Talento, Interpretação.
+
+        ↪ De tantos combates vencidos você emite uma aura de hostilidade para qualquer que querer te desafiar, aumentando a Intimidação em um, incrementado para dois se o alvo já estiver seno hostil com seu grupo.
+
+        ↪ No começo de um combate realiza um teste de Intimidação, se houver um acerto crítico e tiver mais de um oponente, um dos oponentes fogem daquele combate com medo (não participando).
 
 
 ↪ Samek (Classe 7, Profissional)

@@ -42,6 +42,12 @@
 
         ↪ Você consegue interpretar feitiços como Ataques físicos, fazendo com que a próxima Mágia, Maldição ou Milagre sofrido por você seja também considerado um Ataque Básico (sendo reduzido o dano pelo atributo de Defesa além da Noção, também desecadeando Habilidades, Talentos e Efeitos que precisam de Ataques Básicos).
 
+    ↪ Confiança
+
+        ↪ Talento, Interpretação.
+
+        ↪ Confiando em suas habilidades você tem um modificador adicional em Superação, incrementado para dois caso haja alguém vulnerável, gravemente ferido ou aterrorizado.
+
 
 ↪ Resh (Classe 9, Regular)
 
@@ -90,6 +96,12 @@
         ↪ Custo: 5 Pontos de Mana, Um Escudo, Precisão Normal (maior ou igual a 7 no d20).
 
         ↪ Dispara seu Escudo contra um inimigo, ricocheteando em outro, Causando o Dano Físico igual a metade da sua Defesa em cada um. O escudo volta para sua mão no final da Habilidade. Acerto Crítico além de dobrar o Dano também dobra o número de alvos (4).
+
+    ↪ Liderança.
+
+        ↪ Talento, Interpretação.
+
+        ↪ Por sempre estar lutando na linha de frente você desenvolveu um senso de Liderança, dando um modificador de Superação para todos o membros do grupo.
 
 
 ↪ Ayin (Classe 8, Entusiasta)
@@ -141,6 +153,12 @@
         ↪ Só pode ser usada uma vez por Combate.
 
         ↪ Segurando o escudo com duas Mãos realiza um golpe brutal, realizando um Ataque Básico que ao invés de usar o atributo de Ataque para o dano é usado Defesa + Noção + Vitalidade.
+
+    ↪ Muralha.
+
+        ↪ Talento, Interpretação.
+
+        ↪ Com um passado de vários combates.
 
 
 ↪ Samek (Classe 7, Profissional)
