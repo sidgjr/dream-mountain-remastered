@@ -12,7 +12,7 @@
 
         ↪ Defesa: cada 2 pontos correspondem a 1 de Dano Físico reduzido sofrido.
 
-        ↪ Vitalidade: cada 1 ponto corresponde a 3 Pontos de Vida Máxima.
+        ↪ Vitalidade: cada 1 ponto corresponde a 5 Pontos de Vida Máxima.
 
 ↪ Agilidade
 
@@ -22,9 +22,9 @@
 
         ↪ Velocidade: cada 1 ponto corresponde a 1 metro que a unidade pode percorrer por turno.
 
-        ↪ Alcance: cada 2 pontos correspondem a 1 metro de alcance adicional nos Ataques e Habilidades (exceto por Corpo a Corpo).
+        ↪ Alcance: cada 1 ponto correspondem a 1 metro de alcance adicional nos Ataques e Habilidades (exceto por Corpo a Corpo).
 
-        ↪ Comunicação: cada 1 ponto corresponde a 2 metros de Distância Máxima de unidades controladas por esta.
+        ↪ Comunicação: cada 1 ponto corresponde a 3 metros de Distância Máxima de unidades controladas por esta.
 
 ↪ Inteligência
 
