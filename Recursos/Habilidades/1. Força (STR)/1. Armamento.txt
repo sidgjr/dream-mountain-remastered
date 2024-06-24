@@ -4,7 +4,7 @@
 
         ↪ Talento, Defensivo.
 
-        ↪ Sendo experiente em combates você tem a Defesa aumentada em 2, incrementado para 4 enquanto usar alguma Arma de Duas Mãos ou ao usar duas Armas de Duas Mãos.
+        ↪ Sendo experiente em combates você tem a Defesa aumentada em 2, incrementado para 4 enquanto usar alguma Arma de Duas Mãos ou ao usar duas Armas.
 
     ↪ Desvantagem Tática.
 
@@ -105,7 +105,7 @@
 
     ↪ Reconhecer Armas.
 
-        ↪ Habilidade, Interpretação.
+        ↪ Talento, Interpretação.
 
         ↪ Com muito estudo e uso de diversas Armas você ganhou a habilidade de reconhecer qualquer uma, não importan onde esteja, podendo assim realizar um teste de Percepção para saber quantas Armas o alvo possui e quais são.
 

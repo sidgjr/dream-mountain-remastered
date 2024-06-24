@@ -50,6 +50,16 @@
 
         ↪ Se aproveitando da guarda baixa realiza um soco lateral no oponente, realizando um Ataque Básico com metade do Dano + 1d8 de Dano Físico, aplicando Marcadores de Lentidão naquele alvo igual a metade do valor do Dado (arredondado para baixo).
 
+    ↪ Quebrar.
+
+        ↪ Talento, Interpretação.
+
+        ↪ Treinando o seu corpo ao limite, adquiriu a habilidade de poder quebrar objetos resistentes apenas com as mãos, fazendo com que com teste de Exercício você possa destruir um Item.
+
+        ↪ Esse teste é realizado com 1d20, precisando de um valor igual ou superior a 10, aumentando em 2 o necessário quanto mais especial for o Item, até um máximo de igual ou superior a 20 e até a classe Yod.
+
+        ↪ Além disso o seu modificador de Exercício é aumentado em um.
+
 
 ↪ Resh (Classe 9, Regular)
 
@@ -109,6 +119,16 @@
 
         ↪ Não tendo medo de Armas, você aplica 2 Marcadores de Desarme no Alvo caso ele esteja usando uma Arma.
 
+    ↪ Arremessar Aliado.
+
+        ↪ Talento, Interpretação.
+
+        ↪ Através da musculatura desenvolvida com os treinos, ganhou uma capacidade peculiar de conseguir arremessar unidades Aliadas para qualquer direção.
+
+        ↪ A distância do arremesso é baseada no Atributo de Alcance + 1d20.
+
+        ↪ Além disso tem modificadores aumentados em um nas Ações de Exercício e Resistência.
+
 
 ↪ Ayin (Classe 8, Entusiasta)
 
@@ -161,6 +181,16 @@
         ↪ Essa Habilidade pode ser tanto usada na Ação Principal como na de Ação de Ataque Básico.
 
         ↪ Imitando uma serpente realiza um golpe sangrento no oponente, causando um Ataque Básico com metade do Dano + 1d4 de Dano Físico, causando Marcadores de Sangramento no alvo igual o valor do Dado.
+
+    ↪ Paralisar
+
+        ↪ Talento, Interpretação.
+
+        ↪ Conhecendo os principais pontos de acupuntura, é capaz de realizar um ataque com as mãos incapacitando o alvo.
+
+        ↪ É realizado um teste de Mobilidade para tal feito, aumentando a dificuldade em 2 para cada nível que o alvo tiver acima do seu, o mesmo ocorre diminuindo para alvos com nível inferior. Com acerto aquele alvo não pode se mover até descansar (fim de sessão) ou sofrer Dano.
+
+        ↪ A dificuldade do teste também vária o quão bem equipado está, além disso você tem um modificador adicional em Mobilidade.
 
 
 ↪ Samek (Classe 7, Profissional)
