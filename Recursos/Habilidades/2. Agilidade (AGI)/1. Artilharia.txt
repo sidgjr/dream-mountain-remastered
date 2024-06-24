@@ -1,24 +1,66 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪
+    ↪ Ângulo de Disparo.
 
-        ↪
+        ↪ Talento, Ofensivo.
 
-    ↪
+        ↪ Em busca de uma melhor mira você sente melhor quando isolado, fazendo que você tenha a Agilidade aumentada em 1, incrementado para 3 se não tiver nenhuma outra unidade próxima no raio de 6 metros.
 
-        ↪
+    ↪ Sequência de Tiros.
 
-    ↪
+        ↪ Habilidade, Ofensivo, Projétil.
 
-        ↪
+        ↪ Requer: Arma de Longo Alcance, 3 Munição, Alcance de 6 metros.
 
-    ↪
+        ↪ Custo: 3 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪
+        ↪ Dispara rapidamente vários projéteis contra um alvo, causando Dano físico igual 1d4 vezes o Dano Base da Munição.
 
-    ↪
+    ↪ Arremessar Objeto.
 
-        ↪
+        ↪ Habilidade, Utilidade, Projétil.
+
+        ↪ Requer: Alcance de 5 metros.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Você saca um item do seu inventário e o arremessa em um alvo, se for um consúmivel o efeito é aplicado no alvo, se for um equipamento o alvo pode equipar imediatamente o item sem consumir nenhuma ação.
+
+    ↪ Colocar Armadilha.
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Nada.
+
+        ↪ Custo: 4 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Você pode consumir um Item do Tipo Armadilha nesta habilidade. Caso faça, posciona abaixo de você essa Armadilha, além do seu efeito há uma rolagem de dados que pode causar Acerto Crítico, duplicando não o Dano mas sim seus efeitos.
+
+        ↪ Caso não consuma, cria apenas um pequeno chão falso, que causa 1 Marcador de Enraizamento em quem acionar.
+
+        ↪ Armadilhas só ficam prontas no seu próximo turno depois de armadas.
+
+    ↪ Ricochete
+
+        ↪ 
+
+    ↪ Tiro de Aviso
+
+        ↪ Talento, Interpretação.
+
+        ↪ Com uma precisão anormal você faz um disparo perto de alguém, bem próximo de seu rosto, o ameaçando.
+
+        ↪ Você tem Intimidação aumentada em um, incrementado para dois caso seja em uma Ação que envolva uma Arma de Longo Alcance. 
+
+    ↪ Desarmar Armadilha
+
+        ↪ Talento, Interpretação.
+
+        ↪ Com a longa experiências de diversas caças você consegue identificar e desativar armadilhas como ninguém.
+
+        ↪ Percepção aumentada em 1, incrementado para dois no ato de tentar encontrar armadilhas.
+
+        ↪ Ganha o ato de poder desarmar armadilhas, realizando um teste de Trapaça. Além disso você tem a Trapaça aumentada em 1, incrementado para dois quando a ação relacionado é relacionada a armadilhas. 
 
 
 ↪ Resh (Classe 9, Regular)
@@ -39,9 +81,21 @@
 
         ↪
 
-    ↪
+    ↪ 
 
-        ↪
+        ↪ 
+
+    ↪ Sinalizador.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+    ↪ Reposicionar.
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
 
 
 ↪ Ayin (Classe 8, Entusiasta)
@@ -65,6 +119,18 @@
     ↪
 
         ↪
+
+    ↪ Emboscada Dupla
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
+
+    ↪ Identificar Trilhas
+
+        ↪ Talento, Interpretação.
+
+        ↪ 
 
 
 ↪ Samek (Classe 7, Profissional)
