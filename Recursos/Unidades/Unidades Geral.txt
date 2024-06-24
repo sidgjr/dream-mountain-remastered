@@ -100,7 +100,7 @@
 
 	↪ Bolha Prismática
 
-		↪ Sendo um dos seres mais cobiçados por magos da Academia Violeta, a Bolha Prismática é um elemental de forma esférica com a estranha propriedade de refletir algumas mágias.
+		↪ Sendo um dos seres mais cobiçados por magos da Academia Violeta, a Bolha Prismática é um elemental de forma esférica com a estranha propriedade de refletir algumas magias.
 
 		↪ É comumente encontrado entre os Bosques Syar e os vales Ocultos, se escondendo de qualquer figura que achar hostil.
 
@@ -386,7 +386,7 @@
 
 	↪ Pantera-enigma
 
-		↪ Como predador dos Vales Ocultos em Kessent a Pantera-enigma é uma criatura tão misteriosa quanto o seu habitat natural. Por ser mágico possui um leque de mágias em várias áreas conhecidas pelos magos, mas a sua principal é o poder mental e o arcano.
+		↪ Como predador dos Vales Ocultos em Kessent a Pantera-enigma é uma criatura tão misteriosa quanto o seu habitat natural. Por ser mágico possui um leque de magias em várias áreas conhecidas pelos magos, mas a sua principal é o poder mental e o arcano.
 
 		↪ Essa criatura tem um terceiro olho em sua testa, onde pode usar para além de se comunicar telepaticamente também controlar o corpo de suas vitímas. Por ser um felino é extremamente cruel com suas vítimas, fazendo elas o servirem até morrerem, o que não demora muito, já que usa 100% da capacidade física de seus corpos.
 
@@ -439,7 +439,7 @@
 
 		↪ Na tempestade caótica de elementos do Vulcão Oivuzev, o Fulgurodonte se aproveita das mudanças climáticas para emboscar suas vitímas. Um Tubarão com uma fisionomia arcana tendo a estranha habilidade de "nadar no ar" em alta velocidade. Além do "voo", possui a habilidade de criar e manipular tempestades ou tornados, sendo um verdadeiro terror climático.
 
-		↪ Além da voracidade, velocidade e força sem iguais, graças a sua reserva de mana e seu habitat natural consegue conjurar mágias de água, gelo, vento ou trovão, também tendo uma alta resistência a esses mesmos elementos.
+		↪ Além da voracidade, velocidade e força sem iguais, graças a sua reserva de mana e seu habitat natural consegue conjurar magias de água, gelo, vento ou trovão, também tendo uma alta resistência a esses mesmos elementos.
 
 		↪ Mesmo com um tamanho igual a de uma baleia, essa criatura colossal ataca em bandos, principalmente em movimentos circulares graças a uma estratégia de emboscar presas em tornados, tática desenvolvida para caçar criaturas míticas e lendárias que habitam no Polo da Mente.
 

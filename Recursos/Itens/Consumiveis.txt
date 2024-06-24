@@ -148,15 +148,15 @@
 
         ↪ Consumível Encantado com 0 Cargas.
 
-        ↪ Ganha uma Carga sempre que um inimigo usar Uma Mágia, Milagre, Maldição ou Habilidade, até um limite de 10.
+        ↪ Ganha uma Carga sempre que um inimigo usar Uma Magia, Milagre, Maldição ou Habilidade, até um limite de 10.
 
         ↪ Você pode consumir todas as Cargas para recuperar Pontos de Vida e Mana igual número de Carga vezes 3.
 
-    ↪ Pergaminho Anti-mágia
+    ↪ Pergaminho Anti-magia
 
         ↪ Consumível Encantado.
 
-        ↪ Pode ser usado para refletir a Próxima Mágia, Maldição ou Milagre que você for receber nesse Combate.
+        ↪ Pode ser usado para refletir a Próxima Magia, Maldição ou Milagre que você for receber nesse Combate.
 
     ↪ Berrante do Guardião
 
@@ -168,7 +168,7 @@
 
         ↪ Armadilha Encantada.
 
-        ↪ Causa Dano Físico no alvo igual ao seu Ataque, em uma distância igual ao Atributo de Alcance. O próximo Ataque Básico, Habilidade, Mágia, Milagre ou Maldição que aquele alvo receber terá Acerto Crítico Garantido.
+        ↪ Causa Dano Físico no alvo igual ao seu Ataque, em uma distância igual ao Atributo de Alcance. O próximo Ataque Básico, Habilidade, Magia, Milagre ou Maldição que aquele alvo receber terá Acerto Crítico Garantido.
 
     ↪ Cantil Encantado
 
@@ -230,13 +230,13 @@
 
         ↪ Consumível Rúnico.
 
-        ↪ Pode ser consumido por você quando sofrer um Ataque Básico, Mágia, Habilidade, Milagre ou Maldição para anulá-la.
+        ↪ Pode ser consumido por você quando sofrer um Ataque Básico, Magia, Habilidade, Milagre ou Maldição para anulá-la.
 
     ↪ Runa da Alma
 
         ↪ Consumível Rúnico.
 
-        ↪ Aplica 2 Marcadores de Imunidade, escolhendo alguma Escola de Mágia ou Conhecimento de Habilidades para esse Marcador.
+        ↪ Aplica 2 Marcadores de Imunidade, escolhendo alguma Escola de Magia ou Conhecimento de Habilidades para esse Marcador.
 
     ↪ Runa da Barganha
 
@@ -284,7 +284,7 @@
 
         ↪ Consumível Divino.
 
-        ↪ Você pode escolher uma Mágia, Habilidade, Maldição ou Milagre que ele conhece, perdendo-a. A unidade ou Companheiro de Equipe que consumir esse item ganhara esse conhecimento.
+        ↪ Você pode escolher uma Magia, Habilidade, Maldição ou Milagre que ele conhece, perdendo-a. A unidade ou Companheiro de Equipe que consumir esse item ganhara esse conhecimento.
 
     ↪ Dobrão da Casa das Riquezas
 

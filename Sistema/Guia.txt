@@ -183,7 +183,7 @@
 
             ↪ Domesticação, administrar e adquirir monstro para lutar ao seu lado pode ser incialmente difícil, mas esses seres jogam praticamente no lugar do jogador.
 
-            ↪ Mágias de fogo pelo Ignis e milagres pelo Sagrado são conhecimentos de Inteligência muito fáceis de serem executados, além de intuitivos.
+            ↪ Magias de fogo pelo Ignis e milagres pelo Sagrado são conhecimentos de Inteligência muito fáceis de serem executados, além de intuitivos.
 
     ↪ Para Veteranos:
 

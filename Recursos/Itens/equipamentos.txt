@@ -30,7 +30,7 @@
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta o Alcance e Maestria em 3 ao usar Mágias do tipo Recuperação.
+        ↪ Aumenta o Alcance e Maestria em 3 ao usar Magias do tipo Recuperação.
 
     ↪ Machadinha
 
@@ -99,7 +99,7 @@
 
         ↪ Aumenta a Noção em 4.
 
-        ↪ Toda vez que o usuário conjurar uma Mágia, ele restaura 1 Ponto de Vida.
+        ↪ Toda vez que o usuário conjurar uma Magia, ele restaura 1 Ponto de Vida.
     
     ↪ Manto de Folhas
 
@@ -107,7 +107,7 @@
 
         ↪ Aumenta a Agilidade em 2.
 
-        ↪ Toda vez que acertar um Ataque ou uma Mágia, ganhe 2 Marcadores de Agilidade.
+        ↪ Toda vez que acertar um Ataque ou uma Magia, ganhe 2 Marcadores de Agilidade.
 
     ↪ Adaga do Ladrão
 
@@ -159,7 +159,7 @@
 
         ↪ Aumenta o Domínio e a Maestria em 3.
 
-        ↪ Toda vez que realizar uma Mágia do Tipo Ofensivo, Defensivo ou Recupera, ganhe 2 Marcadores de Maestria.
+        ↪ Toda vez que realizar uma Magia do Tipo Ofensivo, Defensivo ou Recupera, ganhe 2 Marcadores de Maestria.
 
 
 ↪ Ayin (Classe 8, Itens Incomuns)
@@ -194,7 +194,7 @@
 
         ↪ Cada parte aumenta a Força em 1 e a Inteligência em 2.
 
-        ↪ Conjunto Completo: Acertos Críticos de Mágias tem o seu Custo de Mana restituídos, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
+        ↪ Conjunto Completo: Acertos Críticos de Magias tem o seu Custo de Mana restituídos, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
 
     ↪ Lança Imperial
 
@@ -228,7 +228,7 @@
 
         ↪ Aumenta a Defesa e Noção em 5.
 
-        ↪ Aumenta a Maestria em 3 ao usar Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade.
+        ↪ Aumenta a Maestria em 3 ao usar Habilidades e Magias do tipo Defensivo, Recuperação e Utilidade.
 
         ↪ Ao sofrer Dano Mágico não periódico, usa Metade da Defesa como Noção adicional, o mesmo ocorre para Dano Físico, utilizando Metade da Noção como Defesa adicional.
 
@@ -238,7 +238,7 @@
 
         ↪ Aumenta a Inteligência em 3.
 
-        ↪ A Maestria é aumentada em 3 para Mágias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Mágia da escola Ignis.
+        ↪ A Maestria é aumentada em 3 para Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Magia da escola Ignis.
 
     ↪ Tambor do Xamã
 
@@ -246,7 +246,7 @@
 
         ↪ Aumenta a Comunicação em 4 e o Domínio em 4.
 
-        ↪ Maestria aumentada em 4 para Mágias e habilidades do tipo Recuperação, Invocação e Utilidade.
+        ↪ Maestria aumentada em 4 para Magias e habilidades do tipo Recuperação, Invocação e Utilidade.
 
         ↪ No início do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 
@@ -301,7 +301,7 @@
 
         ↪ Aumenta a Inteligência em 4 e a Força em 2.
 
-        ↪ Sempre que uma Mágia conjurada por você colocar um Marcador em uma unidade, companheiro ou inimigo, o usuário pode colocar aquela quantia mais 1 Marcador.
+        ↪ Sempre que uma Magia conjurada por você colocar um Marcador em uma unidade, companheiro ou inimigo, o usuário pode colocar aquela quantia mais 1 Marcador.
 
     ↪ Manto do Liberto
 
@@ -400,7 +400,7 @@
 
         ↪ Cada parte aumenta a Inteligência em 3, além da Força em 2.
 
-        ↪ Conjunto Completo: Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle custam metade dos Pontos de Mana. Mágias da escola de Ignis e Nekro custam apenas um terço (ambos arredondados para baixo).
+        ↪ Conjunto Completo: Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle custam metade dos Pontos de Mana. Magias da escola de Ignis e Nekro custam apenas um terço (ambos arredondados para baixo).
 
     ↪ Conjunto: Revestimento do Sumo Sacerdote
 
@@ -408,15 +408,15 @@
 
         ↪ Cada parte aumenta a Inteligência, Vitalidade e Comunicação em 3.
 
-        ↪ Conjunto Completo: Habilidades e Mágias do tipo Defensivo, Recuperação e Utilidade podem ter um alvo adicional. Caso seja em Área, o Raio será incrementado seu valor original mais a metade, o mesmo ocorre para Auras.
+        ↪ Conjunto Completo: Habilidades e Magias do tipo Defensivo, Recuperação e Utilidade podem ter um alvo adicional. Caso seja em Área, o Raio será incrementado seu valor original mais a metade, o mesmo ocorre para Auras.
 
-    ↪ Conjunto: Traje do Diretor de Mágia
+    ↪ Conjunto: Traje do Diretor de Magia
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
         ↪ Cada parte aumenta a Inteligência, Domínio e Noção em 4.
 
-        ↪ Conjunto Completo: Mágias do tipo Defensivo, Mobilidade, Controle, Utilidade e Invocação podem se feitas uma vez fora do turno, assim como Mágias do tipo Interrupção. Nesse efeito essas Mágias também serão consideradas do Tipo Interrupção e só podem ser conjuradas uma vez por combate com essas propriedades adicionais.
+        ↪ Conjunto Completo: Magias do tipo Defensivo, Mobilidade, Controle, Utilidade e Invocação podem se feitas uma vez fora do turno, assim como Magias do tipo Interrupção. Nesse efeito essas Magias também serão consideradas do Tipo Interrupção e só podem ser conjuradas uma vez por combate com essas propriedades adicionais.
 
     ↪ Vanguarda dos Lamentos
 
@@ -471,7 +471,7 @@
 
         ↪ Equipamento Mágico, Cinto.
 
-        ↪ Você não pode sofrer Dano, Marcadores ou Efeitos do mesmo Ataque, Mágia ou Habilidade usado no Turno Anterior daquela unidade (o usuário não precisa ter sido o alvo ou atingido).
+        ↪ Você não pode sofrer Dano, Marcadores ou Efeitos do mesmo Ataque, Magia ou Habilidade usado no Turno Anterior daquela unidade (o usuário não precisa ter sido o alvo ou atingido).
 
     ↪ Braceletes do Executor
 
@@ -532,7 +532,7 @@
 
         ↪ Aumenta a Maestria em 6.
 
-        ↪ No início do turno o usuário pode escolher uma Habilidade ou Mágia que ele Possui. Essa Habilidade ou Mágia fica gravada nesta arma até o fim do Combate, sendo conjurada toda vez que realizar um Ataque Básico, ainda respeitando as condições e custos daquela Habilidade ou Mágia. A conjuração desta Arma não consome a Ação Principal. Acertos críticos do Ataque básico ou da Conjuração permitem a troca da Habilidade ou Mágia gravada.
+        ↪ No início do turno o usuário pode escolher uma Habilidade ou Magia que ele Possui. Essa Habilidade ou Magia fica gravada nesta arma até o fim do Combate, sendo conjurada toda vez que realizar um Ataque Básico, ainda respeitando as condições e custos daquela Habilidade ou Magia. A conjuração desta Arma não consome a Ação Principal. Acertos críticos do Ataque básico ou da Conjuração permitem a troca da Habilidade ou Magia gravada.
 
     ↪ Arco Silvestre
 
@@ -552,7 +552,7 @@
 
         ↪ Aumenta o Domínio em 10.
 
-        ↪ Em combate, no início do turno do usuário uma Mágia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Mágias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Mágias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
+        ↪ Em combate, no início do turno do usuário uma Magia ou Habilidade é conjurada de forma aleatória sem gastar Pontos de Mana, e sem consumir a Ação Principal. O alvo também é aleatório, porém para Magias do tipo Ofensivo, Controle e Interrupção a prioridade será unidades e inimigas, e Magias do tipo Defensivo Mobilidade, Recuperação e Utilidade a prioridade será o usuário, unidades aliadas ou companheiros.
 
     ↪ O Machado-que-grita
 
@@ -592,7 +592,7 @@
 
         ↪ Toda vez que uma unidade inimiga usar a Ação de Movimentação, aplica Marcadores de Sangramento igual a um quarto da distância percorrida (arredondado para baixo).
 
-        ↪ Toda vez que uma unidade inimiga usar uma Habilidade ou Mágia do Tipo Mobilidade aquela unidade recebe Marcadores de Desgaste igual a um quinto da distância percorrida (arredondado para baixo).
+        ↪ Toda vez que uma unidade inimiga usar uma Habilidade ou Magia do Tipo Mobilidade aquela unidade recebe Marcadores de Desgaste igual a um quinto da distância percorrida (arredondado para baixo).
 
     ↪ Coleira do Domador de Feras.
 
@@ -639,7 +639,7 @@
 
         ↪ Toda vez que o usuário causar Dano com essa Arma, ao invés disso causa essa quantia de Dano em forma de Marcadores de Velocidade ou Fervor no próprio usuário (podem ser distribuídos da forma que quiser, e no caso de valores impares é arredondado para baixo).
 
-        ↪ Acerto crítico podem conceder ao usuário 2 Marcadores de Imunidade a uma Escola de Mágia ou Habilidade Física (não pode ter multiplas imunidades provenientes desse efeito).
+        ↪ Acerto crítico podem conceder ao usuário 2 Marcadores de Imunidade a uma Escola de Magia ou Habilidade Física (não pode ter multiplas imunidades provenientes desse efeito).
 
     ↪ Tridente do Demônio
 
@@ -663,7 +663,7 @@
 
         ↪ Alcance de até 50 metros de distância.
 
-        ↪ Essa arma possui Consciência Própria, ganhando em sua personalidade uma Qualidade aleatória, assim como um Defeito e um Ambíguo. Também tem turno próprio, segue as ordens do usuário e pode as Mágias e Habilidades do usuário respeitando os seus Custos e Condições (pagos pelo usuário, assim como dano sofrido também é redirecionado para o usuário).
+        ↪ Essa arma possui Consciência Própria, ganhando em sua personalidade uma Qualidade aleatória, assim como um Defeito e um Ambíguo. Também tem turno próprio, segue as ordens do usuário e pode as Magias e Habilidades do usuário respeitando os seus Custos e Condições (pagos pelo usuário, assim como dano sofrido também é redirecionado para o usuário).
 
     ↪ Tirania Mágica
 
@@ -671,7 +671,7 @@
 
         ↪ Aumenta a Maestria, Noção e Comunicação em 10.
 
-        ↪ A primeira vez que o usuário sofrer uma Mágia especifíca ela é anulada. Esse efeito só pode ocorrer uma vez por Mágia, reiniciando no descanso (fim de Sessão).
+        ↪ A primeira vez que o usuário sofrer uma Magia especifíca ela é anulada. Esse efeito só pode ocorrer uma vez por Magia, reiniciando no descanso (fim de Sessão).
 
     ↪ Evangelhos do Arcebispo
 
@@ -679,7 +679,7 @@
 
         ↪ Aumenta o Domínio e Comunicação em 10.
 
-        ↪ Aumenta a Maestria em 10 em Mágias do Tipo Defensivo, Recuperação, Utilidade e Invocação.
+        ↪ Aumenta a Maestria em 10 em Magias do Tipo Defensivo, Recuperação, Utilidade e Invocação.
 
         ↪ No fim de cada turno do usuário, até um companheiro de equipe, unidade aliada ou inimiga pode sofrer uma Dissipação Média (Positiva ou Negativa, a escolha do usuário). Caso o usuário tenha realizado um Acerto Crítico nesse turno a Dissipação será do Tipo Superior.
 
@@ -754,7 +754,7 @@
 
         ↪ Cada parte aumenta Agilidade, Ataque e Maestria em 5.
 
-        ↪ Conjunto Completo: Um quarto do Dano não periódico causado pelo usuário é aplicado como Marcadores de Veneno. Marcadores de Veneno em inimigos não podem ser evitados por Efeitos, Itens, Mágias ou Habilidades, também precisando de uma Dissipação Superior ao invés de Fraca para serem removidos.
+        ↪ Conjunto Completo: Um quarto do Dano não periódico causado pelo usuário é aplicado como Marcadores de Veneno. Marcadores de Veneno em inimigos não podem ser evitados por Efeitos, Itens, Magias ou Habilidades, também precisando de uma Dissipação Superior ao invés de Fraca para serem removidos.
 
     ↪ Conjunto: Herança do Deus das Riquezas
 
@@ -774,7 +774,7 @@
 
         ↪ Cada parte aumenta a Inteligência, Comunicação e o Alcance em 5.
 
-        ↪ Conjunto Completo: o usuário tem conhecimento de Mágias de todas as unidades inimigas, e pode conjurar como se fossem suas, ainda respeitando os Custos e Condições.
+        ↪ Conjunto Completo: o usuário tem conhecimento de Magias de todas as unidades inimigas, e pode conjurar como se fossem suas, ainda respeitando os Custos e Condições.
 
     ↪ Conjunto: Herança do Deus dos Milagres
 
@@ -784,7 +784,7 @@
 
         ↪ Cada parte aumenta a Vitalidade e o Domínio em 8.
 
-        ↪ Conjunto Completo: Mágias do Tipo Defensivo, Recuperação, Utilidade e Invocação com alvos únicos podem ser repetidas para quantos alvos o usuário escolher (ainda respeitando o Alcance). O mesmo ocorre para Área e Local que ganham raio Ilimitado, além de Mágias de Invocação que as unidades criadas são duplicadas.
+        ↪ Conjunto Completo: Magias do Tipo Defensivo, Recuperação, Utilidade e Invocação com alvos únicos podem ser repetidas para quantos alvos o usuário escolher (ainda respeitando o Alcance). O mesmo ocorre para Área e Local que ganham raio Ilimitado, além de Magias de Invocação que as unidades criadas são duplicadas.
 
     ↪ Conjunto: Herança do Deus dos Enigmas
 
@@ -794,7 +794,7 @@
 
         ↪ Cada parte aumenta o Domínio em 10.
 
-        ↪ Conjunto Completo: quando o usuário sofrer Dano ele pode fazer com que seja causado em seus Pontos de Mana ao invés dos Pontos de Vida. As Mágias e Habilidades do usuário não precisam respeitar Custos e Condições.
+        ↪ Conjunto Completo: quando o usuário sofrer Dano ele pode fazer com que seja causado em seus Pontos de Mana ao invés dos Pontos de Vida. As Magias e Habilidades do usuário não precisam respeitar Custos e Condições.
 
 
 ↪ Dalet (Classe 1, Itens Profanos)
@@ -860,7 +860,7 @@
 
         ↪ Só pode ser desequipado na Morte do usuário.
 
-        ↪ Perde todas as Mágias e Habilidades (exceto por talentos, ou Mágias e Habilidades com fonte de Itens ou Efeitos).
+        ↪ Perde todas as Magias e Habilidades (exceto por talentos, ou Magias e Habilidades com fonte de Itens ou Efeitos).
 
     ↪ Arco da Fortuna
 
@@ -882,7 +882,7 @@
 
         ↪ Cada Ponto de Força também aumenta 1 Ponto de Domínio.
 
-        ↪ Habilidade: pode invocar Bolha, uma Criatura Abstrata Aquática e Voadora. Bolha é imortal, possui Pontos de Mana infinitos e pode conjurar qualquer Mágia da escola Aqua.
+        ↪ Habilidade: pode invocar Bolha, uma Criatura Abstrata Aquática e Voadora. Bolha é imortal, possui Pontos de Mana infinitos e pode conjurar qualquer Magia da escola Aqua.
 
     ↪ Ego do Rei Exilado
 
@@ -894,7 +894,7 @@
 
         ↪ Habilidade: pode invocar o Vorme Real, uma Criatura Abstrata Terrestre. Vorme Real é imortal, seus Ataques Básicos podem destruir até uma Estrutura, Item ou Unidades Controladas de classe Zayin ou inferior do alvo (também causam Dano Físico igual ao Ataque do usuário).
 
-    ↪ Ego das Mil Mágias
+    ↪ Ego das Mil Magias
 
         ↪ Arma Abstrata de Duas Mãos, Cajado Lança.
 
@@ -902,7 +902,7 @@
 
         ↪ Cada Ponto de Inteligência também aumenta 1 Ponto de Vitalidade.
 
-        ↪ Habilidade: pode invocar Zenith, uma Criatura Abstrata Terrestre e Voadora. Zenith é imortal e faz com que o usuário não possa sofrer Dano de Ataques Básicos ou de Mágias de uma escola que o usuário tenha conjurado no turno anterior.
+        ↪ Habilidade: pode invocar Zenith, uma Criatura Abstrata Terrestre e Voadora. Zenith é imortal e faz com que o usuário não possa sofrer Dano de Ataques Básicos ou de Magias de uma escola que o usuário tenha conjurado no turno anterior.
 
     ↪ Livro da Vida
 
@@ -934,7 +934,7 @@
 
         ↪ Aumenta o Alcance em 20. 
 
-        ↪ O usuário pode escolher uma escola de Mágia. Enquanto o item estiver equipado ele tem conhecimento de todas as Mágias daquela escola, e pode não gastar Pontos de Mana para conjurar essas Mágias.
+        ↪ O usuário pode escolher uma escola de Magia. Enquanto o item estiver equipado ele tem conhecimento de todas as Magias daquela escola, e pode não gastar Pontos de Mana para conjurar essas Magias.
 
     ↪ Coroa do Herdeiro do Mundo
 
@@ -944,4 +944,4 @@
 
         ↪ Só pode ser desequipado na Morte do usuário.
 
-        ↪ O usuário	não pode conjurar Mágias, mas também não pode sofrer Mágias.
+        ↪ O usuário	não pode conjurar Magias, mas também não pode sofrer Magias.

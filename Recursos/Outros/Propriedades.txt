@@ -24,7 +24,7 @@
 //	///	Traços
 //
 
-↪ Tipos de Habilidade ou Mágia
+↪ Tipos de Habilidade ou Magia
 
 	↪ Ofensivo.
 

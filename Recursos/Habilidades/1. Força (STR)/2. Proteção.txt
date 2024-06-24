@@ -40,7 +40,7 @@
 
         ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Você consegue interpretar feitiços como Ataques físicos, fazendo com que a próxima Mágia, Maldição ou Milagre sofrido por você seja também considerado um Ataque Básico (sendo reduzido o dano pelo atributo de Defesa além da Noção, também desecadeando Habilidades, Talentos e Efeitos que precisam de Ataques Básicos).
+        ↪ Você consegue interpretar feitiços como Ataques físicos, fazendo com que a próxima Magia, Maldição ou Milagre sofrido por você seja também considerado um Ataque Básico (sendo reduzido o dano pelo atributo de Defesa além da Noção, também desecadeando Habilidades, Talentos e Efeitos que precisam de Ataques Básicos).
 
     ↪ Confiança
 
@@ -69,7 +69,7 @@
 
     ↪ Vanguarda.
 
-        ↪ Mágia, Defensivo, Área.
+        ↪ Magia, Defensivo, Área.
 
         ↪ Requer: Escudo, Alcance de 3 metros.
 
@@ -106,13 +106,13 @@
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪ Anti-Mágia
+    ↪ Anti-Magia
 
         ↪ Talento, Defensivo.
 
         ↪ Aumenta a Noção e Vitalidade em 3.
 
-        ↪ Você se torna mais resistente contra Mágias, fazendo com que no início do seu turno você posso sacrificar até 3 pontos de Defesa e os adicionar em Noção (ambos o aumento e diminuição na forma de Marcadores)
+        ↪ Você se torna mais resistente contra Magias, fazendo com que no início do seu turno você posso sacrificar até 3 pontos de Defesa e os adicionar em Noção (ambos o aumento e diminuição na forma de Marcadores)
 
     ↪ Superioridade Defensiva
 

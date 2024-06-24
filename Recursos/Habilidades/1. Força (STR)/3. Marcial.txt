@@ -118,7 +118,7 @@
 
         ↪ Aumenta a Noção em 5 e a Vitalidade em 2.
 
-        ↪ Através de treinametnos de resistência seu corpo se tornou não só resistente a Ataques físicos, mas também para os feitiços mais poderosos, fazendo que uma vez por Combate você possa anular completamente uma Mágia, Milagre ou Maldição sofrido, também realizando uma Dissipação Média nos Marcadores Negativos.
+        ↪ Através de treinametnos de resistência seu corpo se tornou não só resistente a Ataques físicos, mas também para os feitiços mais poderosos, fazendo que uma vez por Combate você possa anular completamente uma Magia, Milagre ou Maldição sofrido, também realizando uma Dissipação Média nos Marcadores Negativos.
 
     ↪ Bloqueio Relâmpago.
 

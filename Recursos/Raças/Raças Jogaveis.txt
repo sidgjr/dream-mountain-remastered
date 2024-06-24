@@ -12,7 +12,7 @@
 
 		↪ Talento (Sábio): Recebe mais Pontos de Mana máximo igual ao Domínio. No começo de turno restaura Pontos de Mana igual a um quarto do Alcance.
 
-		↪ Talento (Olhar da Mata): Recebe acerto garantido em Ataques Básicos, Mágias e Habilidades quando no alcance máximo.
+		↪ Talento (Olhar da Mata): Recebe acerto garantido em Ataques Básicos, Magias e Habilidades quando no alcance máximo.
 
 		↪ Talento (Rastro Silvestre): Acima da metade dos Pontos de Vida, Pode se mover ao dobro da Velocidade, mas apenas para Ação de Movimento.
 
@@ -55,7 +55,7 @@
 
 		↪ Talento (Impeto Gêmeo): Uma das copias de Divisão ganha um turno extra (O próximo).
 
-		↪ Talento (Travessura): Esquiva aumentada em 2 contra Mágias conjuradas por unidade inimigas.
+		↪ Talento (Travessura): Esquiva aumentada em 2 contra Magias conjuradas por unidade inimigas.
 
 	↪ Shinui (Polimorfismo).
 
