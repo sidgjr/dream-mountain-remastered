@@ -77,7 +77,9 @@
 
         ↪ Aumenta a Velocidade e o Alcance em 3.
 
-        ↪ Se o alvo estiver além do alcance para alguma Ação, você pode se movimentar até 3 metros dele sem consumir nenhuma Ação.
+        ↪ Se o alvo estiver além do alcance para alguma Ação, você pode se movimentar até 3 metros em direção dele sem consumir nenhuma Ação.
+
+        ↪ Seus Acertos Críticos restituem a Munição usada no Custo.
 
     ↪ Disparo Perfurante.
 
@@ -89,64 +91,130 @@
 
         ↪ Escolhe uma direção (inclusive diagonal), depois você realiza um disparo brutal naquela direção, o projétil atravessa todo os inimigos no caminho, realizando um Ataque Básico de Longo Alcance e aplicando 2 Marcadores de Sangrento em cada um.
 
-    ↪ Tiro de Contusão
+    ↪ Tiro de Contusão.
 
-        ↪ 
+        ↪ Habilidade, Controle, Projétil.
 
-    ↪ Chutar Armadilha
+        ↪ Requer: Arma de Longo Alcance, 1 Munição, Alcance de 8 metros.
 
-        ↪ 
+        ↪ Custo: 5 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-    ↪ 
+        ↪ Idetifica uma fraqueza do inimigo, realizando um Ataque Básico de Longo Alcance nele. Se for primeira vez usando essa Habilidade nesse Combate ele recebe 1 Marcador de Atordoamento, caso contrário, 1d4 Marcadores de Lentidão se seu Alcance for superior ao dele. 
 
-        ↪ 
+    ↪ Chutar Armadilha.
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Nada.
+
+        ↪ Custo: 3 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Você pode escolher uma direção (inclusive diagonal) e pode empurrar uma Armadilha armada para aquela direção em uma distância igual ao seu Atributo de Alcnace. Não importa se a Armadilha foi armado por um aliado ou inimigo,  depois dessa Habilidade você se torna o dono.
+
+        ↪ Caso não tenha uma Armadilha próxima, você chuta uma sacola de pregos pontiagudos que causa 1d20 de Dano mais 1 Marcador de Sanramento em quem acionar.
+
+        ↪ Armadilhas só ficam prontas no seu próximo turno depois de armadas, mas caso essa habilidade seja usada em uma Armadilha já pronta ela é reposicionada com acionamento instantâneo.
+
+    ↪ Afastar.
+
+        ↪ Habilidade, Ofensivo, Toque.
+
+        ↪ Requer: Nada.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Essa habilidade só pode ser usada uma vez por Combate.
+
+        ↪ Você realiza um golpe Corpo a Corpo no alvo, causando Dano Físico igual ao Alcance + Velocidade, o empurrando para a direção oposta igual a metade do Dano causado por essa Habilidade.
 
     ↪ Sinalizador.
 
         ↪ Talento, Interpretação.
 
-        ↪ 
+        ↪ Suspeitando de algo, você realiza um disparo luminoso em um local, seja com fogo ou pólvora, revelando unidades invisíveis com um teste de Percepção.
+
+        ↪ Além disso, tem o modificador de Percepção aumentado em um, incrementado para dois ao tentar encontrar alguém escondido.
 
     ↪ Reposicionar.
 
         ↪ Talento, Interpretação.
 
-        ↪ 
+        ↪ No momento de quebra de planos, da saída do Plano de Interpretação para a de Combate, você pode realizar uma Ação de Movimentação gratuitametne antes do Combate começar.
+
+        ↪ Além disso, tem o modificador de Mobilidade aumentado em um.
 
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪ Andar e Atirar.
+    ↪ Andar e Disparar.
 
-        ↪
+        ↪ Talento, Mobilidade.
+
+        ↪ Aumenta a Velocidade em 5.
+
+        ↪ Sempre que você usar uma Ação	de Movimentação, você pode realizar um Ataque Básico de Longo Alcance, sem consumir alguma Ação, com a metade do Dano.
 
     ↪ Marcar Alvo.
 
-        ↪
+        ↪ Habilidade, Utilidade, Área.
+
+        ↪ Requer: Alcance de 5 metros + o Atributo de Comunicação.
+
+        ↪ Custo: 6 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Marca um alvo para você e seus aliados. Inspira seus alidados para atacar um inimigo. Até o fim do seu próximo turno, seus aliados tem a Chance de Crítico e Esquiva aumentada em 1 contra aquele alvo.
 
     ↪ Barragem.
 
-        ↪
+        ↪ Habilidade, Ofensivo, Projétil.
 
-    ↪
+        ↪ Requer: Arma de Longo Alcance, Alcance de 10 metros.
 
-        ↪
+        ↪ Custo: 8 Pontos de Mana, Precisão Normal Dificil (maior ou igual a 11 no d20).
 
-    ↪
+        ↪ Você entra em um frenesi de adrenalina, realizado diversos disparos contra vários alvos, causando Dano Físico igual ao Dano da Munição vezes a metade do seu Atributo de Alcance. Cada disparo pode ser feito para qualquer unidade dentro do Alcance da habilidade e consome uma Munição.
 
-        ↪
+    ↪ Tiro de Precisão.
+
+        ↪ Habilidade, Ofensivo, Individual.
+
+        ↪ Requer: Nada.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Essa Habilidade só pode ser usada uma vez por Combate, podendo ser usada novamente apenas quando uma unidade Morrer ou for Derrotada.
+
+        ↪ Se concentra o máximo possível em suas habilidades, fazendo com que o seu próximo Ataque Básico tenha Precisão Garantida e realize um Acerto Crítico.
+
+    ↪ Apontar.
+
+        ↪ Habilidade, Utilidade, Área.
+
+        ↪ Requer: Alcance de 5 metros + o Atributo de Comunicação.
+
+        ↪ Custo: 8 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Marca um aliado para os seus oponentes. Até o fim do seu próximo turno, os inimigos afetados por essa Habilidade não podem o alvejar a menos que usem uma Habilidade ou Ataque Básico nele antes.
 
     ↪ Emboscada Dupla
 
         ↪ Talento, Interpretação.
 
-        ↪ 
+        ↪ Sendo experiente em caça, sempre que consumir uma Armadilha para a armar no Plano de Interpretação, ao invés disso você arma duas daquela Armadilha pelo preço de uma.
+
+        ↪ Além disso, tem o modificador de Trapaça aumentado em um.
 
     ↪ Identificar Trilhas
 
         ↪ Talento, Interpretação.
 
-        ↪ 
+        ↪ Você tem a habilidade de identificar rastros, podendo agora com um teste de Percepção realizar duas atividades: Achar o caminho certo e saber quem passou por aquele lugar.
+
+        ↪ Caminho certo: com um teste bem sucedido recebe dicas para saber qual o melhor caminho para o seu objetivo.
+
+        ↪ Saber quem passou: com um teste bem sucedido consegue saber quantas pessoas e quais seus Atributos Principais, Acertos Críticos revelam qual o maior conhecimento dos mesmos e pelo menos uma Habilidade ou Talento aleatória deles.
+
+        ↪ Além disso, tem o modificador de Percepção aumentado em um.
 
 
 ↪ Samek (Classe 7, Profissional)
