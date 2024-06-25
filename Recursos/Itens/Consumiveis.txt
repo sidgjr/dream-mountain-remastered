@@ -47,7 +47,7 @@
 
         ↪ Restaura 2 Pontos de Vida e aplica 4 Marcadores de Regeneração.
 
-    ↪ Frasco Evenenado
+    ↪ Frasco Envenenado
 
         ↪ Elixir.
 
@@ -69,7 +69,7 @@
 
         ↪ Munição, Arco.
 
-        ↪ 3 de Dano Base.
+        ↪ 4 de Dano Base.
 
 
 ↪ Ayin (Classe 8, Itens Incomuns)
@@ -78,19 +78,19 @@
 
         ↪ Elixir.
 
-        ↪ Restaura 15 Pontos de Vida, aplicando 3 Marcadores de Sangramento e 1 de Desarme.
+        ↪ Restaura 2d20 Pontos de Vida, aplicando 3 Marcadores de Sangramento e 1 de Desarme.
 
     ↪ Bomba de Fumaça
 
         ↪ Armadilha.
 
-        ↪ Aplica em uma área baseada no atributo de Alcance, 4 Marcadores de Esquiva e Fraqueza em todos as unidades inimigas acertadas.
+        ↪ Aplica em uma área baseada no atributo de Alcance, 4 Marcadores de Esquiva nos aliados atingidos e 4 Marcadores Negativos em Ataque a todos as unidades inimigas acertadas.
 
     ↪ Flecha de Ossos
 
         ↪ Munição, Arco.
 
-        ↪ 5 de Dano Base.
+        ↪ 6 de Dano Base.
 
         ↪ O dano causado com essa flecha é metade Físico e metade Mágico.
 
@@ -135,7 +135,7 @@
 
         ↪ Aplica em uma área baseada no atributo de Alcance, 1d10 Marcadores Negativos de Defesa, e também 1d10 de Marcadores Negativos para Noção (rolagens de dado diferente).
 
-    ↪ Flechas Evenenadas
+    ↪ Flechas Envenenadas
 
         ↪ Munição, Arco.
 

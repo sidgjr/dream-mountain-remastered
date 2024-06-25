@@ -4,7 +4,7 @@
 
         ↪ Talento, Defensivo.
 
-        ↪ Com sua especialidade em linha de frente você tem a Defesa Aumentada em 3, Incrementado para 5 enquanto usar um Escudo.
+        ↪ Com sua especialidade em linha de frente você tem a Defesa Aumentada em 4, Incrementado para 6 enquanto usar um Escudo.
 
     ↪ Segundo Fôlego.
 
@@ -38,7 +38,7 @@
 
         ↪ Repentino (Pode ser usado fora do turno).
 
-        ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+        ↪ Custo: 5 Pontos de Mana, Precisão Dificil (maior ou igual a 11 no d20).
 
         ↪ Você consegue interpretar feitiços como Ataques físicos, fazendo com que a próxima Magia, Maldição ou Milagre sofrido por você seja também considerado um Ataque Básico (sendo reduzido o dano pelo atributo de Defesa além da Noção, também desecadeando Habilidades, Talentos e Efeitos que precisam de Ataques Básicos).
 
@@ -55,7 +55,7 @@
 
         ↪ Talento, Defensivo.
 
-        ↪ Aumenta a Inteligência em 1.
+        ↪ Aumenta a Inteligência em 2.
 
         ↪ A sua presença deixa você e seus aliados mais seguros, aumentando de ambos sua Noção e Defesa em 2.
 
@@ -85,7 +85,7 @@
 
         ↪ Custo: 4 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Avança para proteger um aliado, o concedendo 3 Marcadores de Resistência. Ataques Básicos que seriam feitos a ele nesse turno são redirecionados a você.
+        ↪ Avança para proteger um aliado, o concedendo 3 Marcadores de Resistência. Os próximos Ataques Básicos que seriam feitos a ele são redirecionados a você até o fim do seu próximo turno.
 
     ↪ Arremesso de Escudo.
 
@@ -97,11 +97,11 @@
 
         ↪ Dispara seu Escudo contra um inimigo, ricocheteando em outro, Causando o Dano Físico igual a metade da sua Defesa em cada um. O escudo volta para sua mão no final da Habilidade. Acerto Crítico além de dobrar o Dano também dobra o número de alvos (4).
 
-    ↪ Liderança.
+    ↪ Exemplo.
 
         ↪ Talento, Interpretação.
 
-        ↪ Por sempre estar lutando na linha de frente você desenvolveu um senso de Liderança, dando um modificador de Superação para todos o membros do grupo.
+        ↪ Por sempre estar lutando na linha de frente você é um exemplo de guerreiro a ser seguido, dando um modificador de Superação para todos o membros do grupo, com exceção de você que recebe dois Modificadores.
 
 
 ↪ Ayin (Classe 8, Entusiasta)
@@ -110,9 +110,9 @@
 
         ↪ Talento, Defensivo.
 
-        ↪ Aumenta a Noção e Vitalidade em 3.
+        ↪ Aumenta a Noção e Vitalidade em 4.
 
-        ↪ Você se torna mais resistente contra Magias, fazendo com que no início do seu turno você posso sacrificar até 3 pontos de Defesa e os adicionar em Noção (ambos o aumento e diminuição na forma de Marcadores)
+        ↪ Você se torna mais resistente contra Magias, fazendo com que no início do seu turno você possa sacrificar até 4 pontos de Defesa e os adicionar em Noção (ambos o aumento e diminuição na forma de Marcadores)
 
     ↪ Superioridade Defensiva
 

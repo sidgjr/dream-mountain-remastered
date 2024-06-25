@@ -6,7 +6,7 @@
 
         ↪ Aumenta o número máximo de Itens no Inventário em 2.
 
-        ↪ Perde 2 ponto de Velocidade e Alcance para cada Item extra armazenado.
+        ↪ Perde 1 ponto de Velocidade e Alcance para cada Item extra armazenado.
 
     ↪ Gaiola Velha
 
@@ -20,7 +20,7 @@
 
         ↪ Arma de Duas Mãos, Espada.
 
-        ↪ Aumenta o Ataque em 6.
+        ↪ Aumenta o Ataque em 8.
 
         ↪ O quarto Ataque Básico do usuário com esta Arma sempre erra.
 
@@ -36,7 +36,7 @@
 
         ↪ Arma, Machado.
 
-        ↪ Aumenta o Ataque e a Velocidade em 2.
+        ↪ Aumenta o Ataque e a Velocidade em 3.
 
     ↪ Estilingue
 
@@ -50,7 +50,7 @@
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta o Domínio em 2.
+        ↪ Aumenta o Domínio em 3.
     
     ↪ Manto Sujo
 
@@ -64,23 +64,23 @@
 
         ↪ Equipamento, Escudo.
 
-        ↪ Aumenta a Defesa em 3.
+        ↪ Aumenta a Defesa em 4.
 
-        ↪ Reduz o Dano não periódico sofrido em 1.
+        ↪ Reduz o Dano Físico não periódico sofrido em 1.
     
     ↪ Chapéu do Camponês
 
         ↪ Equipamento, Elmo.
 
-        ↪ Aumenta a Velocidade em 2.
+        ↪ Aumenta a Velocidade em 3.
 
-        ↪ Aumenta a Produção e Saque em 1.
+        ↪ Aumenta o Modificadores de Resistência, Mobilidade e Criação em um.
 
     ↪ Luvas do Lenhador
 
         ↪ Equipamento, Mãos.
 
-        ↪ Aumenta o Ataque em 1, incrementado para 3 ao usar armas de Duas Mãos.
+        ↪ Aumenta o Ataque em 2, incrementado para 4 ao usar armas de Duas Mãos.
 
 
 ↪ Resh (Classe 9, Itens Comuns)
@@ -91,13 +91,13 @@
 
         ↪ Aumenta o número máximo de Itens no Inventário em 3.
 
-        ↪ Perde 1 ponto de Velocidade e Alcance para cada Item extra armazenado.
+        ↪ Perde 1 ponto de Velocidade para cada Item extra armazenado.
     
     ↪ Colar de Conchas
 
         ↪ Equipamento, Pescoço.
 
-        ↪ Aumenta a Noção em 4.
+        ↪ Aumenta a Noção em 6.
 
         ↪ Toda vez que o usuário conjurar uma Magia, ele restaura 1 Ponto de Vida.
     
@@ -113,19 +113,19 @@
 
         ↪ Arma, Adaga.
 
-        ↪ Aumenta a Agilidade em 2 e o Ataque em 3.
+        ↪ Aumenta a Agilidade em 2 e o Ataque em 4.
 
     ↪ Elmo Desgastado
 
         ↪ Equipamento, Elmo.
 
-        ↪ Aumenta a Defesa em 4, incrementado para 8 quando estiver com metade dos pontos de vida.
+        ↪ Aumenta a Defesa em 6, incrementado para 10 quando estiver com metade dos pontos de vida.
 
     ↪ Colete de Couro
 
         ↪ Equipamento, Torso.
 
-        ↪ Aumenta a Defesa em 3.
+        ↪ Aumenta a Defesa em 4.
 
         ↪ Toda vez que sofrer Dano Mágico que não seja periódico, recebe 2 Marcadores de Barreira.
 
@@ -133,7 +133,7 @@
 
         ↪ Arma de Longo Alcance, Arco.
 
-        ↪ Aumenta a Força e o Ataque em 1, além da Agilidade em 4.
+        ↪ Aumenta a Força e o Ataque em 1, além da Agilidade em 5.
 
         ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 10, com Alcance Básico 15 metros de distância.
 
@@ -141,9 +141,9 @@
 
         ↪ Equipamento, Pernas.
 
-        ↪ Aumenta a Força em 3.
+        ↪ Aumenta a Força em 2.
 
-        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 3.
+        ↪ Enquanto estiver com Pontos de Vida Igual ou Superior a metade, aumenta a Agilidade em 2.
 
     ↪ Forcado do Fazendeiro 
 
@@ -151,15 +151,15 @@
 
         ↪ Aumenta o Ataque em 6 e a Vitalidade em 3.
 
-        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte, Saque e Produção.
+        ↪ Toda vez que acertar um Ataque Corpo a Corpo ou Habilidade com Alcance de Toque, Ganhe 2 Marcadores de Sorte e Saque.
 
     ↪ Grimório do Bruxo Aprendiz
 
         ↪ Arma, Diversos.
 
-        ↪ Aumenta o Domínio e a Maestria em 3.
+        ↪ Aumenta o Domínio e a Maestria em 2.
 
-        ↪ Toda vez que realizar uma Magia do Tipo Ofensivo, Defensivo ou Recupera, ganhe 2 Marcadores de Maestria.
+        ↪ Toda vez que realizar uma Magia do Tipo Ofensivo, Defensivo ou Recuperação, ganhe 2 Marcadores de Maestria.
 
 
 ↪ Ayin (Classe 8, Itens Incomuns)
@@ -184,7 +184,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Força em 1 e Agilidade em 2.
+        ↪ Cada parte aumenta a Força em 1 e Agilidade em 1.
 
         ↪ Conjunto Completo: O primeiro Acerto Crítico em um combate concede um Turno Adicional.
 
@@ -192,7 +192,7 @@
 
         ↪ Equipamentos: Elmo, Torso, Ombreiras, Mãos, Pernas, Pés.
 
-        ↪ Cada parte aumenta a Força em 1 e a Inteligência em 2.
+        ↪ Cada parte aumenta a Força em 1 e a Inteligência em 1.
 
         ↪ Conjunto Completo: Acertos Críticos de Magias tem o seu Custo de Mana restituídos, curando até uma unidade aliada ou companheiro de equipe pela mesma quantia.
 
@@ -200,7 +200,7 @@
 
         ↪ Arma de Duas Mãos, Lança
 
-        ↪ Aumenta o Ataque em 7, além da Defesa e Noção em 3.
+        ↪ Aumenta o Ataque em 8, além da Defesa e Noção em 4.
 
         ↪ O Alcance de Ataques Corpo a Corpo e Habilidades com Alcance de Toque é aumentado em 2 metros.
 
@@ -210,13 +210,13 @@
 
         ↪ Aumenta o Ataque e Velocidade em 4.
 
-        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 5 de Defesa do alvo e o aplica 1 Marcador de Sangramento.
+        ↪ Ataques Corpo a Corpo e Habilidade com Alcance de Toque ignoram até 5 de Defesa do alvo e aplicam 1 Marcador de Sangramento.
 
     ↪ Arco Longo do Franco-atirador
 
         ↪ Arma de Longo Alcance, Arco.
 
-        ↪ Aumenta a Agilidade em 5, a Força e Inteligência em 2.
+        ↪ Aumenta a Agilidade em 6, a Força e Inteligência em 2.
 
         ↪ O Dano de um Ataque Básico com este Equipamento não pode passar de 15, com Alcance Básico 20 metros de distância.
 
@@ -226,7 +226,7 @@
 
         ↪ Equipamento, Escudo.
 
-        ↪ Aumenta a Defesa e Noção em 5.
+        ↪ Aumenta a Defesa e Noção em 6.
 
         ↪ Aumenta a Maestria em 3 ao usar Habilidades e Magias do tipo Defensivo, Recuperação e Utilidade.
 
@@ -236,17 +236,17 @@
 
         ↪ Arma de Duas Mãos, Cajado.
 
-        ↪ Aumenta a Inteligência em 3.
+        ↪ Aumenta a Inteligência em 4.
 
-        ↪ A Maestria é aumentada em 3 para Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Magia da escola Ignis.
+        ↪ A Maestria é aumentada em 4 para Magias do tipo Ofensivo, Defensivo, Mobilidade e Controle. Esse efeito também ocorre para qualquer Magia da escola Ignis.
 
     ↪ Tambor do Xamã
 
         ↪ Arma de Duas Mãos, Diversos.
 
-        ↪ Aumenta a Comunicação em 4 e o Domínio em 4.
+        ↪ Aumenta a Comunicação em 5 e o Domínio em 5.
 
-        ↪ Maestria aumentada em 4 para Magias e habilidades do tipo Recuperação, Invocação e Utilidade.
+        ↪ Maestria aumentada em 5 para Magias e habilidades do tipo Recuperação, Invocação e Utilidade.
 
         ↪ No início do seu turno, você e cada unidade que controlar recuperam vida igual ao número de unidades que você controla.
 

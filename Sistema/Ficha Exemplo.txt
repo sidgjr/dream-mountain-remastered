@@ -20,7 +20,7 @@
 
     ↪ Nível (LVL): 1.
 
-    ↪ Pontos de Vida (HP): 30/30.
+    ↪ Pontos de Vida (HP): 50/50.
 
     ↪ Pontos de Mana (MP): 12/12.
 

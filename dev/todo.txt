@@ -3,3 +3,5 @@
 ↪ Mudar texto de aliados em itens
 
 ↪ Adaptar o testo usuário em equipamentos
+
+↪ Rever Samek e os próximos
