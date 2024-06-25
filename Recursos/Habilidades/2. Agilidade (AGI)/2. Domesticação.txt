@@ -1,32 +1,32 @@
 ↪ Shin (Classe 10 ou Básica, Novato)
 
-    ↪
+    ↪ Companhia.
 
         ↪
 
-    ↪
+    ↪ Sequência de Uivos.
 
         ↪
 
-    ↪
+    ↪ Golpe em Conjunto.
 
         ↪
 
-    ↪
+    ↪ Emboscar.
 
         ↪
 
-    ↪
+    ↪ Curar Fera.
 
         ↪
 
-    ↪ 
+    ↪ Analisar Espécie.
 
         ↪ Talento, Interpretação.
 
         ↪ 
 
-    ↪ 
+    ↪ Domar.
 
         ↪ Talento, Interpretação.
 
@@ -35,33 +35,33 @@
 
 ↪ Resh (Classe 9, Regular)
 
-    ↪
+    ↪ Sincronia.
 
         ↪
 
-    ↪
+    ↪ Abrir Feridas.
 
         ↪
 
-    ↪
+    ↪ Arremessar Fera.
 
         ↪
 
-    ↪
+    ↪ Rugido.
 
         ↪
 
-    ↪
+    ↪ Dispersar.
 
         ↪
 
-    ↪ 
+    ↪ Andar das Matas.
 
         ↪ Talento, Interpretação.
 
         ↪ 
 
-    ↪ 
+    ↪ Alimentar Fera.
 
         ↪ Talento, Interpretação.
 
@@ -70,33 +70,33 @@
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪
+    ↪ Harmonia.
 
         ↪
 
-    ↪
+    ↪ Convocar.
 
         ↪
 
-    ↪
+    ↪ Justaposição.
 
         ↪
 
-    ↪
+    ↪ Simbiose.
 
         ↪
 
-    ↪
+    ↪ Horda.
 
         ↪
 
-    ↪ 
+    ↪ Cadeia Alimentar.
 
         ↪ Talento, Interpretação.
 
         ↪ 
 
-    ↪ 
+    ↪ Monstruosidade.
 
         ↪ Talento, Interpretação.
 
