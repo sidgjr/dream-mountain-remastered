@@ -4,7 +4,7 @@
 
         ↪ Talento, Ofensivo.
 
-        ↪ Em busca de uma melhor mira você sente melhor quando isolado, fazendo que você tenha a Agilidade aumentada em 1, incrementado para 3 se não tiver nenhuma outra unidade próxima no raio de 6 metros.
+        ↪ Em busca de uma melhor mira você sente melhor quando isolado, fazendo que você tenha a Agilidade aumentada em 1, incrementado para 2 se não tiver nenhuma outra unidade próxima no raio de 6 metros.
 
     ↪ Sequência de Tiros.
 
@@ -14,7 +14,7 @@
 
         ↪ Custo: 3 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
 
-        ↪ Dispara rapidamente vários projéteis contra um alvo, causando Dano físico igual 1d4 vezes o Dano Base da Munição.
+        ↪ Dispara rapidamente vários projéteis contra um alvo, realizando um Ataque Básico + 1d4 vezes o Dano da Munição.
 
     ↪ Arremessar Objeto.
 
@@ -40,11 +40,17 @@
 
         ↪ Armadilhas só ficam prontas no seu próximo turno depois de armadas.
 
-    ↪ Ricochete
+    ↪ Ricochete.
 
-        ↪ 
+        ↪ Habilidade, Ofensivo, Individual.
 
-    ↪ Tiro de Aviso
+        ↪ Requer: Arma de Longo Alcance.
+
+        ↪ Custo: 5 Pontos de Mana, Precisão Garantida (sem arremesso de dados).
+
+        ↪ Se concentra ao máximo em dois alvos, a próxima vez que realizar um Ataque Básico a Longa Distância ele também é realizado nesse outro alvo, ainda respeitando a distância original do ataque (do alvo para o novo alvo).
+
+    ↪ Tiro de Aviso.
 
         ↪ Talento, Interpretação.
 
@@ -52,7 +58,7 @@
 
         ↪ Você tem Intimidação aumentada em um, incrementado para dois caso seja em uma Ação que envolva uma Arma de Longo Alcance. 
 
-    ↪ Desarmar Armadilha
+    ↪ Desarmar Armadilha.
 
         ↪ Talento, Interpretação.
 
@@ -65,21 +71,31 @@
 
 ↪ Resh (Classe 9, Regular)
 
-    ↪
+    ↪ Ajustar Mira.
 
-        ↪
+        ↪ Talento, Mobilidade.
 
-    ↪
+        ↪ Aumenta a Velocidade e o Alcance em 3.
 
-        ↪
+        ↪ Se o alvo estiver além do alcance para alguma Ação, você pode se movimentar até 3 metros dele sem consumir nenhuma Ação.
 
-    ↪
+    ↪ Disparo Perfurante.
 
-        ↪
+        ↪ Habilidade, Ofensivo, Projétil.
 
-    ↪
+        ↪ Requer: Arma de Longo Alcance, 1 Munição, Alcance de 8 metros.
 
-        ↪
+        ↪ Custo: 6 Pontos de Mana, Precisão Normal (maior ou igual a 7 no d20).
+
+        ↪ Escolhe uma direção (inclusive diagonal), depois você realiza um disparo brutal naquela direção, o projétil atravessa todo os inimigos no caminho, realizando um Ataque Básico de Longo Alcance e aplicando 2 Marcadores de Sangrento em cada um.
+
+    ↪ Tiro de Contusão
+
+        ↪ 
+
+    ↪ Chutar Armadilha
+
+        ↪ 
 
     ↪ 
 
@@ -100,15 +116,15 @@
 
 ↪ Ayin (Classe 8, Entusiasta)
 
-    ↪
+    ↪ Andar e Atirar.
 
         ↪
 
-    ↪
+    ↪ Marcar Alvo.
 
         ↪
 
-    ↪
+    ↪ Barragem.
 
         ↪
 
