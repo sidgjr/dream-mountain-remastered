@@ -1,0 +1,37 @@
+Força (STR)
+
+    Armamento.
+
+    Coleção.
+
+    Construção.
+
+    Marcial.
+
+    Proteção.
+
+Agilidade (AGI)
+
+    Artilharia.
+
+    Astúcia.
+
+    Cultivo.
+
+    Domesticação.
+
+    Exploração.
+
+Inteligência (INT)
+
+    Arcano.
+
+    Ciência.
+
+    Elemental.
+
+    Necromancia.
+
+    Primal.
+
+    Sagrado (Adicional Isolado).

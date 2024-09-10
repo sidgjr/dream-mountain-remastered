@@ -107,7 +107,7 @@
 
 		↪ Roubo (AGI): adquirir a posse de um item sem o consentimento.
 
-		↪ Trapaça (AGI): enganar os sentidos de seres.
+		↪ Trapaça (AGI): cofundir os sentidos de seres.
 
 		↪ Furtividade (AGI): não ser detectado.
 
