@@ -33,5 +33,3 @@ Inteligência (INT)
     Necromancia.
 
     Primal.
-
-    Sagrado (Adicional Isolado).
