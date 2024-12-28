@@ -1,5 +1,9 @@
 # Shin (Novato)
 
+### Habilidade.
+
+Texto.
+
 # Resh (Regular)
 
 # Ayin (Entusiasta)
