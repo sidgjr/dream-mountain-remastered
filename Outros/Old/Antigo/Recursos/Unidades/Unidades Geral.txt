@@ -1,4 +1,4 @@
-↪ Shin (Classe básica)
+↪ Shin (Classe básica, Insetos)
 
 	↪ Ar-Vivo
 
@@ -51,7 +51,7 @@
 		↪ Monstro; ?; Terrestre; Detritívoro; Origem: qualquer lugar
 
 
-↪ Resh (Classe 9)
+↪ Resh (Classe 9, Animais comuns)
 
 	↪ Parva
 
@@ -84,7 +84,7 @@
 		↪ .
 
 
-↪ Ayin (Classe 8)
+↪ Ayin (Classe 8, Grandes animais)
 
 	↪ Ovelha do Mar
 
@@ -119,7 +119,7 @@
 		↪ .
 
 
-↪ Samek (Classe 7)
+↪ Samek (Classe 7, )
 
 	↪ Lobo Celeste
 
@@ -166,7 +166,7 @@
 		↪ .
 
 
-↪ Kaph (Classe 6)
+↪ Kaph (Classe 6, )
 
 	↪ Enguia Incendiária
 
@@ -207,7 +207,7 @@
 		↪ .
 
 
-↪ Yod (Classe 5)
+↪ Yod (Classe 5, )
 
 	↪ Furão-golias
 
@@ -262,7 +262,7 @@
 		↪ Monstro Mágico Divino; Passaro; Voador; ?; Origem: Deserto Central (Balebus)
 
 
-↪ Tet (Classe 4)
+↪ Tet (Classe 4, )
 
 	↪ Tubarão-machado
 
@@ -319,7 +319,7 @@
 		↪ Monstro; Dinossauro; Terrestre; Herbívoro; Origem: Floresta dos Behemoths (Anak)
 
 
-↪ Het (Classe 3)
+↪ Het (Classe 3, )
 
 	↪ Vorme do Exílio
 
@@ -372,7 +372,7 @@
 		↪ Monstro; elefante; Terrestre; Herbpívoro; Origem; Tandlard
 
 
-↪ Zayin (Classe 2)
+↪ Zayin (Classe 2, )
 
 	↪ Peletzu
 
@@ -421,7 +421,7 @@
 		↪ Monstro Mágico; Serpente Dragão; Carnívoro; Origem: Floresta Exótica (Yar Matua)
 
 
-↪ Dalet (Classe 1)
+↪ Dalet (Classe 1, )
 
 	↪ Zorrante
 
@@ -480,7 +480,7 @@
 		↪ Monstro; Reptíl; Terrestre; Carnívoro; Origem: Pantano Nevoeiro (Gler Rathis)
 
 
-↪ Aleph (Classe Especial)
+↪ Aleph (Classe Especial, )
 
 	↪ Helyatã
 

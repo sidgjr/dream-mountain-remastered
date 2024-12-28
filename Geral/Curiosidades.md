@@ -1,0 +1,1 @@
+1. Um ser humano normal é considerado um ser com nível de poder Resh, o mesmo de animais comuns. Mesmo explorando seus limites, sem o uso da mana ele só pode alcançar o nível Ayin, ou seja, o mesmo de um animal de grande porte. 

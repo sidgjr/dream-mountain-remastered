@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ba25b5345321e2",
+        "id": "d641b15b594a6d6e",
         "type": "tabs",
         "children": [
           {
-            "id": "15404f2a5f622466",
+            "id": "34a54cddb64cca5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Habilidades/Agilidade/Artilharia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Artilharia"
             }
           }
         ]
@@ -156,20 +160,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ac9f35bf4fca65",
+  "active": "34a54cddb64cca5b",
   "lastOpenFiles": [
-    "Notas/Recursos/Habilidades/Agilidade/Artilharia.md",
-    "Notas/Recursos/Habilidades/Inteligência",
-    "Notas/Recursos/Habilidades/Agilidade",
-    "Notas/Recursos/Habilidades/Força",
-    "Notas/Recursos/Habilidades",
-    "Notas/Recursos",
+    "Recursos/Habilidades/Agilidade/Doma.md",
+    "Recursos/Habilidades/Agilidade/Artilharia.md",
+    "Recursos/Habilidades/Força/Cultivo.md",
+    "Recursos/Habilidades/Força/Proteção.md",
+    "Recursos/Habilidades/Inteligência/Alquimia.md",
+    "Recursos/Habilidades/Inteligência/Arcano.md",
+    "Recursos/Habilidades/Inteligência/Elemental.md",
+    "Recursos/Habilidades/Inteligência/Necromancia.md",
+    "Recursos/Habilidades/Inteligência/Primal.md",
+    "Recursos/Habilidades/Inteligência/Sagrado.md",
+    "Recursos/Habilidades/Força/Marcial.md",
+    "Recursos/Habilidades/Força/Construção.md",
+    "Recursos/Habilidades/Força/Coleção.md",
+    "Recursos/Habilidades/Força/Armamento.md",
+    "Geral/Dicas.md",
+    "Geral/Curiosidades.md",
+    "Recursos/Habilidades/Agilidade/Trapaça.md",
+    "Recursos/Habilidades/Agilidade/Exploração.md",
+    "Recursos/Habilidades/Agilidade/Furtividade.md",
+    "Recursos/Habilidades/Agilidade/Mobilidade.md",
+    "Geral",
+    "Sistema/Níveis de Poder.md",
+    "Sistema",
+    "Recursos/Habilidades/Inteligência",
+    "Recursos/Habilidades/Agilidade",
+    "Recursos/Habilidades/Força",
+    "Recursos/Habilidades",
+    "Recursos",
     "Notas/Untitled.canvas",
     "Old/~WRL0002.tmp",
     "Old/~WRD0001.tmp",
     "Old/~WRD0000.tmp",
-    "Old/~$eam Mountain 2.docx",
-    "Notas/Skill Tree.md",
-    "Notas"
+    "Notas/Skill Tree.md"
   ]
 }
