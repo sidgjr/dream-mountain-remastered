@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "8cec94d446b8439e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ba25b5345321e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15404f2a5f622466",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "932549d9ad7ea97d",
+    "type": "split",
+    "children": [
+      {
+        "id": "363f2d33302b344f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37ac9f35bf4fca65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5f69c2a1cc631a95",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60bdc4a97c55a6e3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46d6bb0d7a9b7e91",
+    "type": "split",
+    "children": [
+      {
+        "id": "4957913705f940d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a7521c9eab8d2d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ffd6ed079d50c246",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2bcc224348e1ea30",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d0f963cfef2c8bcc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas/Untitled.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "37ac9f35bf4fca65",
+  "lastOpenFiles": [
+    "Notas/Recursos/Habilidades/Agilidade/Artilharia.md",
+    "Notas/Recursos/Habilidades/Inteligência",
+    "Notas/Recursos/Habilidades/Agilidade",
+    "Notas/Recursos/Habilidades/Força",
+    "Notas/Recursos/Habilidades",
+    "Notas/Recursos",
+    "Notas/Untitled.canvas",
+    "Old/~WRL0002.tmp",
+    "Old/~WRD0001.tmp",
+    "Old/~WRD0000.tmp",
+    "Old/~$eam Mountain 2.docx",
+    "Notas/Skill Tree.md",
+    "Notas"
+  ]
+}

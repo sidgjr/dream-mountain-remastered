@@ -6,6 +6,8 @@ Força (STR)
 
     Construção.
 
+    Cultivo.
+
     Marcial.
 
     Proteção.
@@ -14,22 +16,26 @@ Agilidade (AGI)
 
     Artilharia.
 
-    Astúcia.
+    Trapaça.
 
-    Cultivo.
-
-    Domesticação.
+    Doma.
 
     Exploração.
 
+    Furtividade.
+
+    Mobilidade.
+
 Inteligência (INT)
 
-    Arcano.
+    Alquimia.
 
-    Ciência.
+    Arcano.
 
     Elemental.
 
     Necromancia.
 
     Primal.
+
+    Sagrado.
