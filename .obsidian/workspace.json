@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "411d906ad76b758e",
+        "id": "a07a1f6509ad569a",
         "type": "tabs",
         "children": [
           {
-            "id": "6c7b2768b338ad09",
+            "id": "015cbc7cac3625f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recursos/Habilidades/Agilidade/Exploração.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Exploração"
+              "title": "New tab"
             }
           }
         ]
@@ -160,10 +156,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ac9f35bf4fca65",
+  "active": "015cbc7cac3625f8",
   "lastOpenFiles": [
-    "Recursos/Habilidades/Agilidade/Artilharia.md",
+    "Outros/Old/Sistema/Guia.txt",
+    "Outros/Old/Sistema/Ficha Exemplo.txt",
+    "Outros/Old/Sistema/Ficha Base.txt",
+    "Outros/Old/Sistema",
+    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/6. Necromancia.txt",
+    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/9. Arcano.txt",
+    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/8. Sagrado.txt",
+    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/7. Alquimia.txt",
+    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/5. Primal.txt",
+    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/4. Aqua.txt",
+    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/3. Ignis.txt",
+    "Outros/Game Design/Arquétipos de Jogadores.md",
+    "Outros/Dicas.md",
     "Recursos/Habilidades/Agilidade/Exploração.md",
+    "Recursos/Habilidades/Agilidade/Artilharia.md",
     "Recursos/Habilidades/Agilidade/Trapaça.md",
     "Recursos/Habilidades/Força/Marcial.md",
     "Recursos/Habilidades/Inteligência/Alquimia.md",
@@ -184,18 +193,7 @@
     "Outros/Referências.md",
     "Geral/Dicas.md",
     "Geral/Curiosidades.md",
-    "Geral",
     "Sistema/Níveis de Poder.md",
-    "Sistema",
-    "Recursos/Habilidades/Inteligência",
-    "Recursos/Habilidades/Agilidade",
-    "Recursos/Habilidades/Força",
-    "Recursos/Habilidades",
-    "Recursos",
-    "Notas/Untitled.canvas",
-    "Old/~WRL0002.tmp",
-    "Old/~WRD0001.tmp",
-    "Old/~WRD0000.tmp",
-    "Notas/Skill Tree.md"
+    "Notas/Untitled.canvas"
   ]
 }
