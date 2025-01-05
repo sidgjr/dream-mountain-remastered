@@ -1,5 +1,13 @@
 # Shin (Novato)
 
+### Habilidade.
+
+Texto.
+
+### Habilidade.
+
+Texto.
+
 # Resh (Regular)
 ### Julgo Ancestral.
 

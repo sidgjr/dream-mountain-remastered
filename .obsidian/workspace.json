@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a07a1f6509ad569a",
+        "id": "88513dfaa95760ae",
         "type": "tabs",
         "children": [
           {
-            "id": "015cbc7cac3625f8",
+            "id": "70cfe12e90715498",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Habilidades/Agilidade/Trapaça.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Trapaça"
             }
           }
         ]
@@ -156,8 +160,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "015cbc7cac3625f8",
+  "active": "70cfe12e90715498",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Recursos/Habilidades/Agilidade/Trapaça.md",
+    "Untitled 1.md",
+    "Recursos/Habilidades/Agilidade/Composição.md",
+    "Recursos/Habilidades/Força/Armamento.md",
+    "Outros/Old/Recursos/Itens/Equipamentos.txt",
+    "Recursos/Habilidades/Agilidade/Doma.md",
+    "Recursos/Habilidades/Inteligência/Alquimia.md",
+    "Recursos/Habilidades/Força/Coleção.md",
+    "Recursos/Habilidades/Força/Marcial.md",
+    "Recursos/Habilidades/Agilidade/Artilharia.md",
+    "Untitled.md",
+    "Recursos/Habilidades/Inteligência/Sagrado.md",
+    "Recursos/Habilidades/Inteligência/Primal.md",
+    "Recursos/Habilidades/Inteligência/Necromancia.md",
+    "Recursos/Habilidades/Inteligência/Elemental.md",
+    "Recursos/Habilidades/Inteligência/Arcano.md",
+    "Recursos/Habilidades/Força/Proteção.md",
+    "Recursos/Habilidades/Força/Cultivo.md",
+    "Recursos/Habilidades/Força/Construção.md",
+    "Recursos/Habilidades/Agilidade/Forja.md",
+    "Recursos/Habilidades/Agilidade/Exploração.md",
+    "Outros/Old/Recursos/Outros/Atributos.txt",
+    "Outros/Old/História/Dream Mountain 2.docx",
     "Outros/Old/Sistema/Guia.txt",
     "Outros/Old/Sistema/Ficha Exemplo.txt",
     "Outros/Old/Sistema/Ficha Base.txt",
@@ -165,35 +193,11 @@
     "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/6. Necromancia.txt",
     "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/9. Arcano.txt",
     "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/8. Sagrado.txt",
-    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/7. Alquimia.txt",
-    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/5. Primal.txt",
-    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/4. Aqua.txt",
-    "Outros/Old/Recursos/Habilidades/3. Inteligência (INT)/3. Ignis.txt",
     "Outros/Game Design/Arquétipos de Jogadores.md",
     "Outros/Dicas.md",
-    "Recursos/Habilidades/Agilidade/Exploração.md",
-    "Recursos/Habilidades/Agilidade/Artilharia.md",
-    "Recursos/Habilidades/Agilidade/Trapaça.md",
-    "Recursos/Habilidades/Força/Marcial.md",
-    "Recursos/Habilidades/Inteligência/Alquimia.md",
-    "Recursos/Habilidades/Força/Cultivo.md",
-    "Recursos/Habilidades/Inteligência/Sagrado.md",
-    "Recursos/Habilidades/Inteligência/Primal.md",
-    "Recursos/Habilidades/Força/Armamento.md",
-    "Recursos/Habilidades/Agilidade/Composição.md",
-    "Recursos/Habilidades/Agilidade/Forja.md",
-    "Recursos/Habilidades/Força/Proteção.md",
-    "Recursos/Habilidades/Inteligência/Necromancia.md",
-    "Recursos/Habilidades/Inteligência/Elemental.md",
-    "Recursos/Habilidades/Inteligência/Arcano.md",
-    "Recursos/Habilidades/Força/Construção.md",
-    "Recursos/Habilidades/Força/Coleção.md",
-    "Recursos/Habilidades/Agilidade/Doma.md",
     "Recursos/Habilidades/Agilidade/Furtividade.md",
     "Outros/Referências.md",
     "Geral/Dicas.md",
-    "Geral/Curiosidades.md",
-    "Sistema/Níveis de Poder.md",
     "Notas/Untitled.canvas"
   ]
 }

@@ -2,6 +2,12 @@
 
 ### Habilidade.
 
+Talento Principal.
+
+Texto.
+
+### Habilidade.
+
 Texto.
 
 # Resh (Regular)

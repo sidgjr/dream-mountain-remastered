@@ -797,7 +797,7 @@
         ↪ Conjunto Completo: quando o usuário sofrer Dano ele pode fazer com que seja causado em seus Pontos de Mana ao invés dos Pontos de Vida. As Magias e Habilidades do usuário não precisam respeitar Custos e Condições.
 
 
-↪ Dalet (Classe 1, Itens Profanos)
+↪ Dalet (Classe 1, Itens Demoníacos)
 
     ↪
 
@@ -840,7 +840,7 @@
         ↪
 
 
-↪ Aleph (Classe Especial, Itens criados na Montanha dos Sonhos)
+↪ Aleph (Classe Especial, Itens dos Sonhos, Itens criados na Montanha dos Sonhos)
 
     ↪ Mochila Infinita
 
