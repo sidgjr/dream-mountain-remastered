@@ -1,12 +1,14 @@
 # Shin (Novato)
 
-### Principal: .
+### Principal: Morto-Vivo.
 
 Talento Principal.
 
-### Habilidade.
+O estudo das propriedades sombrias lhe deram a capacidade de controlar os mortos. Sempre que matar uma **Unidade** ou uma **Unidade** sobre seu controle morrer você captura sua alma.
 
-Texto.
+Você pode invocar uma **Unidade** sobre seu controle, esta tendo um adicional de tipo **Morto-Vivo**, ao consumir sua alma e mais 4 outras de mesmo nível. Essas **Unidades** possuem metade dos pontos de **Vida** e **Mana**.
+
+Só é possível invocar **Unidades** de nível semelhante ou inferior ao seu nível de **Necromancia**. O número máximo de **Unidades** por está habilidade é igual ao seu nível de **Necromancia**, porém para cada nível de **Unidade** a contagem é independente.
 
 # Resh (Regular)
 

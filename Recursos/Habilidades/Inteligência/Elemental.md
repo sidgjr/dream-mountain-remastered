@@ -1,8 +1,12 @@
 # Shin (Novato)
 
-### Principal: .
+### Principal: Instabilidade.
 
 Talento Principal.
+
+O controle de diversos elementos da natureza sobrecarregam sua **Mana**, fazendo com que ao conjurar uma magia você anote o seu elemento e aumente a sua **Maestria** em um valor igual ao seu nível de **Elemental** até o fim do **Combate** ou **Sessão Menor**.
+
+Quando anotar novamente o mesmo elemento todas as anotações são limpas e sua Maestria bônus por este **Talento** é perdida. 
 
 ### Habilidade.
 

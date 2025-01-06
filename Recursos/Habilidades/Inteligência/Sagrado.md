@@ -1,8 +1,12 @@
 # Shin (Novato)
 
-### Principal: .
+### Principal: Benevolência.
 
 Talento Principal.
+
+A fé em poderes divinos tornam suas orações em milagres, fazendo com que cada vez que você curar alguém, sem ser por **Marcadores**, você recebe **Marcadores** permanente e únicos chamado **Salvação** igual o seu nível de **Sagrado**. Suas curas tem um adicional igual a esses **Marcadores**.  
+
+Esses marcadores duram até o final do **Combate** ou **Sessão Menor**.
 
 ### Habilidade.
 

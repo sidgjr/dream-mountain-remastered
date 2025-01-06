@@ -1,9 +1,12 @@
 # Shin (Novato)
 
-### Principal: .
+### Principal: Estado Natural.
 
-Talento Principal.
+A afinidade aos espíritos e aos ancestrais faz com que você se torne um com a natureza. A cada nível em **Primal** você pode escolher um **Monstro** de mesmo nível no **Bestiário** para aprender os seus segredos. Você pode se transformar naquele **Monstro**, como uma **Habilidade** sem custo.
 
+Seus atributos são somados com o do **Monstro** e você pode usar tanto suas **Habilidades** normais quantos a do **Monstro** transformado.
+
+Esse talento só funciona ao não ter nenhum **Item** equipado.
 ### Habilidade.
 
 Texto.

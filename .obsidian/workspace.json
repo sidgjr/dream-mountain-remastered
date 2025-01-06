@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Habilidades/Força/Proteção.md",
+                "file": "Recursos/Habilidades/Inteligência/Sagrado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proteção"
+              "title": "Sagrado"
             }
           }
         ]
@@ -162,29 +162,29 @@
   },
   "active": "52877337581b0a9e",
   "lastOpenFiles": [
-    "Recursos/Habilidades/Inteligência/Alquimia.md",
-    "Recursos/Habilidades/Força/Proteção.md",
+    "Recursos/Habilidades/Inteligência/Primal.md",
+    "Recursos/Habilidades/Inteligência/Sagrado.md",
+    "Recursos/Habilidades/Inteligência/Necromancia.md",
+    "Recursos/Habilidades/Inteligência/Elemental.md",
     "Recursos/Habilidades/Agilidade/Composição.md",
+    "Recursos/Habilidades/Força/Marcial.md",
+    "Recursos/Habilidades/Inteligência/Alquimia.md",
+    "Recursos/Habilidades/Inteligência/Arcano.md",
+    "Recursos/Habilidades/Força/Armamento.md",
+    "Recursos/Habilidades/Força/Cultivo.md",
+    "Recursos/Habilidades/Força/Proteção.md",
+    "Recursos/Habilidades/Força/Construção.md",
+    "Recursos/Habilidades/Agilidade/Doma.md",
+    "Sistema/Níveis de Poder.md",
+    "Recursos/Habilidades/Agilidade/Artilharia.md",
     "Recursos/Itens/Munição.md",
     "Recursos/Itens/Materiais.md",
     "Recursos/Itens/Equipamentos.md",
-    "Recursos/Habilidades/Inteligência/Arcano.md",
-    "Recursos/Habilidades/Inteligência/Primal.md",
-    "Recursos/Habilidades/Inteligência/Sagrado.md",
-    "Recursos/Habilidades/Inteligência/Elemental.md",
-    "Recursos/Habilidades/Inteligência/Necromancia.md",
-    "Recursos/Habilidades/Força/Marcial.md",
-    "Recursos/Habilidades/Força/Cultivo.md",
-    "Recursos/Habilidades/Força/Construção.md",
-    "Recursos/Habilidades/Força/Armamento.md",
     "Recursos/Habilidades/Agilidade/Trapaça.md",
     "Recursos/Habilidades/Agilidade/Forja.md",
     "Recursos/Habilidades/Agilidade/Exploração.md",
-    "Recursos/Habilidades/Agilidade/Doma.md",
-    "Recursos/Habilidades/Agilidade/Artilharia.md",
     "Recursos/Habilidades/Força/Coleção.md",
     "Pasted image 20250106145205.png",
-    "Sistema/Níveis de Poder.md",
     "Recursos/Itens/Untitled 2.md",
     "Recursos/Itens/Untitled 1.md",
     "Recursos/Itens",
