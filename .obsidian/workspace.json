@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88513dfaa95760ae",
+        "id": "757ee4d844da237c",
         "type": "tabs",
         "children": [
           {
-            "id": "70cfe12e90715498",
+            "id": "94485f54f08f18b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Recursos/Habilidades/Agilidade/Artilharia.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Artilharia"
             }
           }
         ]
@@ -156,17 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70cfe12e90715498",
+  "active": "37ac9f35bf4fca65",
   "lastOpenFiles": [
+    "Recursos/Habilidades/Agilidade/Composição.md",
+    "Recursos/Habilidades/Agilidade/Trapaça.md",
+    "Recursos/Habilidades/Agilidade/Doma.md",
+    "Recursos/Habilidades/Agilidade/Exploração.md",
+    "Recursos/Habilidades/Agilidade/Artilharia.md",
+    "Recursos/Habilidades/Agilidade/Forja.md",
+    "Recursos/Habilidades/Inteligência/Sagrado.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "Untitled.md",
-    "Recursos/Habilidades/Agilidade/Trapaça.md",
-    "Recursos/Habilidades/Agilidade/Composição.md",
-    "Recursos/Habilidades/Agilidade/Artilharia.md",
-    "Recursos/Habilidades/Agilidade/Doma.md",
-    "Recursos/Habilidades/Agilidade/Exploração.md",
-    "Recursos/Habilidades/Agilidade/Forja.md",
     "Recursos/Habilidades/Força/Armamento.md",
     "Recursos/Habilidades/Força/Coleção.md",
     "Recursos/Habilidades/Força/Construção.md",
@@ -178,7 +183,6 @@
     "Recursos/Habilidades/Inteligência/Elemental.md",
     "Recursos/Habilidades/Inteligência/Necromancia.md",
     "Recursos/Habilidades/Inteligência/Primal.md",
-    "Recursos/Habilidades/Inteligência/Sagrado.md",
     "Outros/Old/Recursos/Itens/Equipamentos.txt",
     "Outros/Old/Recursos/Outros/Atributos.txt",
     "Outros/Old/História/Dream Mountain 2.docx",
