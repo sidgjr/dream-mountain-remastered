@@ -1,8 +1,12 @@
 # Shin (Novato)
 
-### Habilidade.
+### Principal: Ajudante.
 
-Texto.
+Talento Principal.
+
+Tendo criaturas como ajudantes você pode ter um **Monstro** ao seu comando. O monstro precisa ser do mesmo nível ou inferior a você. Ele não pode subir de nível por conta própria, mas o seu nível é proporcional ao dono.
+
+Você só pode ter ao mesmo tempo **Unidades** controladas por essa habilidade igual ao seu nível de **Doma**.
 
 ### Habilidade.
 

@@ -1,13 +1,5 @@
 # Shin (Novato)
 
-### Habilidade.
-
-Talento Principal.
-
-### Habilidade.
-
-Texto.
-
 # Resh (Regular)
 
 # Ayin (Entusiasta)

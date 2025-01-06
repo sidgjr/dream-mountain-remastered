@@ -2,7 +2,7 @@
 
 ### Habilidade.
 
-Texto.
+Talento Principal.
 
 ### Habilidade.
 

@@ -1,8 +1,10 @@
 # Shin (Novato)
 
-### Habilidade.
+### Principal: Artesão.
 
-Texto.
+Talento Principal.
+
+A cada obra prima fabricada, sua habilidade de criação é aprimorada fazendo que um item sempre tenha um ponto de **Atributo** adicional em relação ao seu anterior. A quantidade de atributos extras por essa habilidade não pode ultrapassar o seu nível de **Forja**.
 
 ### Habilidade.
 
