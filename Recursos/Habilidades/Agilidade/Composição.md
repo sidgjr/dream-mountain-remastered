@@ -4,7 +4,7 @@
 
 Talento Principal.
 
-Sendo um artista que consegue encontrar inspiração em tudo, sempre que alguém use uma ação especial de Composição você ganhe um marcador único e permanente chamado **Nota Musical**.
+Sendo um artista que consegue encontrar inspiração em tudo, sempre que alguém use uma habilidade de **Composição** você ganhe um marcador único e permanente chamado **Nota Musical**.
 
 Sua **Comunicação** é aumentada em número igual ao seus marcadores de **Nota Musical** vezes o seu nível de **Composição**.
 

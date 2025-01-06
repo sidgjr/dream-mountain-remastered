@@ -1,6 +1,6 @@
 # Shin (Novato)
 
-### Habilidade.
+### Principal: .
 
 Talento Principal.
 
