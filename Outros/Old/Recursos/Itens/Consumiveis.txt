@@ -315,7 +315,7 @@
         ↪ Essa Munição ao ser usada cria um Arco próprio, com 50 metros de Alcance Base (que pode ser incrementado pelo atributo de Alcance, assim como Armas de Longo Alcance), e o Dano com esta Arma é causado como Puro.
 
 
-↪ Dalet (Classe 1, Itens Profanos)
+↪ Dalet (Classe 1, Itens Demoníacos)
 
     ↪
 
@@ -338,7 +338,7 @@
         ↪
 
 
-↪ Aleph (Classe 0 ou Especial, Itens criados na Montanha dos Sonhos)
+↪ Aleph (Classe 0 ou Especial, Itens dos Sonhos, Itens criados na Montanha dos Sonhos)
 
     ↪ Baú do Outro Mundo
 
@@ -379,7 +379,7 @@
         ↪ Aplica uma Dissipação Verdadeira em todos os Marcadores Positivos e Negativos, Restaura todos os Pontos de Vida e de Mana, e caso o alvo esteja Morto ele é ressucitado (ainda respeitando as regras de ressureição).
 
 
-↪ Ifest (Classe ?, Itens que existem desde a Origem)
+↪ Ifest (Classe ?, Itens Eternos, Itens que existem desde a Origem)
 
     ↪ Eco dos Sonhos
 

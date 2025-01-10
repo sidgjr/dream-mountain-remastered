@@ -1,21 +1,35 @@
-# Shin (Novato)
+Atualmente existem 6 tipos de **Materiais**. 
 
-# Resh (Regular)
+Três são de origem biológica (Orgânicos):
 
-# Ayin (Entusiasta)
+1. **Animalia**.
+2. **Plantae**.
+3. **Fungi**.
 
-# Samek (Especialista)
+Três são de origem não biológica (Inorgânicos):
 
-# Kaph (Veterano)
+1. **Mineral**.
+2. **Substâncias**.
+3. Artificiais.
 
-# Yod (Mestre)
+# Shin (Inferiores)
 
-# Tet (Gênio)
+# Resh (Comuns)
 
-# Het (Lorde)
+# Ayin (Incomuns)
 
-# Zayin (Rei)
+# Samek (Raros)
 
-# Dalet (Lenda)
+# Kaph (Encantados)
 
-# Aleph (Deus)
+# Yod (Mágicos)
+
+# Tet (Rúnicos)
+
+# Het (Lendários)
+
+# Zayin (Divinos)
+
+# Dalet (Demoníacos)
+
+# Aleph (Eternos)

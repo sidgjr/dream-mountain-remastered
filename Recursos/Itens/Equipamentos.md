@@ -1,21 +1,21 @@
-# Shin (Novato)
+# Shin (Inferiores)
 
-# Resh (Regular)
+# Resh (Comuns)
 
-# Ayin (Entusiasta)
+# Ayin (Incomuns)
 
-# Samek (Especialista)
+# Samek (Raros)
 
-# Kaph (Veterano)
+# Kaph (Encantados)
 
-# Yod (Mestre)
+# Yod (Mágicos)
 
-# Tet (Gênio)
+# Tet (Rúnicos)
 
-# Het (Lorde)
+# Het (Lendários)
 
-# Zayin (Rei)
+# Zayin (Divinos)
 
-# Dalet (Lenda)
+# Dalet (Demoníacos)
 
-# Aleph (Deus)
+# Aleph (Eternos)
