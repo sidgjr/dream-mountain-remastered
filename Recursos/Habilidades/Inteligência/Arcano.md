@@ -4,7 +4,7 @@
 
 Talento Principal.
 
-Abandona completamente sua preocupações materiais para se concentrar no que é oculto, fazendo com que toda sua **Defesa** seja convertida para **Noção** e seu **Ataque** para **Maestria**. Pontos de dano são primeiro causados a **Mana**.
+Abandona completamente suas preocupações materiais para se concentrar no que é oculto, fazendo com que toda sua **Defesa** seja convertida para **Noção** e seu **Ataque** para **Maestria**. Pontos de dano são primeiro causados a **Mana**.
 
 ### Habilidade.
 

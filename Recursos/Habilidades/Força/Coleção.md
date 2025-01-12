@@ -4,7 +4,7 @@
 
 Talento Principal.
 
-Sua força é o suficiente para poder carregar diversos itens ao mesmo tempo, fazendo com que você possa equipar uma **Mochila** adicional para cada nível de **Coleção**. A **Vitalidade** é aumentada em 1 para espaço de **Inventário**, preenchido ou não.
+Sua força é o suficiente para poder carregar diversos itens ao mesmo tempo, fazendo com que você possa equipar uma **Mochila** adicional para cada nível de **Coleção**. A **Vitalidade** é aumentada em 1 para cada espaço de **Inventário**, preenchido ou não.
 
 ### Habilidade.
 
